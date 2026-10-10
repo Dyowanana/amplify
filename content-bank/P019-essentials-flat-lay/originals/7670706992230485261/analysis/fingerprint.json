@@ -1,0 +1,74 @@
+{
+  "post": "7670706992230485261",
+  "type": "slideshow",
+  "fingerprint": {
+    "structure": "1 slide: title + a loose flat-lay collage of 11 to 13 cut-out items on white. An outfit stacked on the left (top over bottom) is the anchor, everything else (gadgets, a drink, an accessory, footwear, 2 to 3 app-screen widgets) floats around it in two loose columns",
+    "hook": "identity starter pack: '<Identity> Essentials' as the only text, a bold title that names a tribe the viewer wants to belong to (builder). The pack itself is the hook: viewers check which items they own, and the in-joke widgets (an AI usage top-up, a revenue chart going up) make the identity aspirational and funny",
+    "camera_motion": "other:essentials-flatlay. Designed card: product cut-outs (catalogue packshots on pure white, mixed angles, no shadows) plus flat app-UI snippets, all composited on one white canvas. Static image",
+    "pacing": "single image, 2 words of overlay text; 13 objects, 3 of them UI snippets with small text",
+    "text_overlay": "one title, bold grotesk sans (SF Pro Display Bold / Helvetica Neue Bold look), Title Case, black #111 on white, centred at the top, about 5.5% of frame height",
+    "audio": "original sound by another account (humandisc), music bed, no voiceover",
+    "arc": "recognition and aspiration: the viewer reads down the pack, ticks off what they own and lands on the joke items (MRR up 343%, buying more AI usage); payoff is identity, saves and shares to friends who 'are' this",
+    "measured": "visual slide 1: brightness 73.1%, contrast 37.4%, saturation 2.9%, sharpness 572.8, noise 0.49, clutter 4.75%. Palette white #fdfdfd 59%, near-black #262626 21%, grey #5e6060 9%"
+  },
+  "units": [
+    {
+      "n": 1, "role": "hook", "confidence": "high",
+      "class": "other:essentials-flatlay",
+      "frame": {
+        "canvas": "1206x1530 (about 4:5 portrait, shown inside TikTok's bars)",
+        "layers": [
+          {"type": "background", "box": [0, 0, 100, 100], "note": "flat white #fdfdfd"},
+          {"type": "product-cutout", "box": [5, 19, 42, 37], "note": "outfit top: black pullover hoodie, front view, laid flat, sleeves down. Biggest item, anchors the left column"},
+          {"type": "product-cutout", "box": [11, 57, 29, 23], "note": "outfit bottom: black shorts with a branded waistband, front view, directly under the top"},
+          {"type": "product-cutout", "box": [11, 84, 31, 10], "note": "compact mechanical keyboard, top-down"},
+          {"type": "product-cutout", "box": [41, 20, 29, 13], "note": "dark grey laptop, half open from behind, logo visible"},
+          {"type": "product-cutout", "box": [76, 19, 17, 13], "note": "espresso in a glass cup with a handle"},
+          {"type": "ui-snippet", "box": [53, 37, 37, 12], "note": "dark-mode modal from an AI tool: 'Need more usage?' with two top-up price tiles"},
+          {"type": "ui-snippet", "box": [51, 54, 16, 14], "note": "an AI coding tool's app icon with its name under it"},
+          {"type": "product-cutout", "box": [77, 55, 19, 18], "note": "screenless fitness band, black"},
+          {"type": "ui-snippet", "box": [50, 71, 19, 11], "note": "revenue widget: 'MRR' + green '+343.8%' pill, big euro figure, rising line chart"},
+          {"type": "product-cutout", "box": [50, 85, 22, 9], "note": "light grey pool slides"},
+          {"type": "product-cutout", "box": [82, 77, 9, 18], "note": "green glass bottle of sparkling mineral water"}
+        ],
+        "composition": {"focal": [26, 45], "subject_box": [5, 19, 91, 76], "zone": "middle-center",
+                        "negative_space": [[0, 0, 100, 17], [0, 95, 100, 5]], "balance": "asymmetric: heavy dark outfit left, lighter scattered items right; items never overlap, gutters of 2 to 4%"},
+        "safe_zones": "title sits at 9 to 14%, clear of TikTok's top bar; bottom item ends at 95% so the caption covers the keyboard and slides a little",
+        "color_light": "monochrome product palette (black, grey, white) with two colour accents only: the orange AI icon and the green bottle. Even studio packshot light, no shadows",
+        "quality": "mixed source sharpness, compression visible on UI snippets; reads as a quickly assembled collage",
+        "origin_realism": "real product photos and real app screenshots, collaged"
+      },
+      "text_blocks": [
+        {"text": "Builder Essentials", "origin": "overlay", "role": "hook", "pattern": "top-headline", "box": [17, 9, 66, 6], "zone": "top-center",
+         "align": "center", "font": "SF Pro Display Bold (closest: Inter Bold)", "size_pct": 5.5, "case": "Title Case", "fill": "#111111", "stroke": "none", "under": "negative-space"},
+        {"text": "Need more usage? / $100 Save 10% / $250 Save 20%", "origin": "in-image-ui", "role": "joke-prop", "pattern": "ui-snippet", "box": [53, 37, 37, 12], "zone": "middle-right",
+         "align": "left", "font": "system sans", "size_pct": 1.4, "case": "Sentence case", "fill": "#ffffff", "stroke": "none", "under": "solid ui card"},
+        {"text": "MRR +343.8% / €5,214.09", "origin": "in-image-ui", "role": "joke-prop", "pattern": "ui-snippet", "box": [50, 71, 19, 11], "zone": "bottom-center",
+         "align": "left", "font": "system sans", "size_pct": 2.0, "case": "caps for MRR", "fill": "#333333", "stroke": "none", "under": "white"}
+      ],
+      "image": {"items": 13, "item_mix": "2 clothing (top + bottom), 1 footwear, 3 tech, 1 wearable, 2 drinks, 3 app UI snippets, 1 app icon",
+                "outfit_slot": "left column, top over bottom, together about 55% of the frame height; the only part that says who the person is",
+                "fixed_slot": "everything else: the lifestyle of the identity, and the joke"},
+      "other": {
+        "what_it_is": "a starter-pack / essentials board: cut-out items on white under a 2-word identity title",
+        "what_carries_the_message": "the item selection, not the text; the title names the tribe and the items define it",
+        "layout_rule": "outfit stacked on the left as the anchor, small items in two loose columns on the right, nothing overlaps",
+        "humour": "two UI widgets are the punchline (buying more AI credits, revenue going up)",
+        "why_it_spreads": "identity tagging and saves (2.5% save rate, 0.8% share rate)",
+        "text_rule": "only the title is designed text; UI widgets carry small in-image text",
+        "colour_rule": "monochrome items so the two colour accents pop",
+        "realism": "real packshots, not illustrations",
+        "variants": "the same board works for any identity by swapping the outfit and a few lifestyle items",
+        "risks": "the source shows real brands (laptop logo, AI tool UI and icon, wearable, mineral water, a designer waistband): learn the slots, not the brands"
+      }
+    }
+  ],
+  "product": "none declared; real brands appear as lifestyle props (AI tool UI and icon, laptop, wearable, mineral water, designer shorts). No ad label",
+  "proof_device": "app-screen widgets (usage top-up, MRR chart) as in-joke proof of the lifestyle",
+  "series": "single post",
+  "caption": "hashtags only, no sentence: 1 tool tag, 1 identity tag, 1 money tag, 1 place tag",
+  "hashtags": "4: #claude #entrepreneur #wifimoney #sf (tool, identity, aspiration, location)",
+  "topic": "founder / builder lifestyle",
+  "language": "English, no voice beyond the 2-word title; insider in-joke tone"
+}
+

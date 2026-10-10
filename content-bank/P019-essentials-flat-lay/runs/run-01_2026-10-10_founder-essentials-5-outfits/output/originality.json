@@ -1,0 +1,109 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "words": 30,
+      "raw_overlap_max": 0.13,
+      "raw_overlap_post": "7670706992230485261",
+      "shared_words_with_that_post": [
+        "8",
+        "essentials",
+        "mrr",
+        "usage"
+      ],
+      "content_overlap_max": 0.18,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "essentials",
+      "longest_run_source": "7670706992230485261: Builder Essentials",
+      "status": "pass"
+    },
+    {
+      "slide": 1,
+      "words": 30,
+      "raw_overlap_max": 0.13,
+      "raw_overlap_post": "7670706992230485261",
+      "shared_words_with_that_post": [
+        "8",
+        "essentials",
+        "mrr",
+        "usage"
+      ],
+      "content_overlap_max": 0.18,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "essentials",
+      "longest_run_source": "7670706992230485261: Builder Essentials",
+      "status": "pass"
+    },
+    {
+      "slide": 1,
+      "words": 30,
+      "raw_overlap_max": 0.13,
+      "raw_overlap_post": "7670706992230485261",
+      "shared_words_with_that_post": [
+        "8",
+        "essentials",
+        "mrr",
+        "usage"
+      ],
+      "content_overlap_max": 0.18,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "essentials",
+      "longest_run_source": "7670706992230485261: Builder Essentials",
+      "status": "pass"
+    },
+    {
+      "slide": 1,
+      "words": 30,
+      "raw_overlap_max": 0.13,
+      "raw_overlap_post": "7670706992230485261",
+      "shared_words_with_that_post": [
+        "8",
+        "essentials",
+        "mrr",
+        "usage"
+      ],
+      "content_overlap_max": 0.18,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "essentials",
+      "longest_run_source": "7670706992230485261: Builder Essentials",
+      "status": "pass"
+    },
+    {
+      "slide": 1,
+      "words": 30,
+      "raw_overlap_max": 0.13,
+      "raw_overlap_post": "7670706992230485261",
+      "shared_words_with_that_post": [
+        "8",
+        "essentials",
+        "mrr",
+        "usage"
+      ],
+      "content_overlap_max": 0.18,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "essentials",
+      "longest_run_source": "7670706992230485261: Builder Essentials",
+      "status": "pass"
+    }
+  ],
+  "hook": {
+    "words": [
+      "essentials",
+      "founder"
+    ],
+    "overlap_by_source": {
+      "7670706992230485261": 0.5
+    },
+    "max": 0.5,
+    "status": "FAIL"
+  },
+  "images": {
+    "min_hash_distance": 24,
+    "closest_pair": "slide3.png ~ 7670706992230485261/01.jpg",
+    "near_duplicate_threshold": 10,
+    "status": "pass",
+    "source_blue_share_in_sources_mean": 0.0,
+    "source_blue_share_in_ours_mean": 0.0
+  },
+  "verdict": "FAIL"
+}

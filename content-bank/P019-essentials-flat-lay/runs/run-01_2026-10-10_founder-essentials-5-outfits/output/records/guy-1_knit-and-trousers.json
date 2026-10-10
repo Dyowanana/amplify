@@ -1,0 +1,222 @@
+{
+  "n": 1,
+  "role": "hook",
+  "class": "other:essentials-flatlay",
+  "confidence": "high",
+  "version": "guy-1_knit-and-trousers",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #ffffff"
+      },
+      {
+        "type": "product-cutout",
+        "box": [
+          30.0,
+          17.6,
+          28.0,
+          14.9
+        ],
+        "note": "work tool, silver laptop, no logo"
+      },
+      {
+        "type": "product-cutout",
+        "box": [
+          10.3,
+          17.0,
+          11.5,
+          16.0
+        ],
+        "note": "fuel, iced latte"
+      },
+      {
+        "type": "product-cutout",
+        "box": [
+          6.0,
+          51.8,
+          17.0,
+          16.5
+        ],
+        "note": "gear, smartwatch"
+      },
+      {
+        "type": "product-cutout",
+        "box": [
+          10.5,
+          72.0,
+          7.0,
+          22.0
+        ],
+        "note": "fuel, sparkling water, no label"
+      },
+      {
+        "type": "product-cutout",
+        "box": [
+          35.4,
+          82.5,
+          11.2,
+          12.0
+        ],
+        "note": "gear, headphones"
+      },
+      {
+        "type": "product-cutout",
+        "box": [
+          56.0,
+          21.0,
+          40.0,
+          30.0
+        ],
+        "note": "outfit top"
+      },
+      {
+        "type": "product-cutout",
+        "box": [
+          67.8,
+          56.5,
+          16.4,
+          24.5
+        ],
+        "note": "outfit bottom"
+      },
+      {
+        "type": "product-cutout",
+        "box": [
+          61.9,
+          83.0,
+          26.2,
+          11.5
+        ],
+        "note": "outfit footwear"
+      },
+      {
+        "type": "ui-snippet",
+        "box": [
+          6,
+          36,
+          46,
+          12.5
+        ],
+        "note": "drawn in code: dark usage-limit modal with a wait tile and an upgrade tile"
+      },
+      {
+        "type": "ui-snippet",
+        "box": [
+          25,
+          52.5,
+          29,
+          9
+        ],
+        "note": "drawn in code: light phone notification of a new payment"
+      },
+      {
+        "type": "ui-snippet",
+        "box": [
+          26,
+          66.5,
+          26,
+          13
+        ],
+        "note": "drawn in code: revenue widget, green change pill, big figure, rising line chart"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        6.0,
+        17.0,
+        90.0,
+        77.5
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "founder essentials",
+      "origin": "designed",
+      "role": "hook",
+      "pattern": "top-headline",
+      "box": [
+        15.9,
+        8.6,
+        68.1,
+        4.7
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "SF Pro Display (Inter on Windows) Bold",
+      "size_pct": 6.0,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "you've hit your usage limit / resets in 4 hrs 12 min / wait it out / upgrade plan",
+      "origin": "in-image-ui",
+      "role": "joke-prop",
+      "pattern": "ui-snippet",
+      "box": [
+        6.0,
+        36.0,
+        46.0,
+        12.5
+      ],
+      "zone": "middle-left",
+      "align": "left",
+      "font": "SF Pro Display (Inter on Windows)",
+      "size_pct": 1.8,
+      "case": "lowercase",
+      "fill": "#ffffff",
+      "stroke": "none",
+      "under": "dark ui card"
+    },
+    {
+      "text": "new payment / now / you received $49.00",
+      "origin": "in-image-ui",
+      "role": "joke-prop",
+      "pattern": "ui-snippet",
+      "box": [
+        25.0,
+        52.5,
+        29.0,
+        9.0
+      ],
+      "zone": "middle-center",
+      "align": "left",
+      "font": "SF Pro Display (Inter on Windows)",
+      "size_pct": 1.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "light ui card"
+    },
+    {
+      "text": "mrr +212.6% / $8,940.12",
+      "origin": "in-image-ui",
+      "role": "joke-prop",
+      "pattern": "ui-snippet",
+      "box": [
+        26.0,
+        66.5,
+        26.0,
+        5.0
+      ],
+      "zone": "bottom-center",
+      "align": "left",
+      "font": "SF Pro Display (Inter on Windows)",
+      "size_pct": 3.0,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "white"
+    }
+  ]
+}

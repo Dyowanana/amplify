@@ -1,0 +1,72 @@
+{
+  "unit 1": {
+    "problems": [],
+    "text_blocks": [
+      {
+        "i": 1,
+        "text": "Builder Essentials",
+        "box": [
+          17,
+          9,
+          66,
+          6
+        ],
+        "contrast": {
+          "bg_hex": "#fefefe",
+          "text_hex": "#111111",
+          "text_hex_source": "record",
+          "contrast_ratio": 18.72,
+          "band": "good (4.5+)"
+        },
+        "safe_zone": {
+          "applies": false,
+          "note": "zones are for 9:16 (aspect 0.79 here)"
+        }
+      },
+      {
+        "i": 2,
+        "text": "Need more usage? / $100 Save 10% / $250 ",
+        "box": [
+          53,
+          37,
+          37,
+          12
+        ],
+        "contrast": {
+          "bg_hex": "#fefefe",
+          "text_hex": "#ffffff",
+          "text_hex_source": "record",
+          "contrast_ratio": 1.01,
+          "band": "low (<3)"
+        },
+        "safe_zone": {
+          "applies": false,
+          "note": "zones are for 9:16 (aspect 0.79 here)"
+        },
+        "fill_check": "record says #ffffff, pixels in the box suggest #2a2a28"
+      },
+      {
+        "i": 3,
+        "text": "MRR +343.8% / €5,214.09",
+        "box": [
+          50,
+          71,
+          19,
+          11
+        ],
+        "contrast": {
+          "bg_hex": "#fefefe",
+          "text_hex": "#333333",
+          "text_hex_source": "record",
+          "contrast_ratio": 12.53,
+          "band": "good (4.5+)"
+        },
+        "safe_zone": {
+          "applies": false,
+          "note": "zones are for 9:16 (aspect 0.79 here)"
+        },
+        "fill_check": "record says #333333, pixels in the box suggest #65698a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+[
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "ee63dda8c0fd2a1a696c64d41b8c60d3",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\water.png",
+  "prompt": "Realistic catalogue product photograph of a tall frosted clear glass bottle of sparkling water with a plain brushed silver cap and no label at all. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focu"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "da9d8d36c4431ceb0e2d0c6de999fb74",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\laptop.png",
+  "prompt": "Realistic catalogue product photograph of a silver aluminium laptop with the lid half open, seen from behind at a three-quarter angle so the completely plain back of the lid shows. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabri"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "56290bd348620454387f031183edca9f",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\latte.png",
+  "prompt": "Realistic catalogue product photograph of an iced oat latte in a clear straight glass tumbler with ice cubes and a swirl of coffee through the milk, no straw. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture,"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "ac5a4926bd7fd6d0453f3229a05862c7",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\watch.png",
+  "prompt": "Realistic catalogue product photograph of a sports smartwatch with a square black face showing a dark blank screen and a black woven nylon strap, three-quarter view. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material t"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "22a857d753b9bc61fe34b72fc0e81c9d",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\headphones.png",
+  "prompt": "Realistic catalogue product photograph of a pair of matte off-white over-ear wireless headphones with soft cushions, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sha"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "f732603d1aa0a4a2722ad364ed82b60a",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\g1_bottom.png",
+  "prompt": "Realistic catalogue product photograph of charcoal grey relaxed fit drawstring trousers, ghost flat lay, front view from straight above, legs straight. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "7a9bf0c99b107244e694503c6b0066d4",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\g2_bottom.png",
+  "prompt": "Realistic catalogue product photograph of stone beige chino shorts, ghost flat lay, front view from straight above. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focus. The whole item is in frame wi"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "847035f242846b5b65f3ffd55231afb8",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\g2_top.png",
+  "prompt": "Realistic catalogue product photograph of a navy blue half zip fleece pullover, ghost flat lay, front view from straight above, zip closed, sleeves relaxed down at the sides. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or m"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "1200b35edabf6d2b830ccd87b2833122",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\g1_top.png",
+  "prompt": "Realistic catalogue product photograph of an oatmeal coloured chunky crewneck knit sweater, ghost flat lay, front view from straight above, sleeves relaxed down at the sides. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or m"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "1f9721b4001ef53b93ac1c48cdb7a6f8",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\g1_shoes.png",
+  "prompt": "Realistic catalogue product photograph of a pair of clean white minimalist low top leather sneakers, side by side, three-quarter view. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focus. The whole "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "9081fcafb00c7ebb1e1e490dc131c50b",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\g2_shoes.png",
+  "prompt": "Realistic catalogue product photograph of a pair of light grey suede and mesh running shoes, side by side, three-quarter view. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focus. The whole item is "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "00dc5518cef0b83fbf0e7d0e2bddfba6",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\w1_top.png",
+  "prompt": "Realistic catalogue product photograph of a heather grey oversized crewneck sweatshirt, ghost flat lay, front view from straight above, sleeves relaxed down at the sides. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or mater"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "0ea513723739c817a633560978f3a121",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\w1_bottom.png",
+  "prompt": "Realistic catalogue product photograph of black high waisted flared yoga leggings, ghost flat lay, front view from straight above. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focus. The whole item"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "6c6c067318c3b5c1aa721bef14719c0a",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\w1_shoes.png",
+  "prompt": "Realistic catalogue product photograph of a pair of chunky white and cream dad sneakers, side by side, three-quarter view. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focus. The whole item is in f"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "96ab62b941db8dbce27fa508263ab153",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\w2_top.png",
+  "prompt": "Realistic catalogue product photograph of a crisp white oversized button down cotton shirt, ghost flat lay, front view from straight above, sleeves relaxed down at the sides. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or m"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "3f035fa4c0b1bee92e3ce795e522b695",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\w2_bottom.png",
+  "prompt": "Realistic catalogue product photograph of light wash high waisted wide leg jeans, ghost flat lay, front view from straight above. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focus. The whole item "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "912d5bf35b9216e7452d852691184fba",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\w2_shoes.png",
+  "prompt": "Realistic catalogue product photograph of a pair of black leather ballet flats, side by side, three-quarter view. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focus. The whole item is in frame with"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "d182e9a12c8d182e8d2e612bd0f2b6b1",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\w3_top.png",
+  "prompt": "Realistic catalogue product photograph of a sage green ribbed knit cardigan with small round buttons, part of a matching lounge set, ghost flat lay, front view from straight above, sleeves relaxed down at the sides. Isolated on a plain pure white background, soft even studio light, no shadow, neutra"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "31ffbad9f1814695828afef7e07df2b7",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\w3_shoes.png",
+  "prompt": "Realistic catalogue product photograph of a pair of fluffy cream shearling slide slippers, side by side, three-quarter view. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focus. The whole item is in"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "591e99efb207ff0cec4a582c1705b4f7",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\w3_bottom.png",
+  "prompt": "Realistic catalogue product photograph of sage green ribbed knit wide leg lounge pants, matching set, ghost flat lay, front view from straight above. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp fo"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "430cc7b1b1f0f0cff578db630ee9b4cb",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\watch.png",
+  "prompt": "Realistic catalogue product photograph of a minimalist round face sports smartwatch with a matte black case, a dark blank round screen and a smooth black silicone strap, three-quarter view. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, cr"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "b3cea8fad4b1a8b35f77c6611a732b34",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\w3_bottom.png",
+  "prompt": "Realistic catalogue product photograph of a single pair of sage green ribbed knit wide leg lounge pants on its own, only the pants and nothing else, no top, ghost flat lay, front view from straight above, legs straight. Isolated on a plain pure white background, soft even studio light, no shadow, ne"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "e220313086bbc3bd69e5d7710f25380f",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-01_2026-10-10_founder-essentials-5-outfits\\raw\\art\\g2_top.png",
+  "prompt": "Realistic catalogue product photograph of a dusty light blue half zip fleece pullover, ghost flat lay, front view from straight above, zip closed, sleeves relaxed down at the sides. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabr"
+ }
+]

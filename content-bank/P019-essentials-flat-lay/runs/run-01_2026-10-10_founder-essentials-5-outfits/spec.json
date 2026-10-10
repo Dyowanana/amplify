@@ -1,0 +1,279 @@
+{
+ "canvas": [
+  1080,
+  1350
+ ],
+ "theme": {
+  "bg": "#ffffff",
+  "ink": "#111111"
+ },
+ "title": "founder essentials",
+ "items": [
+  {
+   "art": "raw/art/laptop.png",
+   "box": [
+    30,
+    17.5,
+    28,
+    15
+   ],
+   "note": "work tool, silver laptop, no logo"
+  },
+  {
+   "art": "raw/art/latte.png",
+   "box": [
+    7,
+    17,
+    18,
+    16
+   ],
+   "note": "fuel, iced latte"
+  },
+  {
+   "art": "raw/art/watch.png",
+   "box": [
+    6,
+    51.5,
+    17,
+    17
+   ],
+   "note": "gear, smartwatch"
+  },
+  {
+   "art": "raw/art/water.png",
+   "box": [
+    8,
+    72,
+    12,
+    22
+   ],
+   "note": "fuel, sparkling water, no label"
+  },
+  {
+   "art": "raw/art/headphones.png",
+   "box": [
+    28,
+    82.5,
+    26,
+    12
+   ],
+   "note": "gear, headphones"
+  }
+ ],
+ "widgets": [
+  {
+   "type": "limit",
+   "box": [
+    6,
+    36,
+    46,
+    12.5
+   ],
+   "title": "you've hit your usage limit",
+   "sub": "resets in 4 hrs 12 min",
+   "left": "wait it out",
+   "right": "upgrade plan"
+  },
+  {
+   "type": "payment",
+   "box": [
+    25,
+    52.5,
+    29,
+    9
+   ],
+   "title": "new payment",
+   "time": "now",
+   "body": "you received $49.00"
+  },
+  {
+   "type": "revenue",
+   "box": [
+    26,
+    66.5,
+    26,
+    13
+   ],
+   "label": "mrr",
+   "change": "+212.6%",
+   "value": "$8,940.12"
+  }
+ ],
+ "versions": [
+  {
+   "name": "guy-1_knit-and-trousers",
+   "items": [
+    {
+     "art": "raw/art/g1_top.png",
+     "box": [
+      56,
+      17,
+      40,
+      38
+     ],
+     "note": "outfit top"
+    },
+    {
+     "art": "raw/art/g1_bottom.png",
+     "box": [
+      61,
+      56.5,
+      30,
+      24.5
+     ],
+     "note": "outfit bottom"
+    },
+    {
+     "art": "raw/art/g1_shoes.png",
+     "box": [
+      58,
+      83,
+      34,
+      11.5
+     ],
+     "note": "outfit footwear"
+    }
+   ]
+  },
+  {
+   "name": "guy-2_fleece-and-shorts",
+   "items": [
+    {
+     "art": "raw/art/g2_top.png",
+     "box": [
+      56,
+      17,
+      40,
+      38
+     ],
+     "note": "outfit top"
+    },
+    {
+     "art": "raw/art/g2_bottom.png",
+     "box": [
+      61,
+      56.5,
+      30,
+      24.5
+     ],
+     "note": "outfit bottom"
+    },
+    {
+     "art": "raw/art/g2_shoes.png",
+     "box": [
+      58,
+      83,
+      34,
+      11.5
+     ],
+     "note": "outfit footwear"
+    }
+   ]
+  },
+  {
+   "name": "girl-1_sweatshirt-and-flares",
+   "items": [
+    {
+     "art": "raw/art/w1_top.png",
+     "box": [
+      56,
+      17,
+      40,
+      38
+     ],
+     "note": "outfit top"
+    },
+    {
+     "art": "raw/art/w1_bottom.png",
+     "box": [
+      61,
+      56.5,
+      30,
+      24.5
+     ],
+     "note": "outfit bottom"
+    },
+    {
+     "art": "raw/art/w1_shoes.png",
+     "box": [
+      58,
+      83,
+      34,
+      11.5
+     ],
+     "note": "outfit footwear"
+    }
+   ]
+  },
+  {
+   "name": "girl-2_white-shirt-and-jeans",
+   "items": [
+    {
+     "art": "raw/art/w2_top.png",
+     "box": [
+      56,
+      17,
+      40,
+      38
+     ],
+     "note": "outfit top"
+    },
+    {
+     "art": "raw/art/w2_bottom.png",
+     "box": [
+      61,
+      56.5,
+      30,
+      24.5
+     ],
+     "note": "outfit bottom"
+    },
+    {
+     "art": "raw/art/w2_shoes.png",
+     "box": [
+      58,
+      83,
+      34,
+      11.5
+     ],
+     "note": "outfit footwear"
+    }
+   ]
+  },
+  {
+   "name": "girl-3_sage-knit-set",
+   "items": [
+    {
+     "art": "raw/art/w3_top.png",
+     "box": [
+      56,
+      17,
+      40,
+      38
+     ],
+     "note": "outfit top"
+    },
+    {
+     "art": "raw/art/w3_bottom.png",
+     "box": [
+      61,
+      56.5,
+      30,
+      24.5
+     ],
+     "note": "outfit bottom"
+    },
+    {
+     "art": "raw/art/w3_shoes.png",
+     "box": [
+      58,
+      83,
+      34,
+      11.5
+     ],
+     "note": "outfit footwear"
+    }
+   ]
+  }
+ ]
+}

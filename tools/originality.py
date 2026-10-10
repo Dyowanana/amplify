@@ -176,7 +176,7 @@ def main():
         print(f"  images: {im['status']}")
     else:
         print(f"  images: closest to a source slide = {im['min_hash_distance']} bits ({im['closest_pair']}), near-duplicate at {im['near_duplicate_threshold']} or less · {im['status']}")
-    if im["source_blue_share_in_sources_mean"] is not None:
+    if None not in (im["source_blue_share_in_sources_mean"], im["source_blue_share_in_ours_mean"]):
         print(f"  source-mascot blue: {im['source_blue_share_in_sources_mean']:.1%} of pixels in the source slides vs {im['source_blue_share_in_ours_mean']:.2%} in ours")
 
 

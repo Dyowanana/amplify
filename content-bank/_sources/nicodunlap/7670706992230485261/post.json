@@ -1,0 +1,58 @@
+{
+  "id": "7670706992230485261",
+  "url": "https://www.tiktok.com/@nicodunlap/photo/7670706992230485261",
+  "creator": "nicodunlap",
+  "type": "slideshow",
+  "collected_at": "2026-10-10T06:30:15+00:00",
+  "published": {
+    "utc": "2026-08-06T00:21:12+00:00",
+    "local": "2026-08-06T08:21:12+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Thursday",
+    "hour": 8
+  },
+  "caption": "#claude #entrepreneur #wifimoney #sf ",
+  "hashtags": [
+    "claude",
+    "entrepreneur",
+    "wifimoney",
+    "sf"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 431300,
+    "likes": 52100,
+    "comments": 165,
+    "shares": 3413,
+    "saves": 10949
+  },
+  "rates": {
+    "engagement": 0.1545,
+    "save": 0.0254,
+    "share": 0.0079,
+    "comment": 0.0004
+  },
+  "sound": {
+    "title": "Originalton",
+    "author": "humandisc",
+    "original": true,
+    "id": "7669390832097315616"
+  },
+  "slide_count": 1,
+  "duration": null,
+  "size": {
+    "width": 1206,
+    "height": 1530
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg"
+    ]
+  }
+}
