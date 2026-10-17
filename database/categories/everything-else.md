@@ -10,7 +10,7 @@
 |---|---|---|---|
 | interior design | not collected yet | | |
 | photography | not collected yet | | |
-| travel | not collected yet | | |
+| [travel](../niches/travel/README.md) | approved | 8 | 5 |
 
 ## Templates already studied for this type
 

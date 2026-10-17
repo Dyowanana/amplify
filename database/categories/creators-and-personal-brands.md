@@ -8,9 +8,9 @@
 |---|---|---|---|
 | [creator growth](../niches/creator-growth/README.md) | approved | 11 | 7 |
 | [self improvement](../niches/self-improvement/README.md) | approved | 25 | 22 |
-| feminine lifestyle | not collected yet | | |
-| mens lifestyle | not collected yet | | |
-| travel | not collected yet | | |
+| [feminine lifestyle](../niches/feminine-lifestyle/README.md) | approved | 25 | 18 |
+| [men's lifestyle](../niches/mens-lifestyle/README.md) | approved | 19 | 11 |
+| [travel](../niches/travel/README.md) | approved | 8 | 5 |
 
 ## Templates already studied for this type
 

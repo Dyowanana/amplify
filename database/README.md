@@ -11,11 +11,11 @@ What Amplify's users sell, with the ReelFarm niches and the templates already st
 | [AI tools and SaaS](categories/ai-tools-and-saas.md) | ~41 | 5 of 6 | 7 (+4 with a tweak) | ⚠️ ReelFarm has few real B2B or AI-software slideshows (the best one has 363K views) |
 | [Health, fitness and wellness](categories/health-fitness-and-wellness.md) | ~12 | 5 of 5 | 11 (+5 with a tweak) | ⚠️ Prescription-only medicines (GLP-1, Mounjaro, Wegovy) can't be advertised to the public in the UK |
 | [Food](categories/food.md) | ~9 | 1 of 1 | 2 (+4 with a tweak) | ⚠️ ReelFarm has no food niche beyond healthy eating (no pizza ovens, bakeries, Filipino food or kitchen equipment) |
-| [Creators and personal brands](categories/creators-and-personal-brands.md) | ~9 | 2 of 5 | 8 (+2 with a tweak) |  |
+| [Creators and personal brands](categories/creators-and-personal-brands.md) | ~9 | 5 of 5 | 8 (+2 with a tweak) |  |
 | [Money, investing and crypto](categories/money-investing-and-crypto.md) | ~8 | 0 of 1 | 4 (+3 with a tweak) | ⚠️ ReelFarm has personal finance only (129 slideshows) |
 | [Education and coaching](categories/education-and-coaching.md) | ~6 | 3 of 4 | 5 (+3 with a tweak) |  |
 | [Fashion, beauty and kids](categories/fashion-beauty-and-kids.md) | ~4 | 0 of 7 | 5 (+3 with a tweak) | ⚠️ Kids and storybooks are thin on ReelFarm (mom life and booktok are the closest) |
-| [Everything else](categories/everything-else.md) | ~4 | 0 of 3 | 2 (+2 with a tweak) | ⚠️ Photography has only 28 slideshows on ReelFarm, and there's nothing for lab automation or business marketplaces |
+| [Everything else](categories/everything-else.md) | ~4 | 1 of 3 | 2 (+2 with a tweak) | ⚠️ Photography has only 28 slideshows on ReelFarm, and there's nothing for lab automation or business marketplaces |
 
 ## All niches
 
@@ -24,13 +24,16 @@ What Amplify's users sell, with the ReelFarm niches and the templates already st
 | [apps and saas](niches/apps-and-saas/README.md) | approved | 25 | 21 | 132 | 2026-10-17 |  |
 | [career](niches/career/README.md) | approved | 13 | 8 | 73 | 2026-10-17 |  |
 | [creator growth](niches/creator-growth/README.md) | approved | 11 | 7 | 62 | 2026-10-17 |  |
+| [feminine lifestyle](niches/feminine-lifestyle/README.md) | approved | 25 | 18 | 214 | 2026-10-17 |  |
 | [fitness](niches/fitness/README.md) | approved | 23 | 14 | 136 | 2026-10-17 |  |
 | [gut health](niches/gut-health/README.md) | approved | 3 | 2 | 19 | 2026-10-17 | Thin on ReelFarm: only 3 of 45 pass 100K views. Add accounts by hand. |
 | [healthy eating](niches/healthy-eating/README.md) | approved | 24 | 14 | 200 | 2026-10-17 |  |
 | [marketing](niches/marketing/README.md) | approved | 9 | 7 | 71 | 2026-10-17 | Thin niche on ReelFarm (162 slideshows, mostly social media managers and branding studios). Owner kept the 9 strongest (700K+ views). |
+| [men's lifestyle](niches/mens-lifestyle/README.md) | approved | 19 | 11 | 144 | 2026-10-17 |  |
 | [mental health](niches/mental-health/README.md) | approved | 25 | 18 | 155 | 2026-10-17 |  |
 | [productivity](niches/productivity/README.md) | approved | 12 | 8 | 76 | 2026-10-17 |  |
 | [self improvement](niches/self-improvement/README.md) | approved | 25 | 22 | 166 | 2026-10-17 |  |
+| [travel](niches/travel/README.md) | approved | 8 | 5 | 64 | 2026-10-17 | Thin on ReelFarm: only 10 of 92 pass 100K views, and the top account's slides are broken there. |
 | [wellness](niches/wellness/README.md) | approved | 23 | 16 | 190 | 2026-10-17 |  |
 
 ## How a niche is collected

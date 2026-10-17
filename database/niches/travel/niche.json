@@ -1,0 +1,22 @@
+{
+  "status": "approved",
+  "notes": [
+    "Thin on ReelFarm: only 10 of 92 pass 100K views, and the top account's slides are broken there."
+  ],
+  "niche": "travel",
+  "slug": "travel",
+  "source": "reel.farm/dashboard/database/niche/travel",
+  "reelfarm_total": 92,
+  "sort": "likes-most",
+  "scanned": 92,
+  "collected": "2026-10-17",
+  "rule": "every slideshow in this niche with at least 100K views, at most 2 per account",
+  "slideshows": 8,
+  "accounts": 5,
+  "slides": 64,
+  "size_mb": 8.6,
+  "skipped_broken": [
+    "@diva6461 (ReelFarm rank 1): 6 of 7 slides unreadable on ReelFarm",
+    "@diva6461 (ReelFarm rank 2): 10 of 10 slides unreadable on ReelFarm"
+  ]
+}

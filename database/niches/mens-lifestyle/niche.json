@@ -1,0 +1,20 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "men's lifestyle",
+  "slug": "mens-lifestyle",
+  "source": "reel.farm/dashboard/database/niche/men-s-lifestyle",
+  "reelfarm_total": 122,
+  "sort": "likes-most",
+  "scanned": 122,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views",
+  "slideshows": 19,
+  "accounts": 11,
+  "slides": 144,
+  "size_mb": 15.2,
+  "skipped_broken": [
+    "@timetokking (ReelFarm rank 23): 8 of 8 slides unreadable on ReelFarm",
+    "@abovethecollar.au (ReelFarm rank 25): 6 of 7 slides unreadable on ReelFarm"
+  ]
+}
