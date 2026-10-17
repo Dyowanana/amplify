@@ -5,6 +5,7 @@ Usage:
   reelfarm_db.py build database/niches/<slug>    download the slides, write slideshows.json and README.md
   reelfarm_db.py index                           rewrite database/README.md (every niche, its status and counts)
   reelfarm_db.py status <slug> approved|pending|needs-more [--note "…"]
+  reelfarm_db.py keep <slug> "1-9" [--note "…"]  keep only those numbers (the owner's review), renumbered
 
 Input: <niche folder>/reelfarm_raw.json, read from the logged-in ReelFarm database page in the browser pane
 (the page holds each card's profile and slideshow data; see "How a niche is collected" in database/README.md).
@@ -16,6 +17,7 @@ Output per niche:
   slides/<account>_<i>/<k>.jpg    every slide, downloaded from ReelFarm's image host, re-saved as JPEG (max 720 wide, keeps the repo small)
   slideshows.json                 the normalised records with local slide paths
   README.md                       the gallery: cover, numbers, account card and the slide strip for each slideshow
+  _preview.jpg                    first slide of each, for the owner's review (not committed)
 
 ReelFarm does not show the TikTok post link, only the account. `post_url` stays null until it is matched.
 """
@@ -89,12 +91,15 @@ def build(folder):
     meta.update(niche=raw["niche"], slug=folder.name, source="reel.farm/dashboard/database/niche/" + folder.name,
                 reelfarm_total=raw["total"], sort=raw["sort"], scanned=raw["scanned"], collected=str(date.today()),
                 rule="top by likes from the first pages, at most 2 slideshows per account, duplicates removed")
-    want = raw.get("want", 25)
+    want = meta.get("want") or raw.get("want", 25)
+    removed = set(meta.get("removed", []))
     records, sizes, broken = [], [], []
     for p in raw["posts"] + raw.get("reserve", []):
         if len(records) >= want:
             break
         d = f"slides/{p['account']}_{p['slideshow_index']}"
+        if d.split("/")[1] in removed:
+            continue
         got = [(img, f"{d}/{k:02}.jpg") for k, img in enumerate(p["images"], 1)]
         with ThreadPoolExecutor(8) as ex:
             res = list(ex.map(lambda j: fetch(url_of(p["account"], j[0]), folder / j[1]), got))
@@ -125,9 +130,28 @@ def build(folder):
     (folder / "slideshows.json").write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
     meta_p.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
     (folder / "README.md").write_text(readme(meta, records), encoding="utf-8")
+    preview(folder, records)
     print(f"{folder.name}: {len(records)} slideshows, {meta['accounts']} accounts, {meta['slides']} slides, {meta['size_mb']} MB")
     for b in broken:
         print("  skipped", b)
+
+
+def preview(folder, records):
+    """_preview.jpg: the first slide of every slideshow with its number, account and numbers, for the owner's review."""
+    from PIL import ImageDraw, ImageFont
+    W, H, cols = 180, 320, 9
+    rows = (len(records) + cols - 1) // cols
+    sheet = Image.new("RGB", (cols * W, max(1, rows) * (H + 44)), "white")
+    d = ImageDraw.Draw(sheet)
+    font = ImageFont.truetype(str(ROOT / "assets" / "fonts" / "Inter-VF.ttf"), 13)
+    for i, r in enumerate(records):
+        im = Image.open(folder / r["slides"][0]).convert("RGB")
+        im.thumbnail((W - 6, H))
+        x, y = (i % cols) * W, (i // cols) * (H + 44)
+        sheet.paste(im, (x + 3 + (W - 6 - im.width) // 2, y + (H - im.height) // 2))
+        d.text((x + 4, y + H + 2), f"{r['n']}. @{r['account'][:20]}", fill="black", font=font)
+        d.text((x + 4, y + H + 20), f"{r['views']} views · {r['likes']} · {r['slide_count']}sl", fill=(90, 90, 90), font=font)
+    sheet.save(folder / "_preview.jpg", quality=85)
 
 
 def md(s):
@@ -207,18 +231,53 @@ def set_status(slug, status, note):
     index()
 
 
+def keep(slug, spec, note):
+    """Keep only the slideshows numbered in spec ("1-9", "1,3,5-8"); the rest are removed for good (their slides are
+    deleted and a rebuild won't bring them back), and the kept ones are renumbered."""
+    folder = DB / "niches" / slug
+    m = json.loads((folder / "niche.json").read_text(encoding="utf-8"))
+    records = json.loads((folder / "slideshows.json").read_text(encoding="utf-8"))
+    nums = set()
+    for part in spec.split(","):
+        a, _, b = part.partition("-")
+        nums |= set(range(int(a), int(b or a) + 1))
+    kept = [r for r in records if r["n"] in nums]
+    for r in records:
+        if r["n"] not in nums:
+            d = Path(r["slides"][0]).parent.name
+            m.setdefault("removed", []).append(d)
+            for s_ in r["slides"]:
+                (folder / s_).unlink(missing_ok=True)
+            (folder / "slides" / d).rmdir()
+    for i, r in enumerate(kept, 1):
+        r["n"] = i
+    m.update(want=len(kept), slideshows=len(kept), accounts=len({r["account"] for r in kept}),
+             slides=sum(r["slide_count"] for r in kept))
+    if note:
+        m.setdefault("notes", []).append(note)
+    (folder / "slideshows.json").write_text(json.dumps(kept, ensure_ascii=False, indent=2), encoding="utf-8")
+    (folder / "niche.json").write_text(json.dumps(m, ensure_ascii=False, indent=2), encoding="utf-8")
+    (folder / "README.md").write_text(readme(m, kept), encoding="utf-8")
+    preview(folder, kept)
+    index()
+    print(f"{slug}: kept {len(kept)} of {len(records)}")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
     b = sub.add_parser("build"); b.add_argument("folder", type=Path)
     sub.add_parser("index")
     s = sub.add_parser("status"); s.add_argument("slug"); s.add_argument("status", choices=["approved", "pending", "needs-more"]); s.add_argument("--note")
+    k = sub.add_parser("keep"); k.add_argument("slug"); k.add_argument("spec", help='e.g. "1-9" or "1,3,5-8"'); k.add_argument("--note")
     a = ap.parse_args()
     if a.cmd == "build":
         build(a.folder if a.folder.is_absolute() else ROOT / a.folder)
         index()
     elif a.cmd == "index":
         index()
+    elif a.cmd == "keep":
+        keep(a.slug, a.spec, a.note)
     else:
         set_status(a.slug, a.status, a.note)
 

@@ -1,0 +1,40 @@
+{
+  "status": "approved",
+  "notes": [
+    "Thin niche on ReelFarm (162 slideshows, mostly social media managers and branding studios). Owner kept the 9 strongest (700K+ views)."
+  ],
+  "niche": "marketing",
+  "slug": "marketing",
+  "source": "reel.farm/dashboard/database/niche/marketing",
+  "reelfarm_total": 162,
+  "sort": "likes-most",
+  "scanned": 105,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account, duplicates removed",
+  "slideshows": 9,
+  "accounts": 7,
+  "slides": 71,
+  "size_mb": 13.9,
+  "skipped_broken": [
+    "@bmsocial (ReelFarm rank 13): 6 of 6 slides unreadable on ReelFarm"
+  ],
+  "removed": [
+    "suki_moss_0",
+    "karlyjenders_0",
+    "fusioncreativestudio_2",
+    "le.department_3",
+    "mediajuiceco_2",
+    "mirarestudios_4",
+    "melimarketingg_0",
+    "fusioncreativestudio_4",
+    "becomingasmm_2",
+    "thesocialtakeover__1",
+    "thesocialtakeover__0",
+    "karlyjenders_3",
+    "beyz_i_0",
+    "beyz_i_7",
+    "mirarestudios_6",
+    "clothingbrandzco_0"
+  ],
+  "want": 9
+}
