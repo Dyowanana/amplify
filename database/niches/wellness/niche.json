@@ -1,0 +1,22 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "wellness",
+  "slug": "wellness",
+  "source": "reel.farm/dashboard/database/niche/wellness",
+  "reelfarm_total": 376,
+  "sort": "likes-most",
+  "scanned": 140,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views",
+  "slideshows": 23,
+  "accounts": 16,
+  "slides": 190,
+  "size_mb": 21.1,
+  "skipped_broken": [
+    "@alearninggarden (ReelFarm rank 23): 25 of 35 slides unreadable on ReelFarm",
+    "@velvetmuuse (ReelFarm rank 24): 7 of 7 slides unreadable on ReelFarm",
+    "@madewithheartsofficial (ReelFarm rank 28): 8 of 8 slides unreadable on ReelFarm",
+    "@madewithheartsofficial (ReelFarm rank 29): 6 of 6 slides unreadable on ReelFarm"
+  ]
+}

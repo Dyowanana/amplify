@@ -81,7 +81,7 @@ def num(s):
 
 
 def clean(v):
-    return None if v in (None, "", "None", "none", "No product", "null") else v
+    return None if v in (None, "", "None", "none", "No product", "null", "Analysis failed") else v
 
 
 def build(folder):
@@ -200,15 +200,73 @@ def readme(meta, records):
     return "\n".join(out) + "\n"
 
 
+CB = ROOT / "content-bank"
+
+
+def pillars():
+    """Front matter, link and a cover image for every template in content-bank/ (P###)."""
+    import yaml
+    out = {}
+    for f in sorted(CB.glob("P[0-9][0-9][0-9]-*/pillar.md")):
+        m = re.match(r"---\n(.*?)\n---\n", f.read_text(encoding="utf-8").replace("\r\n", "\n"), re.S)
+        fm = yaml.safe_load(m.group(1)) if m else {}
+        imgs = sorted(i for i in (f.parent / "originals").rglob("*") if i.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp")
+                      and "boxcheck" not in i.parts and i.name != "sheet.jpg")
+        cover = (next((i for i in imgs if i.parent.name == "slides"), None)
+                 or next((i for i in imgs if i.parent.name == "frames"), None) or (imgs[0] if imgs else None))
+        out[fm.get("id", f.parent.name[:4])] = {**fm, "folder": f.parent.name, "cover": cover}
+    return out
+
+
+def categories(niche_meta):
+    """database/categories/<slug>.md: each business type with its ReelFarm niches and the templates already studied."""
+    cats = json.loads((DB / "categories.json").read_text(encoding="utf-8"))
+    ps = pillars()
+    (DB / "categories").mkdir(exist_ok=True)
+    for c in cats:
+        out = [f"# {c['name']}", "", f"**Brands of this type on Amplify:** {c['brands']} · {c['sell']}", ""]
+        if c.get("gap"):
+            out += [f"> ⚠️ {c['gap']}", ""]
+        if c.get("notes"):
+            out += [f"> {c['notes']}", ""]
+        out += ["## Slideshow niches (from ReelFarm)", "", "| Niche | Status | Slideshows | Accounts |", "|---|---|---|---|"]
+        for n in c["niches"]:
+            m = niche_meta.get(n)
+            out.append(f"| [{m['niche']}](../niches/{n}/README.md) | {m['status']} | {m['slideshows']} | {m['accounts']} |" if m
+                       else f"| {n.replace('-', ' ')} | not collected yet | | |")
+        for key, title in (("made_for_it", "Templates already studied for this type"), ("works_with_a_tweak", "Templates that also work, with a tweak")):
+            out += ["", f"## {title}", "", "| | Template | Type | Confidence | Status | What it is |", "|---|---|---|---|---|---|"]
+            for pid in c["templates"].get(key, []):
+                pl = ps.get(pid)
+                if not pl:
+                    continue
+                img = f'<img src="../../{pl["cover"].relative_to(ROOT).as_posix()}" width="70">' if pl["cover"] else ""
+                out.append(f"| {img} | [{pid} {md(pl.get('name'))}](../../content-bank/{pl['folder']}/pillar.md) | {pl.get('type')} "
+                           f"| {pl.get('confidence')} | {pl.get('status')} | {md(pl.get('summary'))} |")
+        (DB / "categories" / f"{c['slug']}.md").write_text("\n".join(out) + "\n", encoding="utf-8")
+    return cats
+
+
 def index():
     rows = []
     for f in sorted((DB / "niches").glob("*/niche.json")):
         m = json.loads(f.read_text(encoding="utf-8"))
         rows.append(m)
     status_order = {"approved": 0, "needs-more": 1, "pending": 2}
+    cats = categories({m["slug"]: m for m in rows})
     out = ["# Slideshow format database", "",
            "TikTok slideshows that performed, grouped by niche, with the account behind each one, its numbers and every slide, "
            "so any brand can pick a niche and remake a format. Approved niches are reviewed by the owner.", "",
+           "## By business type", "",
+           "What Amplify's users sell, with the ReelFarm niches and the templates already studied (`content-bank/`) for each.", "",
+           "| Business type | Brands | Niches collected | Templates studied | Gap |", "|---|---|---|---|---|"]
+    done = {m["slug"] for m in rows}
+    for c in cats:
+        got = [n for n in c["niches"] if n in done]
+        out.append(f"| [{c['name']}](categories/{c['slug']}.md) | {c['brands']} | {len(got)} of {len(c['niches'])} "
+                   f"| {len(c['templates'].get('made_for_it', []))} (+{len(c['templates'].get('works_with_a_tweak', []))} with a tweak) "
+                   f"| {'⚠️ ' + c['gap'].split(':')[0].split('.')[0] if c.get('gap') else ''} |")
+    out += ["", "## All niches", "",
            "| Niche | Status | Slideshows | Accounts | Slides | Collected | Notes |", "|---|---|---|---|---|---|---|"]
     for m in sorted(rows, key=lambda m: (status_order.get(m["status"], 3), m["niche"])):
         out.append(f"| [{m['niche']}](niches/{m['slug']}/README.md) | {m['status']} | {m['slideshows']} | {m['accounts']} | {m['slides']} "

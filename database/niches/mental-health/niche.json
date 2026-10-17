@@ -1,0 +1,19 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "mental health",
+  "slug": "mental-health",
+  "source": "reel.farm/dashboard/database/niche/mental-health",
+  "reelfarm_total": 608,
+  "sort": "likes-most",
+  "scanned": 140,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views; @lost_sumwhere left out (ReelFarm labels it as promoting drugs)",
+  "slideshows": 25,
+  "accounts": 18,
+  "slides": 155,
+  "size_mb": 11.5,
+  "skipped_broken": [
+    "@the_selflovebook (ReelFarm rank 31): 2 of 3 slides unreadable on ReelFarm"
+  ]
+}

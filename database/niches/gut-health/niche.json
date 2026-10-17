@@ -1,0 +1,21 @@
+{
+  "status": "approved",
+  "notes": [
+    "Thin on ReelFarm: only 3 of 45 pass 100K views. Add accounts by hand."
+  ],
+  "niche": "gut health",
+  "slug": "gut-health",
+  "source": "reel.farm/dashboard/database/niche/gut-health",
+  "reelfarm_total": 45,
+  "sort": "likes-most",
+  "scanned": 45,
+  "collected": "2026-10-17",
+  "rule": "every slideshow in this niche with at least 100K views (4 of 45), at most 2 per account",
+  "slideshows": 3,
+  "accounts": 2,
+  "slides": 19,
+  "size_mb": 2.0,
+  "skipped_broken": [
+    "@maddybirtch (ReelFarm rank 2): 4 of 4 slides unreadable on ReelFarm"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "healthy eating",
+  "slug": "healthy-eating",
+  "source": "reel.farm/dashboard/database/niche/healthy-eating",
+  "reelfarm_total": 156,
+  "sort": "likes-most",
+  "scanned": 140,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account, accounts already in the database left out, duplicates removed, at least 100K views",
+  "slideshows": 24,
+  "accounts": 14,
+  "slides": 200,
+  "size_mb": 24.6,
+  "skipped_broken": [
+    "@wfavila (ReelFarm rank 4): 8 of 8 slides unreadable on ReelFarm",
+    "@onecrunchymom (ReelFarm rank 15): 11 of 11 slides unreadable on ReelFarm"
+  ]
+}
