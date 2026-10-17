@@ -88,9 +88,10 @@ def build(folder):
     raw = json.loads((folder / "reelfarm_raw.json").read_text(encoding="utf-8"))
     meta_p = folder / "niche.json"
     meta = json.loads(meta_p.read_text(encoding="utf-8")) if meta_p.exists() else {"status": "pending", "notes": []}
-    meta.update(niche=raw["niche"], slug=folder.name, source="reel.farm/dashboard/database/niche/" + folder.name,
+    meta.update(niche=raw["niche"], slug=folder.name,
+                source=raw.get("source") or "reel.farm/dashboard/database/niche/" + folder.name,
                 reelfarm_total=raw["total"], sort=raw["sort"], scanned=raw["scanned"], collected=str(date.today()),
-                rule="top by likes from the first pages, at most 2 slideshows per account, duplicates removed")
+                rule=raw.get("rule") or "top by likes from the first pages, at most 2 slideshows per account, duplicates removed")
     want = meta.get("want") or raw.get("want", 25)
     removed = set(meta.get("removed", []))
     records, sizes, broken = [], [], []
@@ -120,6 +121,7 @@ def build(folder):
             "views": p["views"], "likes": p["likes"], "saves": p["saves"],
             "engagement_rate": p["engagement_rate"],
             "save_rate": f"{num(p['saves']) / num(p['views']) * 100:.1f}%" if num(p["views"]) else None,
+            "app": p.get("app"), "found_in": p.get("found_in"),
             "slide_count": len(slides), "slides": slides,
             "source_images": [url_of(p["account"], img) for img in p["images"]],
         })
@@ -162,8 +164,8 @@ def readme(meta, records):
     title = meta["niche"].title()
     out = [f"# {title}", "",
            f"**Status:** {meta['status']} · {meta['slideshows']} slideshows from {meta['accounts']} accounts · "
-           f"{meta['slides']} slides · collected {meta['collected']} from ReelFarm ({meta['reelfarm_total']} in this niche there, "
-           f"sorted by most likes; {meta['rule']}).", ""]
+           f"{meta['slides']} slides · collected {meta['collected']} from ReelFarm ({meta['reelfarm_total']} "
+           f"{'candidates' if meta.get('source', '').find('/medium/') >= 0 else 'in this niche there'}, sorted by most likes; {meta['rule']}).", ""]
     for n in meta.get("notes", []):
         out.append(f"> {n}")
     out += ["", "## Overview", "",
@@ -186,6 +188,8 @@ def readme(meta, records):
             facts.append(f"Sells: {md(r['sells'])}")
         if r["product_medium"]:
             facts.append(f"Medium: {md(r['product_medium'])}")
+        if r.get("found_in"):
+            facts.append(f"From ReelFarm's {r['found_in'].replace('-', ' ')} page")
         if r["link_in_bio"]:
             facts.append(f"Link in bio: {md(r['link_in_bio'])}")
         if r["audience_regions"]:

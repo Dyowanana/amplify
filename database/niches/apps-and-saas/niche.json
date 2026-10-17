@@ -1,0 +1,22 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "apps and saas",
+  "slug": "apps-and-saas",
+  "source": "reel.farm/dashboard/database/medium/ (b2c-app, mobile-app, web-app, ai-app, b2b-app, b2b-software)",
+  "reelfarm_total": 254,
+  "sort": "likes-most (per medium page), merged",
+  "scanned": 254,
+  "collected": "2026-10-17",
+  "rule": "a collection across niches by product medium: 18 consumer apps (b2c and mobile app pages) + 7 AI and B2B software (ai app, b2b app, b2b software, web app pages), ranked by likes, at most 2 per account and 2 per app, accounts already in the database left out",
+  "slideshows": 25,
+  "accounts": 21,
+  "slides": 132,
+  "size_mb": 13.2,
+  "skipped_broken": [
+    "@gabi.lists (ReelFarm rank 4): 5 of 5 slides unreadable on ReelFarm",
+    "@never_giveup_109 (ReelFarm rank 11): 6 of 6 slides unreadable on ReelFarm",
+    "@ameliaprime12 (ReelFarm rank 12): 6 of 6 slides unreadable on ReelFarm",
+    "@milly.heals (ReelFarm rank 3): 11 of 11 slides unreadable on ReelFarm"
+  ]
+}

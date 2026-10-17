@@ -1,0 +1,19 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "creator growth",
+  "slug": "creator-growth",
+  "source": "reel.farm/dashboard/database/niche/creator-growth",
+  "reelfarm_total": 393,
+  "sort": "likes-most",
+  "scanned": 210,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views",
+  "slideshows": 11,
+  "accounts": 7,
+  "slides": 62,
+  "size_mb": 7.2,
+  "skipped_broken": [
+    "@chlonicsss (ReelFarm rank 17): 4 of 4 slides unreadable on ReelFarm"
+  ]
+}

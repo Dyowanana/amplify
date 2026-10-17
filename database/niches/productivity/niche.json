@@ -1,0 +1,19 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "productivity",
+  "slug": "productivity",
+  "source": "reel.farm/dashboard/database/niche/productivity",
+  "reelfarm_total": 130,
+  "sort": "likes-most",
+  "scanned": 130,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views",
+  "slideshows": 12,
+  "accounts": 8,
+  "slides": 76,
+  "size_mb": 8.9,
+  "skipped_broken": [
+    "@psychpremed (ReelFarm rank 11): 8 of 8 slides unreadable on ReelFarm"
+  ]
+}

@@ -4,7 +4,11 @@ TikTok slideshows that performed, grouped by niche, with the account behind each
 
 | Niche | Status | Slideshows | Accounts | Slides | Collected | Notes |
 |---|---|---|---|---|---|---|
+| [apps and saas](niches/apps-and-saas/README.md) | approved | 25 | 21 | 132 | 2026-10-17 |  |
+| [career](niches/career/README.md) | approved | 13 | 8 | 73 | 2026-10-17 |  |
+| [creator growth](niches/creator-growth/README.md) | approved | 11 | 7 | 62 | 2026-10-17 |  |
 | [marketing](niches/marketing/README.md) | approved | 9 | 7 | 71 | 2026-10-17 | Thin niche on ReelFarm (162 slideshows, mostly social media managers and branding studios). Owner kept the 9 strongest (700K+ views). |
+| [productivity](niches/productivity/README.md) | approved | 12 | 8 | 76 | 2026-10-17 |  |
 | [self improvement](niches/self-improvement/README.md) | approved | 25 | 22 | 166 | 2026-10-17 |  |
 
 ## How a niche is collected
