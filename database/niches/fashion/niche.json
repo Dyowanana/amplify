@@ -1,0 +1,21 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "fashion",
+  "slug": "fashion",
+  "source": "reel.farm/dashboard/database/niche/fashion",
+  "reelfarm_total": 180,
+  "sort": "likes-most",
+  "scanned": 140,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views",
+  "slideshows": 16,
+  "accounts": 10,
+  "slides": 157,
+  "size_mb": 16.5,
+  "skipped_broken": [
+    "@theoutfitstudio_ (ReelFarm rank 14): 7 of 7 slides unreadable on ReelFarm",
+    "@theoutfitstudio_ (ReelFarm rank 26): 6 of 6 slides unreadable on ReelFarm",
+    "@lasuzzarini (ReelFarm rank 33): 7 of 7 slides unreadable on ReelFarm"
+  ]
+}

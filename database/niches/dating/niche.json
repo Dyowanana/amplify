@@ -1,0 +1,17 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "dating",
+  "slug": "dating",
+  "source": "reel.farm/dashboard/database/niche/dating",
+  "reelfarm_total": 298,
+  "sort": "likes-most",
+  "scanned": 105,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app (Coffee Meets Bagel capped by hand), duplicates removed, at least 100K views; @savagefemmes left out (ReelFarm labels it as manipulation tactics)",
+  "slideshows": 23,
+  "accounts": 16,
+  "slides": 145,
+  "size_mb": 13.7,
+  "skipped_broken": []
+}

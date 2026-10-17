@@ -8,9 +8,10 @@
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
-| interior design | not collected yet | | |
-| photography | not collected yet | | |
-| [travel](../niches/travel/README.md) | approved | 8 | 5 |
+| [interior design](../niches/interior-design/README.md) | approved | 22 | 13 |
+| [photography](../niches/photography/README.md) | approved | 4 | 2 |
+| [pets](../niches/pets/README.md) | approved | 3 | 2 |
+| [art](../niches/art/README.md) | approved | 2 | 1 |
 
 ## Templates already studied for this type
 

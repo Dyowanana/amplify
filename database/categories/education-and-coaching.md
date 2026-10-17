@@ -6,7 +6,7 @@
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
-| studytok | not collected yet | | |
+| [studytok](../niches/studytok/README.md) | approved | 25 | 17 |
 | [career](../niches/career/README.md) | approved | 13 | 8 |
 | [productivity](../niches/productivity/README.md) | approved | 12 | 8 |
 | [self improvement](../niches/self-improvement/README.md) | approved | 25 | 22 |

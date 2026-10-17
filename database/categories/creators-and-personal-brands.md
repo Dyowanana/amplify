@@ -11,6 +11,7 @@
 | [feminine lifestyle](../niches/feminine-lifestyle/README.md) | approved | 25 | 18 |
 | [men's lifestyle](../niches/mens-lifestyle/README.md) | approved | 19 | 11 |
 | [travel](../niches/travel/README.md) | approved | 8 | 5 |
+| [motivation](../niches/motivation/README.md) | approved | 12 | 7 |
 
 ## Templates already studied for this type
 

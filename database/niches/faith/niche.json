@@ -1,0 +1,17 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "faith",
+  "slug": "faith",
+  "source": "reel.farm/dashboard/database/niche/faith",
+  "reelfarm_total": 30,
+  "sort": "likes-most",
+  "scanned": 30,
+  "collected": "2026-10-17",
+  "rule": "every slideshow in this niche with at least 100K views, at most 2 per account",
+  "slideshows": 3,
+  "accounts": 2,
+  "slides": 17,
+  "size_mb": 2.3,
+  "skipped_broken": []
+}

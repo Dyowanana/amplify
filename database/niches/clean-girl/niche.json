@@ -1,0 +1,19 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "clean girl",
+  "slug": "clean-girl",
+  "source": "reel.farm/dashboard/database/niche/clean-girl",
+  "reelfarm_total": 128,
+  "sort": "likes-most",
+  "scanned": 128,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views",
+  "slideshows": 21,
+  "accounts": 11,
+  "slides": 149,
+  "size_mb": 18.7,
+  "skipped_broken": [
+    "@sprinklestips (ReelFarm rank 1): 2 of 2 slides unreadable on ReelFarm"
+  ]
+}

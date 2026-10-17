@@ -1,0 +1,20 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "personal finance",
+  "slug": "personal-finance",
+  "source": "reel.farm/dashboard/database/niche/personal-finance",
+  "reelfarm_total": 129,
+  "sort": "likes-most",
+  "scanned": 129,
+  "collected": "2026-10-17",
+  "rule": "every slideshow in this niche with at least 100K views, at most 2 per account",
+  "slideshows": 15,
+  "accounts": 9,
+  "slides": 93,
+  "size_mb": 8.6,
+  "skipped_broken": [
+    "@thecozybudgetor (ReelFarm rank 12): 5 of 5 slides unreadable on ReelFarm",
+    "@financially.her (ReelFarm rank 14): 3 of 6 slides unreadable on ReelFarm"
+  ]
+}

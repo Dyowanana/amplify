@@ -4,10 +4,30 @@
     "name": "AI tools and SaaS",
     "brands": "~41",
     "sell": "AI marketing and social media automation, AI influencer marketing, business and workflow automation, AI app builders, analytics for founders, job application tools, web and software agencies",
-    "niches": ["apps-and-saas", "marketing", "creator-growth", "productivity", "career", "technology"],
+    "niches": [
+      "apps-and-saas",
+      "marketing",
+      "creator-growth",
+      "productivity",
+      "career",
+      "technology"
+    ],
     "templates": {
-      "made_for_it": ["P014", "P018", "P020", "P021", "P022", "P023", "P019"],
-      "works_with_a_tweak": ["P003", "P006", "P011", "P013"]
+      "made_for_it": [
+        "P014",
+        "P018",
+        "P020",
+        "P021",
+        "P022",
+        "P023",
+        "P019"
+      ],
+      "works_with_a_tweak": [
+        "P003",
+        "P006",
+        "P011",
+        "P013"
+      ]
     },
     "gap": "ReelFarm has few real B2B or AI-software slideshows (the best one has 363K views). Add accounts by hand."
   },
@@ -16,10 +36,34 @@
     "name": "Health, fitness and wellness",
     "brands": "~12",
     "sell": "Men's medical weight loss, GLP-1, smart home gym equipment, smart ring trackers, gut health tests, supplements",
-    "niches": ["fitness", "wellness", "mental-health", "gut-health", "healthy-eating"],
+    "niches": [
+      "fitness",
+      "wellness",
+      "mental-health",
+      "gut-health",
+      "healthy-eating"
+    ],
     "templates": {
-      "made_for_it": ["P005", "P006", "P007", "P008", "P009", "P016", "P017", "P001", "P002", "P023", "P021"],
-      "works_with_a_tweak": ["P003", "P004", "P012", "P019", "P022"]
+      "made_for_it": [
+        "P005",
+        "P006",
+        "P007",
+        "P008",
+        "P009",
+        "P016",
+        "P017",
+        "P001",
+        "P002",
+        "P023",
+        "P021"
+      ],
+      "works_with_a_tweak": [
+        "P003",
+        "P004",
+        "P012",
+        "P019",
+        "P022"
+      ]
     },
     "gap": "Prescription-only medicines (GLP-1, Mounjaro, Wegovy) can't be advertised to the public in the UK: use these formats for the brand's service, never the medicine.",
     "notes": "Fitness formats (P005 to P009) come from one creator (@bluebro.fit) with a recurring mascot: learn the format, draw a new character."
@@ -29,10 +73,20 @@
     "name": "Food",
     "brands": "~9",
     "sell": "Outdoor pizza ovens, bakeries, ready-to-eat Filipino food, commercial kitchen equipment, food creators",
-    "niches": ["healthy-eating"],
+    "niches": [
+      "healthy-eating"
+    ],
     "templates": {
-      "made_for_it": ["P001", "P009"],
-      "works_with_a_tweak": ["P007", "P019", "P021", "P014"]
+      "made_for_it": [
+        "P001",
+        "P009"
+      ],
+      "works_with_a_tweak": [
+        "P007",
+        "P019",
+        "P021",
+        "P014"
+      ]
     },
     "gap": "ReelFarm has no food niche beyond healthy eating (no pizza ovens, bakeries, Filipino food or kitchen equipment). Send links."
   },
@@ -41,10 +95,29 @@
     "name": "Creators and personal brands",
     "brands": "~9",
     "sell": "Lifestyle and travel vlogs, personal brands, fashion commentary, new brand launches, content freelancing",
-    "niches": ["creator-growth", "self-improvement", "feminine-lifestyle", "mens-lifestyle", "travel"],
+    "niches": [
+      "creator-growth",
+      "self-improvement",
+      "feminine-lifestyle",
+      "mens-lifestyle",
+      "travel",
+      "motivation"
+    ],
     "templates": {
-      "made_for_it": ["P004", "P010", "P012", "P013", "P015", "P018", "P019", "P020"],
-      "works_with_a_tweak": ["P011", "P023"]
+      "made_for_it": [
+        "P004",
+        "P010",
+        "P012",
+        "P013",
+        "P015",
+        "P018",
+        "P019",
+        "P020"
+      ],
+      "works_with_a_tweak": [
+        "P011",
+        "P023"
+      ]
     }
   },
   {
@@ -52,10 +125,21 @@
     "name": "Money, investing and crypto",
     "brands": "~8",
     "sell": "Personal finance for women, mutual funds, forex trading bots, crypto analytics",
-    "niches": ["personal-finance"],
+    "niches": [
+      "personal-finance"
+    ],
     "templates": {
-      "made_for_it": ["P001", "P002", "P013", "P022"],
-      "works_with_a_tweak": ["P006", "P007", "P021"]
+      "made_for_it": [
+        "P001",
+        "P002",
+        "P013",
+        "P022"
+      ],
+      "works_with_a_tweak": [
+        "P006",
+        "P007",
+        "P021"
+      ]
     },
     "gap": "ReelFarm has personal finance only (129 slideshows): no crypto, forex or mutual funds. Send links."
   },
@@ -64,10 +148,25 @@
     "name": "Education and coaching",
     "brands": "~6",
     "sell": "Leadership training, medical learning, Olympiad exam prep, learn-AI courses",
-    "niches": ["studytok", "career", "productivity", "self-improvement"],
+    "niches": [
+      "studytok",
+      "career",
+      "productivity",
+      "self-improvement"
+    ],
     "templates": {
-      "made_for_it": ["P005", "P006", "P020", "P022", "P023"],
-      "works_with_a_tweak": ["P007", "P012", "P021"]
+      "made_for_it": [
+        "P005",
+        "P006",
+        "P020",
+        "P022",
+        "P023"
+      ],
+      "works_with_a_tweak": [
+        "P007",
+        "P012",
+        "P021"
+      ]
     }
   },
   {
@@ -75,10 +174,28 @@
     "name": "Fashion, beauty and kids",
     "brands": "~4",
     "sell": "Everyday pantyhose, streetwear, organic skincare, recordable storybooks",
-    "niches": ["fashion", "skincare", "beauty", "hair-care", "clean-girl", "mom-life", "booktok"],
+    "niches": [
+      "fashion",
+      "skincare",
+      "beauty",
+      "hair-care",
+      "clean-girl",
+      "mom-life",
+      "booktok"
+    ],
     "templates": {
-      "made_for_it": ["P001", "P002", "P003", "P004", "P016"],
-      "works_with_a_tweak": ["P007", "P019", "P021"]
+      "made_for_it": [
+        "P001",
+        "P002",
+        "P003",
+        "P004",
+        "P016"
+      ],
+      "works_with_a_tweak": [
+        "P007",
+        "P019",
+        "P021"
+      ]
     },
     "gap": "Kids and storybooks are thin on ReelFarm (mom life and booktok are the closest)."
   },
@@ -87,11 +204,48 @@
     "name": "Everything else",
     "brands": "~4",
     "sell": "Real estate, business marketplaces, photography, lab automation",
-    "niches": ["interior-design", "photography", "travel"],
+    "niches": [
+      "interior-design",
+      "photography",
+      "pets",
+      "art"
+    ],
     "templates": {
-      "made_for_it": ["P014", "P019"],
-      "works_with_a_tweak": ["P003", "P021"]
+      "made_for_it": [
+        "P014",
+        "P019"
+      ],
+      "works_with_a_tweak": [
+        "P003",
+        "P021"
+      ]
     },
     "gap": "Photography has only 28 slideshows on ReelFarm, and there's nothing for lab automation or business marketplaces."
+  },
+  {
+    "slug": "other-niches",
+    "name": "Other niches (no Amplify brand type yet)",
+    "brands": "0",
+    "sell": "Niches ReelFarm covers that none of Amplify's current brand types sell into. Kept so the database is complete for future brands.",
+    "niches": [
+      "relationships",
+      "dating",
+      "spirituality",
+      "faith",
+      "entertainment"
+    ],
+    "templates": {
+      "made_for_it": [
+        "P010",
+        "P012",
+        "P013"
+      ],
+      "works_with_a_tweak": [
+        "P021",
+        "P022",
+        "P023"
+      ]
+    },
+    "notes": "Dating and mental-health niches carry manipulation-style hooks ('make him obsessed', dark psychology). Fine as format references; check the message before a brand remakes one."
   }
 ]

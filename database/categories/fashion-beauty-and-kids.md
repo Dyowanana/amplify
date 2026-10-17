@@ -8,13 +8,13 @@
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
-| fashion | not collected yet | | |
-| skincare | not collected yet | | |
-| beauty | not collected yet | | |
-| hair care | not collected yet | | |
-| clean girl | not collected yet | | |
-| mom life | not collected yet | | |
-| booktok | not collected yet | | |
+| [fashion](../niches/fashion/README.md) | approved | 16 | 10 |
+| [skincare](../niches/skincare/README.md) | approved | 16 | 11 |
+| [beauty](../niches/beauty/README.md) | approved | 6 | 3 |
+| [hair care](../niches/hair-care/README.md) | approved | 5 | 3 |
+| [clean girl](../niches/clean-girl/README.md) | approved | 21 | 11 |
+| [mom life](../niches/mom-life/README.md) | approved | 12 | 8 |
+| [booktok](../niches/booktok/README.md) | approved | 21 | 13 |
 
 ## Templates already studied for this type
 

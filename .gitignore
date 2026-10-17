@@ -56,3 +56,4 @@ tools/browse.py
 # Review sheets made for the owner, not part of the database
 database/**/_preview.jpg
 database/_review.jpg
+database/_review_*.jpg

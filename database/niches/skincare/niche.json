@@ -1,0 +1,20 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "skincare",
+  "slug": "skincare",
+  "source": "reel.farm/dashboard/database/niche/skincare",
+  "reelfarm_total": 269,
+  "sort": "likes-most",
+  "scanned": 140,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account and 2 per promoted product (CareSkin app and Quia masks capped by hand), accounts already in the database left out, duplicates removed, at least 100K views",
+  "slideshows": 16,
+  "accounts": 11,
+  "slides": 115,
+  "size_mb": 11.4,
+  "skipped_broken": [
+    "@juan_macchia (ReelFarm rank 14): 6 of 6 slides unreadable on ReelFarm",
+    "@marie.daily.aesthetics (ReelFarm rank 23): 10 of 10 slides unreadable on ReelFarm"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "motivation",
+  "slug": "motivation",
+  "source": "reel.farm/dashboard/database/niche/motivation",
+  "reelfarm_total": 70,
+  "sort": "likes-most",
+  "scanned": 70,
+  "collected": "2026-10-17",
+  "rule": "every slideshow in this niche with at least 100K views, at most 2 per account; @keo2lbrr left out (its bio pushes a 'make money now for free' link)",
+  "slideshows": 12,
+  "accounts": 7,
+  "slides": 61,
+  "size_mb": 5.9,
+  "skipped_broken": []
+}

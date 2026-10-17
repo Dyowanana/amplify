@@ -1,0 +1,17 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "mom life",
+  "slug": "mom-life",
+  "source": "reel.farm/dashboard/database/niche/mom-life",
+  "reelfarm_total": 118,
+  "sort": "likes-most",
+  "scanned": 118,
+  "collected": "2026-10-17",
+  "rule": "every slideshow in this niche with at least 100K views, at most 2 per account",
+  "slideshows": 12,
+  "accounts": 8,
+  "slides": 79,
+  "size_mb": 7.8,
+  "skipped_broken": []
+}

@@ -49,7 +49,20 @@ def url_of(acct, img):
         return img
     if img.startswith("s3:"):
         return S3 + img[3:]
+    if img.startswith("s:"):  # compact: s:<id>.<ext> = S3 bucket, <account>/slideshow_<id>.<ext>
+        return f"{S3}{acct}/slideshow_{img[2:]}"
+    if img.startswith("c:"):  # compact: c:<id>.<ext> = CDN, <account>/slideshow_<id>.<ext>
+        return f"{CDN}{acct}/slideshow_{img[2:]}"
     return f"{CDN}{acct}/{img}"
+
+
+def expand(raw):
+    """Compact collector output: account details once in 'profiles', posts carry only their own numbers."""
+    prof = raw.get("profiles")
+    if prof:
+        for key in ("posts", "reserve"):
+            raw[key] = [{**prof[p["account"]], **p} for p in raw.get(key, [])]
+    return raw
 
 
 def fetch(url, out):
@@ -85,7 +98,7 @@ def clean(v):
 
 
 def build(folder):
-    raw = json.loads((folder / "reelfarm_raw.json").read_text(encoding="utf-8"))
+    raw = expand(json.loads((folder / "reelfarm_raw.json").read_text(encoding="utf-8")))
     meta_p = folder / "niche.json"
     meta = json.loads(meta_p.read_text(encoding="utf-8")) if meta_p.exists() else {"status": "pending", "notes": []}
     meta.update(niche=raw["niche"], slug=folder.name,

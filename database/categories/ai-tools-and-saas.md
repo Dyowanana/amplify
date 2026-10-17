@@ -13,7 +13,7 @@
 | [creator growth](../niches/creator-growth/README.md) | approved | 11 | 7 |
 | [productivity](../niches/productivity/README.md) | approved | 12 | 8 |
 | [career](../niches/career/README.md) | approved | 13 | 8 |
-| technology | not collected yet | | |
+| [technology](../niches/technology/README.md) | approved | 2 | 1 |
 
 ## Templates already studied for this type
 

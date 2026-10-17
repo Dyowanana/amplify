@@ -8,7 +8,7 @@
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
-| personal finance | not collected yet | | |
+| [personal finance](../niches/personal-finance/README.md) | approved | 15 | 9 |
 
 ## Templates already studied for this type
 

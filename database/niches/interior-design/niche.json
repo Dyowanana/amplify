@@ -1,0 +1,22 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "interior design",
+  "slug": "interior-design",
+  "source": "reel.farm/dashboard/database/niche/interior-design",
+  "reelfarm_total": 157,
+  "sort": "likes-most",
+  "scanned": 140,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views",
+  "slideshows": 22,
+  "accounts": 13,
+  "slides": 191,
+  "size_mb": 20.4,
+  "skipped_broken": [
+    "@iamlinaangelina (ReelFarm rank 16): 9 of 9 slides unreadable on ReelFarm",
+    "@on_second_thought3 (ReelFarm rank 20): 9 of 9 slides unreadable on ReelFarm",
+    "@sareoezdemir (ReelFarm rank 23): 7 of 7 slides unreadable on ReelFarm",
+    "@studio_maison (ReelFarm rank 34): 7 of 7 slides unreadable on ReelFarm"
+  ]
+}

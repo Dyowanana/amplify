@@ -1,0 +1,22 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "entertainment",
+  "slug": "entertainment",
+  "source": "reel.farm/dashboard/database/niche/entertainment",
+  "reelfarm_total": 171,
+  "sort": "likes-most",
+  "scanned": 140,
+  "collected": "2026-10-17",
+  "rule": "top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views",
+  "slideshows": 24,
+  "accounts": 15,
+  "slides": 153,
+  "size_mb": 18.0,
+  "skipped_broken": [
+    "@cherriiebite (ReelFarm rank 9): 13 of 14 slides unreadable on ReelFarm",
+    "@s1lverrsn (ReelFarm rank 18): 1 of 1 slides unreadable on ReelFarm",
+    "@1700bones (ReelFarm rank 24): 11 of 11 slides unreadable on ReelFarm",
+    "@cherriiebite (ReelFarm rank 29): 6 of 9 slides unreadable on ReelFarm"
+  ]
+}

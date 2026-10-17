@@ -1,0 +1,19 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "pets",
+  "slug": "pets",
+  "source": "reel.farm/dashboard/database/niche/pets",
+  "reelfarm_total": 45,
+  "sort": "likes-most",
+  "scanned": 45,
+  "collected": "2026-10-17",
+  "rule": "every slideshow in this niche with at least 100K views, at most 2 per account",
+  "slideshows": 3,
+  "accounts": 2,
+  "slides": 29,
+  "size_mb": 3.5,
+  "skipped_broken": [
+    "@kumaandbella (ReelFarm rank 1): 8 of 8 slides unreadable on ReelFarm"
+  ]
+}
