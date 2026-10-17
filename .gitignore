@@ -52,3 +52,6 @@ personas/*/_takes/
 # Web app: on hold, kept on the owner's Mac only
 web/
 tools/browse.py
+
+# Review sheets made for the owner, not part of the database
+database/**/_preview.jpg
