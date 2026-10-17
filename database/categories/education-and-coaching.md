@@ -2,14 +2,14 @@
 
 **Brands of this type on Amplify:** ~6 · Leadership training, medical learning, Olympiad exam prep, learn-AI courses
 
-## Slideshow niches (from ReelFarm)
+## Slideshow niches
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
 | [studytok](../niches/studytok/README.md) | approved | 25 | 17 |
 | [career](../niches/career/README.md) | approved | 13 | 8 |
 | [productivity](../niches/productivity/README.md) | approved | 12 | 8 |
-| [self improvement](../niches/self-improvement/README.md) | approved | 25 | 22 |
+| [self improvement](../niches/self-improvement/README.md) | approved | 36 | 28 |
 
 ## Templates already studied for this type
 

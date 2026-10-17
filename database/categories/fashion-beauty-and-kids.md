@@ -4,14 +4,14 @@
 
 > ⚠️ Kids and storybooks are thin on ReelFarm (mom life and booktok are the closest).
 
-## Slideshow niches (from ReelFarm)
+## Slideshow niches
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
-| [fashion](../niches/fashion/README.md) | approved | 16 | 10 |
+| [fashion](../niches/fashion/README.md) | approved | 20 | 12 |
 | [skincare](../niches/skincare/README.md) | approved | 16 | 11 |
-| [beauty](../niches/beauty/README.md) | approved | 6 | 3 |
-| [hair care](../niches/hair-care/README.md) | approved | 5 | 3 |
+| [beauty](../niches/beauty/README.md) | approved | 7 | 4 |
+| [hair care](../niches/hair-care/README.md) | approved | 7 | 4 |
 | [clean girl](../niches/clean-girl/README.md) | approved | 21 | 11 |
 | [mom life](../niches/mom-life/README.md) | approved | 12 | 8 |
 | [booktok](../niches/booktok/README.md) | approved | 21 | 13 |

@@ -1,6 +1,6 @@
 # Interior Design
 
-**Status:** approved · 22 slideshows from 13 accounts · 191 slides · collected 2026-10-17 from ReelFarm (157 in this niche there, sorted by most likes; top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views).
+**Status:** approved · 23 slideshows from 14 accounts · 198 slides · collected 2026-10-17 from ReelFarm (157 in this niche there, sorted by most likes; top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views), plus 1 from TikTok links the owner picked.
 
 
 ## Overview
@@ -18,17 +18,18 @@
 | [9](#9-curechive) | <img src="slides/curechive_2/01.jpg" width="70"> | [@curechive](https://www.tiktok.com/@curechive) | 888.4K | 104.0K | 9.5K | 11.7% | 3 | — | — |
 | [10](#10-ihuerts) | <img src="slides/ihuerts_1/01.jpg" width="70"> | [@ihuerts](https://www.tiktok.com/@ihuerts) | 476.2K | 73.1K | 36.4K | 15.4% | 9 | Interior design services | Design Services |
 | [11](#11-suchasasha) | <img src="slides/such.a.sasha_7/01.jpg" width="70"> | [@such.a.sasha](https://www.tiktok.com/@such.a.sasha) | 446.3K | 72.1K | 11.6K | 16.2% | 12 | Cozy lifestyle content creation | Affiliate |
-| [12](#12-iamlinaangelina) | <img src="slides/iamlinaangelina_1/01.jpg" width="70"> | [@iamlinaangelina](https://www.tiktok.com/@iamlinaangelina) | 287.7K | 68.1K | 8.6K | 23.7% | 14 | Lifestyle content and affiliate products | Affiliate |
-| [13](#13-orangestudiosca) | <img src="slides/orangestudios.ca_4/01.jpg" width="70"> | [@orangestudios.ca](https://www.tiktok.com/@orangestudios.ca) | 382.3K | 46.7K | 19.4K | 12.2% | 8 | Art prints for home decor | Etsy |
-| [14](#14-orangestudiosca) | <img src="slides/orangestudios.ca_2/01.jpg" width="70"> | [@orangestudios.ca](https://www.tiktok.com/@orangestudios.ca) | 346.9K | 41.3K | 18.3K | 11.9% | 9 | Art prints for home decor | Etsy |
-| [15](#15-aslihane) | <img src="slides/aslihan__e_1/01.jpg" width="70"> | [@aslihan__e](https://www.tiktok.com/@aslihan__e) | 177.7K | 38.9K | 10.7K | 21.9% | 12 | Interior design aesthetic inspiration | Instagram Content |
-| [16](#16-ihuerts) | <img src="slides/ihuerts_2/01.jpg" width="70"> | [@ihuerts](https://www.tiktok.com/@ihuerts) | 219.6K | 38.2K | 11.5K | 17.4% | 17 | Interior design services | Design Services |
-| [17](#17-suchasasha) | <img src="slides/such.a.sasha_2/01.jpg" width="70"> | [@such.a.sasha](https://www.tiktok.com/@such.a.sasha) | 178.1K | 33.1K | 6.7K | 18.6% | 8 | Cozy lifestyle content creation | Affiliate |
-| [18](#18-studiogessen) | <img src="slides/studiogessen_0/01.jpg" width="70"> | [@studiogessen](https://www.tiktok.com/@studiogessen) | 300.9K | 32.0K | 5.5K | 10.6% | 7 | Interior design inspiration content | Website |
-| [19](#19-tcrthecuratedroom) | <img src="slides/tcr.thecuratedroom_2/01.jpg" width="70"> | [@tcr.thecuratedroom](https://www.tiktok.com/@tcr.thecuratedroom) | 228.2K | 27.4K | 10.0K | 12.0% | 8 | Interior design consulting services | Consulting Services |
-| [20](#20-sareoezdemir) | <img src="slides/sareoezdemir_2/01.jpg" width="70"> | [@sareoezdemir](https://www.tiktok.com/@sareoezdemir) | 128.0K | 25.9K | 8.2K | 20.2% | 8 | — | — |
-| [21](#21-studiomaison) | <img src="slides/studio_maison_1/01.jpg" width="70"> | [@studio_maison](https://www.tiktok.com/@studio_maison) | 143.2K | 20.2K | 8.6K | 14.1% | 8 | — | — |
-| [22](#22-studiogessen) | <img src="slides/studiogessen_2/01.jpg" width="70"> | [@studiogessen](https://www.tiktok.com/@studiogessen) | 234.1K | 16.8K | 5.1K | 7.2% | 10 | Interior design inspiration content | Website |
+| [12](#12-thearcc) | <img src="slides/thearcc_7688967417862606113/01.jpg" width="70"> | [@thearcc](https://www.tiktok.com/@thearcc) | 486.6K | 71.7K | 18.4K | 14.7% | 7 | — | — |
+| [13](#13-iamlinaangelina) | <img src="slides/iamlinaangelina_1/01.jpg" width="70"> | [@iamlinaangelina](https://www.tiktok.com/@iamlinaangelina) | 287.7K | 68.1K | 8.6K | 23.7% | 14 | Lifestyle content and affiliate products | Affiliate |
+| [14](#14-orangestudiosca) | <img src="slides/orangestudios.ca_4/01.jpg" width="70"> | [@orangestudios.ca](https://www.tiktok.com/@orangestudios.ca) | 382.3K | 46.7K | 19.4K | 12.2% | 8 | Art prints for home decor | Etsy |
+| [15](#15-orangestudiosca) | <img src="slides/orangestudios.ca_2/01.jpg" width="70"> | [@orangestudios.ca](https://www.tiktok.com/@orangestudios.ca) | 346.9K | 41.3K | 18.3K | 11.9% | 9 | Art prints for home decor | Etsy |
+| [16](#16-aslihane) | <img src="slides/aslihan__e_1/01.jpg" width="70"> | [@aslihan__e](https://www.tiktok.com/@aslihan__e) | 177.7K | 38.9K | 10.7K | 21.9% | 12 | Interior design aesthetic inspiration | Instagram Content |
+| [17](#17-ihuerts) | <img src="slides/ihuerts_2/01.jpg" width="70"> | [@ihuerts](https://www.tiktok.com/@ihuerts) | 219.6K | 38.2K | 11.5K | 17.4% | 17 | Interior design services | Design Services |
+| [18](#18-suchasasha) | <img src="slides/such.a.sasha_2/01.jpg" width="70"> | [@such.a.sasha](https://www.tiktok.com/@such.a.sasha) | 178.1K | 33.1K | 6.7K | 18.6% | 8 | Cozy lifestyle content creation | Affiliate |
+| [19](#19-studiogessen) | <img src="slides/studiogessen_0/01.jpg" width="70"> | [@studiogessen](https://www.tiktok.com/@studiogessen) | 300.9K | 32.0K | 5.5K | 10.6% | 7 | Interior design inspiration content | Website |
+| [20](#20-tcrthecuratedroom) | <img src="slides/tcr.thecuratedroom_2/01.jpg" width="70"> | [@tcr.thecuratedroom](https://www.tiktok.com/@tcr.thecuratedroom) | 228.2K | 27.4K | 10.0K | 12.0% | 8 | Interior design consulting services | Consulting Services |
+| [21](#21-sareoezdemir) | <img src="slides/sareoezdemir_2/01.jpg" width="70"> | [@sareoezdemir](https://www.tiktok.com/@sareoezdemir) | 128.0K | 25.9K | 8.2K | 20.2% | 8 | — | — |
+| [22](#22-studiomaison) | <img src="slides/studio_maison_1/01.jpg" width="70"> | [@studio_maison](https://www.tiktok.com/@studio_maison) | 143.2K | 20.2K | 8.6K | 14.1% | 8 | — | — |
+| [23](#23-studiogessen) | <img src="slides/studiogessen_2/01.jpg" width="70"> | [@studiogessen](https://www.tiktok.com/@studiogessen) | 234.1K | 16.8K | 5.1K | 7.2% | 10 | Interior design inspiration content | Website |
 
 ## Slideshows
 
@@ -162,7 +163,19 @@ Sells: Cozy lifestyle content creation · Medium: Affiliate · Link in bio: http
 
 <img src="slides/such.a.sasha_7/01.jpg" width="120"> <img src="slides/such.a.sasha_7/02.jpg" width="120"> <img src="slides/such.a.sasha_7/03.jpg" width="120"> <img src="slides/such.a.sasha_7/04.jpg" width="120"> <img src="slides/such.a.sasha_7/05.jpg" width="120"> <img src="slides/such.a.sasha_7/06.jpg" width="120"> <img src="slides/such.a.sasha_7/07.jpg" width="120"> <img src="slides/such.a.sasha_7/08.jpg" width="120"> <img src="slides/such.a.sasha_7/09.jpg" width="120"> <img src="slides/such.a.sasha_7/10.jpg" width="120"> <img src="slides/such.a.sasha_7/11.jpg" width="120"> <img src="slides/such.a.sasha_7/12.jpg" width="120">
 
-### 12. @iamlinaangelina
+### 12. @thearcc
+
+**486.6K** views · **71.7K** likes · **18.4K** saves · ER **14.7%** · save rate 3.8% · 7 slides · 60 comments · 6.0K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@thearcc/photo/7688967417862606113) · posted 2026-09-24
+
+[@thearcc](https://www.tiktok.com/@thearcc) (Arc.) · 147.4K followers · 21 following
+
+> Architecture. Design. Inspiration. Contact : thearcc.pro@gmail.com
+
+<img src="slides/thearcc_7688967417862606113/01.jpg" width="120"> <img src="slides/thearcc_7688967417862606113/02.jpg" width="120"> <img src="slides/thearcc_7688967417862606113/03.jpg" width="120"> <img src="slides/thearcc_7688967417862606113/04.jpg" width="120"> <img src="slides/thearcc_7688967417862606113/05.jpg" width="120"> <img src="slides/thearcc_7688967417862606113/06.jpg" width="120"> <img src="slides/thearcc_7688967417862606113/07.jpg" width="120">
+
+### 13. @iamlinaangelina
 
 **287.7K** views · **68.1K** likes · **8.6K** saves · ER **23.7%** · save rate 3.0% · 14 slides
 
@@ -174,7 +187,7 @@ Sells: Lifestyle content and affiliate products · Medium: Affiliate · Link in 
 
 <img src="slides/iamlinaangelina_1/01.jpg" width="120"> <img src="slides/iamlinaangelina_1/02.jpg" width="120"> <img src="slides/iamlinaangelina_1/03.jpg" width="120"> <img src="slides/iamlinaangelina_1/04.jpg" width="120"> <img src="slides/iamlinaangelina_1/05.jpg" width="120"> <img src="slides/iamlinaangelina_1/06.jpg" width="120"> <img src="slides/iamlinaangelina_1/07.jpg" width="120"> <img src="slides/iamlinaangelina_1/08.jpg" width="120"> <img src="slides/iamlinaangelina_1/09.jpg" width="120"> <img src="slides/iamlinaangelina_1/10.jpg" width="120"> <img src="slides/iamlinaangelina_1/11.jpg" width="120"> <img src="slides/iamlinaangelina_1/12.jpg" width="120"> <img src="slides/iamlinaangelina_1/13.jpg" width="120"> <img src="slides/iamlinaangelina_1/14.jpg" width="120">
 
-### 13. @orangestudios.ca
+### 14. @orangestudios.ca
 
 **382.3K** views · **46.7K** likes · **19.4K** saves · ER **12.2%** · save rate 5.1% · 8 slides
 
@@ -186,7 +199,7 @@ Sells: Art prints for home decor · Medium: Etsy · Link in bio: Linktr.ee/orang
 
 <img src="slides/orangestudios.ca_4/01.jpg" width="120"> <img src="slides/orangestudios.ca_4/02.jpg" width="120"> <img src="slides/orangestudios.ca_4/03.jpg" width="120"> <img src="slides/orangestudios.ca_4/04.jpg" width="120"> <img src="slides/orangestudios.ca_4/05.jpg" width="120"> <img src="slides/orangestudios.ca_4/06.jpg" width="120"> <img src="slides/orangestudios.ca_4/07.jpg" width="120"> <img src="slides/orangestudios.ca_4/08.jpg" width="120">
 
-### 14. @orangestudios.ca
+### 15. @orangestudios.ca
 
 **346.9K** views · **41.3K** likes · **18.3K** saves · ER **11.9%** · save rate 5.3% · 9 slides
 
@@ -198,7 +211,7 @@ Sells: Art prints for home decor · Medium: Etsy · Link in bio: Linktr.ee/orang
 
 <img src="slides/orangestudios.ca_2/01.jpg" width="120"> <img src="slides/orangestudios.ca_2/02.jpg" width="120"> <img src="slides/orangestudios.ca_2/03.jpg" width="120"> <img src="slides/orangestudios.ca_2/04.jpg" width="120"> <img src="slides/orangestudios.ca_2/05.jpg" width="120"> <img src="slides/orangestudios.ca_2/06.jpg" width="120"> <img src="slides/orangestudios.ca_2/07.jpg" width="120"> <img src="slides/orangestudios.ca_2/08.jpg" width="120"> <img src="slides/orangestudios.ca_2/09.jpg" width="120">
 
-### 15. @aslihan__e
+### 16. @aslihan__e
 
 **177.7K** views · **38.9K** likes · **10.7K** saves · ER **21.9%** · save rate 6.0% · 12 slides
 
@@ -210,7 +223,7 @@ Sells: Interior design aesthetic inspiration · Medium: Instagram Content · Lin
 
 <img src="slides/aslihan__e_1/01.jpg" width="120"> <img src="slides/aslihan__e_1/02.jpg" width="120"> <img src="slides/aslihan__e_1/03.jpg" width="120"> <img src="slides/aslihan__e_1/04.jpg" width="120"> <img src="slides/aslihan__e_1/05.jpg" width="120"> <img src="slides/aslihan__e_1/06.jpg" width="120"> <img src="slides/aslihan__e_1/07.jpg" width="120"> <img src="slides/aslihan__e_1/08.jpg" width="120"> <img src="slides/aslihan__e_1/09.jpg" width="120"> <img src="slides/aslihan__e_1/10.jpg" width="120"> <img src="slides/aslihan__e_1/11.jpg" width="120"> <img src="slides/aslihan__e_1/12.jpg" width="120">
 
-### 16. @ihuerts
+### 17. @ihuerts
 
 **219.6K** views · **38.2K** likes · **11.5K** saves · ER **17.4%** · save rate 5.2% · 17 slides
 
@@ -222,7 +235,7 @@ Sells: Interior design services · Medium: Design Services · Link in bio: https
 
 <img src="slides/ihuerts_2/01.jpg" width="120"> <img src="slides/ihuerts_2/02.jpg" width="120"> <img src="slides/ihuerts_2/03.jpg" width="120"> <img src="slides/ihuerts_2/04.jpg" width="120"> <img src="slides/ihuerts_2/05.jpg" width="120"> <img src="slides/ihuerts_2/06.jpg" width="120"> <img src="slides/ihuerts_2/07.jpg" width="120"> <img src="slides/ihuerts_2/08.jpg" width="120"> <img src="slides/ihuerts_2/09.jpg" width="120"> <img src="slides/ihuerts_2/10.jpg" width="120"> <img src="slides/ihuerts_2/11.jpg" width="120"> <img src="slides/ihuerts_2/12.jpg" width="120"> <img src="slides/ihuerts_2/13.jpg" width="120"> <img src="slides/ihuerts_2/14.jpg" width="120"> <img src="slides/ihuerts_2/15.jpg" width="120"> <img src="slides/ihuerts_2/16.jpg" width="120"> <img src="slides/ihuerts_2/17.jpg" width="120">
 
-### 17. @such.a.sasha
+### 18. @such.a.sasha
 
 **178.1K** views · **33.1K** likes · **6.7K** saves · ER **18.6%** · save rate 3.8% · 8 slides
 
@@ -234,7 +247,7 @@ Sells: Cozy lifestyle content creation · Medium: Affiliate · Link in bio: http
 
 <img src="slides/such.a.sasha_2/01.jpg" width="120"> <img src="slides/such.a.sasha_2/02.jpg" width="120"> <img src="slides/such.a.sasha_2/03.jpg" width="120"> <img src="slides/such.a.sasha_2/04.jpg" width="120"> <img src="slides/such.a.sasha_2/05.jpg" width="120"> <img src="slides/such.a.sasha_2/06.jpg" width="120"> <img src="slides/such.a.sasha_2/07.jpg" width="120"> <img src="slides/such.a.sasha_2/08.jpg" width="120">
 
-### 18. @studiogessen
+### 19. @studiogessen
 
 **300.9K** views · **32.0K** likes · **5.5K** saves · ER **10.6%** · save rate 1.8% · 7 slides
 
@@ -246,7 +259,7 @@ Sells: Interior design inspiration content · Medium: Website · Link in bio: st
 
 <img src="slides/studiogessen_0/01.jpg" width="120"> <img src="slides/studiogessen_0/02.jpg" width="120"> <img src="slides/studiogessen_0/03.jpg" width="120"> <img src="slides/studiogessen_0/04.jpg" width="120"> <img src="slides/studiogessen_0/05.jpg" width="120"> <img src="slides/studiogessen_0/06.jpg" width="120"> <img src="slides/studiogessen_0/07.jpg" width="120">
 
-### 19. @tcr.thecuratedroom
+### 20. @tcr.thecuratedroom
 
 **228.2K** views · **27.4K** likes · **10.0K** saves · ER **12.0%** · save rate 4.4% · 8 slides
 
@@ -258,7 +271,7 @@ Sells: Interior design consulting services · Medium: Consulting Services · Aud
 
 <img src="slides/tcr.thecuratedroom_2/01.jpg" width="120"> <img src="slides/tcr.thecuratedroom_2/02.jpg" width="120"> <img src="slides/tcr.thecuratedroom_2/03.jpg" width="120"> <img src="slides/tcr.thecuratedroom_2/04.jpg" width="120"> <img src="slides/tcr.thecuratedroom_2/05.jpg" width="120"> <img src="slides/tcr.thecuratedroom_2/06.jpg" width="120"> <img src="slides/tcr.thecuratedroom_2/07.jpg" width="120"> <img src="slides/tcr.thecuratedroom_2/08.jpg" width="120">
 
-### 20. @sareoezdemir
+### 21. @sareoezdemir
 
 **128.0K** views · **25.9K** likes · **8.2K** saves · ER **20.2%** · save rate 6.4% · 8 slides
 
@@ -270,7 +283,7 @@ Audience: Philippines 14.66%, United States 12.93%, Indonesia 5.17%
 
 <img src="slides/sareoezdemir_2/01.jpg" width="120"> <img src="slides/sareoezdemir_2/02.jpg" width="120"> <img src="slides/sareoezdemir_2/03.jpg" width="120"> <img src="slides/sareoezdemir_2/04.jpg" width="120"> <img src="slides/sareoezdemir_2/05.jpg" width="120"> <img src="slides/sareoezdemir_2/06.jpg" width="120"> <img src="slides/sareoezdemir_2/07.jpg" width="120"> <img src="slides/sareoezdemir_2/08.jpg" width="120">
 
-### 21. @studio_maison
+### 22. @studio_maison
 
 **143.2K** views · **20.2K** likes · **8.6K** saves · ER **14.1%** · save rate 6.0% · 8 slides
 
@@ -282,7 +295,7 @@ Audience: Australia 32.35%, United States 25.49%, Canada 7.84%
 
 <img src="slides/studio_maison_1/01.jpg" width="120"> <img src="slides/studio_maison_1/02.jpg" width="120"> <img src="slides/studio_maison_1/03.jpg" width="120"> <img src="slides/studio_maison_1/04.jpg" width="120"> <img src="slides/studio_maison_1/05.jpg" width="120"> <img src="slides/studio_maison_1/06.jpg" width="120"> <img src="slides/studio_maison_1/07.jpg" width="120"> <img src="slides/studio_maison_1/08.jpg" width="120">
 
-### 22. @studiogessen
+### 23. @studiogessen
 
 **234.1K** views · **16.8K** likes · **5.1K** saves · ER **7.2%** · save rate 2.2% · 10 slides
 

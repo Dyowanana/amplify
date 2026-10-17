@@ -4,11 +4,11 @@
 
 > ⚠️ ReelFarm has no food niche beyond healthy eating (no pizza ovens, bakeries, Filipino food or kitchen equipment). Send links.
 
-## Slideshow niches (from ReelFarm)
+## Slideshow niches
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
-| [healthy eating](../niches/healthy-eating/README.md) | approved | 24 | 14 |
+| [healthy eating](../niches/healthy-eating/README.md) | approved | 25 | 15 |
 
 ## Templates already studied for this type
 

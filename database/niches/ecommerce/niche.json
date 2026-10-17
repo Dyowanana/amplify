@@ -1,0 +1,18 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "ecommerce and dropshipping",
+  "slug": "ecommerce",
+  "source": "TikTok links picked by the owner",
+  "reelfarm_total": null,
+  "sort": "likes-most",
+  "scanned": null,
+  "collected": "2026-10-17",
+  "rule": "read 2026-10-17 from the logged-in TikTok post and profile pages, with sells and medium written from each bio, link in bio and slides, and no region or audience because TikTok doesn't show them",
+  "slideshows": 7,
+  "accounts": 5,
+  "slides": 58,
+  "from_tiktok_links": 7,
+  "size_mb": 5.2,
+  "skipped_broken": []
+}

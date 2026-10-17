@@ -4,7 +4,7 @@
 
 > ⚠️ ReelFarm has few real B2B or AI-software slideshows (the best one has 363K views). Add accounts by hand.
 
-## Slideshow niches (from ReelFarm)
+## Slideshow niches
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
@@ -13,7 +13,8 @@
 | [creator growth](../niches/creator-growth/README.md) | approved | 11 | 7 |
 | [productivity](../niches/productivity/README.md) | approved | 12 | 8 |
 | [career](../niches/career/README.md) | approved | 13 | 8 |
-| [technology](../niches/technology/README.md) | approved | 2 | 1 |
+| [technology](../niches/technology/README.md) | approved | 8 | 5 |
+| [ecommerce and dropshipping](../niches/ecommerce/README.md) | approved | 7 | 5 |
 
 ## Templates already studied for this type
 

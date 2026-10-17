@@ -20,6 +20,13 @@ Output per niche:
   _preview.jpg                    first slide of each, for the owner's review (not committed)
 
 ReelFarm does not show the TikTok post link, only the account. `post_url` stays null until it is matched.
+
+A niche can also hold slideshows the owner picked as TikTok links: <niche folder>/tiktok_raw.json, read from the
+logged-in TikTok post and profile pages in the browser pane ({"niche", "collected", "rule", "profiles": {account:
+{nickname, followers, following, bio, link_in_bio, sells, product_medium}}, "posts": [{account, post_id, posted,
+caption, views, likes, saves, comments, shares, app, images}]}, counts as exact numbers). A niche can have only this
+file. These posts are all kept (no `want` cap), get `source: tiktok`, a `post_url` and their slides under
+slides/<account>_<post id>/, and join the ReelFarm ones in most-likes order.
 """
 import argparse
 import io
@@ -97,51 +104,105 @@ def clean(v):
     return None if v in (None, "", "None", "none", "No product", "null", "Analysis failed") else v
 
 
+def short(n):
+    """TikTok's exact counts in ReelFarm's display style (585.0K, 2.9M, 124), so every record reads the same."""
+    n = int(n or 0)
+    return f"{n / 1e6:.1f}M" if n >= 1e6 else f"{n / 1e3:.1f}K" if n >= 1e3 else str(n)
+
+
+def pct(a, b):
+    return f"{num(a) / num(b) * 100:.1f}%" if num(b) else None
+
+
+def download(folder, d, urls, acct):
+    """Download one slideshow into <folder>/<d>/NN.jpg. Returns (slide paths, sizes), or (None, failures) when any slide fails."""
+    got = [(img, f"{d}/{k:02}.jpg") for k, img in enumerate(urls, 1)]
+    with ThreadPoolExecutor(8) as ex:
+        res = list(ex.map(lambda j: fetch(url_of(acct, j[0]), folder / j[1]), got))
+    if not got or None in res:
+        for _, s_ in got:
+            (folder / s_).unlink(missing_ok=True)
+        return None, res.count(None) if got else 0
+    return [s_ for _, s_ in got], res
+
+
 def build(folder):
-    raw = expand(json.loads((folder / "reelfarm_raw.json").read_text(encoding="utf-8")))
+    rf_p, tt_p = folder / "reelfarm_raw.json", folder / "tiktok_raw.json"
+    raw = expand(json.loads(rf_p.read_text(encoding="utf-8"))) if rf_p.exists() else None
+    tt = json.loads(tt_p.read_text(encoding="utf-8")) if tt_p.exists() else None
     meta_p = folder / "niche.json"
     meta = json.loads(meta_p.read_text(encoding="utf-8")) if meta_p.exists() else {"status": "pending", "notes": []}
-    meta.update(niche=raw["niche"], slug=folder.name,
-                source=raw.get("source") or "reel.farm/dashboard/database/niche/" + folder.name,
-                reelfarm_total=raw["total"], sort=raw["sort"], scanned=raw["scanned"], collected=str(date.today()),
-                rule=raw.get("rule") or "top by likes from the first pages, at most 2 slideshows per account, duplicates removed")
-    want = meta.get("want") or raw.get("want", 25)
+    if raw:
+        meta.update(niche=raw["niche"], slug=folder.name,
+                    source=raw.get("source") or "reel.farm/dashboard/database/niche/" + folder.name,
+                    reelfarm_total=raw["total"], sort=raw["sort"], scanned=raw["scanned"], collected=str(date.today()),
+                    rule=raw.get("rule") or "top by likes from the first pages, at most 2 slideshows per account, duplicates removed")
+    else:
+        meta.update(niche=tt["niche"], slug=folder.name, source="TikTok links picked by the owner", reelfarm_total=None,
+                    sort="likes-most", scanned=None, collected=tt["collected"], rule=tt["rule"])
+    want = meta.get("want") or (raw or {}).get("want", 25)
     removed = set(meta.get("removed", []))
     records, sizes, broken = [], [], []
-    for p in raw["posts"] + raw.get("reserve", []):
+    for p in (raw["posts"] + raw.get("reserve", [])) if raw else []:
         if len(records) >= want:
             break
         d = f"slides/{p['account']}_{p['slideshow_index']}"
         if d.split("/")[1] in removed:
             continue
-        got = [(img, f"{d}/{k:02}.jpg") for k, img in enumerate(p["images"], 1)]
-        with ThreadPoolExecutor(8) as ex:
-            res = list(ex.map(lambda j: fetch(url_of(p["account"], j[0]), folder / j[1]), got))
-        if not got or None in res:
-            broken.append(f"@{p['account']} (ReelFarm rank {p['rank']}): {res.count(None)} of {len(got)} slides unreadable on ReelFarm")
-            for _, s_ in got:
-                (folder / s_).unlink(missing_ok=True)
+        slides, res = download(folder, d, p["images"], p["account"])
+        if not slides:
+            broken.append(f"@{p['account']} (ReelFarm rank {p['rank']}): {res} of {len(p['images'])} slides unreadable on ReelFarm")
             continue
         sizes += res
-        slides = [s_ for _, s_ in got]
         records.append({
-            "n": len(records) + 1, "reelfarm_rank": p["rank"], "account": p["account"], "nickname": p["nickname"],
-            "account_url": f"https://www.tiktok.com/@{p['account']}", "post_url": None,
+            "n": 0, "source": "reelfarm", "reelfarm_rank": p["rank"], "account": p["account"], "nickname": p["nickname"],
+            "account_url": f"https://www.tiktok.com/@{p['account']}", "post_url": None, "posted": None, "caption": None,
             "followers": p["followers"], "following": p["following"],
             "account_region": p["account_region"], "audience_regions": p["audience_regions"],
             "sells": clean(p["sells"]), "product_medium": clean(p["product_medium"]),
             "link_in_bio": p["link_in_bio"], "bio": p["bio"],
-            "views": p["views"], "likes": p["likes"], "saves": p["saves"],
-            "engagement_rate": p["engagement_rate"],
-            "save_rate": f"{num(p['saves']) / num(p['views']) * 100:.1f}%" if num(p["views"]) else None,
+            "views": p["views"], "likes": p["likes"], "saves": p["saves"], "comments": None, "shares": None,
+            "engagement_rate": p["engagement_rate"], "save_rate": pct(p["saves"], p["views"]),
             "app": p.get("app"), "found_in": p.get("found_in"),
             "slide_count": len(slides), "slides": slides,
             "source_images": [url_of(p["account"], img) for img in p["images"]],
         })
+    rf_count = len(records)
+    # Posts the owner picked as TikTok links: all kept (no cap), slides saved under <account>_<post id>.
+    # TikTok's image links expire after a few days, so a rebuild relies on the slides already on disk.
+    for p in tt["posts"] if tt else []:
+        a = {**tt["profiles"][p["account"]], **p}
+        d = f"slides/{a['account']}_{a['post_id']}"
+        if d.split("/")[1] in removed:
+            continue
+        slides, res = download(folder, d, a["images"], a["account"])
+        if not slides:
+            broken.append(f"@{a['account']} post {a['post_id']}: {res} of {len(a['images'])} slides could not be downloaded from TikTok")
+            continue
+        sizes += res
+        v, l, s_ = short(a["views"]), short(a["likes"]), short(a["saves"])
+        records.append({
+            "n": 0, "source": "tiktok", "reelfarm_rank": None, "account": a["account"], "nickname": a["nickname"],
+            "account_url": f"https://www.tiktok.com/@{a['account']}", "post_url": f"https://www.tiktok.com/@{a['account']}/photo/{a['post_id']}",
+            "posted": a["posted"], "caption": a["caption"],
+            "followers": short(a["followers"]), "following": short(a["following"]),
+            "account_region": None, "audience_regions": None,
+            "sells": a.get("sells"), "product_medium": a.get("product_medium"),
+            "link_in_bio": a.get("link_in_bio"), "bio": a.get("bio") or None,
+            "views": v, "likes": l, "saves": s_, "comments": short(a["comments"]), "shares": short(a["shares"]),
+            "engagement_rate": f"{a['likes'] / a['views'] * 100:.1f}%" if a["views"] else None,
+            "save_rate": f"{a['saves'] / a['views'] * 100:.1f}%" if a["views"] else None,
+            "app": a.get("app"), "found_in": "owner's TikTok link",
+            "slide_count": len(slides), "slides": slides, "source_images": a["images"],
+        })
+    if len(records) > rf_count:  # owner's picks join ReelFarm's "most likes" order
+        records.sort(key=lambda r: -num(r["likes"]))
+    for i, r in enumerate(records, 1):
+        r["n"] = i
     meta.update(slideshows=len(records), accounts=len({r["account"] for r in records}), slides=sum(r["slide_count"] for r in records),
-                size_mb=round(sum(sizes) / 1e6, 1), skipped_broken=broken)
-    if len(records) < want:
-        print(f"  only {len(records)} of {want}: add more reserve posts")
+                from_tiktok_links=len(records) - rf_count, size_mb=round(sum(sizes) / 1e6, 1), skipped_broken=broken)
+    if raw and rf_count < want:
+        print(f"  only {rf_count} of {want} from ReelFarm: add more reserve posts")
     (folder / "slideshows.json").write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
     meta_p.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
     (folder / "README.md").write_text(readme(meta, records), encoding="utf-8")
@@ -175,10 +236,17 @@ def md(s):
 
 def readme(meta, records):
     title = meta["niche"].title()
+    picks = meta.get("from_tiktok_links") or 0
+    if meta.get("reelfarm_total"):
+        where = (f"from ReelFarm ({meta['reelfarm_total']} "
+                 f"{'candidates' if meta.get('source', '').find('/medium/') >= 0 else 'in this niche there'}, sorted by most likes; {meta['rule']})")
+        if picks:
+            where += f", plus {picks} from TikTok links the owner picked"
+    else:
+        where = f"from TikTok links the owner picked ({meta['rule']})"
     out = [f"# {title}", "",
            f"**Status:** {meta['status']} · {meta['slideshows']} slideshows from {meta['accounts']} accounts · "
-           f"{meta['slides']} slides · collected {meta['collected']} from ReelFarm ({meta['reelfarm_total']} "
-           f"{'candidates' if meta.get('source', '').find('/medium/') >= 0 else 'in this niche there'}, sorted by most likes; {meta['rule']}).", ""]
+           f"{meta['slides']} slides · collected {meta['collected']} {where}.", ""]
     for n in meta.get("notes", []):
         out.append(f"> {n}")
     out += ["", "## Overview", "",
@@ -191,8 +259,11 @@ def readme(meta, records):
     out += ["", "## Slideshows", ""]
     for r in records:
         out += [f"### {r['n']}. @{r['account']}", "",
-                f"**{r['views']}** views · **{r['likes']}** likes · **{r['saves']}** saves · ER **{r['engagement_rate']}** · save rate {r['save_rate']} · {r['slide_count']} slides", "",
-                f"[@{r['account']}]({r['account_url']}) ({md(r['nickname'])}) · {r['followers']} followers · {r['following']} following"
+                f"**{r['views']}** views · **{r['likes']}** likes · **{r['saves']}** saves · ER **{r['engagement_rate']}** · save rate {r['save_rate']} · {r['slide_count']} slides"
+                + (f" · {r['comments']} comments · {r['shares']} shares" if r.get("comments") else ""), ""]
+        if r.get("post_url"):
+            out += [f"[Open the post on TikTok]({r['post_url']}) · posted {r['posted']}", ""]
+        out += [f"[@{r['account']}]({r['account_url']}) ({md(r['nickname'])}) · {r['followers']} followers · {r['following']} following"
                 + (f" · account region {r['account_region']}" if r["account_region"] else ""), ""]
         if r["bio"]:
             out += [f"> {md(r['bio'])}", ""]
@@ -201,8 +272,10 @@ def readme(meta, records):
             facts.append(f"Sells: {md(r['sells'])}")
         if r["product_medium"]:
             facts.append(f"Medium: {md(r['product_medium'])}")
-        if r.get("found_in"):
+        if r.get("found_in") and r.get("source") != "tiktok":
             facts.append(f"From ReelFarm's {r['found_in'].replace('-', ' ')} page")
+        if r.get("app"):
+            facts.append(f"Promotes: {md(r['app'])}")
         if r["link_in_bio"]:
             facts.append(f"Link in bio: {md(r['link_in_bio'])}")
         if r["audience_regions"]:
@@ -242,7 +315,7 @@ def categories(niche_meta):
             out += [f"> ⚠️ {c['gap']}", ""]
         if c.get("notes"):
             out += [f"> {c['notes']}", ""]
-        out += ["## Slideshow niches (from ReelFarm)", "", "| Niche | Status | Slideshows | Accounts |", "|---|---|---|---|"]
+        out += ["## Slideshow niches", "", "| Niche | Status | Slideshows | Accounts |", "|---|---|---|---|"]
         for n in c["niches"]:
             m = niche_meta.get(n)
             out.append(f"| [{m['niche']}](../niches/{n}/README.md) | {m['status']} | {m['slideshows']} | {m['accounts']} |" if m
@@ -290,7 +363,9 @@ def index():
             "2. Take the first pages sorted by most likes, keep at most 2 slideshows per account, drop duplicates, stop at 25.",
             "3. Save that as `niches/<slug>/reelfarm_raw.json`, then `tools/reelfarm_db.py build niches/<slug>` downloads every slide and writes the page.",
             "4. The owner reviews the niche page: approve, ask for more, or name slideshows to remove. Only then is it pushed.", "",
-            "ReelFarm shows the account, not the TikTok post link, so `post_url` is empty for now."]
+            "ReelFarm shows the account, not the TikTok post link, so `post_url` is empty for ReelFarm slideshows.", "",
+            "Slideshows the owner picks as TikTok links go in `niches/<slug>/tiktok_raw.json` (read from the logged-in post and profile "
+            "pages: exact stats, caption, posting date, bio and link in bio) and are built the same way, with `source: tiktok` and a `post_url`."]
     (DB / "README.md").write_text("\n".join(out) + "\n", encoding="utf-8")
     print(f"database/README.md: {len(rows)} niches")
 

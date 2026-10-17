@@ -89,7 +89,7 @@ Sells: Dating advice eBooks/guides · Medium: eBooks · Link in bio: https://lin
 
 > life is heavy - lets talk about it 💭
 
-Sells: Vent Now app · Medium: App Promotion · Audience: United States 58.82%, United Kingdom 20.59%, South Africa 4.90%
+Sells: Vent Now app · Medium: App Promotion · Promotes: vent now · Audience: United States 58.82%, United Kingdom 20.59%, South Africa 4.90%
 
 <img src="slides/afterhoursdiary_2/01.jpg" width="120"> <img src="slides/afterhoursdiary_2/02.jpg" width="120"> <img src="slides/afterhoursdiary_2/03.jpg" width="120"> <img src="slides/afterhoursdiary_2/04.jpg" width="120"> <img src="slides/afterhoursdiary_2/05.jpg" width="120"> <img src="slides/afterhoursdiary_2/06.jpg" width="120">
 
@@ -137,7 +137,7 @@ Sells: Relationship/dating content creation · Medium: Instagram/YouTube · Audi
 
 > helping you hack yourself + your relationships
 
-Sells: Vent Now app promotion · Medium: B2C App · Audience: Philippines 22.76%, United States 16.26%, South Africa 8.13%
+Sells: Vent Now app promotion · Medium: B2C App · Promotes: vent now · Audience: Philippines 22.76%, United States 16.26%, South Africa 8.13%
 
 <img src="slides/selfbysarah_1/01.jpg" width="120"> <img src="slides/selfbysarah_1/02.jpg" width="120"> <img src="slides/selfbysarah_1/03.jpg" width="120"> <img src="slides/selfbysarah_1/04.jpg" width="120"> <img src="slides/selfbysarah_1/05.jpg" width="120"> <img src="slides/selfbysarah_1/06.jpg" width="120">
 
@@ -149,7 +149,7 @@ Sells: Vent Now app promotion · Medium: B2C App · Audience: Philippines 22.76%
 
 > LA \| messy but self aware \| looking for my conrad on  cmb 💗
 
-Sells: Coffee Meets Bagel dating app · Medium: Dating App · Audience: United States 44.00%, United Kingdom 15.00%, Philippines 13.00%
+Sells: Coffee Meets Bagel dating app · Medium: Dating App · Promotes: coffee meets bagel · Audience: United States 44.00%, United Kingdom 15.00%, Philippines 13.00%
 
 <img src="slides/kirsten.dates_1/01.jpg" width="120"> <img src="slides/kirsten.dates_1/02.jpg" width="120"> <img src="slides/kirsten.dates_1/03.jpg" width="120"> <img src="slides/kirsten.dates_1/04.jpg" width="120"> <img src="slides/kirsten.dates_1/05.jpg" width="120">
 
@@ -185,7 +185,7 @@ Sells: Dating and seduction guide · Medium: eBook
 
 > from emma, with love x  random yaps about love and dating
 
-Sells: Coffee Meets Bagel dating app · Medium: Dating App · Audience: United States 34.34%, United Kingdom 12.12%, Australia 8.08%
+Sells: Coffee Meets Bagel dating app · Medium: Dating App · Promotes: coffee meets bagel · Audience: United States 34.34%, United Kingdom 12.12%, Australia 8.08%
 
 <img src="slides/withlove.emma_0/01.jpg" width="120"> <img src="slides/withlove.emma_0/02.jpg" width="120"> <img src="slides/withlove.emma_0/03.jpg" width="120"> <img src="slides/withlove.emma_0/04.jpg" width="120"> <img src="slides/withlove.emma_0/05.jpg" width="120"> <img src="slides/withlove.emma_0/06.jpg" width="120"> <img src="slides/withlove.emma_0/07.jpg" width="120">
 

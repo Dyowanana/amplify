@@ -9,9 +9,10 @@
   "scanned": 48,
   "collected": "2026-10-17",
   "rule": "every slideshow in this niche with at least 100K views, at most 2 per account",
-  "slideshows": 6,
-  "accounts": 3,
-  "slides": 41,
-  "size_mb": 4.8,
-  "skipped_broken": []
+  "slideshows": 7,
+  "accounts": 4,
+  "slides": 47,
+  "size_mb": 5.6,
+  "skipped_broken": [],
+  "from_tiktok_links": 1
 }

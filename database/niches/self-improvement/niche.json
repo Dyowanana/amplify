@@ -9,14 +9,15 @@
   "scanned": 70,
   "collected": "2026-10-17",
   "rule": "top by likes from the first pages, at most 2 slideshows per account, duplicates removed",
-  "slideshows": 25,
-  "accounts": 22,
-  "slides": 166,
-  "size_mb": 15.2,
+  "slideshows": 36,
+  "accounts": 28,
+  "slides": 231,
+  "size_mb": 20.5,
   "skipped_broken": [
     "@d40ki (ReelFarm rank 4): 2 of 7 slides unreadable on ReelFarm",
     "@foodlandbeachlover (ReelFarm rank 9): 9 of 9 slides unreadable on ReelFarm",
     "@chayil2real (ReelFarm rank 18): 1 of 1 slides unreadable on ReelFarm",
     "@theinnermetric (ReelFarm rank 27): 3 of 4 slides unreadable on ReelFarm"
-  ]
+  ],
+  "from_tiktok_links": 11
 }

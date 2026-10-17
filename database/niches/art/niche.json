@@ -9,12 +9,13 @@
   "scanned": 28,
   "collected": "2026-10-17",
   "rule": "every slideshow in this niche with at least 100K views, at most 2 per account",
-  "slideshows": 2,
-  "accounts": 1,
-  "slides": 9,
-  "size_mb": 1.0,
+  "slideshows": 6,
+  "accounts": 4,
+  "slides": 57,
+  "size_mb": 8.0,
   "skipped_broken": [
     "@get.highfashion (ReelFarm rank 1): 7 of 7 slides unreadable on ReelFarm",
     "@get.highfashion (ReelFarm rank 3): 9 of 9 slides unreadable on ReelFarm"
-  ]
+  ],
+  "from_tiktok_links": 4
 }

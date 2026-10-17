@@ -14,10 +14,8 @@
   "slideshows": 9,
   "accounts": 7,
   "slides": 71,
-  "size_mb": 13.9,
-  "skipped_broken": [
-    "@bmsocial (ReelFarm rank 13): 6 of 6 slides unreadable on ReelFarm"
-  ],
+  "size_mb": 6.1,
+  "skipped_broken": [],
   "removed": [
     "suki_moss_0",
     "karlyjenders_0",
@@ -36,5 +34,6 @@
     "mirarestudios_6",
     "clothingbrandzco_0"
   ],
-  "want": 9
+  "want": 9,
+  "from_tiktok_links": 0
 }

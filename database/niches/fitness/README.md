@@ -101,7 +101,7 @@ Sells: Fitness coaching services · Medium: 1:1 Coaching · Link in bio: https:/
 
 > Stay hard
 
-Sells: Gymeo workout tracking app · Medium: Mobile App · Audience: United States 27.68%, Philippines 15.18%, United Kingdom 8.04%
+Sells: Gymeo workout tracking app · Medium: Mobile App · Promotes: gymeo · Audience: United States 27.68%, Philippines 15.18%, United Kingdom 8.04%
 
 <img src="slides/never_giveup_109_1/01.jpg" width="120"> <img src="slides/never_giveup_109_1/02.jpg" width="120"> <img src="slides/never_giveup_109_1/03.jpg" width="120"> <img src="slides/never_giveup_109_1/04.jpg" width="120"> <img src="slides/never_giveup_109_1/05.jpg" width="120"> <img src="slides/never_giveup_109_1/06.jpg" width="120">
 

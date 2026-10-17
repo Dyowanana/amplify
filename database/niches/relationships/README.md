@@ -175,7 +175,7 @@ Sells: Song promotion services · Medium: Email collaborations · Audience: Phil
 
 > healing relationships 5 tips at a time♥️ hot girlz get healed✨ 💌: saraheals123@gmail.com
 
-Sells: Relationship advice app "Vent Now" · Medium: App promotion · Audience: United States 25.51%, Philippines 13.27%, United Kingdom 8.16%
+Sells: Relationship advice app "Vent Now" · Medium: App promotion · Promotes: vent now · Audience: United States 25.51%, Philippines 13.27%, United Kingdom 8.16%
 
 <img src="slides/hotgirlhealz_0/01.jpg" width="120"> <img src="slides/hotgirlhealz_0/02.jpg" width="120"> <img src="slides/hotgirlhealz_0/03.jpg" width="120"> <img src="slides/hotgirlhealz_0/04.jpg" width="120"> <img src="slides/hotgirlhealz_0/05.jpg" width="120"> <img src="slides/hotgirlhealz_0/06.jpg" width="120">
 
@@ -259,7 +259,7 @@ Audience: United States 59.00%, South Africa 5.00%, Philippines 4.00%
 
 > healing relationships 5 tips at a time♥️ hot girlz get healed✨ 💌: saraheals123@gmail.com
 
-Sells: Relationship advice app "Vent Now" · Medium: App promotion · Audience: United States 25.51%, Philippines 13.27%, United Kingdom 8.16%
+Sells: Relationship advice app "Vent Now" · Medium: App promotion · Promotes: vent now · Audience: United States 25.51%, Philippines 13.27%, United Kingdom 8.16%
 
 <img src="slides/hotgirlhealz_1/01.jpg" width="120"> <img src="slides/hotgirlhealz_1/02.jpg" width="120"> <img src="slides/hotgirlhealz_1/03.jpg" width="120"> <img src="slides/hotgirlhealz_1/04.jpg" width="120"> <img src="slides/hotgirlhealz_1/05.jpg" width="120"> <img src="slides/hotgirlhealz_1/06.jpg" width="120"> <img src="slides/hotgirlhealz_1/07.jpg" width="120">
 

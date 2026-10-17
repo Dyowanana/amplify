@@ -1,6 +1,6 @@
 # Self Improvement
 
-**Status:** approved · 25 slideshows from 22 accounts · 166 slides · collected 2026-10-17 from ReelFarm (2047 in this niche there, sorted by most likes; top by likes from the first pages, at most 2 slideshows per account, duplicates removed).
+**Status:** approved · 36 slideshows from 28 accounts · 231 slides · collected 2026-10-17 from ReelFarm (2047 in this niche there, sorted by most likes; top by likes from the first pages, at most 2 slideshows per account, duplicates removed), plus 11 from TikTok links the owner picked.
 
 
 ## Overview
@@ -32,6 +32,17 @@
 | [23](#23-ansiarqv) | <img src="slides/ansiarqv_2/01.jpg" width="70"> | [@ansiarqv](https://www.tiktok.com/@ansiarqv) | 1.6M | 343.8K | 142.7K | 21.5% | 7 | Telegram self-development channel | Telegram Channel |
 | [24](#24-wellknowsam) | <img src="slides/wellknowsam_7/01.jpg" width="70"> | [@wellknowsam](https://www.tiktok.com/@wellknowsam) | 2.6M | 343.0K | 191.5K | 13.2% | 5 | Masculine self-improvement content | — |
 | [25](#25-chicideasfy) | <img src="slides/chicideasfy_2/01.jpg" width="70"> | [@chicideasfy](https://www.tiktok.com/@chicideasfy) | 1.8M | 342.1K | 121.8K | 19.0% | 11 | Lifestyle and self-improvement content | Social inspiration |
+| [26](#26-uselockedinapp) | <img src="slides/uselockedinapp_7689222080155438369/01.jpg" width="70"> | [@uselockedinapp](https://www.tiktok.com/@uselockedinapp) | 2.0M | 274.2K | 198.1K | 13.7% | 5 | LockedIn, a habit app (waitlist) | Mobile app |
+| [27](#27-motiondreambig) | <img src="slides/motiondreambig_7678749984258559234/01.jpg" width="70"> | [@motiondreambig](https://www.tiktok.com/@motiondreambig) | 1.3M | 207.4K | 71.0K | 16.0% | 6 | — | — |
+| [28](#28-motiondreambig) | <img src="slides/motiondreambig_7633830032586050838/01.jpg" width="70"> | [@motiondreambig](https://www.tiktok.com/@motiondreambig) | 857.6K | 163.0K | 56.4K | 19.0% | 6 | — | — |
+| [29](#29-sklandmore) | <img src="slides/sklandmore_7640414116795960609/01.jpg" width="70"> | [@sklandmore](https://www.tiktok.com/@sklandmore) | 1.0M | 150.5K | 47.7K | 15.0% | 6 | — | — |
+| [30](#30-motiondreambig) | <img src="slides/motiondreambig_7627128559399701782/01.jpg" width="70"> | [@motiondreambig](https://www.tiktok.com/@motiondreambig) | 967.2K | 145.3K | 47.8K | 15.0% | 6 | — | — |
+| [31](#31-slowinternetclub) | <img src="slides/slowinternetclub_7693553109938752799/01.jpg" width="70"> | [@slowinternetclub](https://www.tiktok.com/@slowinternetclub) | 1.7M | 118.6K | 74.3K | 7.0% | 6 | Memo, a screen-time app blocker | Mobile app |
+| [32](#32-dorianfrog) | <img src="slides/dorian.frog_7696990065343532309/01.jpg" width="70"> | [@dorian.frog](https://www.tiktok.com/@dorian.frog) | 626.6K | 55.8K | 12.1K | 8.9% | 2 | Wondering, a learning app | Mobile app |
+| [33](#33-slowinternetclub) | <img src="slides/slowinternetclub_7690060477006679326/01.jpg" width="70"> | [@slowinternetclub](https://www.tiktok.com/@slowinternetclub) | 280.4K | 40.7K | 21.1K | 14.5% | 6 | Memo, a screen-time app blocker | Mobile app |
+| [34](#34-slowinternetclub) | <img src="slides/slowinternetclub_7691510210778762526/01.jpg" width="70"> | [@slowinternetclub](https://www.tiktok.com/@slowinternetclub) | 315.0K | 39.6K | 16.2K | 12.6% | 6 | Memo, a screen-time app blocker | Mobile app |
+| [35](#35-thatgirlblogg) | <img src="slides/thatgirl.blogg_7587136391373475094/01.jpg" width="70"> | [@thatgirl.blogg](https://www.tiktok.com/@thatgirl.blogg) | 209.7K | 23.5K | 10.1K | 11.2% | 10 | Wellness and self-improvement blog | Link page |
+| [36](#36-dorianfrog) | <img src="slides/dorian.frog_7696252759917481236/01.jpg" width="70"> | [@dorian.frog](https://www.tiktok.com/@dorian.frog) | 209.9K | 20.1K | 11.1K | 9.6% | 6 | Wondering, a learning app | Mobile app |
 
 ## Slideshows
 
@@ -332,4 +343,150 @@ Sells: Masculine self-improvement content · Audience: United Kingdom 20.97%, Un
 Sells: Lifestyle and self-improvement content · Medium: Social inspiration · Audience: United States 9.80%, Turkey 7.84%, France 6.86%
 
 <img src="slides/chicideasfy_2/01.jpg" width="120"> <img src="slides/chicideasfy_2/02.jpg" width="120"> <img src="slides/chicideasfy_2/03.jpg" width="120"> <img src="slides/chicideasfy_2/04.jpg" width="120"> <img src="slides/chicideasfy_2/05.jpg" width="120"> <img src="slides/chicideasfy_2/06.jpg" width="120"> <img src="slides/chicideasfy_2/07.jpg" width="120"> <img src="slides/chicideasfy_2/08.jpg" width="120"> <img src="slides/chicideasfy_2/09.jpg" width="120"> <img src="slides/chicideasfy_2/10.jpg" width="120"> <img src="slides/chicideasfy_2/11.jpg" width="120">
+
+### 26. @uselockedinapp
+
+**2.0M** views · **274.2K** likes · **198.1K** saves · ER **13.7%** · save rate 9.9% · 5 slides · 194 comments · 23.2K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@uselockedinapp/photo/7689222080155438369) · posted 2026-09-24
+
+[@uselockedinapp](https://www.tiktok.com/@uselockedinapp) (LockedIn App) · 20.6K followers · 9 following
+
+> LockedIn App coming soon 🚀 The app to actually achieve your goals by turning work into an easy habit. Join the waitlist below to lock in and save your 50% 🤝🔒
+
+Sells: LockedIn, a habit app (waitlist) · Medium: Mobile app · Promotes: lockedin · Link in bio: https://uselockedinapp.com
+
+<img src="slides/uselockedinapp_7689222080155438369/01.jpg" width="120"> <img src="slides/uselockedinapp_7689222080155438369/02.jpg" width="120"> <img src="slides/uselockedinapp_7689222080155438369/03.jpg" width="120"> <img src="slides/uselockedinapp_7689222080155438369/04.jpg" width="120"> <img src="slides/uselockedinapp_7689222080155438369/05.jpg" width="120">
+
+### 27. @motiondreambig
+
+**1.3M** views · **207.4K** likes · **71.0K** saves · ER **16.0%** · save rate 5.5% · 6 slides · 292 comments · 8.0K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@motiondreambig/photo/7678749984258559234) · posted 2026-08-27
+
+[@motiondreambig](https://www.tiktok.com/@motiondreambig) (motion) · 60.5K followers · 6 following
+
+> this is my canvas  dream big  contact: contactmotionhq@gmail.com
+
+<img src="slides/motiondreambig_7678749984258559234/01.jpg" width="120"> <img src="slides/motiondreambig_7678749984258559234/02.jpg" width="120"> <img src="slides/motiondreambig_7678749984258559234/03.jpg" width="120"> <img src="slides/motiondreambig_7678749984258559234/04.jpg" width="120"> <img src="slides/motiondreambig_7678749984258559234/05.jpg" width="120"> <img src="slides/motiondreambig_7678749984258559234/06.jpg" width="120">
+
+### 28. @motiondreambig
+
+**857.6K** views · **163.0K** likes · **56.4K** saves · ER **19.0%** · save rate 6.6% · 6 slides · 158 comments · 5.7K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@motiondreambig/photo/7633830032586050838) · posted 2026-04-28
+
+[@motiondreambig](https://www.tiktok.com/@motiondreambig) (motion) · 60.5K followers · 6 following
+
+> this is my canvas  dream big  contact: contactmotionhq@gmail.com
+
+<img src="slides/motiondreambig_7633830032586050838/01.jpg" width="120"> <img src="slides/motiondreambig_7633830032586050838/02.jpg" width="120"> <img src="slides/motiondreambig_7633830032586050838/03.jpg" width="120"> <img src="slides/motiondreambig_7633830032586050838/04.jpg" width="120"> <img src="slides/motiondreambig_7633830032586050838/05.jpg" width="120"> <img src="slides/motiondreambig_7633830032586050838/06.jpg" width="120">
+
+### 29. @sklandmore
+
+**1.0M** views · **150.5K** likes · **47.7K** saves · ER **15.0%** · save rate 4.8% · 6 slides · 274 comments · 4.1K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@sklandmore/photo/7640414116795960609) · posted 2026-05-16
+
+[@sklandmore](https://www.tiktok.com/@sklandmore) (𝓢.🪽) · 36.2K followers · 22 following
+
+> you are beautiful 🫶 requests or suggestions for videos are very welcome!!
+
+<img src="slides/sklandmore_7640414116795960609/01.jpg" width="120"> <img src="slides/sklandmore_7640414116795960609/02.jpg" width="120"> <img src="slides/sklandmore_7640414116795960609/03.jpg" width="120"> <img src="slides/sklandmore_7640414116795960609/04.jpg" width="120"> <img src="slides/sklandmore_7640414116795960609/05.jpg" width="120"> <img src="slides/sklandmore_7640414116795960609/06.jpg" width="120">
+
+### 30. @motiondreambig
+
+**967.2K** views · **145.3K** likes · **47.8K** saves · ER **15.0%** · save rate 4.9% · 6 slides · 110 comments · 4.6K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@motiondreambig/photo/7627128559399701782) · posted 2026-04-10
+
+[@motiondreambig](https://www.tiktok.com/@motiondreambig) (motion) · 60.5K followers · 6 following
+
+> this is my canvas  dream big  contact: contactmotionhq@gmail.com
+
+<img src="slides/motiondreambig_7627128559399701782/01.jpg" width="120"> <img src="slides/motiondreambig_7627128559399701782/02.jpg" width="120"> <img src="slides/motiondreambig_7627128559399701782/03.jpg" width="120"> <img src="slides/motiondreambig_7627128559399701782/04.jpg" width="120"> <img src="slides/motiondreambig_7627128559399701782/05.jpg" width="120"> <img src="slides/motiondreambig_7627128559399701782/06.jpg" width="120">
+
+### 31. @slowinternetclub
+
+**1.7M** views · **118.6K** likes · **74.3K** saves · ER **7.0%** · save rate 4.4% · 6 slides · 168 comments · 4.3K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@slowinternetclub/photo/7693553109938752799) · posted 2026-10-07
+
+[@slowinternetclub](https://www.tiktok.com/@slowinternetclub) (slow internet club) · 6.5K followers · 14 following
+
+> unrot your brain 🧠 search "memo app blocker" on the App Store ↓
+
+Sells: Memo, a screen-time app blocker · Medium: Mobile app · Promotes: memo · Link in bio: getmemoriapp.com/tt
+
+<img src="slides/slowinternetclub_7693553109938752799/01.jpg" width="120"> <img src="slides/slowinternetclub_7693553109938752799/02.jpg" width="120"> <img src="slides/slowinternetclub_7693553109938752799/03.jpg" width="120"> <img src="slides/slowinternetclub_7693553109938752799/04.jpg" width="120"> <img src="slides/slowinternetclub_7693553109938752799/05.jpg" width="120"> <img src="slides/slowinternetclub_7693553109938752799/06.jpg" width="120">
+
+### 32. @dorian.frog
+
+**626.6K** views · **55.8K** likes · **12.1K** saves · ER **8.9%** · save rate 1.9% · 2 slides · 1.1K comments · 3.2K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@dorian.frog/photo/7696990065343532309) · posted 2026-10-15
+
+[@dorian.frog](https://www.tiktok.com/@dorian.frog) (Dorian) · 6.0K followers · 10 following
+
+> my hobby is learning new skills (and reading books)
+
+Sells: Wondering, a learning app · Medium: Mobile app · Link in bio: https://wondering.app/c/dorian
+
+<img src="slides/dorian.frog_7696990065343532309/01.jpg" width="120"> <img src="slides/dorian.frog_7696990065343532309/02.jpg" width="120">
+
+### 33. @slowinternetclub
+
+**280.4K** views · **40.7K** likes · **21.1K** saves · ER **14.5%** · save rate 7.5% · 6 slides · 31 comments · 2.6K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@slowinternetclub/photo/7690060477006679326) · posted 2026-09-27
+
+[@slowinternetclub](https://www.tiktok.com/@slowinternetclub) (slow internet club) · 6.5K followers · 14 following
+
+> unrot your brain 🧠 search "memo app blocker" on the App Store ↓
+
+Sells: Memo, a screen-time app blocker · Medium: Mobile app · Promotes: memo · Link in bio: getmemoriapp.com/tt
+
+<img src="slides/slowinternetclub_7690060477006679326/01.jpg" width="120"> <img src="slides/slowinternetclub_7690060477006679326/02.jpg" width="120"> <img src="slides/slowinternetclub_7690060477006679326/03.jpg" width="120"> <img src="slides/slowinternetclub_7690060477006679326/04.jpg" width="120"> <img src="slides/slowinternetclub_7690060477006679326/05.jpg" width="120"> <img src="slides/slowinternetclub_7690060477006679326/06.jpg" width="120">
+
+### 34. @slowinternetclub
+
+**315.0K** views · **39.6K** likes · **16.2K** saves · ER **12.6%** · save rate 5.1% · 6 slides · 37 comments · 1.8K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@slowinternetclub/photo/7691510210778762526) · posted 2026-10-01
+
+[@slowinternetclub](https://www.tiktok.com/@slowinternetclub) (slow internet club) · 6.5K followers · 14 following
+
+> unrot your brain 🧠 search "memo app blocker" on the App Store ↓
+
+Sells: Memo, a screen-time app blocker · Medium: Mobile app · Promotes: memo · Link in bio: getmemoriapp.com/tt
+
+<img src="slides/slowinternetclub_7691510210778762526/01.jpg" width="120"> <img src="slides/slowinternetclub_7691510210778762526/02.jpg" width="120"> <img src="slides/slowinternetclub_7691510210778762526/03.jpg" width="120"> <img src="slides/slowinternetclub_7691510210778762526/04.jpg" width="120"> <img src="slides/slowinternetclub_7691510210778762526/05.jpg" width="120"> <img src="slides/slowinternetclub_7691510210778762526/06.jpg" width="120">
+
+### 35. @thatgirl.blogg
+
+**209.7K** views · **23.5K** likes · **10.1K** saves · ER **11.2%** · save rate 4.8% · 10 slides · 40 comments · 733 shares
+
+[Open the post on TikTok](https://www.tiktok.com/@thatgirl.blogg/photo/7587136391373475094) · posted 2025-12-23
+
+[@thatgirl.blogg](https://www.tiktok.com/@thatgirl.blogg) (That Girl) · 30.9K followers · 22 following
+
+> Wellness & Self-improvement
+
+Sells: Wellness and self-improvement blog · Medium: Link page · Link in bio: https://beacons.ai/thatgirl.blog
+
+<img src="slides/thatgirl.blogg_7587136391373475094/01.jpg" width="120"> <img src="slides/thatgirl.blogg_7587136391373475094/02.jpg" width="120"> <img src="slides/thatgirl.blogg_7587136391373475094/03.jpg" width="120"> <img src="slides/thatgirl.blogg_7587136391373475094/04.jpg" width="120"> <img src="slides/thatgirl.blogg_7587136391373475094/05.jpg" width="120"> <img src="slides/thatgirl.blogg_7587136391373475094/06.jpg" width="120"> <img src="slides/thatgirl.blogg_7587136391373475094/07.jpg" width="120"> <img src="slides/thatgirl.blogg_7587136391373475094/08.jpg" width="120"> <img src="slides/thatgirl.blogg_7587136391373475094/09.jpg" width="120"> <img src="slides/thatgirl.blogg_7587136391373475094/10.jpg" width="120">
+
+### 36. @dorian.frog
+
+**209.9K** views · **20.1K** likes · **11.1K** saves · ER **9.6%** · save rate 5.3% · 6 slides · 78 comments · 860 shares
+
+[Open the post on TikTok](https://www.tiktok.com/@dorian.frog/photo/7696252759917481236) · posted 2026-10-13
+
+[@dorian.frog](https://www.tiktok.com/@dorian.frog) (Dorian) · 6.0K followers · 10 following
+
+> my hobby is learning new skills (and reading books)
+
+Sells: Wondering, a learning app · Medium: Mobile app · Promotes: wondering · Link in bio: https://wondering.app/c/dorian
+
+<img src="slides/dorian.frog_7696252759917481236/01.jpg" width="120"> <img src="slides/dorian.frog_7696252759917481236/02.jpg" width="120"> <img src="slides/dorian.frog_7696252759917481236/03.jpg" width="120"> <img src="slides/dorian.frog_7696252759917481236/04.jpg" width="120"> <img src="slides/dorian.frog_7696252759917481236/05.jpg" width="120"> <img src="slides/dorian.frog_7696252759917481236/06.jpg" width="120">
 

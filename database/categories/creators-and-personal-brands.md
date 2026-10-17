@@ -2,12 +2,12 @@
 
 **Brands of this type on Amplify:** ~9 · Lifestyle and travel vlogs, personal brands, fashion commentary, new brand launches, content freelancing
 
-## Slideshow niches (from ReelFarm)
+## Slideshow niches
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
 | [creator growth](../niches/creator-growth/README.md) | approved | 11 | 7 |
-| [self improvement](../niches/self-improvement/README.md) | approved | 25 | 22 |
+| [self improvement](../niches/self-improvement/README.md) | approved | 36 | 28 |
 | [feminine lifestyle](../niches/feminine-lifestyle/README.md) | approved | 25 | 18 |
 | [men's lifestyle](../niches/mens-lifestyle/README.md) | approved | 19 | 11 |
 | [travel](../niches/travel/README.md) | approved | 8 | 5 |

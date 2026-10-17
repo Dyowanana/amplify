@@ -6,15 +6,15 @@
 
 > Fitness formats (P005 to P009) come from one creator (@bluebro.fit) with a recurring mascot: learn the format, draw a new character.
 
-## Slideshow niches (from ReelFarm)
+## Slideshow niches
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
 | [fitness](../niches/fitness/README.md) | approved | 23 | 14 |
-| [wellness](../niches/wellness/README.md) | approved | 23 | 16 |
+| [wellness](../niches/wellness/README.md) | approved | 24 | 17 |
 | [mental health](../niches/mental-health/README.md) | approved | 25 | 18 |
 | [gut health](../niches/gut-health/README.md) | approved | 3 | 2 |
-| [healthy eating](../niches/healthy-eating/README.md) | approved | 24 | 14 |
+| [healthy eating](../niches/healthy-eating/README.md) | approved | 25 | 15 |
 
 ## Templates already studied for this type
 

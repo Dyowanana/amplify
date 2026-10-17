@@ -10,7 +10,8 @@
       "creator-growth",
       "productivity",
       "career",
-      "technology"
+      "technology",
+      "ecommerce"
     ],
     "templates": {
       "made_for_it": [
@@ -126,7 +127,8 @@
     "brands": "~8",
     "sell": "Personal finance for women, mutual funds, forex trading bots, crypto analytics",
     "niches": [
-      "personal-finance"
+      "personal-finance",
+      "ecommerce"
     ],
     "templates": {
       "made_for_it": [
@@ -203,12 +205,13 @@
     "slug": "everything-else",
     "name": "Everything else",
     "brands": "~4",
-    "sell": "Real estate, business marketplaces, photography, lab automation",
+    "sell": "Real estate, business marketplaces, photography, lab automation, event and wedding services",
     "niches": [
       "interior-design",
       "photography",
       "pets",
-      "art"
+      "art",
+      "weddings"
     ],
     "templates": {
       "made_for_it": [

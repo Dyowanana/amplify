@@ -2,7 +2,7 @@
 
 A guide for building the slideshow database into the Amplify app. The data is plain JSON plus JPEG files. No database server or API is needed.
 
-**What's in it:** 34 niches, 524 TikTok slideshows that performed well, and 3,597 slide images (about 385 MB). The niches are grouped into 9 business types (what Amplify's users sell), and each business type is linked to the Amplify templates that suit it. Every slideshow and stat was collected from the ReelFarm slideshow database (reel.farm/dashboard/database) on 2026-10-17.
+**What's in it:** 36 niches, 567 TikTok slideshows that performed well, and 3,916 slide images (about 410 MB). The niches are grouped into 9 business types (what Amplify's users sell), and each business type is linked to the Amplify templates that suit it. Most slideshows (524) come from the ReelFarm slideshow database (reel.farm/dashboard/database). The other 43 are TikTok posts the owner picked, read straight from TikTok with exact stats and the post link. Everything was collected on 2026-10-17.
 
 ## Layout
 
@@ -15,9 +15,10 @@ database/
   niches/<slug>/
     niche.json                    niche summary: status, counts, how it was collected
     slideshows.json               the slideshows (array)  ← the main data
-    slides/<account>_<index>/01.jpg, 02.jpg …   the slide images, in order
+    slides/<account>_<index or post id>/01.jpg, 02.jpg …   the slide images, in order
     README.md                     generated gallery page
-    reelfarm_raw.json             source capture used by the builder (don't read it in the app)
+    reelfarm_raw.json             ReelFarm capture used by the builder (don't read it in the app)
+    tiktok_raw.json               owner-picked TikTok posts used by the builder (only in some niches, don't read it in the app)
 content-bank/P0xx-<name>/pillar.md   the Amplify templates the business types point to
 ```
 
@@ -46,40 +47,45 @@ A niche can belong to more than one business type (e.g. `creator-growth` is in A
 | Field | Meaning |
 |---|---|
 | `slug`, `niche` | folder name and display name (`hair-care`, "hair care") |
-| `status` | `approved`, `pending` or `needs-more`. **Only show `approved`.** All 34 are approved today |
+| `status` | `approved`, `pending` or `needs-more`. **Only show `approved`.** |
 | `slideshows`, `accounts`, `slides`, `size_mb` | counts |
 | `collected` | date the stats were captured. Views and likes are a snapshot from that date |
-| `source`, `reelfarm_total`, `sort`, `scanned`, `rule` | where it came from and how the slideshows were chosen |
+| `source`, `reelfarm_total`, `sort`, `scanned`, `rule` | where it came from and how the slideshows were chosen. A niche built only from the owner's TikTok links has `reelfarm_total` and `scanned` set to null |
+| `from_tiktok_links` | how many of the slideshows are owner-picked TikTok posts |
 | `notes` | owner notes |
 | `skipped_broken` | slideshows that were left out because their images couldn't be downloaded |
 | `removed` (optional) | slideshow folders the owner removed. The builder won't add them back |
 
 ## niches/&lt;slug&gt;/slideshows.json
 
-An array, best first (ReelFarm "most likes" order). Every record has the same fields.
+An array, best first (most likes first). Every record has the same fields. `source` says where a record came from: `reelfarm`, or `tiktok` for a post the owner picked from TikTok.
 
 | Field | Example | Notes |
 |---|---|---|
 | `n` | `1` | position in this niche |
-| `reelfarm_rank` | `1` | rank on ReelFarm before filtering |
+| `source` | `"reelfarm"` or `"tiktok"` | where the record came from |
+| `reelfarm_rank` | `1` or `null` | rank on ReelFarm before filtering, null for `tiktok` records |
 | `account` | `"studyw.tok"` | TikTok handle, no @ |
 | `nickname` | `"A+ Student Tips 💡"` | display name, may contain emoji |
 | `account_url` | `"https://www.tiktok.com/@studyw.tok"` | |
-| `post_url` | `null` | ReelFarm doesn't expose the post link, so this is always null for now |
+| `post_url` | `"https://www.tiktok.com/@dropship/photo/7400…"` or `null` | set for `tiktok` records. ReelFarm doesn't expose the post link, so it's null for `reelfarm` records |
+| `posted`, `caption` | `"2024-08-07"`, `"Dropshipping in 24hrs
+#entrepreneur …"` | posting date (UTC) and the post's title plus caption. `tiktok` records only, null otherwise |
 | `followers`, `following` | `"1.0M"`, `"124"` | display strings |
-| `account_region` | `"NL"` | ISO country code |
-| `audience_regions` | `["South Africa 38.71%", …]` | top 3, display strings |
-| `sells` | `"Study tools and motivation"` or `null` | ReelFarm's guess at what the account promotes |
+| `account_region` | `"NL"` or `null` | ISO country code. TikTok doesn't show it, so null for `tiktok` records |
+| `audience_regions` | `["South Africa 38.71%", …]` or `null` | top 3, display strings. Null for `tiktok` records |
+| `sells` | `"Study tools and motivation"` or `null` | what the account promotes: ReelFarm's guess, or for `tiktok` records written from the bio, link in bio and slides |
 | `product_medium` | `"Website"` or `null` | how it's sold |
 | `link_in_bio`, `bio` | | as shown on the profile, may be null |
 | `views`, `likes`, `saves` | `"22.3M"`, `"2.9M"`, `"585.0K"` | display strings |
+| `comments`, `shares` | `"8.7K"`, `"15.0K"` or `null` | display strings, `tiktok` records only (ReelFarm doesn't show them) |
 | `engagement_rate` | `"13.0%"` | likes ÷ views, the same formula ReelFarm uses |
 | `save_rate` | `"2.6%"` | saves ÷ views |
 | `app` | `"sage ai"` or `null` | the promoted app, when the slideshow advertises one |
-| `found_in` | `"mobile-app"` or `null` | the ReelFarm category it came from (used in `apps-and-saas`) |
+| `found_in` | `"mobile-app"`, `"owner's TikTok link"` or `null` | the ReelFarm category it came from (used in `apps-and-saas`), or `"owner's TikTok link"` |
 | `slide_count` | `3` | |
 | `slides` | `["slides/studyw.tok_1/01.jpg", …]` | paths **relative to the niche folder**, in slide order |
-| `source_images` | `["https://reelfarm-slideshow-images…/slideshow_2ae9c8b9.jpg", …]` | ReelFarm's originals at full size. They can stop working at any time, so use `slides` |
+| `source_images` | `["https://reelfarm-slideshow-images…/slideshow_2ae9c8b9.jpg", …]` | the originals at full size (ReelFarm's host, or TikTok's signed links, which expire within days). They can stop working at any time, so use `slides` |
 
 **Numbers are display strings.** Turn them into numbers like this: `"585.0K"` → 585000, `"2.9M"` → 2900000, `"13.0%"` → 13.0. Strip commas first.
 
@@ -138,7 +144,7 @@ const coverUrl = `${RAW}/niches/skincare/${shows[0].slides[0]}`;
 
 - **These are reference posts. Never repost them.** The slides belong to their creators. Amplify learns the format (the structure, pacing and hook type) and makes new posts with new wording, characters and art (rule 3 in `doc/Owner Rules.md`). Don't build a "repost" or "download and post" button.
 - **Some hooks need care.** Dating has manipulation-style hooks ("make him obsessed"), and mental health has dark-psychology ones. They're fine as format examples, but a brand shouldn't repeat that message. Health: prescription medicines such as GLP-1 can't be advertised to the public in the UK (see the `gap` field).
-- **Thin niches:** technology (2 slideshows), art (2), pets (3), faith (3), photography (4), hair care (5) and beauty (6) are small because ReelFarm has few strong posts there. Hide or label them if you set a minimum.
+- **Thin niches:** weddings (2 slideshows), pets (3), faith (3), gut health (3), photography (4), art (6), beauty (7) and hair care (7) are small because ReelFarm has few strong posts there. Hide or label them if you set a minimum.
 - **Gaps the owner will fill by hand later:** food beyond healthy eating, crypto, forex and mutual funds, B2B and AI software, kids and storybooks, gut health, and travel. New niches will have the same files and fields.
 
 ## Updating the data

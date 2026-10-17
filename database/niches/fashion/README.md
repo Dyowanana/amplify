@@ -1,6 +1,6 @@
 # Fashion
 
-**Status:** approved · 16 slideshows from 10 accounts · 157 slides · collected 2026-10-17 from ReelFarm (180 in this niche there, sorted by most likes; top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views).
+**Status:** approved · 20 slideshows from 12 accounts · 192 slides · collected 2026-10-17 from ReelFarm (180 in this niche there, sorted by most likes; top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views), plus 4 from TikTok links the owner picked.
 
 
 ## Overview
@@ -12,17 +12,21 @@
 | [3](#3-limitlesscore) | <img src="slides/limitless_core_2/01.jpg" width="70"> | [@limitless_core](https://www.tiktok.com/@limitless_core) | 4.1M | 820.1K | 116.9K | 20.0% | 12 | — | Pinterest |
 | [4](#4-girlmanual) | <img src="slides/girlmanual_0/01.jpg" width="70"> | [@girlmanual](https://www.tiktok.com/@girlmanual) | 4.1M | 584.3K | 414.1K | 14.3% | 6 | Lifestyle inspiration and affiliate products | Amazon Affiliate |
 | [5](#5-limitlesscore) | <img src="slides/limitless_core_1/01.jpg" width="70"> | [@limitless_core](https://www.tiktok.com/@limitless_core) | 2.6M | 580.2K | 69.4K | 22.3% | 8 | — | Pinterest |
-| [6](#6-girlmanual) | <img src="slides/girlmanual_1/01.jpg" width="70"> | [@girlmanual](https://www.tiktok.com/@girlmanual) | 2.4M | 377.1K | 160.4K | 15.7% | 8 | Lifestyle inspiration and affiliate products | Amazon Affiliate |
-| [7](#7-sriseroja) | <img src="slides/sriseroja__0/01.jpg" width="70"> | [@sriseroja_](https://www.tiktok.com/@sriseroja_) | 3.7M | 282.3K | 278.8K | 7.6% | 24 | Hijabi outfit inspiration content | Content Creator |
-| [8](#8-yourfashionguru) | <img src="slides/yourfashion_guru_2/01.jpg" width="70"> | [@yourfashion_guru](https://www.tiktok.com/@yourfashion_guru) | 1.1M | 165.5K | 64.3K | 15.0% | 12 | Luxury fashion inspiration content | — |
-| [9](#9-jillfabienne) | <img src="slides/jill.fabienne__1/01.jpg" width="70"> | [@jill.fabienne_](https://www.tiktok.com/@jill.fabienne_) | 1.2M | 63.1K | 23.7K | 5.3% | 18 | Fashion haul affiliate content | Affiliate Marketing |
-| [10](#10-trendstylr) | <img src="slides/trendstylr_0/01.jpg" width="70"> | [@trendstylr](https://www.tiktok.com/@trendstylr) | 495.1K | 32.6K | 21.7K | 6.6% | 6 | Personal styling services and affiliate | Affiliate |
-| [11](#11-yourfashionguru) | <img src="slides/yourfashion_guru_0/01.jpg" width="70"> | [@yourfashion_guru](https://www.tiktok.com/@yourfashion_guru) | 216.8K | 30.3K | 7.7K | 14.0% | 9 | Luxury fashion inspiration content | — |
-| [12](#12-trendstylr) | <img src="slides/trendstylr_1/01.jpg" width="70"> | [@trendstylr](https://www.tiktok.com/@trendstylr) | 319.6K | 28.5K | 17.5K | 8.9% | 6 | Personal styling services and affiliate | Affiliate |
-| [13](#13-bylauranicole) | <img src="slides/bylauranicole_2/01.jpg" width="70"> | [@bylauranicole](https://www.tiktok.com/@bylauranicole) | 338.6K | 27.0K | 9.2K | 8.0% | 9 | Fashion and lifestyle content | Affiliate Links |
-| [14](#14-bylauranicole) | <img src="slides/bylauranicole_1/01.jpg" width="70"> | [@bylauranicole](https://www.tiktok.com/@bylauranicole) | 286.8K | 26.4K | 11.6K | 9.2% | 11 | Fashion and lifestyle content | Affiliate Links |
-| [15](#15-lasuzzarini) | <img src="slides/lasuzzarini_0/01.jpg" width="70"> | [@lasuzzarini](https://www.tiktok.com/@lasuzzarini) | 326.1K | 25.0K | 6.9K | 7.7% | 10 | Lifestyle and fashion inspiration content | Substack |
-| [16](#16-ppprettyinredd) | <img src="slides/ppprettyinredd_1/01.jpg" width="70"> | [@ppprettyinredd](https://www.tiktok.com/@ppprettyinredd) | 245.1K | 3.3K | 3.4K | 1.3% | 7 | Minimalist lifestyle content | Email list |
+| [6](#6-veloraaeditss) | <img src="slides/veloraaeditss_7681231851414998290/01.jpg" width="70"> | [@veloraaeditss](https://www.tiktok.com/@veloraaeditss) | 3.0M | 540.2K | 94.0K | 18.0% | 12 | — | — |
+| [7](#7-girlmanual) | <img src="slides/girlmanual_1/01.jpg" width="70"> | [@girlmanual](https://www.tiktok.com/@girlmanual) | 2.4M | 377.1K | 160.4K | 15.7% | 8 | Lifestyle inspiration and affiliate products | Amazon Affiliate |
+| [8](#8-veloraaeditss) | <img src="slides/veloraaeditss_7681625085345664274/01.jpg" width="70"> | [@veloraaeditss](https://www.tiktok.com/@veloraaeditss) | 2.1M | 282.4K | 71.1K | 13.4% | 13 | — | — |
+| [9](#9-sriseroja) | <img src="slides/sriseroja__0/01.jpg" width="70"> | [@sriseroja_](https://www.tiktok.com/@sriseroja_) | 3.7M | 282.3K | 278.8K | 7.6% | 24 | Hijabi outfit inspiration content | Content Creator |
+| [10](#10-yourfashionguru) | <img src="slides/yourfashion_guru_2/01.jpg" width="70"> | [@yourfashion_guru](https://www.tiktok.com/@yourfashion_guru) | 1.1M | 165.5K | 64.3K | 15.0% | 12 | Luxury fashion inspiration content | — |
+| [11](#11-veloraaeditss) | <img src="slides/veloraaeditss_7680469863768575239/01.jpg" width="70"> | [@veloraaeditss](https://www.tiktok.com/@veloraaeditss) | 1.1M | 165.4K | 39.6K | 15.0% | 8 | — | — |
+| [12](#12-girl1circle) | <img src="slides/girl1circle_7660981350459084064/01.jpg" width="70"> | [@girl1circle](https://www.tiktok.com/@girl1circle) | 3.2M | 110.7K | 20.5K | 3.5% | 2 | — | — |
+| [13](#13-jillfabienne) | <img src="slides/jill.fabienne__1/01.jpg" width="70"> | [@jill.fabienne_](https://www.tiktok.com/@jill.fabienne_) | 1.2M | 63.1K | 23.7K | 5.3% | 18 | Fashion haul affiliate content | Affiliate Marketing |
+| [14](#14-trendstylr) | <img src="slides/trendstylr_0/01.jpg" width="70"> | [@trendstylr](https://www.tiktok.com/@trendstylr) | 495.1K | 32.6K | 21.7K | 6.6% | 6 | Personal styling services and affiliate | Affiliate |
+| [15](#15-yourfashionguru) | <img src="slides/yourfashion_guru_0/01.jpg" width="70"> | [@yourfashion_guru](https://www.tiktok.com/@yourfashion_guru) | 216.8K | 30.3K | 7.7K | 14.0% | 9 | Luxury fashion inspiration content | — |
+| [16](#16-trendstylr) | <img src="slides/trendstylr_1/01.jpg" width="70"> | [@trendstylr](https://www.tiktok.com/@trendstylr) | 319.6K | 28.5K | 17.5K | 8.9% | 6 | Personal styling services and affiliate | Affiliate |
+| [17](#17-bylauranicole) | <img src="slides/bylauranicole_2/01.jpg" width="70"> | [@bylauranicole](https://www.tiktok.com/@bylauranicole) | 338.6K | 27.0K | 9.2K | 8.0% | 9 | Fashion and lifestyle content | Affiliate Links |
+| [18](#18-bylauranicole) | <img src="slides/bylauranicole_1/01.jpg" width="70"> | [@bylauranicole](https://www.tiktok.com/@bylauranicole) | 286.8K | 26.4K | 11.6K | 9.2% | 11 | Fashion and lifestyle content | Affiliate Links |
+| [19](#19-lasuzzarini) | <img src="slides/lasuzzarini_0/01.jpg" width="70"> | [@lasuzzarini](https://www.tiktok.com/@lasuzzarini) | 326.1K | 25.0K | 6.9K | 7.7% | 10 | Lifestyle and fashion inspiration content | Substack |
+| [20](#20-ppprettyinredd) | <img src="slides/ppprettyinredd_1/01.jpg" width="70"> | [@ppprettyinredd](https://www.tiktok.com/@ppprettyinredd) | 245.1K | 3.3K | 3.4K | 1.3% | 7 | Minimalist lifestyle content | Email list |
 
 ## Slideshows
 
@@ -86,7 +90,19 @@ Medium: Pinterest · Link in bio: https://pin.it/69UkkkJ7T · Audience: United S
 
 <img src="slides/limitless_core_1/01.jpg" width="120"> <img src="slides/limitless_core_1/02.jpg" width="120"> <img src="slides/limitless_core_1/03.jpg" width="120"> <img src="slides/limitless_core_1/04.jpg" width="120"> <img src="slides/limitless_core_1/05.jpg" width="120"> <img src="slides/limitless_core_1/06.jpg" width="120"> <img src="slides/limitless_core_1/07.jpg" width="120"> <img src="slides/limitless_core_1/08.jpg" width="120">
 
-### 6. @girlmanual
+### 6. @veloraaeditss
+
+**3.0M** views · **540.2K** likes · **94.0K** saves · ER **18.0%** · save rate 3.1% · 12 slides · 519 comments · 15.6K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@veloraaeditss/photo/7681231851414998290) · posted 2026-09-03
+
+[@veloraaeditss](https://www.tiktok.com/@veloraaeditss) (𐙚⋆ ˚｡) · 7.7K followers · 18 following
+
+> 𝘮𝘦𝘭𝘵𝘦𝘮𝘤𝘶𝘭𝘵 🦢
+
+<img src="slides/veloraaeditss_7681231851414998290/01.jpg" width="120"> <img src="slides/veloraaeditss_7681231851414998290/02.jpg" width="120"> <img src="slides/veloraaeditss_7681231851414998290/03.jpg" width="120"> <img src="slides/veloraaeditss_7681231851414998290/04.jpg" width="120"> <img src="slides/veloraaeditss_7681231851414998290/05.jpg" width="120"> <img src="slides/veloraaeditss_7681231851414998290/06.jpg" width="120"> <img src="slides/veloraaeditss_7681231851414998290/07.jpg" width="120"> <img src="slides/veloraaeditss_7681231851414998290/08.jpg" width="120"> <img src="slides/veloraaeditss_7681231851414998290/09.jpg" width="120"> <img src="slides/veloraaeditss_7681231851414998290/10.jpg" width="120"> <img src="slides/veloraaeditss_7681231851414998290/11.jpg" width="120"> <img src="slides/veloraaeditss_7681231851414998290/12.jpg" width="120">
+
+### 7. @girlmanual
 
 **2.4M** views · **377.1K** likes · **160.4K** saves · ER **15.7%** · save rate 6.7% · 8 slides
 
@@ -98,7 +114,19 @@ Sells: Lifestyle inspiration and affiliate products · Medium: Amazon Affiliate 
 
 <img src="slides/girlmanual_1/01.jpg" width="120"> <img src="slides/girlmanual_1/02.jpg" width="120"> <img src="slides/girlmanual_1/03.jpg" width="120"> <img src="slides/girlmanual_1/04.jpg" width="120"> <img src="slides/girlmanual_1/05.jpg" width="120"> <img src="slides/girlmanual_1/06.jpg" width="120"> <img src="slides/girlmanual_1/07.jpg" width="120"> <img src="slides/girlmanual_1/08.jpg" width="120">
 
-### 7. @sriseroja_
+### 8. @veloraaeditss
+
+**2.1M** views · **282.4K** likes · **71.1K** saves · ER **13.4%** · save rate 3.4% · 13 slides · 290 comments · 9.8K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@veloraaeditss/photo/7681625085345664274) · posted 2026-09-04
+
+[@veloraaeditss](https://www.tiktok.com/@veloraaeditss) (𐙚⋆ ˚｡) · 7.7K followers · 18 following
+
+> 𝘮𝘦𝘭𝘵𝘦𝘮𝘤𝘶𝘭𝘵 🦢
+
+<img src="slides/veloraaeditss_7681625085345664274/01.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/02.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/03.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/04.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/05.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/06.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/07.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/08.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/09.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/10.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/11.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/12.jpg" width="120"> <img src="slides/veloraaeditss_7681625085345664274/13.jpg" width="120">
+
+### 9. @sriseroja_
 
 **3.7M** views · **282.3K** likes · **278.8K** saves · ER **7.6%** · save rate 7.5% · 24 slides
 
@@ -110,7 +138,7 @@ Sells: Hijabi outfit inspiration content · Medium: Content Creator · Audience:
 
 <img src="slides/sriseroja__0/01.jpg" width="120"> <img src="slides/sriseroja__0/02.jpg" width="120"> <img src="slides/sriseroja__0/03.jpg" width="120"> <img src="slides/sriseroja__0/04.jpg" width="120"> <img src="slides/sriseroja__0/05.jpg" width="120"> <img src="slides/sriseroja__0/06.jpg" width="120"> <img src="slides/sriseroja__0/07.jpg" width="120"> <img src="slides/sriseroja__0/08.jpg" width="120"> <img src="slides/sriseroja__0/09.jpg" width="120"> <img src="slides/sriseroja__0/10.jpg" width="120"> <img src="slides/sriseroja__0/11.jpg" width="120"> <img src="slides/sriseroja__0/12.jpg" width="120"> <img src="slides/sriseroja__0/13.jpg" width="120"> <img src="slides/sriseroja__0/14.jpg" width="120"> <img src="slides/sriseroja__0/15.jpg" width="120"> <img src="slides/sriseroja__0/16.jpg" width="120"> <img src="slides/sriseroja__0/17.jpg" width="120"> <img src="slides/sriseroja__0/18.jpg" width="120"> <img src="slides/sriseroja__0/19.jpg" width="120"> <img src="slides/sriseroja__0/20.jpg" width="120"> <img src="slides/sriseroja__0/21.jpg" width="120"> <img src="slides/sriseroja__0/22.jpg" width="120"> <img src="slides/sriseroja__0/23.jpg" width="120"> <img src="slides/sriseroja__0/24.jpg" width="120">
 
-### 8. @yourfashion_guru
+### 10. @yourfashion_guru
 
 **1.1M** views · **165.5K** likes · **64.3K** saves · ER **15.0%** · save rate 5.8% · 12 slides
 
@@ -122,7 +150,31 @@ Sells: Luxury fashion inspiration content · Audience: United Kingdom 13.55%, Ge
 
 <img src="slides/yourfashion_guru_2/01.jpg" width="120"> <img src="slides/yourfashion_guru_2/02.jpg" width="120"> <img src="slides/yourfashion_guru_2/03.jpg" width="120"> <img src="slides/yourfashion_guru_2/04.jpg" width="120"> <img src="slides/yourfashion_guru_2/05.jpg" width="120"> <img src="slides/yourfashion_guru_2/06.jpg" width="120"> <img src="slides/yourfashion_guru_2/07.jpg" width="120"> <img src="slides/yourfashion_guru_2/08.jpg" width="120"> <img src="slides/yourfashion_guru_2/09.jpg" width="120"> <img src="slides/yourfashion_guru_2/10.jpg" width="120"> <img src="slides/yourfashion_guru_2/11.jpg" width="120"> <img src="slides/yourfashion_guru_2/12.jpg" width="120">
 
-### 9. @jill.fabienne_
+### 11. @veloraaeditss
+
+**1.1M** views · **165.4K** likes · **39.6K** saves · ER **15.0%** · save rate 3.6% · 8 slides · 138 comments · 4.8K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@veloraaeditss/photo/7680469863768575239) · posted 2026-09-01
+
+[@veloraaeditss](https://www.tiktok.com/@veloraaeditss) (𐙚⋆ ˚｡) · 7.7K followers · 18 following
+
+> 𝘮𝘦𝘭𝘵𝘦𝘮𝘤𝘶𝘭𝘵 🦢
+
+<img src="slides/veloraaeditss_7680469863768575239/01.jpg" width="120"> <img src="slides/veloraaeditss_7680469863768575239/02.jpg" width="120"> <img src="slides/veloraaeditss_7680469863768575239/03.jpg" width="120"> <img src="slides/veloraaeditss_7680469863768575239/04.jpg" width="120"> <img src="slides/veloraaeditss_7680469863768575239/05.jpg" width="120"> <img src="slides/veloraaeditss_7680469863768575239/06.jpg" width="120"> <img src="slides/veloraaeditss_7680469863768575239/07.jpg" width="120"> <img src="slides/veloraaeditss_7680469863768575239/08.jpg" width="120">
+
+### 12. @girl1circle
+
+**3.2M** views · **110.7K** likes · **20.5K** saves · ER **3.5%** · save rate 0.6% · 2 slides · 330 comments · 2.1K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@girl1circle/photo/7660981350459084064) · posted 2026-07-10
+
+[@girl1circle](https://www.tiktok.com/@girl1circle) (girlcircle) · 20.7K followers · 3 following
+
+> Daily beauty, styling & feminine glow-up advice
+
+<img src="slides/girl1circle_7660981350459084064/01.jpg" width="120"> <img src="slides/girl1circle_7660981350459084064/02.jpg" width="120">
+
+### 13. @jill.fabienne_
 
 **1.2M** views · **63.1K** likes · **23.7K** saves · ER **5.3%** · save rate 2.0% · 18 slides
 
@@ -134,7 +186,7 @@ Sells: Fashion haul affiliate content · Medium: Affiliate Marketing · Audience
 
 <img src="slides/jill.fabienne__1/01.jpg" width="120"> <img src="slides/jill.fabienne__1/02.jpg" width="120"> <img src="slides/jill.fabienne__1/03.jpg" width="120"> <img src="slides/jill.fabienne__1/04.jpg" width="120"> <img src="slides/jill.fabienne__1/05.jpg" width="120"> <img src="slides/jill.fabienne__1/06.jpg" width="120"> <img src="slides/jill.fabienne__1/07.jpg" width="120"> <img src="slides/jill.fabienne__1/08.jpg" width="120"> <img src="slides/jill.fabienne__1/09.jpg" width="120"> <img src="slides/jill.fabienne__1/10.jpg" width="120"> <img src="slides/jill.fabienne__1/11.jpg" width="120"> <img src="slides/jill.fabienne__1/12.jpg" width="120"> <img src="slides/jill.fabienne__1/13.jpg" width="120"> <img src="slides/jill.fabienne__1/14.jpg" width="120"> <img src="slides/jill.fabienne__1/15.jpg" width="120"> <img src="slides/jill.fabienne__1/16.jpg" width="120"> <img src="slides/jill.fabienne__1/17.jpg" width="120"> <img src="slides/jill.fabienne__1/18.jpg" width="120">
 
-### 10. @trendstylr
+### 14. @trendstylr
 
 **495.1K** views · **32.6K** likes · **21.7K** saves · ER **6.6%** · save rate 4.4% · 6 slides
 
@@ -146,7 +198,7 @@ Sells: Personal styling services and affiliate · Medium: Affiliate · Link in b
 
 <img src="slides/trendstylr_0/01.jpg" width="120"> <img src="slides/trendstylr_0/02.jpg" width="120"> <img src="slides/trendstylr_0/03.jpg" width="120"> <img src="slides/trendstylr_0/04.jpg" width="120"> <img src="slides/trendstylr_0/05.jpg" width="120"> <img src="slides/trendstylr_0/06.jpg" width="120">
 
-### 11. @yourfashion_guru
+### 15. @yourfashion_guru
 
 **216.8K** views · **30.3K** likes · **7.7K** saves · ER **14.0%** · save rate 3.6% · 9 slides
 
@@ -158,7 +210,7 @@ Sells: Luxury fashion inspiration content · Audience: United Kingdom 13.55%, Ge
 
 <img src="slides/yourfashion_guru_0/01.jpg" width="120"> <img src="slides/yourfashion_guru_0/02.jpg" width="120"> <img src="slides/yourfashion_guru_0/03.jpg" width="120"> <img src="slides/yourfashion_guru_0/04.jpg" width="120"> <img src="slides/yourfashion_guru_0/05.jpg" width="120"> <img src="slides/yourfashion_guru_0/06.jpg" width="120"> <img src="slides/yourfashion_guru_0/07.jpg" width="120"> <img src="slides/yourfashion_guru_0/08.jpg" width="120"> <img src="slides/yourfashion_guru_0/09.jpg" width="120">
 
-### 12. @trendstylr
+### 16. @trendstylr
 
 **319.6K** views · **28.5K** likes · **17.5K** saves · ER **8.9%** · save rate 5.5% · 6 slides
 
@@ -170,7 +222,7 @@ Sells: Personal styling services and affiliate · Medium: Affiliate · Link in b
 
 <img src="slides/trendstylr_1/01.jpg" width="120"> <img src="slides/trendstylr_1/02.jpg" width="120"> <img src="slides/trendstylr_1/03.jpg" width="120"> <img src="slides/trendstylr_1/04.jpg" width="120"> <img src="slides/trendstylr_1/05.jpg" width="120"> <img src="slides/trendstylr_1/06.jpg" width="120">
 
-### 13. @bylauranicole
+### 17. @bylauranicole
 
 **338.6K** views · **27.0K** likes · **9.2K** saves · ER **8.0%** · save rate 2.7% · 9 slides
 
@@ -182,7 +234,7 @@ Sells: Fashion and lifestyle content · Medium: Affiliate Links · Link in bio: 
 
 <img src="slides/bylauranicole_2/01.jpg" width="120"> <img src="slides/bylauranicole_2/02.jpg" width="120"> <img src="slides/bylauranicole_2/03.jpg" width="120"> <img src="slides/bylauranicole_2/04.jpg" width="120"> <img src="slides/bylauranicole_2/05.jpg" width="120"> <img src="slides/bylauranicole_2/06.jpg" width="120"> <img src="slides/bylauranicole_2/07.jpg" width="120"> <img src="slides/bylauranicole_2/08.jpg" width="120"> <img src="slides/bylauranicole_2/09.jpg" width="120">
 
-### 14. @bylauranicole
+### 18. @bylauranicole
 
 **286.8K** views · **26.4K** likes · **11.6K** saves · ER **9.2%** · save rate 4.0% · 11 slides
 
@@ -194,7 +246,7 @@ Sells: Fashion and lifestyle content · Medium: Affiliate Links · Link in bio: 
 
 <img src="slides/bylauranicole_1/01.jpg" width="120"> <img src="slides/bylauranicole_1/02.jpg" width="120"> <img src="slides/bylauranicole_1/03.jpg" width="120"> <img src="slides/bylauranicole_1/04.jpg" width="120"> <img src="slides/bylauranicole_1/05.jpg" width="120"> <img src="slides/bylauranicole_1/06.jpg" width="120"> <img src="slides/bylauranicole_1/07.jpg" width="120"> <img src="slides/bylauranicole_1/08.jpg" width="120"> <img src="slides/bylauranicole_1/09.jpg" width="120"> <img src="slides/bylauranicole_1/10.jpg" width="120"> <img src="slides/bylauranicole_1/11.jpg" width="120">
 
-### 15. @lasuzzarini
+### 19. @lasuzzarini
 
 **326.1K** views · **25.0K** likes · **6.9K** saves · ER **7.7%** · save rate 2.1% · 10 slides
 
@@ -206,7 +258,7 @@ Sells: Lifestyle and fashion inspiration content · Medium: Substack · Audience
 
 <img src="slides/lasuzzarini_0/01.jpg" width="120"> <img src="slides/lasuzzarini_0/02.jpg" width="120"> <img src="slides/lasuzzarini_0/03.jpg" width="120"> <img src="slides/lasuzzarini_0/04.jpg" width="120"> <img src="slides/lasuzzarini_0/05.jpg" width="120"> <img src="slides/lasuzzarini_0/06.jpg" width="120"> <img src="slides/lasuzzarini_0/07.jpg" width="120"> <img src="slides/lasuzzarini_0/08.jpg" width="120"> <img src="slides/lasuzzarini_0/09.jpg" width="120"> <img src="slides/lasuzzarini_0/10.jpg" width="120">
 
-### 16. @ppprettyinredd
+### 20. @ppprettyinredd
 
 **245.1K** views · **3.3K** likes · **3.4K** saves · ER **1.3%** · save rate 1.4% · 7 slides
 

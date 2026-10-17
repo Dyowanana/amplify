@@ -4,7 +4,7 @@
 
 > Dating and mental-health niches carry manipulation-style hooks ('make him obsessed', dark psychology). Fine as format references; check the message before a brand remakes one.
 
-## Slideshow niches (from ReelFarm)
+## Slideshow niches
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
@@ -12,7 +12,7 @@
 | [dating](../niches/dating/README.md) | approved | 23 | 16 |
 | [spirituality](../niches/spirituality/README.md) | approved | 22 | 12 |
 | [faith](../niches/faith/README.md) | approved | 3 | 2 |
-| [entertainment](../niches/entertainment/README.md) | approved | 24 | 15 |
+| [entertainment](../niches/entertainment/README.md) | approved | 26 | 16 |
 
 ## Templates already studied for this type
 

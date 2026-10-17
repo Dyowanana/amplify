@@ -185,7 +185,7 @@ Audience: United States 16.26%, Philippines 13.82%, United Kingdom 4.07%
 
 [@vera.medical.stud](https://www.tiktok.com/@vera.medical.stud) (Vera - Medical Student) · 1.6K followers · 0 following · account region US
 
-Sells: Feynman AI education app · Medium: Mobile App · Audience: United States 19.80%, Italy 6.93%, Netherlands 5.94%
+Sells: Feynman AI education app · Medium: Mobile App · Promotes: feynman · Audience: United States 19.80%, Italy 6.93%, Netherlands 5.94%
 
 <img src="slides/vera.medical.stud_0/01.jpg" width="120"> <img src="slides/vera.medical.stud_0/02.jpg" width="120"> <img src="slides/vera.medical.stud_0/03.jpg" width="120">
 
@@ -315,7 +315,7 @@ Audience: Philippines 35.51%, United States 9.42%, United Kingdom 7.25%
 
 [@learnwithmeee8](https://www.tiktok.com/@learnwithmeee8) (Learnwithmeee) · 1.9K followers · 1 following · account region US
 
-Sells: Feynman AI study app · Medium: Mobile App · Audience: United States 37.76%, Philippines 8.16%, Vietnam 5.10%
+Sells: Feynman AI study app · Medium: Mobile App · Promotes: feynman · Audience: United States 37.76%, Philippines 8.16%, Vietnam 5.10%
 
 <img src="slides/learnwithmeee8_0/01.jpg" width="120"> <img src="slides/learnwithmeee8_0/02.jpg" width="120"> <img src="slides/learnwithmeee8_0/03.jpg" width="120"> <img src="slides/learnwithmeee8_0/04.jpg" width="120"> <img src="slides/learnwithmeee8_0/05.jpg" width="120">
 

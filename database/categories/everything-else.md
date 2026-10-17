@@ -1,17 +1,18 @@
 # Everything else
 
-**Brands of this type on Amplify:** ~4 · Real estate, business marketplaces, photography, lab automation
+**Brands of this type on Amplify:** ~4 · Real estate, business marketplaces, photography, lab automation, event and wedding services
 
 > ⚠️ Photography has only 28 slideshows on ReelFarm, and there's nothing for lab automation or business marketplaces.
 
-## Slideshow niches (from ReelFarm)
+## Slideshow niches
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
-| [interior design](../niches/interior-design/README.md) | approved | 22 | 13 |
+| [interior design](../niches/interior-design/README.md) | approved | 23 | 14 |
 | [photography](../niches/photography/README.md) | approved | 4 | 2 |
 | [pets](../niches/pets/README.md) | approved | 3 | 2 |
-| [art](../niches/art/README.md) | approved | 2 | 1 |
+| [art](../niches/art/README.md) | approved | 6 | 4 |
+| [weddings](../niches/weddings/README.md) | approved | 2 | 1 |
 
 ## Templates already studied for this type
 

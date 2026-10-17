@@ -1,6 +1,6 @@
 # Wellness
 
-**Status:** approved · 23 slideshows from 16 accounts · 190 slides · collected 2026-10-17 from ReelFarm (376 in this niche there, sorted by most likes; top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views).
+**Status:** approved · 24 slideshows from 17 accounts · 192 slides · collected 2026-10-17 from ReelFarm (376 in this niche there, sorted by most likes; top by likes from the first pages, at most 2 slideshows per account and 2 per promoted app, accounts already in the database left out, duplicates removed, at least 100K views), plus 1 from TikTok links the owner picked.
 
 
 ## Overview
@@ -30,6 +30,7 @@
 | [21](#21-issystateshift) | <img src="slides/issy.stateshift_1/01.jpg" width="70"> | [@issy.stateshift](https://www.tiktok.com/@issy.stateshift) | 928.1K | 37.5K | 18.4K | 4.0% | 6 | StateShift nervous system regulation app | B2C App |
 | [22](#22-issystateshift) | <img src="slides/issy.stateshift_0/01.jpg" width="70"> | [@issy.stateshift](https://www.tiktok.com/@issy.stateshift) | 809.6K | 32.2K | 14.7K | 4.0% | 6 | StateShift nervous system regulation app | B2C App |
 | [23](#23-sheisthatgirlclub) | <img src="slides/sheisthatgirlclub_4/01.jpg" width="70"> | [@sheisthatgirlclub](https://www.tiktok.com/@sheisthatgirlclub) | 237.6K | 31.7K | 13.9K | 13.3% | 9 | Journals and self-care products | Etsy |
+| [24](#24-inspiringmoods) | <img src="slides/inspiringmoods_7688655698330422536/01.jpg" width="70"> | [@inspiringmoods](https://www.tiktok.com/@inspiringmoods) | 90.6K | 13.5K | 4.7K | 14.9% | 2 | — | — |
 
 ## Slideshows
 
@@ -306,4 +307,16 @@ Sells: StateShift nervous system regulation app · Medium: B2C App · Link in bi
 Sells: Journals and self-care products · Medium: Etsy · Link in bio: https://lexisstudioco.etsy.com · Audience: United States 37.84%, Philippines 13.51%, Singapore 3.60%
 
 <img src="slides/sheisthatgirlclub_4/01.jpg" width="120"> <img src="slides/sheisthatgirlclub_4/02.jpg" width="120"> <img src="slides/sheisthatgirlclub_4/03.jpg" width="120"> <img src="slides/sheisthatgirlclub_4/04.jpg" width="120"> <img src="slides/sheisthatgirlclub_4/05.jpg" width="120"> <img src="slides/sheisthatgirlclub_4/06.jpg" width="120"> <img src="slides/sheisthatgirlclub_4/07.jpg" width="120"> <img src="slides/sheisthatgirlclub_4/08.jpg" width="120"> <img src="slides/sheisthatgirlclub_4/09.jpg" width="120">
+
+### 24. @inspiringmoods
+
+**90.6K** views · **13.5K** likes · **4.7K** saves · ER **14.9%** · save rate 5.2% · 2 slides · 26 comments · 1.7K shares
+
+[Open the post on TikTok](https://www.tiktok.com/@inspiringmoods/photo/7688655698330422536) · posted 2026-09-23
+
+[@inspiringmoods](https://www.tiktok.com/@inspiringmoods) (Comealongwithme) · 285 followers · 54 following
+
+> 🍵🧘🏻‍♀️🫧🧖🏻‍♀️🌿 Daily health, wellness and lifestyle inspiration 💌: myinspiringmoods@gmail.com
+
+<img src="slides/inspiringmoods_7688655698330422536/01.jpg" width="120"> <img src="slides/inspiringmoods_7688655698330422536/02.jpg" width="120">
 

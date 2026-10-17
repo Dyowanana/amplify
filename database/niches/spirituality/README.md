@@ -160,7 +160,7 @@ Sells: Spiritual growth content · Audience: United States 35.00%, Brazil 9.00%,
 
 > lover girl loving life EasyStars ⭐️
 
-Sells: EasyStars astrology app · Medium: Mobile App · Audience: United States 98.04%, Sweden 0.65%, Mexico 0.65%
+Sells: EasyStars astrology app · Medium: Mobile App · Promotes: easystars · Audience: United States 98.04%, Sweden 0.65%, Mexico 0.65%
 
 <img src="slides/milainthestarss_1/01.jpg" width="120"> <img src="slides/milainthestarss_1/02.jpg" width="120"> <img src="slides/milainthestarss_1/03.jpg" width="120">
 
@@ -220,7 +220,7 @@ Sells: Manifestation guidance content
 
 > lover girl loving life EasyStars ⭐️
 
-Sells: EasyStars astrology app · Medium: Mobile App · Audience: United States 98.04%, Sweden 0.65%, Mexico 0.65%
+Sells: EasyStars astrology app · Medium: Mobile App · Promotes: easystars · Audience: United States 98.04%, Sweden 0.65%, Mexico 0.65%
 
 <img src="slides/milainthestarss_0/01.jpg" width="120"> <img src="slides/milainthestarss_0/02.jpg" width="120"> <img src="slides/milainthestarss_0/03.jpg" width="120">
 

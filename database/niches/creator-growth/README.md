@@ -41,7 +41,7 @@ Sells: Creative direction and social media services · Medium: Agency Services �
 
 > Sharing tips to Go Viral 💞 Secret app I use to get Millions of views👇
 
-Sells: Go Viral AI app · Medium: B2C App · Link in bio: https://goviralai.app/TikTok · Audience: United States 87.25%, United Kingdom 1.96%, Australia 1.96%
+Sells: Go Viral AI app · Medium: B2C App · Promotes: go viral · Link in bio: https://goviralai.app/TikTok · Audience: United States 87.25%, United Kingdom 1.96%, Australia 1.96%
 
 <img src="slides/emma.growth99_2/01.jpg" width="120"> <img src="slides/emma.growth99_2/02.jpg" width="120"> <img src="slides/emma.growth99_2/03.jpg" width="120"> <img src="slides/emma.growth99_2/04.jpg" width="120"> <img src="slides/emma.growth99_2/05.jpg" width="120"> <img src="slides/emma.growth99_2/06.jpg" width="120">
 
@@ -53,7 +53,7 @@ Sells: Go Viral AI app · Medium: B2C App · Link in bio: https://goviralai.app/
 
 > Sharing tips to Go Viral 💞 Secret app I use to get Millions of views👇
 
-Sells: Go Viral AI app · Medium: B2C App · Link in bio: https://goviralai.app/TikTok · Audience: United States 87.25%, United Kingdom 1.96%, Australia 1.96%
+Sells: Go Viral AI app · Medium: B2C App · Promotes: go viral · Link in bio: https://goviralai.app/TikTok · Audience: United States 87.25%, United Kingdom 1.96%, Australia 1.96%
 
 <img src="slides/emma.growth99_0/01.jpg" width="120"> <img src="slides/emma.growth99_0/02.jpg" width="120"> <img src="slides/emma.growth99_0/03.jpg" width="120"> <img src="slides/emma.growth99_0/04.jpg" width="120"> <img src="slides/emma.growth99_0/05.jpg" width="120"> <img src="slides/emma.growth99_0/06.jpg" width="120">
 
@@ -89,7 +89,7 @@ Sells: Creative direction and social media services · Medium: Agency Services �
 
 > posting tiktok tips daily ✨ helping small creators grow
 
-Sells: ReelRise app (video analytics tool) · Medium: B2C App · Audience: United States 53.77%, Philippines 10.38%, Australia 3.77%
+Sells: ReelRise app (video analytics tool) · Medium: B2C App · Promotes: reelrise · Audience: United States 53.77%, Philippines 10.38%, Australia 3.77%
 
 <img src="slides/aurora.tiktok.gro_2/01.jpg" width="120"> <img src="slides/aurora.tiktok.gro_2/02.jpg" width="120"> <img src="slides/aurora.tiktok.gro_2/03.jpg" width="120"> <img src="slides/aurora.tiktok.gro_2/04.jpg" width="120"> <img src="slides/aurora.tiktok.gro_2/05.jpg" width="120"> <img src="slides/aurora.tiktok.gro_2/06.jpg" width="120">
 
@@ -101,7 +101,7 @@ Sells: ReelRise app (video analytics tool) · Medium: B2C App · Audience: Unite
 
 > posting tiktok tips daily ✨ helping small creators grow
 
-Sells: ReelRise app (video analytics tool) · Medium: B2C App · Audience: United States 53.77%, Philippines 10.38%, Australia 3.77%
+Sells: ReelRise app (video analytics tool) · Medium: B2C App · Promotes: reelrise · Audience: United States 53.77%, Philippines 10.38%, Australia 3.77%
 
 <img src="slides/aurora.tiktok.gro_1/01.jpg" width="120"> <img src="slides/aurora.tiktok.gro_1/02.jpg" width="120"> <img src="slides/aurora.tiktok.gro_1/03.jpg" width="120"> <img src="slides/aurora.tiktok.gro_1/04.jpg" width="120"> <img src="slides/aurora.tiktok.gro_1/05.jpg" width="120"> <img src="slides/aurora.tiktok.gro_1/06.jpg" width="120">
 
@@ -149,7 +149,7 @@ Sells: Social media marketing strategy · Link in bio: https://www.instagram.com
 
 > Grab 20% off on Paperpal using the below link (DM me for the discount code!
 
-Sells: Paperpal writing assistance software · Medium: Affiliate Marketing · Link in bio: https://paperpal.com/?linkId=lp_726731&sourceId=dhruva-bhatt&tenantId=paperpal · Audience: United States 85.19%, Nigeria 2.78%, Philippines 2.78%
+Sells: Paperpal writing assistance software · Medium: Affiliate Marketing · Promotes: paperpal · Link in bio: https://paperpal.com/?linkId=lp_726731&sourceId=dhruva-bhatt&tenantId=paperpal · Audience: United States 85.19%, Nigeria 2.78%, Philippines 2.78%
 
 <img src="slides/idhruvaa_7/01.jpg" width="120"> <img src="slides/idhruvaa_7/02.jpg" width="120"> <img src="slides/idhruvaa_7/03.jpg" width="120"> <img src="slides/idhruvaa_7/04.jpg" width="120">
 

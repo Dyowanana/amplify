@@ -4,11 +4,12 @@
 
 > ⚠️ ReelFarm has personal finance only (129 slideshows): no crypto, forex or mutual funds. Send links.
 
-## Slideshow niches (from ReelFarm)
+## Slideshow niches
 
 | Niche | Status | Slideshows | Accounts |
 |---|---|---|---|
-| [personal finance](../niches/personal-finance/README.md) | approved | 15 | 9 |
+| [personal finance](../niches/personal-finance/README.md) | approved | 16 | 10 |
+| [ecommerce and dropshipping](../niches/ecommerce/README.md) | approved | 7 | 5 |
 
 ## Templates already studied for this type
 

@@ -118,7 +118,7 @@ Sells: Korean pore pads affiliate products · Medium: Amazon Affiliate · Link i
 
 > Skincare tips for girlies to get glowing skin everyday 🫶💕
 
-Sells: Quia Korean Beauty products · Medium: Amazon Affiliate · Audience: United Kingdom 31.37%, United States 7.84%, Philippines 5.88%
+Sells: Quia Korean Beauty products · Medium: Amazon Affiliate · Promotes: quia · Audience: United Kingdom 31.37%, United States 7.84%, Philippines 5.88%
 
 <img src="slides/skinglow_forgirlsss_2/01.jpg" width="120"> <img src="slides/skinglow_forgirlsss_2/02.jpg" width="120"> <img src="slides/skinglow_forgirlsss_2/03.jpg" width="120"> <img src="slides/skinglow_forgirlsss_2/04.jpg" width="120"> <img src="slides/skinglow_forgirlsss_2/05.jpg" width="120"> <img src="slides/skinglow_forgirlsss_2/06.jpg" width="120"> <img src="slides/skinglow_forgirlsss_2/07.jpg" width="120"> <img src="slides/skinglow_forgirlsss_2/08.jpg" width="120">
 
@@ -130,7 +130,7 @@ Sells: Quia Korean Beauty products · Medium: Amazon Affiliate · Audience: Unit
 
 > AI skin care tips 📲 Download careSkin
 
-Sells: CareSkin app for skincare · Medium: Mobile App · Link in bio: https://apps.apple.com/us/app/careskin-ai-product-scanner/id6749190922 · Audience: United States 100.00%
+Sells: CareSkin app for skincare · Medium: Mobile App · Promotes: careskin · Link in bio: https://apps.apple.com/us/app/careskin-ai-product-scanner/id6749190922 · Audience: United States 100.00%
 
 <img src="slides/careskinhailey_2/01.jpg" width="120"> <img src="slides/careskinhailey_2/02.jpg" width="120"> <img src="slides/careskinhailey_2/03.jpg" width="120">
 
@@ -154,7 +154,7 @@ Sells: LumiDew steam eye masks · Medium: Amazon Affiliate · Link in bio: https
 
 > AI skin care tips 📲 Download careSkin
 
-Sells: CareSkin app for skincare · Medium: Mobile App · Link in bio: https://apps.apple.com/us/app/careskin-ai-product-scanner/id6749190922 · Audience: United States 100.00%
+Sells: CareSkin app for skincare · Medium: Mobile App · Promotes: careskin · Link in bio: https://apps.apple.com/us/app/careskin-ai-product-scanner/id6749190922 · Audience: United States 100.00%
 
 <img src="slides/careskinhailey_0/01.jpg" width="120"> <img src="slides/careskinhailey_0/02.jpg" width="120"> <img src="slides/careskinhailey_0/03.jpg" width="120"> <img src="slides/careskinhailey_0/04.jpg" width="120"> <img src="slides/careskinhailey_0/05.jpg" width="120">
 

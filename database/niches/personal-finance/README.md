@@ -1,6 +1,6 @@
 # Personal Finance
 
-**Status:** approved · 15 slideshows from 9 accounts · 93 slides · collected 2026-10-17 from ReelFarm (129 in this niche there, sorted by most likes; every slideshow in this niche with at least 100K views, at most 2 per account).
+**Status:** approved · 16 slideshows from 10 accounts · 97 slides · collected 2026-10-17 from ReelFarm (129 in this niche there, sorted by most likes; every slideshow in this niche with at least 100K views, at most 2 per account), plus 1 from TikTok links the owner picked.
 
 
 ## Overview
@@ -22,6 +22,7 @@
 | [13](#13-nicolaipetersen) | <img src="slides/nicolai_petersen_0/01.jpg" width="70"> | [@nicolai_petersen](https://www.tiktok.com/@nicolai_petersen) | 355.5K | 19.6K | 17.9K | 5.5% | 6 | Dropshipping strategies and courses | Dropshipping/Shopify |
 | [14](#14-frchtrque) | <img src="slides/frchtrque_1/01.jpg" width="70"> | [@frchtrque](https://www.tiktok.com/@frchtrque) | 152.9K | 14.5K | 8.2K | 9.5% | 5 | — | — |
 | [15](#15-nicolaipetersen) | <img src="slides/nicolai_petersen_3/01.jpg" width="70"> | [@nicolai_petersen](https://www.tiktok.com/@nicolai_petersen) | 294.1K | 13.0K | 6.1K | 4.4% | 5 | Dropshipping strategies and courses | Dropshipping/Shopify |
+| [16](#16-elaroshopify) | <img src="slides/elaro.shopify_7659168802994736414/01.jpg" width="70"> | [@elaro.shopify](https://www.tiktok.com/@elaro.shopify) | 21.0K | 186 | 61 | 0.9% | 4 | Ecommerce and trading courses | Website |
 
 ## Slideshows
 
@@ -204,4 +205,18 @@ Audience: United States 53.06%, United Kingdom 9.18%, South Africa 4.08%
 Sells: Dropshipping strategies and courses · Medium: Dropshipping/Shopify · Link in bio: hopp.bio/nicolaipetersen · Audience: Nigeria 21.43%, United States 11.61%, Bangladesh 4.46%
 
 <img src="slides/nicolai_petersen_3/01.jpg" width="120"> <img src="slides/nicolai_petersen_3/02.jpg" width="120"> <img src="slides/nicolai_petersen_3/03.jpg" width="120"> <img src="slides/nicolai_petersen_3/04.jpg" width="120"> <img src="slides/nicolai_petersen_3/05.jpg" width="120">
+
+### 16. @elaro.shopify
+
+**21.0K** views · **186** likes · **61** saves · ER **0.9%** · save rate 0.3% · 4 slides · 3 comments · 7 shares
+
+[Open the post on TikTok](https://www.tiktok.com/@elaro.shopify/photo/7659168802994736414) · posted 2026-07-05
+
+[@elaro.shopify](https://www.tiktok.com/@elaro.shopify) (elaro.shopify) · 9.6K followers · 437 following
+
+> Learn how I do it  Make your first $1-$5k today 👇📲
+
+Sells: Ecommerce and trading courses · Medium: Website · Link in bio: https://ecommerceprotools.live/
+
+<img src="slides/elaro.shopify_7659168802994736414/01.jpg" width="120"> <img src="slides/elaro.shopify_7659168802994736414/02.jpg" width="120"> <img src="slides/elaro.shopify_7659168802994736414/03.jpg" width="120"> <img src="slides/elaro.shopify_7659168802994736414/04.jpg" width="120">
 

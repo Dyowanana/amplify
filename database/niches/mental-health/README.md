@@ -147,7 +147,7 @@ Sells: Self-help book on Amazon · Medium: Amazon Book · Link in bio: https://l
 
 [@grace.vents7](https://www.tiktok.com/@grace.vents7) (grace.vents) · 3.5K followers · 14 following · account region US
 
-Sells: Vent Now app promotion · Medium: B2C App · Audience: Philippines 73.00%, United States 19.00%, Ireland 1.00%
+Sells: Vent Now app promotion · Medium: B2C App · Promotes: vent now · Audience: Philippines 73.00%, United States 19.00%, Ireland 1.00%
 
 <img src="slides/grace.vents7_0/01.jpg" width="120"> <img src="slides/grace.vents7_0/02.jpg" width="120"> <img src="slides/grace.vents7_0/03.jpg" width="120"> <img src="slides/grace.vents7_0/04.jpg" width="120"> <img src="slides/grace.vents7_0/05.jpg" width="120"> <img src="slides/grace.vents7_0/06.jpg" width="120">
 
@@ -205,7 +205,7 @@ Sells: Psychology educational content only · Audience: United Kingdom 21.01%, A
 
 [@abi02__](https://www.tiktok.com/@abi02__) (Abi) · 3.4K followers · 90 following · account region US
 
-Sells: Vent Now mental health app · Medium: B2C App · Audience: United States 76.24%, United Kingdom 6.93%, Vietnam 1.98%
+Sells: Vent Now mental health app · Medium: B2C App · Promotes: vent now · Audience: United States 76.24%, United Kingdom 6.93%, Vietnam 1.98%
 
 <img src="slides/abi02___0/01.jpg" width="120"> <img src="slides/abi02___0/02.jpg" width="120"> <img src="slides/abi02___0/03.jpg" width="120"> <img src="slides/abi02___0/04.jpg" width="120"> <img src="slides/abi02___0/05.jpg" width="120"> <img src="slides/abi02___0/06.jpg" width="120">
 

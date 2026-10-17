@@ -43,7 +43,7 @@
 
 > Down.load HOME DECOR APP completely FREE here👇 Click the l.ink, tap the ••• in the top-right corner, then select Open in b.rowser to open the app
 
-Sells: Home decor app · Medium: Mobile App · From ReelFarm's mobile app page · Link in bio: https://affiliate.aihomevibe.com/linhttshomedecorave · Audience: United Kingdom 8.84%, Indonesia 6.08%, France 6.08%
+Sells: Home decor app · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: home decor app · Link in bio: https://affiliate.aihomevibe.com/linhttshomedecorave · Audience: United Kingdom 8.84%, Indonesia 6.08%, France 6.08%
 
 <img src="slides/homedecorave_0/01.jpg" width="120"> <img src="slides/homedecorave_0/02.jpg" width="120"> <img src="slides/homedecorave_0/03.jpg" width="120"> <img src="slides/homedecorave_0/04.jpg" width="120"> <img src="slides/homedecorave_0/05.jpg" width="120"> <img src="slides/homedecorave_0/06.jpg" width="120">
 
@@ -55,7 +55,7 @@ Sells: Home decor app · Medium: Mobile App · From ReelFarm's mobile app page �
 
 > Journal with a personal AI advisor Search Sage AI - AI Journal on the App Store
 
-Sells: Sage AI journaling app · Medium: Mobile App · From ReelFarm's mobile app page · Audience: United States 38.68%, Philippines 31.13%, Canada 5.66%
+Sells: Sage AI journaling app · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: sage ai · Audience: United States 38.68%, Philippines 31.13%, Canada 5.66%
 
 <img src="slides/quotemedaily_2/01.jpg" width="120"> <img src="slides/quotemedaily_2/02.jpg" width="120"> <img src="slides/quotemedaily_2/03.jpg" width="120">
 
@@ -67,7 +67,7 @@ Sells: Sage AI journaling app · Medium: Mobile App · From ReelFarm's mobile ap
 
 > Journal with a personal AI advisor Search Sage AI - AI Journal on the App Store
 
-Sells: Sage AI journaling app · Medium: Mobile App · From ReelFarm's mobile app page · Audience: United States 38.68%, Philippines 31.13%, Canada 5.66%
+Sells: Sage AI journaling app · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: sage ai · Audience: United States 38.68%, Philippines 31.13%, Canada 5.66%
 
 <img src="slides/quotemedaily_0/01.jpg" width="120"> <img src="slides/quotemedaily_0/02.jpg" width="120"> <img src="slides/quotemedaily_0/03.jpg" width="120">
 
@@ -79,7 +79,7 @@ Sells: Sage AI journaling app · Medium: Mobile App · From ReelFarm's mobile ap
 
 > wellness and self love from yours truly
 
-Sells: Vent Now app promotion · Medium: B2C App · From ReelFarm's b2c app page · Audience: United States 50.00%, Philippines 12.75%, Australia 5.88%
+Sells: Vent Now app promotion · Medium: B2C App · From ReelFarm's b2c app page · Promotes: vent now · Audience: United States 50.00%, Philippines 12.75%, Australia 5.88%
 
 <img src="slides/ellaa.venting_0/01.jpg" width="120"> <img src="slides/ellaa.venting_0/02.jpg" width="120"> <img src="slides/ellaa.venting_0/03.jpg" width="120"> <img src="slides/ellaa.venting_0/04.jpg" width="120"> <img src="slides/ellaa.venting_0/05.jpg" width="120"> <img src="slides/ellaa.venting_0/06.jpg" width="120">
 
@@ -91,7 +91,7 @@ Sells: Vent Now app promotion · Medium: B2C App · From ReelFarm's b2c app page
 
 > Down.load HOME DECOR APP completely FREE here👇 Click the l.ink, tap the ••• in the top-right corner, then select Open in b.rowser to open the app
 
-Sells: Home decor app · Medium: Mobile App · From ReelFarm's mobile app page · Link in bio: https://affiliate.aihomevibe.com/linhttshomedecorave · Audience: United Kingdom 8.84%, Indonesia 6.08%, France 6.08%
+Sells: Home decor app · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: home decor app · Link in bio: https://affiliate.aihomevibe.com/linhttshomedecorave · Audience: United Kingdom 8.84%, Indonesia 6.08%, France 6.08%
 
 <img src="slides/homedecorave_2/01.jpg" width="120"> <img src="slides/homedecorave_2/02.jpg" width="120">
 
@@ -103,7 +103,7 @@ Sells: Home decor app · Medium: Mobile App · From ReelFarm's mobile app page �
 
 > just a girl trying to heal emotional intelligence > situationships 💌
 
-Sells: Relationship advice app (Ditto) · Medium: Mobile App · From ReelFarm's mobile app page · Link in bio: onditto.com · Audience: United States 49.12%, Philippines 8.77%, United Kingdom 5.26%
+Sells: Relationship advice app (Ditto) · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: ditto · Link in bio: onditto.com · Audience: United States 49.12%, Philippines 8.77%, United Kingdom 5.26%
 
 <img src="slides/gabi.lists_1/01.jpg" width="120"> <img src="slides/gabi.lists_1/02.jpg" width="120"> <img src="slides/gabi.lists_1/03.jpg" width="120"> <img src="slides/gabi.lists_1/04.jpg" width="120">
 
@@ -115,7 +115,7 @@ Sells: Relationship advice app (Ditto) · Medium: Mobile App · From ReelFarm's 
 
 > Since so many of you were asking, I use the app JournAI
 
-Sells: JournAI fitness tracking app · Medium: Mobile App · From ReelFarm's mobile app page · Audience: United States 18.50%, United Kingdom 10.98%, Germany 5.78%
+Sells: JournAI fitness tracking app · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: journai · Audience: United States 18.50%, United Kingdom 10.98%, Germany 5.78%
 
 <img src="slides/alex_productivity_2/01.jpg" width="120"> <img src="slides/alex_productivity_2/02.jpg" width="120"> <img src="slides/alex_productivity_2/03.jpg" width="120"> <img src="slides/alex_productivity_2/04.jpg" width="120"> <img src="slides/alex_productivity_2/05.jpg" width="120"> <img src="slides/alex_productivity_2/06.jpg" width="120">
 
@@ -127,7 +127,7 @@ Sells: JournAI fitness tracking app · Medium: Mobile App · From ReelFarm's mob
 
 > your go to for the girls niche advice✨ CEO of 5 tips ♥️ 💌: jadeheals123@gmail.com
 
-Sells: Vent Now app · Medium: Mobile App · From ReelFarm's mobile app page · Audience: United States 25.00%, Australia 12.93%, United Kingdom 11.21%
+Sells: Vent Now app · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: vent now · Audience: United States 25.00%, Australia 12.93%, United Kingdom 11.21%
 
 <img src="slides/jadeinwaves_2/01.jpg" width="120"> <img src="slides/jadeinwaves_2/02.jpg" width="120"> <img src="slides/jadeinwaves_2/03.jpg" width="120"> <img src="slides/jadeinwaves_2/04.jpg" width="120"> <img src="slides/jadeinwaves_2/05.jpg" width="120"> <img src="slides/jadeinwaves_2/06.jpg" width="120">
 
@@ -139,7 +139,7 @@ Sells: Vent Now app · Medium: Mobile App · From ReelFarm's mobile app page · 
 
 > Nursing student. A+++++ ❤️❤️❤️
 
-Sells: Feynman AI study app · Medium: Mobile App · From ReelFarm's mobile app page · Link in bio: https://feynmanai.app · Audience: United States 37.76%, Pakistan 10.20%, South Africa 6.12%
+Sells: Feynman AI study app · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: feynman · Link in bio: https://feynmanai.app · Audience: United States 37.76%, Pakistan 10.20%, South Africa 6.12%
 
 <img src="slides/studynursing13_0/01.jpg" width="120"> <img src="slides/studynursing13_0/02.jpg" width="120"> <img src="slides/studynursing13_0/03.jpg" width="120"> <img src="slides/studynursing13_0/04.jpg" width="120">
 
@@ -151,7 +151,7 @@ Sells: Feynman AI study app · Medium: Mobile App · From ReelFarm's mobile app 
 
 > Smart Note Taker 📚📚📚📚
 
-Sells: AI study app for students · Medium: B2C App · From ReelFarm's b2c app page · Link in bio: https://feynmanai.app · Audience: United States 45.92%, Nigeria 8.16%, South Africa 5.10%
+Sells: AI study app for students · Medium: B2C App · From ReelFarm's b2c app page · Promotes: ai study app for students · Link in bio: https://feynmanai.app · Audience: United States 45.92%, Nigeria 8.16%, South Africa 5.10%
 
 <img src="slides/smartnotetips_1/01.jpg" width="120"> <img src="slides/smartnotetips_1/02.jpg" width="120"> <img src="slides/smartnotetips_1/03.jpg" width="120"> <img src="slides/smartnotetips_1/04.jpg" width="120">
 
@@ -163,7 +163,7 @@ Sells: AI study app for students · Medium: B2C App · From ReelFarm's b2c app p
 
 > 🤍 Search JounAI in the App store
 
-Sells: JournAI fitness tracking app · Medium: Mobile App · From ReelFarm's mobile app page · Link in bio: linktr.ee/stella_diaries · Audience: United States 21.15%, United Kingdom 10.58%, Australia 9.62%
+Sells: JournAI fitness tracking app · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: journai · Link in bio: linktr.ee/stella_diaries · Audience: United States 21.15%, United Kingdom 10.58%, Australia 9.62%
 
 <img src="slides/app.journai_7/01.jpg" width="120"> <img src="slides/app.journai_7/02.jpg" width="120"> <img src="slides/app.journai_7/03.jpg" width="120"> <img src="slides/app.journai_7/04.jpg" width="120"> <img src="slides/app.journai_7/05.jpg" width="120"> <img src="slides/app.journai_7/06.jpg" width="120">
 
@@ -173,7 +173,7 @@ Sells: JournAI fitness tracking app · Medium: Mobile App · From ReelFarm's mob
 
 [@petalsofemily](https://www.tiktok.com/@petalsofemily) (petalsofemily) · 34.5K followers · 14 following · account region US
 
-Sells: Purpose journal app promotion · Medium: B2C App · From ReelFarm's b2c app page · Audience: United States 61.72%, Philippines 5.47%, Vietnam 3.91%
+Sells: Purpose journal app promotion · Medium: B2C App · From ReelFarm's b2c app page · Promotes: purpose journal · Audience: United States 61.72%, Philippines 5.47%, Vietnam 3.91%
 
 <img src="slides/petalsofemily_0/01.jpg" width="120"> <img src="slides/petalsofemily_0/02.jpg" width="120"> <img src="slides/petalsofemily_0/03.jpg" width="120"> <img src="slides/petalsofemily_0/04.jpg" width="120"> <img src="slides/petalsofemily_0/05.jpg" width="120"> <img src="slides/petalsofemily_0/06.jpg" width="120"> <img src="slides/petalsofemily_0/07.jpg" width="120">
 
@@ -185,7 +185,7 @@ Sells: Purpose journal app promotion · Medium: B2C App · From ReelFarm's b2c a
 
 > Your cosmic guide, powered by AI 🌙 📲 Download Easystars
 
-Sells: AI astrology app · Medium: B2C App · From ReelFarm's b2c app page · Link in bio: https://easystars.ai · Audience: United States 93.52%, Nigeria 1.85%, Saudi Arabia 0.93%
+Sells: AI astrology app · Medium: B2C App · From ReelFarm's b2c app page · Promotes: ai astrology app · Link in bio: https://easystars.ai · Audience: United States 93.52%, Nigeria 1.85%, Saudi Arabia 0.93%
 
 <img src="slides/astrocarol0_1/01.jpg" width="120"> <img src="slides/astrocarol0_1/02.jpg" width="120"> <img src="slides/astrocarol0_1/03.jpg" width="120">
 
@@ -197,7 +197,7 @@ Sells: AI astrology app · Medium: B2C App · From ReelFarm's b2c app page · Li
 
 > Your cosmic guide, powered by AI 🌙 📲 Download Easystars
 
-Sells: AI astrology app · Medium: B2C App · From ReelFarm's b2c app page · Link in bio: https://easystars.ai · Audience: United States 93.52%, Nigeria 1.85%, Saudi Arabia 0.93%
+Sells: AI astrology app · Medium: B2C App · From ReelFarm's b2c app page · Promotes: ai astrology app · Link in bio: https://easystars.ai · Audience: United States 93.52%, Nigeria 1.85%, Saudi Arabia 0.93%
 
 <img src="slides/astrocarol0_2/01.jpg" width="120"> <img src="slides/astrocarol0_2/02.jpg" width="120"> <img src="slides/astrocarol0_2/03.jpg" width="120">
 
@@ -209,7 +209,7 @@ Sells: AI astrology app · Medium: B2C App · From ReelFarm's b2c app page · Li
 
 > helping you go viral 💞 go viral app in app store🫶
 
-Sells: Go Viral app · Medium: Mobile App · From ReelFarm's mobile app page · Link in bio: https://play.google.com/store/apps/details?id=com.solveware.goviral · Audience: United Kingdom 18.44%, Philippines 10.66%, Nigeria 6.97%
+Sells: Go Viral app · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: go viral · Link in bio: https://play.google.com/store/apps/details?id=com.solveware.goviral · Audience: United Kingdom 18.44%, Philippines 10.66%, Nigeria 6.97%
 
 <img src="slides/emma.growth73_1/01.jpg" width="120"> <img src="slides/emma.growth73_1/02.jpg" width="120"> <img src="slides/emma.growth73_1/03.jpg" width="120"> <img src="slides/emma.growth73_1/04.jpg" width="120"> <img src="slides/emma.growth73_1/05.jpg" width="120"> <img src="slides/emma.growth73_1/06.jpg" width="120">
 
@@ -221,7 +221,7 @@ Sells: Go Viral app · Medium: Mobile App · From ReelFarm's mobile app page · 
 
 > Secrets for smart students ‼️👨‍🎓👨‍🎓
 
-Sells: TurboLearn AI study platform · Medium: AI App · From ReelFarm's ai app page · Audience: United States 17.17%, Philippines 15.15%, Egypt 6.06%
+Sells: TurboLearn AI study platform · Medium: AI App · From ReelFarm's ai app page · Promotes: turbolearn · Audience: United States 17.17%, Philippines 15.15%, Egypt 6.06%
 
 <img src="slides/mesarah780_2/01.jpg" width="120"> <img src="slides/mesarah780_2/02.jpg" width="120"> <img src="slides/mesarah780_2/03.jpg" width="120"> <img src="slides/mesarah780_2/04.jpg" width="120"> <img src="slides/mesarah780_2/05.jpg" width="120"> <img src="slides/mesarah780_2/06.jpg" width="120">
 
@@ -233,7 +233,7 @@ Sells: TurboLearn AI study platform · Medium: AI App · From ReelFarm's ai app 
 
 > Secrets for smart students ‼️👨‍🎓👨‍🎓
 
-Sells: TurboLearn AI study platform · Medium: AI App · From ReelFarm's ai app page · Audience: United States 17.17%, Philippines 15.15%, Egypt 6.06%
+Sells: TurboLearn AI study platform · Medium: AI App · From ReelFarm's ai app page · Promotes: turbolearn · Audience: United States 17.17%, Philippines 15.15%, Egypt 6.06%
 
 <img src="slides/mesarah780_1/01.jpg" width="120"> <img src="slides/mesarah780_1/02.jpg" width="120"> <img src="slides/mesarah780_1/03.jpg" width="120"> <img src="slides/mesarah780_1/04.jpg" width="120"> <img src="slides/mesarah780_1/05.jpg" width="120"> <img src="slides/mesarah780_1/06.jpg" width="120"> <img src="slides/mesarah780_1/07.jpg" width="120">
 
@@ -245,7 +245,7 @@ Sells: TurboLearn AI study platform · Medium: AI App · From ReelFarm's ai app 
 
 > Overstimulated
 
-Sells: ADHD productivity app (Saner.ai) · Medium: B2B Software · From ReelFarm's b2b software page · Audience: United States 30.63%, Australia 14.41%, United Kingdom 9.91%
+Sells: ADHD productivity app (Saner.ai) · Medium: B2B Software · From ReelFarm's b2b software page · Promotes: saner · Audience: United States 30.63%, Australia 14.41%, United Kingdom 9.91%
 
 <img src="slides/ambitous.students_0/01.jpg" width="120"> <img src="slides/ambitous.students_0/02.jpg" width="120"> <img src="slides/ambitous.students_0/03.jpg" width="120"> <img src="slides/ambitous.students_0/04.jpg" width="120"> <img src="slides/ambitous.students_0/05.jpg" width="120">
 
@@ -257,7 +257,7 @@ Sells: ADHD productivity app (Saner.ai) · Medium: B2B Software · From ReelFarm
 
 > Relationship advice one slideshow at a time 🩷
 
-Sells: AI relationship therapy service · Medium: AI App · From ReelFarm's ai app page · Link in bio: meetrileyai.com · Audience: United States 32.32%, Philippines 16.16%, Australia 13.13%
+Sells: AI relationship therapy service · Medium: AI App · From ReelFarm's ai app page · Promotes: ai relationship therapy service · Link in bio: meetrileyai.com · Audience: United States 32.32%, Philippines 16.16%, Australia 13.13%
 
 <img src="slides/milly.heals_1/01.jpg" width="120"> <img src="slides/milly.heals_1/02.jpg" width="120"> <img src="slides/milly.heals_1/03.jpg" width="120"> <img src="slides/milly.heals_1/04.jpg" width="120"> <img src="slides/milly.heals_1/05.jpg" width="120"> <img src="slides/milly.heals_1/06.jpg" width="120"> <img src="slides/milly.heals_1/07.jpg" width="120"> <img src="slides/milly.heals_1/08.jpg" width="120">
 
@@ -269,7 +269,7 @@ Sells: AI relationship therapy service · Medium: AI App · From ReelFarm's ai a
 
 > Lifestyle \| Corporate girly 💕
 
-Sells: Cluely AI meeting software · Medium: B2B Software · From ReelFarm's b2b software page
+Sells: Cluely AI meeting software · Medium: B2B Software · From ReelFarm's b2b software page · Promotes: cluely
 
 <img src="slides/corporatemom6_3/01.jpg" width="120"> <img src="slides/corporatemom6_3/02.jpg" width="120"> <img src="slides/corporatemom6_3/03.jpg" width="120"> <img src="slides/corporatemom6_3/04.jpg" width="120"> <img src="slides/corporatemom6_3/05.jpg" width="120"> <img src="slides/corporatemom6_3/06.jpg" width="120"> <img src="slides/corporatemom6_3/07.jpg" width="120">
 
@@ -281,7 +281,7 @@ Sells: Cluely AI meeting software · Medium: B2B Software · From ReelFarm's b2b
 
 > Helping content creators to post smarter, not harder. app youve been asking ⬇️
 
-Sells: Content scheduling app (PostPlanify) · Medium: Web App · From ReelFarm's web app page · Link in bio: https://postplanify.com · Audience: Nigeria 10.42%, South Africa 10.42%, Kenya 8.33%
+Sells: Content scheduling app (PostPlanify) · Medium: Web App · From ReelFarm's web app page · Promotes: postplanify · Link in bio: https://postplanify.com · Audience: Nigeria 10.42%, South Africa 10.42%, Kenya 8.33%
 
 <img src="slides/smartpostingtips_2/01.jpg" width="120"> <img src="slides/smartpostingtips_2/02.jpg" width="120"> <img src="slides/smartpostingtips_2/03.jpg" width="120"> <img src="slides/smartpostingtips_2/04.jpg" width="120">
 
@@ -293,7 +293,7 @@ Sells: Content scheduling app (PostPlanify) · Medium: Web App · From ReelFarm'
 
 > @Odyssey—Become Legend  Workout Tracking & Ranking App DM to join beta test now
 
-Sells: Workout tracking app · Medium: Mobile App · From ReelFarm's mobile app page · Audience: United States 41.00%, South Africa 9.00%, Australia 8.00%
+Sells: Workout tracking app · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: workout tracking app · Audience: United States 41.00%, South Africa 9.00%, Australia 8.00%
 
 <img src="slides/aura.fit3_11/01.jpg" width="120"> <img src="slides/aura.fit3_11/02.jpg" width="120"> <img src="slides/aura.fit3_11/03.jpg" width="120"> <img src="slides/aura.fit3_11/04.jpg" width="120"> <img src="slides/aura.fit3_11/05.jpg" width="120"> <img src="slides/aura.fit3_11/06.jpg" width="120">
 
@@ -303,7 +303,7 @@ Sells: Workout tracking app · Medium: Mobile App · From ReelFarm's mobile app 
 
 [@oliviaisgrowing](https://www.tiktok.com/@oliviaisgrowing) (oliviaisgrowing) · 9.9K followers · 20 following · account region US
 
-Sells: Purpose Journal App (journaling software) · Medium: B2C App · From ReelFarm's b2c app page · Audience: United States 37.50%, United Kingdom 7.35%, Philippines 5.15%
+Sells: Purpose Journal App (journaling software) · Medium: B2C App · From ReelFarm's b2c app page · Promotes: purpose journal · Audience: United States 37.50%, United Kingdom 7.35%, Philippines 5.15%
 
 <img src="slides/oliviaisgrowing_0/01.jpg" width="120"> <img src="slides/oliviaisgrowing_0/02.jpg" width="120"> <img src="slides/oliviaisgrowing_0/03.jpg" width="120"> <img src="slides/oliviaisgrowing_0/04.jpg" width="120"> <img src="slides/oliviaisgrowing_0/05.jpg" width="120"> <img src="slides/oliviaisgrowing_0/06.jpg" width="120"> <img src="slides/oliviaisgrowing_0/07.jpg" width="120">
 
@@ -315,7 +315,7 @@ Sells: Purpose Journal App (journaling software) · Medium: B2C App · From Reel
 
 > Your go-to for mental wellness advice CEO of 5 hacks ♡
 
-Sells: Voiced AI mental health app · Medium: B2C App · From ReelFarm's b2c app page · Audience: United States 32.04%, United Kingdom 7.77%, Philippines 7.77%
+Sells: Voiced AI mental health app · Medium: B2C App · From ReelFarm's b2c app page · Promotes: voiced · Audience: United States 32.04%, United Kingdom 7.77%, Philippines 7.77%
 
 <img src="slides/sonni.voiced_5/01.jpg" width="120"> <img src="slides/sonni.voiced_5/02.jpg" width="120"> <img src="slides/sonni.voiced_5/03.jpg" width="120"> <img src="slides/sonni.voiced_5/04.jpg" width="120"> <img src="slides/sonni.voiced_5/05.jpg" width="120"> <img src="slides/sonni.voiced_5/06.jpg" width="120">
 
@@ -327,7 +327,7 @@ Sells: Voiced AI mental health app · Medium: B2C App · From ReelFarm's b2c app
 
 > send me everything interior design  editwithpatch dot com
 
-Sells: Patch AI interior design app · Medium: Mobile App · From ReelFarm's mobile app page · Audience: United States 19.61%, Germany 9.80%, Brazil 5.88%
+Sells: Patch AI interior design app · Medium: Mobile App · From ReelFarm's mobile app page · Promotes: patch ai · Audience: United States 19.61%, Germany 9.80%, Brazil 5.88%
 
 <img src="slides/itstayloragainnn_3/01.jpg" width="120"> <img src="slides/itstayloragainnn_3/02.jpg" width="120"> <img src="slides/itstayloragainnn_3/03.jpg" width="120"> <img src="slides/itstayloragainnn_3/04.jpg" width="120"> <img src="slides/itstayloragainnn_3/05.jpg" width="120"> <img src="slides/itstayloragainnn_3/06.jpg" width="120"> <img src="slides/itstayloragainnn_3/07.jpg" width="120">
 

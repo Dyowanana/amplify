@@ -1,0 +1,18 @@
+{
+  "status": "approved",
+  "notes": [],
+  "niche": "weddings",
+  "slug": "weddings",
+  "source": "TikTok links picked by the owner",
+  "reelfarm_total": null,
+  "sort": "likes-most",
+  "scanned": null,
+  "collected": "2026-10-17",
+  "rule": "read 2026-10-17 from the logged-in TikTok post and profile pages, with sells and medium written from each bio, link in bio and slides, and no region or audience because TikTok doesn't show them",
+  "slideshows": 2,
+  "accounts": 1,
+  "slides": 20,
+  "from_tiktok_links": 2,
+  "size_mb": 2.7,
+  "skipped_broken": []
+}
