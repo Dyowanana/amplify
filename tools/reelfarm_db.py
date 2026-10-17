@@ -270,6 +270,7 @@ def index():
     out = ["# Slideshow format database", "",
            "TikTok slideshows that performed, grouped by niche, with the account behind each one, its numbers and every slide, "
            "so any brand can pick a niche and remake a format. Approved niches are reviewed by the owner.", "",
+           "Building on this data? The files and fields are explained in [DEVELOPERS.md](DEVELOPERS.md).", "",
            "## By business type", "",
            "What Amplify's users sell, with the ReelFarm niches and the templates already studied (`content-bank/`) for each.", "",
            "| Business type | Brands | Niches collected | Templates studied | Gap |", "|---|---|---|---|---|"]
