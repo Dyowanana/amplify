@@ -1,0 +1,81 @@
+{
+  "n": 4,
+  "role": "body: main lesson + soft plug",
+  "class": "other:meme-cutout-text-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #e4e3df"
+      },
+      {
+        "type": "cutout",
+        "box": [
+          0.0,
+          43.2,
+          100.0,
+          56.8
+        ],
+        "note": "young woman curled in an armchair with a laptop and popcorn, smirking; grainy black and white; white sticker outline; generated on green, keyed in code"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.0,
+        43.2,
+        100.0,
+        56.8
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "flip the order",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        12.8,
+        12.0,
+        20.9,
+        2.6
+      ],
+      "zone": "top-left",
+      "align": "left",
+      "font": "Inter Bold",
+      "size_pct": 2.7,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "the usual move is months of coding,\na launch, then panic about marketing.\n\nflip it. post from day one.\n\ni used Amplify to turn formats that\nwork on TikTok into posts for my saas.\n30 posts. didn't pay for any of them.\n\n(link in bio)",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "stacked-paragraphs",
+      "box": [
+        12.8,
+        18.5,
+        54.5,
+        22.7
+      ],
+      "zone": "top-center",
+      "align": "left",
+      "font": "DejaVu Sans Mono (Space Mono stand-in)",
+      "size_pct": 1.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

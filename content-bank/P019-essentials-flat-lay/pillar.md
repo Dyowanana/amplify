@@ -4,23 +4,25 @@ name: Essentials flat-lay
 status: approved
 type: slideshow
 visual_class: other:essentials-flatlay
-confidence: Low
+confidence: Medium
 sources:
 - '7670706992230485261'
+- '7665200692289752333'
 creators:
 - nicodunlap
 created: '2026-10-10'
 updated: '2026-10-10'
-summary: A single-image starter pack where a two-word "<identity> essentials" title sits over a white flat-lay of cut-out items, an outfit stacked on the left and gadgets, drinks and two or three in-joke app widgets around it, so viewers tag the people who are that identity.
+summary: A single-image identity starter pack on white, either an "<identity> essentials" flat-lay (outfit stacked on one side, gadgets and in-joke app widgets around it) or a "peak <identity> purchases" ring of labelled items around a centre title, so viewers tag the people who are that identity.
 ---
 
 # P019 – Essentials flat-lay
 
 ## 1. Source
-- https://www.tiktok.com/@nicodunlap/photo/7670706992230485261 (@nicodunlap, posted 2026-08-06, collected 2026-10-10). One photo-mode slide.
+- https://www.tiktok.com/@nicodunlap/photo/7670706992230485261 (@nicodunlap, posted 2026-08-06, collected 2026-10-10). One photo-mode slide. Layout A, flat-lay.
+- https://www.tiktok.com/@nicodunlap/photo/7665200692289752333 (@nicodunlap, collected 2026-10-10). One photo-mode slide. Layout B, ring.
 
 ## 2. Summary
-A single-image starter pack where a two-word "<identity> essentials" title sits over a white flat-lay of cut-out items, an outfit stacked on the left and gadgets, drinks and two or three in-joke app widgets around it, so viewers tag the people who are that identity.
+A single-image identity starter pack on white, either an "<identity> essentials" flat-lay (outfit stacked on one side, gadgets and in-joke app widgets around it) or a "peak <identity> purchases" ring of labelled items around a centre title, so viewers tag the people who are that identity.
 
 ## 3. Best for
 - Identity and lifestyle content for a niche audience (founders, builders, creators, students, gym people, nurses, remote workers). Saves and shares come from "this is literally me" and tagging.
@@ -34,7 +36,11 @@ A single-image starter pack where a two-word "<identity> essentials" title sits 
 |---|------|--------------|---------------------------------------------------|
 | 1 | Hook + payload | Title over a white board of 10 to 13 cut-out items. Outfit (top over bottom, footwear under) on the left as the anchor; 4 to 6 lifestyle objects and 2 to 3 app widgets in two loose columns on the right | `<identity> essentials` |
 
-Item slots (fill all of them):
+| 1 (layout B) | Hook + payload | Centre title block (3 stacked lines + a grey `<tribe> edition` subline) ringed by 8 labelled items: 3 top, 1 left, 1 right, 3 bottom | `peak <identity> purchases` / `<tribe> edition`, and a 1 to 2 line label under each item |
+
+Layout B slots: work tool, headphones, a text item (e.g. domain endings), two app icons (left and right, the product goes in one of them), fitness (gym gear, or pilates for a women's version), mic, desk. Labels are the object in plain words, sometimes with a joke adjective ("unused domains").
+
+Layout A item slots (fill all of them):
 - **Outfit** (varies per version): top, bottom, footwear. The only slots that say who the person is.
 - **Work tool**: laptop or equivalent (unbranded).
 - **Fuel**: one hot or iced drink, one bottled drink.
@@ -54,13 +60,14 @@ Single post. Works as a set of variants: same board, outfit swapped, posted a da
 n/a.
 
 ## 9. Hook formula(s)
-- `<identity> essentials` (mechanic: **identity starter pack**, the viewer checks whether they belong). "essentials" is the trend word and stays word for word; the identity word must be new.
+- `<identity> essentials` (layout A) and `peak <identity> purchases` + `<tribe> edition` (layout B). Mechanic: **identity starter pack**, the viewer checks whether they belong.
+- "essentials", "peak … purchases" and "edition" are the trend words and stay word for word; the identity word must be new.
 - Variants in the same register: `<identity> starter pack`, `<identity> uniform`.
 - The pack is the real hook. The joke widgets must read in under a second.
-- Evidence: the source title is "Builder Essentials".
+- Evidence: the source titles are "Builder Essentials" and "peak solopreneur purchases / builder edition".
 
 ## 10. Slide text rules
-- Title only, 2 to 3 words, lowercase (owner rule; the source uses Title Case). No dashes, colons or semicolons.
+- Layout A: title only, 2 to 3 words. Layout B: 3-word title, 2-word edition line, 8 labels of 1 to 4 words. All lowercase (owner rule; the sources' labels use Title Case), real brand names keep their capitals. No dashes, colons or semicolons.
 - Widget text: short UI phrases in lowercase, numbers allowed, at most 6 words per line.
 - No emoji on the board.
 
@@ -72,14 +79,17 @@ n/a.
 - Layout boxes (% of frame, from the source): outfit top [5, 18, 40, 37], bottom [10, 56, 30, 24], footwear [10, 82, 32, 12]; middle column work tool [42, 19, 28, 14], widget [52, 36, 40, 13], widget or object [50, 53, 18, 15], widget [50, 70, 20, 12], object [49, 84, 24, 10]; right column drink [75, 18, 19, 14], gear [76, 54, 20, 19], bottle [80, 76, 12, 19].
 - The outfit column can sit on either side. Run-01 mirrors the source (outfit on the right) so the board stays well clear of the source on the image hash; keep that unless the items are very different in tone from the source's.
 - Fixed across variants: title, layout, every non-outfit item. Varies: the outfit (and the identity word for a new identity).
-- Renderer: `tools/flatlay.py` (title and widgets drawn in code, art multiply-blended on white).
+- Layout B (% of frame): centre title at y 47, 3 lines at 6% with tight leading, Inter Heavy (SF Pro Heavy look), grey #555 edition line at 2.3% under it. Ring boxes: text item [10, 14, 16, 12], work tool [36, 10, 28, 16], headphones [72, 11.5, 20, 15.5], left icon [4, 42, 16, 12], right icon [82, 43, 13, 10.5], fitness [7, 63, 25, 16], mic [40, 64, 20, 20], desk [66, 65.5, 28, 15]; labels Inter Semibold 2.2%, centred 1% under each box.
+- Renderer: `tools/flatlay.py` (title, labels, text items, app icons and widgets drawn in code, art multiply-blended on white; a version can override the title).
 
 ## 12. Caption formula and hashtag pattern
-- Source caption is hashtags only: 4 tags (tool, identity, aspiration, place).
+- Source captions are hashtags only: 4 to 5 tags (identity, meme or aspiration, money, tool, place or trend).
 - Write: an optional 1-line lowercase in-joke or tag ask, then 4 to 5 hashtags (identity, aspiration, niche tool or habit, a broad one).
 
 ## 13. Performance context
-431,300 views, 52,100 likes, 10,949 saves (2.5%), 3,413 shares (0.8%), 165 comments. For reference only.
+- Layout A: 431,300 views, 52,100 likes, 10,949 saves (2.5%), 3,413 shares (0.8%), 165 comments.
+- Layout B: 84,900 views, 9,975 likes, 2,540 saves (3.0%), 441 shares (0.5%), 34 comments.
+For reference only.
 
 ## 14. Do / Don't
 - Do: keep the board airy and the items monochrome; make the outfit clearly the biggest thing; make the widgets the punchline.
@@ -88,12 +98,13 @@ n/a.
 - Don't: draw any brand logo; don't put text in a generated image.
 
 ## 15. Confidence
-Low: one source post. The layout and slots are clear; how far the joke widgets drive the saves is a guess.
+Medium: two posts from one account, two layouts of the same idea. The slots are clear; how far the joke items drive the saves is a guess.
 
 ## Evidence: format fingerprint
-One post, so no comparison. Nearest existing pillar is P017 (object grid): it matches on camera and motion (cut-outs on a light card) and audio only (2 of 7). See `content-bank/_sources/nicodunlap/grouping.md`.
+The two posts match on 6 of 7 (structure, hook, camera and motion, pacing, audio, arc); text overlay differs (one title vs a centre block with item labels). Nearest other pillar is P017 (2 of 7). See `content-bank/_sources/nicodunlap/grouping.md`.
 
 ## Runs
 | Run | Topic | Verdict |
 |---|---|---|
 | [run-01](runs/run-01_2026-10-10_founder-essentials-5-outfits/) | founder essentials, 2 guy and 3 girl outfits, no brand | pending |
+| [run-02](runs/run-02_2026-10-10_creator-purchases-5-versions-a/) | layout B, peak creator purchases, Amplify logo, 2 guy and 3 girl versions, no caption | pending |

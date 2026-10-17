@@ -1,0 +1,142 @@
+{
+ "canvas": [
+  1080,
+  1350
+ ],
+ "theme": {
+  "bg": "#ee7f3b",
+  "ink": "#111111"
+ },
+ "slides": [
+  {
+   "role": "hook",
+   "layout": "left",
+   "heading": "pov reality of building a saas in 2026",
+   "heading_y": 24.3,
+   "arrow": true,
+   "cutout": {
+    "art": "raw/art/c1.png",
+    "box": [
+     0,
+     40,
+     80,
+     60
+    ],
+    "halftone": true,
+    "grade": "film",
+    "note": "young man in a hoodie on the floor with a laptop on a cardboard box, pizza box, dead tired stare",
+    "fit": "contain",
+    "align": "left",
+    "crop_x": [
+     0.27,
+     1
+    ]
+   }
+  },
+  {
+   "role": "body: the game has changed",
+   "layout": "left",
+   "heading": "the game has changed",
+   "heading_y": 13,
+   "body_gap": 7,
+   "body": [
+    "a few years back, building was the hard part.\nif you could ship an app, you were ahead.",
+    "now ai writes the code.\nanyone can launch the same thing in a weekend.",
+    "the edge moved. it's not the app anymore.\nit's who actually sees it."
+   ],
+   "cutout": {
+    "art": "raw/art/c2.png",
+    "grade": "film",
+    "note": "older man in a tweed blazer lowering a newspaper in shock"
+   }
+  },
+  {
+   "role": "body: distribution is the game (proof)",
+   "layout": "left",
+   "heading": "distribution is the game",
+   "heading_y": 12,
+   "body_gap": 7,
+   "body": [
+    "i break down tiktoks that blow up.\none was a single selfie with one question\non it. 17.4 million views.",
+    "no editing. no face cam. no budget.",
+    "simple slideshows are getting millions\nof views while polished apps launch\nto nobody."
+   ],
+   "cutout": {
+    "art": "raw/art/c3.png",
+    "grade": "film",
+    "note": "man in suspenders jabbing a finger at printed bar charts, excited grin"
+   }
+  },
+  {
+   "role": "body: main lesson + soft plug",
+   "layout": "left",
+   "heading": "flip the order",
+   "heading_y": 11.5,
+   "body_gap": 7,
+   "body": [
+    "the usual move is months of coding,\na launch, then panic about marketing.",
+    "flip it. post from day one.",
+    "i used Amplify to turn formats that\nwork on TikTok into posts for my saas.\n30 posts. didn't pay for any of them.",
+    "(link in bio)"
+   ],
+   "cutout": {
+    "art": "raw/art/c4.png",
+    "grade": "film",
+    "note": "young woman curled in an armchair with a laptop and popcorn, smirking"
+   }
+  },
+  {
+   "role": "body: post twice a day",
+   "layout": "left",
+   "heading": "post twice a day",
+   "heading_y": 13,
+   "body_gap": 7,
+   "body": [
+    "one post a week feels productive.\nit's not. it's a lottery ticket.",
+    "batch your posts once a week\nand schedule two a day on TikTok.",
+    "volume is how you find out\nwhat your audience actually wants."
+   ],
+   "cutout": {
+    "art": "raw/art/c5.png",
+    "grade": "film",
+    "note": "coach in a tracksuit holding up two fingers and a stopwatch, shouting"
+   }
+  },
+  {
+   "role": "body: double down",
+   "layout": "left",
+   "heading": "double down",
+   "heading_y": 13,
+   "body_gap": 7,
+   "body": [
+    "after two weeks you'll have real data.\nmost formats will flop. that's normal.",
+    "kill the ones that flop.\ntake the one that hit and make ten more.",
+    "that's where growth starts compounding."
+   ],
+   "cutout": {
+    "art": "raw/art/c6.png",
+    "grade": "film",
+    "note": "man in a loosened tuxedo pushing two stacks of poker chips forward"
+   }
+  },
+  {
+   "role": "conclusion + CTA",
+   "layout": "center",
+   "heading": "conclusion",
+   "heading_y": 13,
+   "body_gap": 7.5,
+   "body": [
+    "yes, everyone's shipping now.",
+    "but if you post every day\nand keep only what works,\nyou'll pass most of them.",
+    "no team. no ad budget.\njust posts, every day.",
+    "Amplify is the link in my bio."
+   ],
+   "cutout": {
+    "art": "raw/art/c7.png",
+    "halftone": true,
+    "grade": "film",
+    "note": "young woman in a denim jacket on the edge of a desk with a mug, calm smile"
+   }
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+  "class": "humans",
+  "confidence": "high",
+  "frame": {
+    "canvas": "9:16, 1080x1920",
+    "layers": [
+      {
+        "type": "photo",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "Nano Banana Pro still, phone finish 0.5"
+      }
+    ]
+  },
+  "n": 6,
+  "role": "cta",
+  "summary": "extreme macro, forehead and one brow, jumper pulled up to the nose",
+  "text_blocks": [
+    {
+      "text": "would she fool you\nbe honest",
+      "origin": "overlay",
+      "role": "cta",
+      "pattern": "center-block",
+      "box": [
+        25,
+        40.5,
+        50,
+        8.6
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter Light 300 + Bold 700 (you)",
+      "size_pct": 3.1,
+      "case": "lowercase",
+      "fill": "#ffffff",
+      "stroke": "none, faint soft shadow",
+      "under": "subject (forehead)"
+    }
+  ]
+}

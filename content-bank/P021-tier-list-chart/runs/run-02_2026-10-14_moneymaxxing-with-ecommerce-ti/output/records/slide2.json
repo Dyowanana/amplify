@@ -1,0 +1,692 @@
+{
+  "n": 2,
+  "role": "body",
+  "class": "other:tier-chart-card",
+  "confidence": "high",
+  "summary": "tier chart: fight me on this",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #feede1"
+      },
+      {
+        "type": "tier table",
+        "box": [
+          7.6,
+          17.5,
+          77.8,
+          55.7
+        ],
+        "note": "coloured letter cells, hairline black grid"
+      },
+      {
+        "type": "plus glyph",
+        "box": [
+          12.6,
+          74.2,
+          4.4,
+          3.5
+        ],
+        "note": "black plus between the table and the F row"
+      },
+      {
+        "type": "F row",
+        "box": [
+          7.6,
+          78.9,
+          77.8,
+          11.1
+        ],
+        "note": "separate bottom row"
+      },
+      {
+        "type": "icons",
+        "box": [
+          26.4,
+          18.3,
+          52.4,
+          68.6
+        ],
+        "note": "15 cut-out icons: photoreal objects, glossy 3D icons and black glyphs, multiply-blended on the card"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        7.6,
+        17.5,
+        77.80000000000001,
+        72.54
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "fight me on this",
+      "origin": "designed",
+      "role": "hook",
+      "pattern": "top-headline",
+      "box": [
+        10.2,
+        6.7,
+        55.5,
+        7.1
+      ],
+      "zone": "top-center",
+      "align": "left",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 7.6,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "S",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "tier letter",
+      "box": [
+        13.0,
+        20.5,
+        3.7,
+        3.7
+      ],
+      "zone": "top-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 5.0,
+      "case": "caps",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "prints, scales",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "tier tagline",
+      "box": [
+        9.9,
+        26.7,
+        9.8,
+        1.2
+      ],
+      "zone": "top-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 1.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "Shopify store",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        24.3,
+        25.6,
+        16.5,
+        2.2
+      ],
+      "zone": "top-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "winning product",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        43.6,
+        25.6,
+        20.2,
+        2.2
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "ugc ads",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        69.8,
+        25.7,
+        10.0,
+        2.1
+      ],
+      "zone": "top-right",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "A",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "tier letter",
+      "box": [
+        12.9,
+        31.7,
+        3.9,
+        3.7
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 5.0,
+      "case": "caps",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "works,",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "tier tagline",
+      "box": [
+        12.3,
+        36.4,
+        5.0,
+        1.2
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 1.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "takes grind",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "tier tagline",
+      "box": [
+        10.7,
+        37.9,
+        8.2,
+        1.2
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 1.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "organic TikTok",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        28.6,
+        36.8,
+        18.5,
+        2.2
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "abandoned cart emails",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        55.4,
+        36.8,
+        28.3,
+        1.7
+      ],
+      "zone": "middle-right",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "B",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "tier letter",
+      "box": [
+        12.9,
+        42.8,
+        3.8,
+        3.6
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 5.0,
+      "case": "caps",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "solid, slow",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "tier tagline",
+      "box": [
+        11.0,
+        49.0,
+        7.7,
+        1.2
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 1.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "print on demand",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        27.6,
+        47.9,
+        20.4,
+        2.2
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "paid ads",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        64.2,
+        47.9,
+        10.6,
+        2.2
+      ],
+      "zone": "middle-right",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "C",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "tier letter",
+      "box": [
+        12.6,
+        53.9,
+        4.3,
+        3.7
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 5.0,
+      "case": "caps",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "mid, risky",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "tier tagline",
+      "box": [
+        11.3,
+        60.1,
+        7.0,
+        1.2
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 1.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "general store",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        24.4,
+        59.1,
+        16.3,
+        2.1
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "cheap suppliers",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        43.8,
+        59.1,
+        19.7,
+        2.2
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "slow shipping",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        66.3,
+        59.1,
+        17.2,
+        2.2
+      ],
+      "zone": "middle-right",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "D",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "tier letter",
+      "box": [
+        12.7,
+        65.1,
+        4.2,
+        3.6
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 5.0,
+      "case": "caps",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "mostly cope",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "tier tagline",
+      "box": [
+        10.2,
+        71.3,
+        9.2,
+        1.2
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 1.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "guru courses",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        29.6,
+        70.6,
+        16.4,
+        1.7
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "dead trends",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        62.1,
+        70.2,
+        14.9,
+        1.7
+      ],
+      "zone": "bottom-right",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "F",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "tier letter",
+      "box": [
+        13.1,
+        82.0,
+        3.4,
+        3.6
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 5.0,
+      "case": "caps",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "bans, refunds",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "tier tagline",
+      "box": [
+        9.7,
+        88.1,
+        10.2,
+        1.3
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 1.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "colour cell"
+    },
+    {
+      "text": "knockoffs",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        26.4,
+        87.0,
+        12.4,
+        1.8
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "fake reviews",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        45.8,
+        87.0,
+        15.9,
+        1.8
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "your option",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        67.8,
+        84.8,
+        14.1,
+        2.2
+      ],
+      "zone": "bottom-right",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "(comment)",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        68.0,
+        87.0,
+        13.8,
+        2.1
+      ],
+      "zone": "bottom-right",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "which tier is your store in?",
+      "origin": "designed",
+      "role": "cta",
+      "pattern": "bottom-left",
+      "box": [
+        11.0,
+        93.0,
+        59.6,
+        4.6
+      ],
+      "zone": "bottom-center",
+      "align": "left",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 4.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

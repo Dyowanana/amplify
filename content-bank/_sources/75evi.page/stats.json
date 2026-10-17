@@ -1,0 +1,259 @@
+{
+  "posts": 20,
+  "types": {
+    "slideshow": 20
+  },
+  "first": "2026-09-28T23:44:50+08:00",
+  "last": "2026-10-07T01:56:56+08:00",
+  "posts_per_week": 17.3,
+  "max_posts_in_a_day": 3,
+  "median_gap_hours": 4.8,
+  "weekdays": {
+    "Tuesday": 4,
+    "Wednesday": 4,
+    "Monday": 3,
+    "Friday": 3,
+    "Sunday": 3,
+    "Thursday": 2,
+    "Saturday": 1
+  },
+  "hours_local": {
+    "0": 3,
+    "1": 1,
+    "2": 3,
+    "3": 2,
+    "4": 2,
+    "5": 2,
+    "20": 1,
+    "21": 1,
+    "22": 3,
+    "23": 2
+  },
+  "timezone": "Asia/Manila",
+  "median_views": 9444.5,
+  "average_rates": {
+    "engagement": 0.0488,
+    "save": 0.0105,
+    "share": 0.001,
+    "comment": 0.0001
+  },
+  "ranked_by": "engagement rate among posts with at least 5,000 views (12 of 20 posts)",
+  "top_5": [
+    {
+      "id": "7690676197172301070",
+      "type": "slideshow",
+      "views": 282000,
+      "engagement": 0.0996,
+      "save": 0.028,
+      "caption": "what you did on saturday shows up on your face on monday. heres why link in bio "
+    },
+    {
+      "id": "7692484130398965006",
+      "type": "slideshow",
+      "views": 16800,
+      "engagement": 0.0706,
+      "save": 0.0151,
+      "caption": "the puffy face after sushi is the soy sauce and the rice, not the fish link in b"
+    },
+    {
+      "id": "7691323983999945997",
+      "type": "slideshow",
+      "views": 27600,
+      "engagement": 0.0629,
+      "save": 0.0161,
+      "caption": "youre not getting bigger, youre sore and holding water. it leaves in a few days "
+    },
+    {
+      "id": "7692882539823893774",
+      "type": "slideshow",
+      "views": 63600,
+      "engagement": 0.0581,
+      "save": 0.0159,
+      "caption": "a jawline that disappears overnight is fluid, not fat. this is where it went lin"
+    },
+    {
+      "id": "7693557942901132557",
+      "type": "slideshow",
+      "views": 15200,
+      "engagement": 0.0563,
+      "save": 0.0118,
+      "caption": "these six puff your face more than anything else, and soy sauce is number one li"
+    }
+  ],
+  "bottom_5": [
+    {
+      "id": "7693275909364731150",
+      "type": "slideshow",
+      "views": 23400,
+      "engagement": 0.0206,
+      "save": 0.0042,
+      "caption": "tight rings, sock marks and a scale that jumps overnight are water, not fat link"
+    },
+    {
+      "id": "7690937378713636109",
+      "type": "slideshow",
+      "views": 9564,
+      "engagement": 0.0247,
+      "save": 0.0046,
+      "caption": "it worked for years and then it stopped. its not in your head link in bio 🤍 #cof"
+    },
+    {
+      "id": "7691440544387452173",
+      "type": "slideshow",
+      "views": 9544,
+      "engagement": 0.033,
+      "save": 0.0069,
+      "caption": "sitting all day lets water settle in your legs. heres the 90 second fix link in "
+    },
+    {
+      "id": "7693193314174094605",
+      "type": "slideshow",
+      "views": 45800,
+      "engagement": 0.0422,
+      "save": 0.0078,
+      "caption": "going every 3 days isnt normal, and its usually these six things link in bio 🤍 #"
+    },
+    {
+      "id": "7692144626165140749",
+      "type": "slideshow",
+      "views": 5309,
+      "engagement": 0.0505,
+      "save": 0.0111,
+      "caption": "if you feel puffy and havent gained anything, eat these. they help you flush the"
+    }
+  ],
+  "top_5_by_views": [
+    {
+      "id": "7690676197172301070",
+      "type": "slideshow",
+      "views": 282000,
+      "engagement": 0.0996,
+      "save": 0.028,
+      "caption": "what you did on saturday shows up on your face on monday. heres why link in bio "
+    },
+    {
+      "id": "7692882539823893774",
+      "type": "slideshow",
+      "views": 63600,
+      "engagement": 0.0581,
+      "save": 0.0159,
+      "caption": "a jawline that disappears overnight is fluid, not fat. this is where it went lin"
+    },
+    {
+      "id": "7693193314174094605",
+      "type": "slideshow",
+      "views": 45800,
+      "engagement": 0.0422,
+      "save": 0.0078,
+      "caption": "going every 3 days isnt normal, and its usually these six things link in bio 🤍 #"
+    },
+    {
+      "id": "7691323983999945997",
+      "type": "slideshow",
+      "views": 27600,
+      "engagement": 0.0629,
+      "save": 0.0161,
+      "caption": "youre not getting bigger, youre sore and holding water. it leaves in a few days "
+    },
+    {
+      "id": "7693275909364731150",
+      "type": "slideshow",
+      "views": 23400,
+      "engagement": 0.0206,
+      "save": 0.0042,
+      "caption": "tight rings, sock marks and a scale that jumps overnight are water, not fat link"
+    }
+  ],
+  "bottom_5_by_views": [
+    {
+      "id": "7691800955355974925",
+      "type": "slideshow",
+      "views": 1301,
+      "engagement": 0.0507,
+      "save": 0.0054,
+      "caption": "a puffy face in the morning is last nights dinner, not fat. these are the six be"
+    },
+    {
+      "id": "7691740036496248077",
+      "type": "slideshow",
+      "views": 1346,
+      "engagement": 0.0275,
+      "save": 0.0022,
+      "caption": "if youre drinking these every day, this is probably why link in bio 🤍 #constipat"
+    },
+    {
+      "id": "7690612461413682445",
+      "type": "slideshow",
+      "views": 1774,
+      "engagement": 0.0513,
+      "save": 0.0141,
+      "caption": "what you did on saturday shows up on your face on monday. heres why link in bio "
+    },
+    {
+      "id": "7692083586429635853",
+      "type": "slideshow",
+      "views": 2056,
+      "engagement": 0.0384,
+      "save": 0.0054,
+      "caption": "if youre not going daily its probably three of these, and you eat them every day"
+    },
+    {
+      "id": "7693615185168289037",
+      "type": "slideshow",
+      "views": 2337,
+      "engagement": 0.0608,
+      "save": 0.0145,
+      "caption": "this is the morning routine that makes you go. same steps, same time, every day "
+    }
+  ],
+  "brand_palette": [
+    {
+      "hex": "#faf8f4",
+      "share": 0.447
+    },
+    {
+      "hex": "#53402d",
+      "share": 0.182
+    },
+    {
+      "hex": "#f9f7f3",
+      "share": 0.136
+    },
+    {
+      "hex": "#af9d87",
+      "share": 0.111
+    },
+    {
+      "hex": "#d6d0ca",
+      "share": 0.084
+    },
+    {
+      "hex": "#fcfcf8",
+      "share": 0.04
+    }
+  ],
+  "hashtags": {
+    "waterretention": 10,
+    "depuff": 9,
+    "puffyface": 7,
+    "wellnesstok": 6,
+    "constipation": 6,
+    "wellnessgirl": 6,
+    "flatstomach": 6,
+    "constipationrelief": 5,
+    "fiber": 5,
+    "womenshealth": 4,
+    "healthyhabits": 3,
+    "mondayface": 2,
+    "pms": 2,
+    "swelling": 2,
+    "faceshape": 2
+  },
+  "sounds": {
+    "xscape – 13 Miles": 1,
+    "xtal – Cuteperson129": 1,
+    "son original – moodsongs___": 1,
+    "Smoke in the Glass – Pinto Merriweather": 1,
+    "som original – WE ARE 00h.03m 🇨🇭": 1
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "n": 6,
+  "role": "round",
+  "class": "other:hand-gesture-duel-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat #0E1A24 with a fine felt grain and a faint 9-column grid"
+      },
+      {
+        "type": "mark",
+        "box": [
+          5.2,
+          3.5,
+          2.6,
+          2.6
+        ],
+        "note": "the brand's chevron mark (real logo file), top-left"
+      },
+      {
+        "type": "hand cut-out (left)",
+        "box": [
+          0.0,
+          40.9,
+          46.8,
+          24.3
+        ],
+        "note": "paper from the left edge, player 1, light olive skin, charcoal hoodie with a worn cuff, black braided bracelet"
+      },
+      {
+        "type": "hand cut-out (right)",
+        "box": [
+          52.2,
+          44.5,
+          47.8,
+          17.1
+        ],
+        "note": "scissors from the right edge, player 2, deep brown skin, light grey hoodie, black watch strap, silver ring"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.0,
+        40.9,
+        100,
+        24.3
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "withamplify.ai",
+      "origin": "mark",
+      "role": "watermark",
+      "pattern": "corner-mark",
+      "box": [
+        9.4,
+        4.4,
+        18.0,
+        1.2
+      ],
+      "zone": "top-left",
+      "align": "left",
+      "font": "Inter Bold, tracked",
+      "size_pct": 1.1,
+      "case": "lowercase",
+      "fill": "#FFFFFF",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "06 / 07",
+      "origin": "mark",
+      "role": "counter",
+      "pattern": "corner-mark",
+      "box": [
+        86.9,
+        4.4,
+        7.9,
+        1.2
+      ],
+      "zone": "top-right",
+      "align": "right",
+      "font": "Inter Medium",
+      "size_pct": 1.1,
+      "case": "digits",
+      "fill": "#A3AEB4",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "waiting until it's ready",
+      "origin": "designed",
+      "role": "myth",
+      "pattern": "label above the left hand",
+      "box": [
+        13.6,
+        30.9,
+        27.2,
+        7.5
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter ExtraBold",
+      "size_pct": 2.6,
+      "case": "lowercase",
+      "fill": "#FFFFFF",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "posting while it's still ugly",
+      "origin": "designed",
+      "role": "truth",
+      "pattern": "label below the right hand",
+      "box": [
+        65.3,
+        64.8,
+        29.5,
+        7.5
+      ],
+      "zone": "bottom-right",
+      "align": "right",
+      "font": "Inter ExtraBold",
+      "size_pct": 2.6,
+      "case": "lowercase",
+      "fill": "#FF7A00",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

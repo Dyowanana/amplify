@@ -1,0 +1,151 @@
+{
+  "canvas": [
+    1080,
+    1350
+  ],
+  "theme": {
+    "bg": "#ffffff",
+    "ink": "#111111",
+    "line": "#111111"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "top": "tier list of",
+      "hero": "raw/art/hero.png",
+      "topic": "customer",
+      "qualifier": "sources",
+      "corner_left": "growth",
+      "corner_right": "raw/art/cut/magnet.png"
+    },
+    {
+      "type": "chart",
+      "title": "change my mind",
+      "cta": "which tier are you stuck in?",
+      "tiers": [
+        {
+          "letter": "S",
+          "tagline": "compounds, lasts",
+          "color": "#fb0200",
+          "items": [
+            {
+              "art": "raw/art/cut/video.png",
+              "label": "short form / video"
+            },
+            {
+              "art": "raw/art/calendar.png",
+              "label": "posting / consistently"
+            },
+            {
+              "art": "raw/art/cut/book.png",
+              "label": "writing a book"
+            },
+            {
+              "art": "raw/art/cut/ringlight.png",
+              "label": "personal brand"
+            }
+          ]
+        },
+        {
+          "letter": "A",
+          "tagline": "strong, takes skill",
+          "color": "#fda13c",
+          "items": [
+            {
+              "art": "raw/art/cut/magnifier.png",
+              "label": "seo"
+            },
+            {
+              "art": "raw/art/cut/target.png",
+              "label": "Facebook ads"
+            },
+            {
+              "art": "raw/art/cut/handshake.png",
+              "label": "referrals"
+            }
+          ]
+        },
+        {
+          "letter": "B",
+          "tagline": "solid, slow",
+          "color": "#fadc7c",
+          "items": [
+            {
+              "art": "raw/art/cut/mic.png",
+              "label": "podcast guesting"
+            },
+            {
+              "art": "raw/art/cut/cursor.png",
+              "label": "paid search"
+            },
+            {
+              "art": "raw/art/cut/heart.png",
+              "label": "influencer collabs"
+            }
+          ]
+        },
+        {
+          "letter": "C",
+          "tagline": "fine, hard to track",
+          "color": "#fffd68",
+          "items": [
+            {
+              "art": "raw/art/cut/flyers.png",
+              "label": "flyers"
+            },
+            {
+              "art": "raw/art/cut/radio.png",
+              "label": "radio ads"
+            },
+            {
+              "art": "raw/art/cut/billboard.png",
+              "label": "billboards"
+            }
+          ]
+        },
+        {
+          "letter": "D",
+          "tagline": "mostly ignored",
+          "color": "#bdfd85",
+          "items": [
+            {
+              "art": "raw/art/cut/frost_envelope.png",
+              "label": "cold email"
+            },
+            {
+              "art": "raw/art/cut/phone.png",
+              "label": "cold calling"
+            },
+            {
+              "art": "raw/art/cut/gift.png",
+              "label": "random giveaways"
+            }
+          ]
+        }
+      ],
+      "f": {
+        "letter": "F",
+        "tagline": "burns your name / bad practice",
+        "color": "#8685ed",
+        "items": [
+          {
+            "art": "raw/art/cut/robot.png",
+            "label": "buying followers"
+          },
+          {
+            "art": "raw/art/cut/spam.png",
+            "label": "spam dms"
+          },
+          {
+            "art": "raw/art/cut/star.png",
+            "label": "fake reviews"
+          },
+          {
+            "glyph": "?",
+            "label": "your option / (comment)"
+          }
+        ]
+      }
+    }
+  ]
+}

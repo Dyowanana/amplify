@@ -1,0 +1,213 @@
+{
+ "canvas": [
+  1080,
+  1350
+ ],
+ "bg": "#ebf1ea",
+ "ink": "#111111",
+ "name": "slide1",
+ "title": {
+  "lines": [
+   "why does today",
+   "feel illegal?"
+  ],
+  "gap_below_centre": -1.0,
+  "size": 5.4,
+  "weight": 300
+ },
+ "label_size": 2.9,
+ "label_weight": 300,
+ "centre": {
+  "art": "raw/art/figure.png",
+  "box": [
+   30,
+   17,
+   40,
+   44
+  ],
+  "crop_bottom": 0.82,
+  "gain": 4.0,
+  "note": "translucent violet glowing figure floating cross-legged with a laptop on its knees"
+ },
+ "items": [
+  {
+   "art": "raw/art/macbook.png",
+   "box": [
+    3,
+    3,
+    22,
+    11
+   ],
+   "finish": "stock",
+   "label": "macbook",
+   "label_y": 15
+  },
+  {
+   "art": "raw/art/matcha.png",
+   "box": [
+    33,
+    1.5,
+    12,
+    13
+   ],
+   "finish": "stock",
+   "label": "iced matcha",
+   "label_y": 15
+  },
+  {
+   "art": "raw/art/cat.png",
+   "box": [
+    56,
+    1.5,
+    15,
+    13
+   ],
+   "cut": "green",
+   "finish": "flash",
+   "label": "0 meetings",
+   "label_y": 15,
+   "note": "screaming hairless cat, old flash photo meme look"
+  },
+  {
+   "art": "raw/art/moon.png",
+   "box": [
+    80,
+    2.5,
+    15,
+    11.5
+   ],
+   "finish": "stock",
+   "label": "dark mode",
+   "label_y": 15
+  },
+  {
+   "picto": "bell_off",
+   "box": [
+    8.5,
+    24,
+    12,
+    9
+   ],
+   "label": "notifications\noff"
+  },
+  {
+   "art": "raw/art/keyboard.png",
+   "box": [
+    4,
+    43,
+    21,
+    7.5
+   ],
+   "finish": "stock",
+   "label": "clicky\nkeyboard"
+  },
+  {
+   "art": "raw/art/guy.png",
+   "box": [
+    6,
+    59,
+    17,
+    12
+   ],
+   "cut": "green",
+   "finish": "film",
+   "align": "bottom",
+   "label": "new user",
+   "note": "fictional man in a 90s office film still, fists up, shouting with joy"
+  },
+  {
+   "picto": "battery",
+   "box": [
+    80.5,
+    25,
+    14,
+    7
+   ],
+   "label": "credit\nreset"
+  },
+  {
+   "picto": "terminal",
+   "box": [
+    82.5,
+    42,
+    10,
+    8.5
+   ],
+   "label": "10k lines\nshipped"
+  },
+  {
+   "picto": "check",
+   "box": [
+    83,
+    60,
+    9,
+    8
+   ],
+   "label": "first try\ndeploy"
+  },
+  {
+   "logo": "raw/brand/amplify_logo.png",
+   "box": [
+    8.5,
+    78,
+    12,
+    8.5
+   ],
+   "label": "automated\ncontent\n(check bio)",
+   "label_y": 87.8
+  },
+  {
+   "art": "raw/art/grass.png",
+   "box": [
+    30,
+    79.5,
+    18,
+    7.5
+   ],
+   "finish": "stock",
+   "label": "touched\ngrass",
+   "label_y": 87.8
+  },
+  {
+   "art": "raw/art/headphones.png",
+   "box": [
+    56,
+    77.5,
+    13,
+    9.5
+   ],
+   "finish": "stock",
+   "label": "lofi on\nloop",
+   "label_y": 87.8
+  },
+  {
+   "picto": "bed",
+   "box": [
+    80,
+    80,
+    15,
+    6.5
+   ],
+   "label": "8h+ sleep",
+   "label_y": 87.8
+  }
+ ],
+ "versions": [
+  {
+   "name": "slide1",
+   "bg": "#ebf1ea"
+  },
+  {
+   "name": "slide2",
+   "bg": "#ffffff"
+  },
+  {
+   "name": "slide3",
+   "bg": "#5cc8fa"
+  },
+  {
+   "name": "slide4",
+   "bg": "#ff8a2a"
+  }
+ ]
+}

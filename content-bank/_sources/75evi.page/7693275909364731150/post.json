@@ -1,0 +1,63 @@
+{
+  "id": "7693275909364731150",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7693275909364731150",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:19:08+00:00",
+  "published": {
+    "utc": "2026-10-05T20:00:12+00:00",
+    "local": "2026-10-06T04:00:12+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Tuesday",
+    "hour": 4
+  },
+  "caption": "tight rings, sock marks and a scale that jumps overnight are water, not fat link in bio 🤍 #waterretention #flatstomach #depuff #notfat #wellnessgirl",
+  "hashtags": [
+    "waterretention",
+    "flatstomach",
+    "depuff",
+    "notfat",
+    "wellnessgirl"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 23400,
+    "likes": 375,
+    "comments": 1,
+    "shares": 6,
+    "saves": 99
+  },
+  "rates": {
+    "engagement": 0.0206,
+    "save": 0.0042,
+    "share": 0.0003,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "original sound",
+    "author": "val 🐾",
+    "original": true,
+    "id": "7653580957445868318"
+  },
+  "slide_count": 5,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg"
+    ]
+  }
+}

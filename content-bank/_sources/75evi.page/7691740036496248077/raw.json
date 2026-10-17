@@ -1,0 +1,413 @@
+{
+ "AIGCDescription": "",
+ "CategoryType": 120,
+ "IsAigc": false,
+ "ShowAIGC": true,
+ "author": {
+  "UserStoryStatus": 0,
+  "avatarLarger": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=26f30b7d&x-expires=1791529200&x-signature=EP8E%2Fzm28jHcz1VQA3kdtNqYtUI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "avatarMedium": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=88a1a3c7&x-expires=1791529200&x-signature=BujfSZgeEfZKfKOziJQkHIVbJ%2FQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "avatarThumb": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=4364ad5c&x-expires=1791529200&x-signature=J09Dgie1tthsy%2BlqSZyQFkdQRm8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "canExpPlaylist": false,
+  "commentSetting": 0,
+  "createTime": 1784833949,
+  "downloadSetting": 0,
+  "duetSetting": 0,
+  "ftc": false,
+  "id": "7665803080923350029",
+  "isADVirtual": false,
+  "isEmbedBanned": false,
+  "nickNameModifyTime": 0,
+  "nickname": "75evi.page",
+  "nowInvitationCardUrl": "",
+  "openFavorite": false,
+  "privateAccount": false,
+  "recommendReason": "",
+  "relation": 0,
+  "roomId": "",
+  "secUid": "MS4wLjABAAAAB5KkE31ELrpH8YoD55_wQo80fsYoHyDjmoDeib9rw-9QzqXVl5rtocoQhe_kw47x",
+  "secret": false,
+  "shortDramaCreator": {},
+  "shortId": "",
+  "signature": "let me help you become her 🤍 the 75-day glowup, built around you ↓",
+  "stitchSetting": 0,
+  "suggestAccountBind": false,
+  "ttSeller": false,
+  "uniqueId": "75evi.page",
+  "uniqueIdModifyTime": 0,
+  "verified": false
+ },
+ "authorStats": {
+  "diggCount": 207,
+  "followerCount": 3386,
+  "followingCount": 0,
+  "friendCount": 0,
+  "heart": 206800,
+  "heartCount": 206800,
+  "videoCount": 84
+ },
+ "authorStatsV2": {
+  "diggCount": "207",
+  "followerCount": "3386",
+  "followingCount": "0",
+  "friendCount": "0",
+  "heart": "206800",
+  "heartCount": "206800",
+  "videoCount": "84"
+ },
+ "backendSourceEventTracking": "",
+ "category": "tiktok",
+ "challenges": [
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "646039",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "constipation"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "1658419337527302",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "constipationrelief"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "2360567",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "fiber"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "24847",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "flatstomach"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "1656089619466245",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "wellnessgirl"
+  }
+ ],
+ "channelTags": [],
+ "collected": false,
+ "comments": [],
+ "contents": [
+  {
+   "desc": "if youre drinking these every day, this is probably why link in bio 🤍 #constipation #constipationrelief #fiber #flatstomach #wellnessgirl",
+   "textExtra": [
+    {
+     "awemeId": "",
+     "end": 84,
+     "hashtagId": "646039",
+     "hashtagName": "constipation",
+     "isCommerce": false,
+     "start": 71,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 104,
+     "hashtagId": "1658419337527302",
+     "hashtagName": "constipationrelief",
+     "isCommerce": false,
+     "start": 85,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 111,
+     "hashtagId": "2360567",
+     "hashtagName": "fiber",
+     "isCommerce": false,
+     "start": 105,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 124,
+     "hashtagId": "24847",
+     "hashtagName": "flatstomach",
+     "isCommerce": false,
+     "start": 112,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 138,
+     "hashtagId": "1656089619466245",
+     "hashtagName": "wellnessgirl",
+     "isCommerce": false,
+     "start": 125,
+     "subType": 0,
+     "type": 1
+    }
+   ]
+  }
+ ],
+ "createTime": "1790872836",
+ "creatorAIComment": {
+  "categoryList": [],
+  "eligibleVideo": false,
+  "hasAITopic": false,
+  "notEligibleReason": 101
+ },
+ "date": "2026-10-01 16:40:36",
+ "desc": "if youre drinking these every day, this is probably why link in bio 🤍 #constipation #constipationrelief #fiber #flatstomach #wellnessgirl",
+ "digged": false,
+ "duetDisplay": 0,
+ "effectStickers": [],
+ "forFriend": false,
+ "id": "7691740036496248077",
+ "imagePost": {
+  "cover": {
+   "imageHeight": 2100,
+   "imageURL": {
+    "urlList": [
+     "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0ae828d887f44593b622647bf7057f5e~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=OyaeO6iqjsiJUR8uHm4E3pq2mLs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+     "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0ae828d887f44593b622647bf7057f5e~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=ztySxtDVVne2MxygO87IU215BpI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+    ]
+   },
+   "imageWidth": 1680
+  },
+  "images": [
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0ae828d887f44593b622647bf7057f5e~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=OyaeO6iqjsiJUR8uHm4E3pq2mLs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0ae828d887f44593b622647bf7057f5e~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=ztySxtDVVne2MxygO87IU215BpI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/8e1014398bcf4a63a3522830e2f535ca~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=DP5%2FtAy4MidRIfkhwtVqBmhF4GQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/8e1014398bcf4a63a3522830e2f535ca~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=PihRwy8aR46nQ5V%2Bse11IEZtfD8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/c8d0b56594a34bb0b1522eb2ce60c8ec~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=WEksgIOwHTmxlQox8IgTerxG1b4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/c8d0b56594a34bb0b1522eb2ce60c8ec~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=sHoZoQtSsmAdF%2F8jUUIwwqexAbc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/f3765cb777ff4cf185423be6a795976d~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=67yHO6esEVf131zqj6pIz2Bi5HM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/f3765cb777ff4cf185423be6a795976d~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=dWtwPln17qhQWQhd35ZFBJhbfxU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/5c6e5e2d4736432e9c86342c6e8b3346~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=5Jbm5Onmit9HBMa72Ogln3SSylI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/5c6e5e2d4736432e9c86342c6e8b3346~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=cyUTmQ2blpf8m8q%2FMS54SzpTxSo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/76736ccfbbd34ebba2d7050d78e44c6f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=cVYYl0AsFgFfVs0J%2BLnWVBwv0h0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/76736ccfbbd34ebba2d7050d78e44c6f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=g6d0zv6B9%2FUw4RQUR%2F9AMxIfzo0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   }
+  ],
+  "shareCover": {
+   "imageHeight": 2100,
+   "imageURL": {
+    "urlList": [
+     "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0ae828d887f44593b622647bf7057f5e~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=OyaeO6iqjsiJUR8uHm4E3pq2mLs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+     "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0ae828d887f44593b622647bf7057f5e~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=ztySxtDVVne2MxygO87IU215BpI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+    ]
+   },
+   "imageWidth": 1680
+  },
+  "title": ""
+ },
+ "indexEnabled": true,
+ "isAd": false,
+ "isProhibited": false,
+ "isReviewing": false,
+ "itemCommentStatus": 0,
+ "item_control": {
+  "can_repost": true
+ },
+ "locationCreated": "US",
+ "music": {
+  "authorName": "😇",
+  "collected": false,
+  "coverLarge": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/cf80dc23d3083c5ba7c6497f71c6e4d1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=ad6ddb2c&x-expires=1791529200&x-signature=O1j%2BFeq2RtOm62tlQYWUUtTS6ok%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "coverMedium": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/cf80dc23d3083c5ba7c6497f71c6e4d1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=9da6a74d&x-expires=1791529200&x-signature=gvcyrqFa8OESuH6Nip629t3hc2I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "coverThumb": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/cf80dc23d3083c5ba7c6497f71c6e4d1~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=3438b3b1&x-expires=1791529200&x-signature=4Yydp9W53st7QD8z3Xl8P%2BPKtx0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "duration": 30,
+  "id": "7277781489679469354",
+  "isCopyrighted": false,
+  "is_commerce_music": true,
+  "is_unlimited_music": false,
+  "original": true,
+  "playUrl": "https://v16m.tiktokcdn.com/c2a626b7a6238e7ccd8495021321674d/6ac7460a/video/tos/maliva/tos-maliva-v-27dcd7c799-us/oU8f9RAWID6h8xAO73TQfn7FfIt5IoAbAJZeHm/?a=1180&bti=ODszNWYuMDE6&&bt=125&ft=GcDrcInz7ThzIznGXq8Zmo&mime_type=audio_mpeg&rc=anc2aTs6Zml3bTMzZzU8NEBpanc2aTs6Zml3bTMzZzU8NEAyNTNqcjRvc3NgLS1kMS9zYSMyNTNqcjRvc3NgLS1kMS9zcw%3D%3D&vvpl=1&l=20261007152740C2650FB5ABE3F2E8114A&btag=e00048000&sp_exp=hash_v0",
+  "preciseDuration": {
+   "preciseAuditionDuration": 30.746063,
+   "preciseDuration": 30.746063,
+   "preciseShootDuration": 30.746063,
+   "preciseVideoDuration": 30.746063
+  },
+  "private": false,
+  "scheduleSearchTime": 0,
+  "shoot_duration": 30,
+  "title": "original sound",
+  "tt2dsp": {
+   "tt_to_dsp_song_infos": []
+  }
+ },
+ "officalItem": false,
+ "originalItem": false,
+ "post_type": "image",
+ "privateItem": false,
+ "scheduleTime": 0,
+ "secret": false,
+ "shareEnabled": true,
+ "stats": {
+  "collectCount": "3",
+  "commentCount": 0,
+  "diggCount": 33,
+  "playCount": 1346,
+  "shareCount": 1
+ },
+ "statsV2": {
+  "collectCount": "3",
+  "commentCount": "0",
+  "diggCount": "33",
+  "playCount": "1346",
+  "repostCount": "0",
+  "shareCount": "1"
+ },
+ "stickersOnItem": [],
+ "stitchDisplay": 0,
+ "subcategory": "post",
+ "suggestedWords": [],
+ "takeDown": 0,
+ "textExtra": [
+  {
+   "awemeId": "",
+   "end": 84,
+   "hashtagId": "646039",
+   "hashtagName": "constipation",
+   "isCommerce": false,
+   "start": 71,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 104,
+   "hashtagId": "1658419337527302",
+   "hashtagName": "constipationrelief",
+   "isCommerce": false,
+   "start": 85,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 111,
+   "hashtagId": "2360567",
+   "hashtagName": "fiber",
+   "isCommerce": false,
+   "start": 105,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 124,
+   "hashtagId": "24847",
+   "hashtagName": "flatstomach",
+   "isCommerce": false,
+   "start": 112,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 138,
+   "hashtagId": "1656089619466245",
+   "hashtagName": "wellnessgirl",
+   "isCommerce": false,
+   "start": 125,
+   "subType": 0,
+   "type": 1
+  }
+ ],
+ "textLanguage": "en",
+ "textTranslatable": true,
+ "titleLanguage": "un",
+ "titleTranslatable": false,
+ "user": "75evi.page",
+ "video": {
+  "cover": "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0ae828d887f44593b622647bf7057f5e~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=OyaeO6iqjsiJUR8uHm4E3pq2mLs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+  "downloadAddr": "",
+  "duration": 0,
+  "dynamicCover": "",
+  "height": 0,
+  "id": "7691740036496248077",
+  "originCover": "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0ae828d887f44593b622647bf7057f5e~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=OyaeO6iqjsiJUR8uHm4E3pq2mLs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+  "playAddr": "",
+  "ratio": "",
+  "reflowCover": "",
+  "shareCover": [
+   ""
+  ],
+  "width": 0
+ },
+ "warnInfo": []
+}

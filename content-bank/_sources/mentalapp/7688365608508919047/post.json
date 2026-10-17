@@ -1,0 +1,61 @@
+{
+  "id": "7688365608508919047",
+  "url": "https://www.tiktok.com/@mentalapp/video/7688365608508919047",
+  "creator": "mentalapp",
+  "type": "slideshow",
+  "collected_at": "2026-10-13T15:36:10+00:00",
+  "published": {
+    "utc": "2026-09-22T14:25:22+00:00",
+    "local": "2026-09-22T22:25:22+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Tuesday",
+    "hour": 22
+  },
+  "caption": "Little bit of changes from part 1, dopamine sources tier list, check bio instead #dopaminesources #dopamine #mental #mentalmaxxing #mentalhealth",
+  "hashtags": [
+    "dopaminesources",
+    "dopamine",
+    "mental",
+    "mentalmaxxing",
+    "mentalhealth"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 969400,
+    "likes": 55000,
+    "comments": 494,
+    "shares": 2754,
+    "saves": 13290
+  },
+  "rates": {
+    "engagement": 0.0738,
+    "save": 0.0137,
+    "share": 0.0028,
+    "comment": 0.0005
+  },
+  "sound": {
+    "title": "Retake (Slowed)",
+    "author": "gabriawll",
+    "original": null,
+    "id": null
+  },
+  "slide_count": 2,
+  "duration": 59,
+  "size": {
+    "width": 1080,
+    "height": 1350
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": null
+  },
+  "files": {
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg"
+    ],
+    "audio": "video.m4a"
+  },
+  "note": "photo carousel; fetch.py saved only the music (video.m4a). Slides saved from the public page in the browser pane on 2026-10-13."
+}

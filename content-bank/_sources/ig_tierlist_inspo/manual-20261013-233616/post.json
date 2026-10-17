@@ -1,0 +1,51 @@
+{
+  "id": "manual-20261013-233616",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/reel/manual-20261013-233616/",
+  "creator": "tierlist_inspo",
+  "type": "video",
+  "collected_at": "2026-10-13T15:36:28+00:00",
+  "published": {
+    "utc": null,
+    "local": null,
+    "timezone": "Asia/Manila",
+    "weekday": null,
+    "hour": null
+  },
+  "caption": "",
+  "hashtags": [],
+  "mentions": [],
+  "stats": {
+    "views": null,
+    "likes": null,
+    "comments": null,
+    "shares": null,
+    "saves": null
+  },
+  "rates": {
+    "engagement": null,
+    "save": null,
+    "share": null,
+    "comment": null
+  },
+  "sound": {
+    "title": null,
+    "author": null,
+    "original": null,
+    "id": null
+  },
+  "slide_count": null,
+  "duration": 137.92,
+  "size": {
+    "width": 480,
+    "height": 854
+  },
+  "labels": {
+    "ad": null,
+    "ai_generated": null,
+    "location": null
+  },
+  "files": {
+    "video": "video.mp4"
+  }
+}

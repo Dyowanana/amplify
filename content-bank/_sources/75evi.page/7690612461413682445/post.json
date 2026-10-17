@@ -1,0 +1,64 @@
+{
+  "id": "7690612461413682445",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7690612461413682445",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:27:22+00:00",
+  "published": {
+    "utc": "2026-09-28T15:44:50+00:00",
+    "local": "2026-09-28T23:44:50+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Monday",
+    "hour": 23
+  },
+  "caption": "what you did on saturday shows up on your face on monday. heres why link in bio 🤍 #puffyface #depuff #mondayface #waterretention #wellnesstok",
+  "hashtags": [
+    "puffyface",
+    "depuff",
+    "mondayface",
+    "waterretention",
+    "wellnesstok"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 1774,
+    "likes": 66,
+    "comments": 0,
+    "shares": 0,
+    "saves": 25
+  },
+  "rates": {
+    "engagement": 0.0513,
+    "save": 0.0141,
+    "share": 0.0,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "xscape",
+    "author": "13 Miles",
+    "original": false,
+    "id": "7500931218323851280"
+  },
+  "slide_count": 6,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg",
+      "slides/06.jpg"
+    ]
+  }
+}

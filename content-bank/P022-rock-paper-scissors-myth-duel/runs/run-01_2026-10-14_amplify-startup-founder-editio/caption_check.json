@@ -1,0 +1,13 @@
+{
+  "style": "soft",
+  "brand": "brands/amplify.md",
+  "disclosure_position": "end",
+  "characters": 322,
+  "hashtags": 5,
+  "first_100_characters": "rock, paper, scissors, founder edition 🪨📄✂️ which round are you still losing?\n\nmost of these rounds ",
+  "fails": [],
+  "warnings": [
+    "style rule is lowercase for overlay/caption text; found capitalised word(s): ['Instagram', 'TikTok']"
+  ],
+  "verdict": "pass"
+}

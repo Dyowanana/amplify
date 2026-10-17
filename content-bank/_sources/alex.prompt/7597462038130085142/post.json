@@ -1,0 +1,59 @@
+{
+  "id": "7597462038130085142",
+  "url": "https://www.tiktok.com/@alex.prompt/photo/7597462038130085142",
+  "creator": "alex.prompt",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T16:14:22+00:00",
+  "published": {
+    "utc": "2026-01-20T15:13:03+00:00",
+    "local": "2026-01-20T23:13:03+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Tuesday",
+    "hour": 23
+  },
+  "caption": "This isn’t about rendering anymore. It’s about realism. And that barrier is gone. AI people don’t look synthetic now. They have pores. Texture. Flaws. Skin that reacts to light the way real skin does. Those tiny imperfections are what your brain reads as real. That’s the real unlock of generative AI. Not flashy visuals. Believable humans, created on demand. For creators, this shifts everything. No studios. No paid models. No waiting on schedules, locations, or weather. What you actually need is a system. Defined character DNA. Consistent facial structure. Intentional lighting. Close-ups that prove realism instead of hiding it. Access to AI isn’t the advantage anymore. Knowing how to use it properly is. If this clicks, you’re early. If it doesn’t, you’ll scroll past the people who are. Comment UGC to build your first AI influencer today.",
+  "hashtags": [],
+  "mentions": [],
+  "stats": {
+    "views": 453000,
+    "likes": 9038,
+    "comments": 1330,
+    "shares": 1936,
+    "saves": 4203
+  },
+  "rates": {
+    "engagement": 0.0364,
+    "save": 0.0093,
+    "share": 0.0043,
+    "comment": 0.0029
+  },
+  "sound": {
+    "title": "Thewayyouare",
+    "author": "BYDKA BEATS",
+    "original": null,
+    "id": null
+  },
+  "slide_count": 6,
+  "duration": null,
+  "size": {
+    "width": 1440,
+    "height": 2558
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": null
+  },
+  "files": {
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg",
+      "slides/06.jpg"
+    ],
+    "sound": "sound.mp3"
+  },
+  "note": "slides taken from the public photo page in the browser pane (gallery-dl returned nothing, yt-dlp gave the sound only)"
+}

@@ -1,0 +1,106 @@
+{
+ "canvas": [
+  1080,
+  1350
+ ],
+ "theme": {
+  "bg": "#0E1A24",
+  "ink": "#FFFFFF",
+  "accent": "#FF7A00",
+  "muted": "#A3AEB4",
+  "grid": 0.035,
+  "grain": 5
+ },
+ "mark": {
+  "logo": "raw/brand/amplify_logo.png",
+  "handle": "withamplify.ai"
+ },
+ "art_scale": 0.28,
+ "cuff_min": 8,
+ "gap": 9,
+ "hands": {
+  "rock": {
+   "left": "raw/hands/left_rock.png",
+   "right": {
+    "path": "raw/hands/right_rock.png",
+    "zoom": 1.4
+   }
+  },
+  "paper": {
+   "left": "raw/hands/left_paper.png",
+   "right": {
+    "path": "raw/hands/right_paper.png",
+    "zoom": 1.36
+   }
+  },
+  "scissors": {
+   "left": "raw/hands/left_scissors.png",
+   "right": {
+    "path": "raw/hands/right_scissors.png",
+    "zoom": 1.45
+   }
+  }
+ },
+ "slides": [
+  {
+   "role": "hook",
+   "left": "rock",
+   "right": "scissors",
+   "hands_y": 73,
+   "head_y": 14,
+   "lines": [
+    "rock, paper,",
+    "scissors, shoot"
+   ],
+   "edition": "startup founder edition",
+   "play": "swipe to play",
+   "play_y": 56
+  },
+  {
+   "left": "rock",
+   "right": "paper",
+   "hands_y": 53,
+   "lose": "shipping another feature",
+   "win": "marketing the product you already built"
+  },
+  {
+   "left": "paper",
+   "right": "scissors",
+   "hands_y": 53,
+   "lose": "adding 10 more functions",
+   "win": "launching with one mvp"
+  },
+  {
+   "left": "scissors",
+   "right": "rock",
+   "hands_y": 53,
+   "lose": "building in silence",
+   "win": "building in public"
+  },
+  {
+   "left": "rock",
+   "right": "paper",
+   "hands_y": 53,
+   "lose": "the perfect marketing post",
+   "win": "low effort posts every day"
+  },
+  {
+   "left": "paper",
+   "right": "scissors",
+   "hands_y": 53,
+   "lose": "waiting until it's ready",
+   "win": "posting while it's still ugly"
+  },
+  {
+   "left": "scissors",
+   "right": "rock",
+   "hands_y": 53,
+   "lose": "redesigning the logo again",
+   "win": "posting something today"
+  }
+ ],
+ "players": {
+  "left": "player 1, light olive skin, charcoal hoodie with a worn cuff, black braided bracelet",
+  "right": "player 2, deep brown skin, light grey hoodie, black watch strap, silver ring"
+ }
+}

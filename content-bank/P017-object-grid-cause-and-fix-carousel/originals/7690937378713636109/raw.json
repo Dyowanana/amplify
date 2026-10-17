@@ -1,0 +1,431 @@
+{
+ "AIGCDescription": "",
+ "CategoryType": 120,
+ "IsAigc": false,
+ "ShowAIGC": true,
+ "author": {
+  "UserStoryStatus": 0,
+  "avatarLarger": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=26f30b7d&x-expires=1791529200&x-signature=EP8E%2Fzm28jHcz1VQA3kdtNqYtUI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "avatarMedium": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=88a1a3c7&x-expires=1791529200&x-signature=BujfSZgeEfZKfKOziJQkHIVbJ%2FQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "avatarThumb": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=4364ad5c&x-expires=1791529200&x-signature=J09Dgie1tthsy%2BlqSZyQFkdQRm8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "canExpPlaylist": false,
+  "commentSetting": 0,
+  "createTime": 1784833949,
+  "downloadSetting": 0,
+  "duetSetting": 0,
+  "ftc": false,
+  "id": "7665803080923350029",
+  "isADVirtual": false,
+  "isEmbedBanned": false,
+  "nickNameModifyTime": 0,
+  "nickname": "75evi.page",
+  "nowInvitationCardUrl": "",
+  "openFavorite": false,
+  "privateAccount": false,
+  "recommendReason": "",
+  "relation": 0,
+  "roomId": "",
+  "secUid": "MS4wLjABAAAAB5KkE31ELrpH8YoD55_wQo80fsYoHyDjmoDeib9rw-9QzqXVl5rtocoQhe_kw47x",
+  "secret": false,
+  "shortDramaCreator": {},
+  "shortId": "",
+  "signature": "let me help you become her 🤍 the 75-day glowup, built around you ↓",
+  "stitchSetting": 0,
+  "suggestAccountBind": false,
+  "ttSeller": false,
+  "uniqueId": "75evi.page",
+  "uniqueIdModifyTime": 0,
+  "verified": false
+ },
+ "authorStats": {
+  "diggCount": 207,
+  "followerCount": 3386,
+  "followingCount": 0,
+  "friendCount": 0,
+  "heart": 206800,
+  "heartCount": 206800,
+  "videoCount": 84
+ },
+ "authorStatsV2": {
+  "diggCount": "207",
+  "followerCount": "3386",
+  "followingCount": "0",
+  "friendCount": "0",
+  "heart": "206800",
+  "heartCount": "206800",
+  "videoCount": "84"
+ },
+ "backendSourceEventTracking": "",
+ "category": "tiktok",
+ "challenges": [
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "We're celebrating International Coffee Day! Share your favourite coffee hacks, recommendations and stories with us!",
+   "id": "14104",
+   "profileLarger": "https://p16-common-sign.tiktokcdn.com/tiktok-obj/24552381a53125ba59471c5cb8b75ed1.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791378000&x-signature=oGmlXLil0Uk2tJyx3spNZAzcfZ4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3",
+   "profileMedium": "https://p16-common-sign.tiktokcdn.com/tiktok-obj/24552381a53125ba59471c5cb8b75ed1.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791378000&x-signature=oGmlXLil0Uk2tJyx3spNZAzcfZ4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3",
+   "profileThumb": "https://p16-common-sign.tiktokcdn.com/tiktok-obj/24552381a53125ba59471c5cb8b75ed1.png~tplv-tiktokx-origin.image?dr=14566&x-expires=1791378000&x-signature=oGmlXLil0Uk2tJyx3spNZAzcfZ4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3",
+   "title": "coffee"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "646039",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "constipation"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "17947932",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "digestion"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "58272568",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "guthealth"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "50207185",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "womenshealth"
+  }
+ ],
+ "channelTags": [],
+ "collected": false,
+ "comments": [],
+ "contents": [
+  {
+   "desc": "it worked for years and then it stopped. its not in your head link in bio 🤍 #coffee #constipation #digestion #guthealth #womenshealth",
+   "textExtra": [
+    {
+     "awemeId": "",
+     "end": 84,
+     "hashtagId": "14104",
+     "hashtagName": "coffee",
+     "isCommerce": false,
+     "start": 77,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 98,
+     "hashtagId": "646039",
+     "hashtagName": "constipation",
+     "isCommerce": false,
+     "start": 85,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 109,
+     "hashtagId": "17947932",
+     "hashtagName": "digestion",
+     "isCommerce": false,
+     "start": 99,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 120,
+     "hashtagId": "58272568",
+     "hashtagName": "guthealth",
+     "isCommerce": false,
+     "start": 110,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 134,
+     "hashtagId": "50207185",
+     "hashtagName": "womenshealth",
+     "isCommerce": false,
+     "start": 121,
+     "subType": 0,
+     "type": 1
+    }
+   ]
+  }
+ ],
+ "createTime": "1790685931",
+ "creatorAIComment": {
+  "categoryList": [],
+  "eligibleVideo": false,
+  "hasAITopic": false,
+  "notEligibleReason": 101
+ },
+ "date": "2026-09-29 12:45:31",
+ "desc": "it worked for years and then it stopped. its not in your head link in bio 🤍 #coffee #constipation #digestion #guthealth #womenshealth",
+ "digged": false,
+ "duetDisplay": 0,
+ "effectStickers": [],
+ "forFriend": false,
+ "id": "7690937378713636109",
+ "imagePost": {
+  "cover": {
+   "imageHeight": 2100,
+   "imageURL": {
+    "urlList": [
+     "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/b3bafa3f424748159404f9bd4ac3ad74~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=QFWxNijtFnnZiAv1c1ivSONoHhk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+     "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/b3bafa3f424748159404f9bd4ac3ad74~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=AEKEo3%2F9nRooMQHvHVq5QSZpjOQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+    ]
+   },
+   "imageWidth": 1680
+  },
+  "images": [
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/b3bafa3f424748159404f9bd4ac3ad74~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=QFWxNijtFnnZiAv1c1ivSONoHhk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/b3bafa3f424748159404f9bd4ac3ad74~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=AEKEo3%2F9nRooMQHvHVq5QSZpjOQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/269bd7acaac342d5bb71926eaac38e03~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=gMSCaP7aT8M8jG7UVU4yKMqqTRs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/269bd7acaac342d5bb71926eaac38e03~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=gvG1ZoIrqjOKusmuoYgrnghdg0U%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0d79d05e331445a4abb0975aec1d7847~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=nqoDpvw8X1e%2BOnQAYDgXoDqrh7c%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0d79d05e331445a4abb0975aec1d7847~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=FzFbs%2Bvr8SNOodcJrPYX%2F9MfksY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/1bb25cd084604bc7a5917f8608a488e3~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=4SJVeKUUUUydh8HsGK%2Fxi3XgWVE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/1bb25cd084604bc7a5917f8608a488e3~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=waItqjOcnh3z%2FSKvzjKzcykQEA0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/20f42dda80cd49e89510a8f9a42f21aa~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=TGRVh%2B34N%2ByD34bqI3jVXPUduc0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/20f42dda80cd49e89510a8f9a42f21aa~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=7zmctIkTAMfka56tqQ3DDEKBS7U%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/fa3d066bbad24ee9973fdb43d2293072~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=dqNUVNkCgM1yeTRNkbtUXC4lE6k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/fa3d066bbad24ee9973fdb43d2293072~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=7HYLsFp3TjpYO10Yt%2Bqkte5uTgM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   }
+  ],
+  "shareCover": {
+   "imageHeight": 2100,
+   "imageURL": {
+    "urlList": [
+     "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/b3bafa3f424748159404f9bd4ac3ad74~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=QFWxNijtFnnZiAv1c1ivSONoHhk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+     "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/b3bafa3f424748159404f9bd4ac3ad74~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=AEKEo3%2F9nRooMQHvHVq5QSZpjOQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+    ]
+   },
+   "imageWidth": 1680
+  },
+  "title": ""
+ },
+ "indexEnabled": true,
+ "isAd": false,
+ "isProhibited": false,
+ "isReviewing": false,
+ "itemCommentStatus": 0,
+ "item_control": {
+  "can_repost": true
+ },
+ "locationCreated": "US",
+ "music": {
+  "authorName": "moodsongs___",
+  "collected": false,
+  "coverLarge": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/5e9f5130d495f95f0a5379fdbfa6f510~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=a14f7d02&x-expires=1791529200&x-signature=zh3a1ywc4sDyg6SgKysC%2FT0Q9tw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "coverMedium": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/5e9f5130d495f95f0a5379fdbfa6f510~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=bb054430&x-expires=1791529200&x-signature=5Hsg4jjm8a6ullfDyGLWxJH0R04%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "coverThumb": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/5e9f5130d495f95f0a5379fdbfa6f510~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1fa41c43&x-expires=1791529200&x-signature=dcZnRrug%2BZIFqP6VZhQbrBXrmkY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "duration": 45,
+  "id": "7194965020370782981",
+  "isCopyrighted": true,
+  "is_commerce_music": true,
+  "is_unlimited_music": false,
+  "original": true,
+  "playUrl": "https://v16m.tiktokcdn.com/28c66291ff28afc72825be5b9e17e961/6ac744f1/video/tos/useast2a/tos-useast2a-v-27dcd7/e63dd269788244f9a2ec5ea77e409865/?a=1180&bti=ODszNWYuMDE6&&bt=125&ft=GcDrcInz7ThjeznGXq8Zmo&mime_type=audio_mpeg&rc=anQ1ZDo6Zjp0aTMzNzU8M0BpanQ1ZDo6Zjp0aTMzNzU8M0BxbmZhcjRnYWBgLS1kMTZzYSNxbmZhcjRnYWBgLS1kMTZzcw%3D%3D&vvpl=1&l=20261007152244184E883D90239EDF9750&btag=e00048000&sp_exp=hash_v0",
+  "preciseDuration": {
+   "preciseAuditionDuration": 45.113438,
+   "preciseDuration": 45.113438,
+   "preciseShootDuration": 45.113438,
+   "preciseVideoDuration": 45.113438
+  },
+  "private": false,
+  "scheduleSearchTime": 0,
+  "shoot_duration": 45,
+  "title": "son original",
+  "tt2dsp": {
+   "tt_to_dsp_song_infos": [
+    {
+     "MetaSongId": "6732370643490179073",
+     "Platform": 1,
+     "ShowStrategy": "1",
+     "SongId": "1440898525",
+     "Token": {
+      "AppleMusicToken": {
+       "DeveloperToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6Ikc2Q0dLMjdWQzMifQ.eyJleHAiOjE3OTE1MzAyNTksImlhdCI6MTc5MTI3MTA1OSwiaXNzIjoiTUo3OTdEOFU2RiJ9.07zQjfzw_Og0eR3_8tk0adRL-emS2Gre_1FvDRPjDBdPvnGMpu1wnRwxJQzfWWRnEXH1UNq22VPrjh8hW_F6dg"
+      }
+     }
+    },
+    {
+     "MetaSongId": "6732370643490179073",
+     "Platform": 3,
+     "ShowStrategy": "1",
+     "SongId": "0uYiq008XEGyl5CvbP7P5W"
+    }
+   ]
+  }
+ },
+ "officalItem": false,
+ "originalItem": false,
+ "post_type": "image",
+ "privateItem": false,
+ "scheduleTime": 0,
+ "secret": false,
+ "shareEnabled": true,
+ "stats": {
+  "collectCount": "44",
+  "commentCount": 1,
+  "diggCount": 186,
+  "playCount": 9564,
+  "shareCount": 5
+ },
+ "statsV2": {
+  "collectCount": "44",
+  "commentCount": "1",
+  "diggCount": "186",
+  "playCount": "9564",
+  "repostCount": "0",
+  "shareCount": "5"
+ },
+ "stickersOnItem": [],
+ "stitchDisplay": 0,
+ "subcategory": "post",
+ "suggestedWords": [],
+ "takeDown": 0,
+ "textExtra": [
+  {
+   "awemeId": "",
+   "end": 84,
+   "hashtagId": "14104",
+   "hashtagName": "coffee",
+   "isCommerce": false,
+   "start": 77,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 98,
+   "hashtagId": "646039",
+   "hashtagName": "constipation",
+   "isCommerce": false,
+   "start": 85,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 109,
+   "hashtagId": "17947932",
+   "hashtagName": "digestion",
+   "isCommerce": false,
+   "start": 99,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 120,
+   "hashtagId": "58272568",
+   "hashtagName": "guthealth",
+   "isCommerce": false,
+   "start": 110,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 134,
+   "hashtagId": "50207185",
+   "hashtagName": "womenshealth",
+   "isCommerce": false,
+   "start": 121,
+   "subType": 0,
+   "type": 1
+  }
+ ],
+ "textLanguage": "en",
+ "textTranslatable": true,
+ "titleLanguage": "un",
+ "titleTranslatable": false,
+ "user": "75evi.page",
+ "video": {
+  "cover": "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/b3bafa3f424748159404f9bd4ac3ad74~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=QFWxNijtFnnZiAv1c1ivSONoHhk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+  "downloadAddr": "",
+  "duration": 0,
+  "dynamicCover": "",
+  "height": 0,
+  "id": "7690937378713636109",
+  "originCover": "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/b3bafa3f424748159404f9bd4ac3ad74~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=QFWxNijtFnnZiAv1c1ivSONoHhk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+  "playAddr": "",
+  "ratio": "",
+  "reflowCover": "",
+  "shareCover": [
+   ""
+  ],
+  "width": 0
+ },
+ "warnInfo": []
+}

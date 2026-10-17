@@ -1,0 +1,241 @@
+{
+  "type": "slideshow",
+  "slide_count": 6,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "aspect": "1680:2100",
+  "palettes": {
+    "slide 1": [
+      {
+        "hex": "#f9f8f4",
+        "share": 0.665
+      },
+      {
+        "hex": "#dbd3cb",
+        "share": 0.133
+      },
+      {
+        "hex": "#ac9b91",
+        "share": 0.095
+      },
+      {
+        "hex": "#5d3c2d",
+        "share": 0.059
+      },
+      {
+        "hex": "#fdfdf9",
+        "share": 0.048
+      }
+    ],
+    "slide 2": [
+      {
+        "hex": "#faf9f5",
+        "share": 0.675
+      },
+      {
+        "hex": "#82693c",
+        "share": 0.104
+      },
+      {
+        "hex": "#d8d0cc",
+        "share": 0.088
+      },
+      {
+        "hex": "#b8a792",
+        "share": 0.081
+      },
+      {
+        "hex": "#fcfcf8",
+        "share": 0.053
+      }
+    ],
+    "slide 3": [
+      {
+        "hex": "#f9f8f4",
+        "share": 0.717
+      },
+      {
+        "hex": "#b2a797",
+        "share": 0.096
+      },
+      {
+        "hex": "#d4cfca",
+        "share": 0.093
+      },
+      {
+        "hex": "#fdfcf8",
+        "share": 0.051
+      },
+      {
+        "hex": "#806341",
+        "share": 0.042
+      }
+    ],
+    "slide 4": [
+      {
+        "hex": "#faf9f5",
+        "share": 0.708
+      },
+      {
+        "hex": "#b5ad9f",
+        "share": 0.12
+      },
+      {
+        "hex": "#dad7d1",
+        "share": 0.09
+      },
+      {
+        "hex": "#956642",
+        "share": 0.052
+      },
+      {
+        "hex": "#fdfcf9",
+        "share": 0.03
+      }
+    ],
+    "slide 5": [
+      {
+        "hex": "#faf9f5",
+        "share": 0.773
+      },
+      {
+        "hex": "#fefdf9",
+        "share": 0.073
+      },
+      {
+        "hex": "#e5e0de",
+        "share": 0.054
+      },
+      {
+        "hex": "#a4a29e",
+        "share": 0.052
+      },
+      {
+        "hex": "#cbc2c1",
+        "share": 0.048
+      }
+    ],
+    "slide 6": [
+      {
+        "hex": "#26241c",
+        "share": 0.367
+      },
+      {
+        "hex": "#523f2f",
+        "share": 0.216
+      },
+      {
+        "hex": "#805d41",
+        "share": 0.191
+      },
+      {
+        "hex": "#a6815c",
+        "share": 0.151
+      },
+      {
+        "hex": "#c3b093",
+        "share": 0.075
+      }
+    ]
+  },
+  "visual": {
+    "slide 1": {
+      "brightness_pct": 88.3,
+      "contrast_pct": 21.3,
+      "saturation_pct": 6.9,
+      "sharpness": 498.1,
+      "noise_sigma": 0.25,
+      "clutter_pct": 5.16,
+      "bars_pct": {
+        "top": 10.5,
+        "bottom": 4.6,
+        "left": 6.3,
+        "right": 7.6
+      },
+      "phash": "bf6cc9d12637c0c8",
+      "dhash": "2b33696d6d4b6b6d"
+    },
+    "slide 2": {
+      "brightness_pct": 88.2,
+      "contrast_pct": 20.5,
+      "saturation_pct": 9.7,
+      "sharpness": 553.1,
+      "noise_sigma": 0.31,
+      "clutter_pct": 5.48,
+      "bars_pct": {
+        "top": 10.4,
+        "bottom": 4.6,
+        "left": 7.1,
+        "right": 5.7
+      },
+      "phash": "eb3cd0c594672bc8",
+      "dhash": "1719696d31494969"
+    },
+    "slide 3": {
+      "brightness_pct": 90.8,
+      "contrast_pct": 17.3,
+      "saturation_pct": 5.3,
+      "sharpness": 483.7,
+      "noise_sigma": 0.2,
+      "clutter_pct": 4.2,
+      "bars_pct": {
+        "top": 10.5,
+        "bottom": 4.6,
+        "left": 6.8,
+        "right": 6.5
+      },
+      "phash": "eb38f4a5944b4bd0",
+      "dhash": "3f2b69694d6b6969"
+    },
+    "slide 4": {
+      "brightness_pct": 90.2,
+      "contrast_pct": 17.2,
+      "saturation_pct": 6.7,
+      "sharpness": 553.6,
+      "noise_sigma": 0.26,
+      "clutter_pct": 4.42,
+      "bars_pct": {
+        "top": 10.4,
+        "bottom": 4.6,
+        "left": 7.9,
+        "right": 6.9
+      },
+      "phash": "afc1b43ad02f4bc4",
+      "dhash": "2f2749498d69694d"
+    },
+    "slide 5": {
+      "brightness_pct": 94.8,
+      "contrast_pct": 15.0,
+      "saturation_pct": 2.7,
+      "sharpness": 924.7,
+      "noise_sigma": 0.27,
+      "clutter_pct": 5.11,
+      "bars_pct": {
+        "top": 25.2,
+        "bottom": 30.0,
+        "left": 8.9,
+        "right": 8.7
+      },
+      "phash": "be3ec14863c03e1f",
+      "dhash": "800d390f0f178200"
+    },
+    "slide 6": {
+      "brightness_pct": 31.8,
+      "contrast_pct": 19.3,
+      "saturation_pct": 40.8,
+      "sharpness": 194.3,
+      "noise_sigma": 0.29,
+      "clutter_pct": 2.97,
+      "bars_pct": {
+        "top": 0.0,
+        "bottom": 0.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "phash": "a6a31d5c7c4aca4b",
+      "dhash": "3ccecd8d84a6ee6e"
+    }
+  }
+}

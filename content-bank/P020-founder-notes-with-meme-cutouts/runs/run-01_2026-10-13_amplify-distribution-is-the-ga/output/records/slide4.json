@@ -1,0 +1,81 @@
+{
+  "n": 4,
+  "role": "body: main lesson + soft plug",
+  "class": "other:meme-cutout-text-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #e4e3df"
+      },
+      {
+        "type": "cutout",
+        "box": [
+          0.0,
+          48.0,
+          100.0,
+          52.0
+        ],
+        "note": "man in a cardigan leaning back, hands behind head, relaxed grin, laptop in front; grainy black and white; white sticker outline; generated on green, keyed in code"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.0,
+        48.0,
+        100.0,
+        52.0
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "let ai make the content",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        12.8,
+        12.0,
+        36.8,
+        2.1
+      ],
+      "zone": "top-left",
+      "align": "left",
+      "font": "Inter Bold",
+      "size_pct": 2.7,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "founders rarely stop posting\nbecause it doesn't work.\nthey stop because it takes forever.\n\nso stop making posts from scratch.\ntake formats that already pull views\nand remake them for your product.\n\ni did this with Amplify and got\n30 posts for my saas. for free.\n\n(Amplify is the link in my bio)",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "stacked-paragraphs",
+      "box": [
+        12.8,
+        18.5,
+        51.7,
+        27.5
+      ],
+      "zone": "top-center",
+      "align": "left",
+      "font": "DejaVu Sans Mono (Space Mono stand-in)",
+      "size_pct": 1.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "n": 4,
+  "role": "explainer + product",
+  "class": "other:designed-card",
+  "confidence": "high",
+  "summary": "explainer: your face keeps  the night before",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #f2f6fc"
+      },
+      {
+        "type": "divider",
+        "box": [
+          48.0,
+          42.4,
+          4.0,
+          0.3
+        ],
+        "note": "three accent dots"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        10.4,
+        46.1,
+        79.1,
+        30.7
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "your face keeps the night before",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "center-block",
+      "box": [
+        16.3,
+        36.5,
+        67.3,
+        3.9
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Playfair Display (Italic for the payoff)",
+      "size_pct": 3.8,
+      "case": "lowercase",
+      "fill": "#0d1b4c / #0964da",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "salt, alcohol, short sleep and tears all leave fluid sitting in your face, and lying flat lets it gather overnight. / once you are up and moving most of it drains, and a wide phone lens held close exaggerates the rest. / and if you want support with the bigger picture, Bolt Pharmacy offers a short online check, reviewed by a uk clinician, no appointment needed.",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "center-block",
+      "box": [
+        10.4,
+        46.1,
+        79.1,
+        30.7
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 2.5,
+      "case": "lowercase",
+      "fill": "#0d1b4c, highlight #0964da bold",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

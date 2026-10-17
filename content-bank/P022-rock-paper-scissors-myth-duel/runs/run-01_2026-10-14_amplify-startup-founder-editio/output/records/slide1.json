@@ -1,0 +1,181 @@
+{
+  "n": 1,
+  "role": "hook",
+  "class": "other:hand-gesture-duel-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat #0E1A24 with a fine felt grain and a faint 9-column grid"
+      },
+      {
+        "type": "mark",
+        "box": [
+          5.2,
+          3.5,
+          2.6,
+          2.6
+        ],
+        "note": "the brand's chevron mark (real logo file), top-left"
+      },
+      {
+        "type": "hand cut-out (left)",
+        "box": [
+          0.0,
+          63.7,
+          45.5,
+          18.7
+        ],
+        "note": "rock from the left edge, player 1, light olive skin, charcoal hoodie with a worn cuff, black braided bracelet"
+      },
+      {
+        "type": "hand cut-out (right)",
+        "box": [
+          52.2,
+          64.5,
+          47.8,
+          17.1
+        ],
+        "note": "scissors from the right edge, player 2, deep brown skin, light grey hoodie, black watch strap, silver ring"
+      },
+      {
+        "type": "ui motif",
+        "box": [
+          87.6,
+          23.9,
+          0.8,
+          8.2
+        ],
+        "note": "text caret after the headline, as if it is being typed (coder take on the source's edit-menu motif)"
+      },
+      {
+        "type": "ui motif",
+        "box": [
+          76.3,
+          28.6,
+          5.0,
+          6.4
+        ],
+        "note": "pointer resting on the last word"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.0,
+        63.7,
+        100,
+        18.7
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "withamplify.ai",
+      "origin": "mark",
+      "role": "watermark",
+      "pattern": "corner-mark",
+      "box": [
+        9.4,
+        4.4,
+        18.0,
+        1.2
+      ],
+      "zone": "top-left",
+      "align": "left",
+      "font": "Inter Bold, tracked",
+      "size_pct": 1.1,
+      "case": "lowercase",
+      "fill": "#FFFFFF",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "01 / 07",
+      "origin": "mark",
+      "role": "counter",
+      "pattern": "corner-mark",
+      "box": [
+        87.4,
+        4.4,
+        7.4,
+        1.2
+      ],
+      "zone": "top-right",
+      "align": "right",
+      "font": "Inter Medium",
+      "size_pct": 1.1,
+      "case": "digits",
+      "fill": "#A3AEB4",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "rock, paper,\nscissors, shoot",
+      "origin": "designed",
+      "role": "hook",
+      "pattern": "top-headline",
+      "box": [
+        13.4,
+        13.9,
+        73.2,
+        19.0
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "Barlow Condensed SemiBold, thickened",
+      "size_pct": 7.6,
+      "case": "lowercase",
+      "fill": "#FFFFFF",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "startup founder edition",
+      "origin": "designed",
+      "role": "subheading",
+      "pattern": "center-line",
+      "box": [
+        22.5,
+        35.1,
+        54.0,
+        4.7
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Barlow Condensed SemiBold, sheared italic",
+      "size_pct": 3.6,
+      "case": "lowercase",
+      "fill": "#FF7A00",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "swipe to play",
+      "origin": "designed",
+      "role": "cta",
+      "pattern": "label + arrow",
+      "box": [
+        25.0,
+        53.8,
+        49.9,
+        2.9
+      ],
+      "zone": "middle-center",
+      "align": "left",
+      "font": "Inter Light",
+      "size_pct": 2.2,
+      "case": "lowercase",
+      "fill": "#FFFFFF",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

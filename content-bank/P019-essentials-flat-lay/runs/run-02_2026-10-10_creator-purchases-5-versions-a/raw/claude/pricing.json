@@ -1,0 +1,21 @@
+{
+ "url": "https://claude.com/pricing",
+ "title": "Plans & pricing | Claude by Anthropic",
+ "device": "air13",
+ "fullscreen": false,
+ "css_viewport": [
+  1470,
+  956
+ ],
+ "dpr": 3.0,
+ "scroll_y": 0,
+ "size": [
+  4410,
+  2868
+ ],
+ "hidden_popups": [
+  "aside.NewsToast-module-scss-module__FD6HxW__toast 384x230 at 1062,702",
+  "div.FeatureGrid-module-scss-module__EJZ3ba__nav 1340x104 at 65,1680"
+ ],
+ "taken": "2026-10-10T16:27:28+00:00"
+}

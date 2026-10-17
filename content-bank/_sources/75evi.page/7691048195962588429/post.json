@@ -1,0 +1,64 @@
+{
+  "id": "7691048195962588429",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7691048195962588429",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:22:34+00:00",
+  "published": {
+    "utc": "2026-09-29T19:55:33+00:00",
+    "local": "2026-09-30T03:55:33+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Wednesday",
+    "hour": 3
+  },
+  "caption": "sore and swollen the week before is fluid and hormones, and some of it is food link in bio 🤍 #pms #periodsymptoms #hormonebalance #womenshealth #periodhealth",
+  "hashtags": [
+    "pms",
+    "periodsymptoms",
+    "hormonebalance",
+    "womenshealth",
+    "periodhealth"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 3283,
+    "likes": 55,
+    "comments": 0,
+    "shares": 1,
+    "saves": 13
+  },
+  "rates": {
+    "engagement": 0.021,
+    "save": 0.004,
+    "share": 0.0003,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "som original",
+    "author": "WE ARE 00h.03m 🇨🇭",
+    "original": true,
+    "id": "7311833327253261061"
+  },
+  "slide_count": 6,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg",
+      "slides/06.jpg"
+    ]
+  }
+}

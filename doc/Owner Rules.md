@@ -11,6 +11,8 @@ Feedback the owner gave across runs (2026-09-24 to 2026-10-06) that applies to e
 ## Images and video
 - **Best models, not cheap ones.** Stills: GPT Image 2.5 Sunburst (`kie.py image --model gpt25s`, won the 2026-10-05 test; aspect 4:3, 3:2 or 2:3 at 2K, square only at 1K) or Nano Banana Pro (`nbp`). Video and motion transfer: Seedance 2.5 (`seedance25`, owner 2026-10-05); Kling 3.0 is the cheaper fallback.
 - **Photo-style images look like real phone photos:** grain, uneven light, soft focus, lived-in cluttered places, partial crops; `overlay.py --phone` on every photo slide (2026-09-28).
+- **No awkward empty space at the bottom** (2026-10-13). When a photo or cutout sits at the bottom of a slide, it fills the width: no blank corner beside a person placed off to one side. Scale it up, centre it, let the frame edges crop it, and keep the gap between the text and the art small.
+- **Meme-style people look like classic film stills, not glossy AI** (2026-10-13): 90s/2000s movie-still prompts, hard light, grain, candid exaggerated poses, period props. Still fictional people only (next rule), never real meme photos.
 - **The scene that carries the hook is format** (a clinic, a gym, a desk): recreate that kind of place even when a persona is named (boss test, 2026-10-05).
 - **Fictional people only.** Never a real person's likeness, celebrity or otherwise. Personas live in `personas/`.
 - **Mascot accounts:** make an original mascot (model sheet first, attached to every image). Never redraw the source's mascot. A faceless source mascot means a faceless new one.

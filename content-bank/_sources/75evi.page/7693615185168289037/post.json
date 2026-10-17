@@ -1,0 +1,63 @@
+{
+  "id": "7693615185168289037",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7693615185168289037",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:27:38+00:00",
+  "published": {
+    "utc": "2026-10-06T17:56:56+00:00",
+    "local": "2026-10-07T01:56:56+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Wednesday",
+    "hour": 1
+  },
+  "caption": "this is the morning routine that makes you go. same steps, same time, every day link in bio 🤍 #constipation #morningroutine #constipationrelief #fiber #flatstomach",
+  "hashtags": [
+    "constipation",
+    "morningroutine",
+    "constipationrelief",
+    "fiber",
+    "flatstomach"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 2337,
+    "likes": 106,
+    "comments": 0,
+    "shares": 2,
+    "saves": 34
+  },
+  "rates": {
+    "engagement": 0.0608,
+    "save": 0.0145,
+    "share": 0.0009,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "original sound",
+    "author": "Maddie </3",
+    "original": true,
+    "id": "7019009801212840709"
+  },
+  "slide_count": 5,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg"
+    ]
+  }
+}

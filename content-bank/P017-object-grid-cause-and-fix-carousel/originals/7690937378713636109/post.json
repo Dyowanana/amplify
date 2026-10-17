@@ -1,0 +1,64 @@
+{
+  "id": "7690937378713636109",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7690937378713636109",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:22:49+00:00",
+  "published": {
+    "utc": "2026-09-29T12:45:31+00:00",
+    "local": "2026-09-29T20:45:31+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Tuesday",
+    "hour": 20
+  },
+  "caption": "it worked for years and then it stopped. its not in your head link in bio 🤍 #coffee #constipation #digestion #guthealth #womenshealth",
+  "hashtags": [
+    "coffee",
+    "constipation",
+    "digestion",
+    "guthealth",
+    "womenshealth"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 9564,
+    "likes": 186,
+    "comments": 1,
+    "shares": 5,
+    "saves": 44
+  },
+  "rates": {
+    "engagement": 0.0247,
+    "save": 0.0046,
+    "share": 0.0005,
+    "comment": 0.0001
+  },
+  "sound": {
+    "title": "son original",
+    "author": "moodsongs___",
+    "original": true,
+    "id": "7194965020370782981"
+  },
+  "slide_count": 6,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg",
+      "slides/06.jpg"
+    ]
+  }
+}

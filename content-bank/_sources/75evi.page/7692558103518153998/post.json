@@ -1,0 +1,63 @@
+{
+  "id": "7692558103518153998",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7692558103518153998",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:27:33+00:00",
+  "published": {
+    "utc": "2026-10-03T21:34:24+00:00",
+    "local": "2026-10-04T05:34:24+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Sunday",
+    "hour": 5
+  },
+  "caption": "these are the fruits that actually make you go. two a day is enough link in bio 🤍 #constipation #constipationrelief #fiber #fruit #healthyhabits",
+  "hashtags": [
+    "constipation",
+    "constipationrelief",
+    "fiber",
+    "fruit",
+    "healthyhabits"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 2346,
+    "likes": 100,
+    "comments": 0,
+    "shares": 1,
+    "saves": 35
+  },
+  "rates": {
+    "engagement": 0.058,
+    "save": 0.0149,
+    "share": 0.0004,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "syrup by solomon",
+    "author": "siah ♡",
+    "original": true,
+    "id": "7133051944632847146"
+  },
+  "slide_count": 5,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg"
+    ]
+  }
+}

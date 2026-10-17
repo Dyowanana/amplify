@@ -1,0 +1,103 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "words": 5,
+      "raw_overlap_max": 0.2,
+      "raw_overlap_post": "7597462038130085142",
+      "shared_words_with_that_post": [
+        "is"
+      ],
+      "content_overlap_max": 0.0,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "is",
+      "longest_run_source": "7597462038130085142: This isn’t about rendering anymore. It’s about realism. And ",
+      "status": "pass"
+    },
+    {
+      "slide": 2,
+      "words": 0,
+      "raw_overlap_max": 0.0,
+      "raw_overlap_post": "7597462038130085142",
+      "shared_words_with_that_post": [],
+      "content_overlap_max": 0.0,
+      "longest_shared_run_words": 0,
+      "longest_shared_run": "",
+      "longest_run_source": "",
+      "status": "pass"
+    },
+    {
+      "slide": 3,
+      "words": 0,
+      "raw_overlap_max": 0.0,
+      "raw_overlap_post": "7597462038130085142",
+      "shared_words_with_that_post": [],
+      "content_overlap_max": 0.0,
+      "longest_shared_run_words": 0,
+      "longest_shared_run": "",
+      "longest_run_source": "",
+      "status": "pass"
+    },
+    {
+      "slide": 4,
+      "words": 0,
+      "raw_overlap_max": 0.0,
+      "raw_overlap_post": "7597462038130085142",
+      "shared_words_with_that_post": [],
+      "content_overlap_max": 0.0,
+      "longest_shared_run_words": 0,
+      "longest_shared_run": "",
+      "longest_run_source": "",
+      "status": "pass"
+    },
+    {
+      "slide": 5,
+      "words": 0,
+      "raw_overlap_max": 0.0,
+      "raw_overlap_post": "7597462038130085142",
+      "shared_words_with_that_post": [],
+      "content_overlap_max": 0.0,
+      "longest_shared_run_words": 0,
+      "longest_shared_run": "",
+      "longest_run_source": "",
+      "status": "pass"
+    },
+    {
+      "slide": 6,
+      "words": 6,
+      "raw_overlap_max": 0.17,
+      "raw_overlap_post": "7597462038130085142",
+      "shared_words_with_that_post": [
+        "you"
+      ],
+      "content_overlap_max": 0.0,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "you",
+      "longest_run_source": "7597462038130085142: This isn’t about rendering anymore. It’s about realism. And ",
+      "status": "pass"
+    }
+  ],
+  "hook": {
+    "words": [
+      "every",
+      "fake",
+      "freckle",
+      "here",
+      "is"
+    ],
+    "overlap_by_source": {
+      "7597462038130085142": 0.2
+    },
+    "max": 0.2,
+    "status": "pass"
+  },
+  "images": {
+    "min_hash_distance": 22,
+    "closest_pair": "slide1.png ~ 7597462038130085142/02.jpg",
+    "near_duplicate_threshold": 10,
+    "status": "pass",
+    "source_blue_share_in_sources_mean": 0.0,
+    "source_blue_share_in_ours_mean": 0.0
+  },
+  "verdict": "pass"
+}

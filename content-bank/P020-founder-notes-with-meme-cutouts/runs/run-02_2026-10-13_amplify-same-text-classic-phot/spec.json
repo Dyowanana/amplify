@@ -1,0 +1,140 @@
+{
+ "canvas": [
+  1080,
+  1350
+ ],
+ "theme": {
+  "bg": "#efe1b4",
+  "ink": "#111111"
+ },
+ "slides": [
+  {
+   "role": "hook",
+   "layout": "left",
+   "heading": "pov you launched and got zero signups",
+   "heading_y": 24.3,
+   "cutout": {
+    "art": "raw/art/s1.png",
+    "grade": "film",
+    "note": "young man in a hoodie slumped at a laptop, chin on fist, flat unimpressed stare",
+    "halftone": true,
+    "box": [
+     0,
+     40,
+     80,
+     60
+    ],
+    "fit": "contain",
+    "align": "left"
+   },
+   "arrow": true
+  },
+  {
+   "role": "body: building is the easy part",
+   "layout": "left",
+   "heading": "shipping is the easy part",
+   "heading_y": 15,
+   "body_gap": 7,
+   "body": [
+    "shipping an app used to be\nthe hard part.",
+    "today ai gets you there in a weekend.\nsame for every other founder.",
+    "so your app isn't the edge anymore.\ngetting it seen is."
+   ],
+   "cutout": {
+    "art": "raw/art/b2.png",
+    "grade": "film",
+    "note": "heavyset office worker leaning on a beige CRT monitor, cheesy double thumbs up"
+   }
+  },
+  {
+   "role": "body: distribution is the game (proof)",
+   "layout": "left",
+   "heading": "distribution is the game",
+   "heading_y": 11.5,
+   "body_gap": 7,
+   "body": [
+    "the apps growing right now\naren't the best built ones.\nthey're the ones you keep seeing.",
+    "i break down tiktoks that blow up.\none was a single selfie with one\nquestion on it. 17.4 million views.",
+    "no face cam. no editing. no ad budget.",
+    "simple slideshows are still winning."
+   ],
+   "cutout": {
+    "art": "raw/art/s3.png",
+    "grade": "film",
+    "note": "man in a dark suit leaning in, tapping his temple, sly smirk"
+   }
+  },
+  {
+   "role": "body: main lesson + soft plug",
+   "layout": "left",
+   "heading": "let ai make the content",
+   "heading_y": 11.5,
+   "body_gap": 7,
+   "body": [
+    "founders rarely stop posting\nbecause it doesn't work.\nthey stop because it takes forever.",
+    "so stop making posts from scratch.\ntake formats that already pull views\nand remake them for your product.",
+    "i did this with Amplify and got\n30 posts for my saas. for free.",
+    "(Amplify is the link in my bio)"
+   ],
+   "cutout": {
+    "art": "raw/art/b4.png",
+    "grade": "film",
+    "note": "man in a Hawaiian shirt and sunglasses on a beach lounger, laptop on his belly, drink in hand",
+    "crop_bottom": 0.865
+   }
+  },
+  {
+   "role": "body: post twice a day",
+   "layout": "left",
+   "heading": "post twice a day",
+   "heading_y": 12,
+   "body_gap": 7,
+   "body": [
+    "one post a week is a lottery ticket.\ntwo a day is a system.",
+    "make a week of posts in one sitting,\nschedule two a day on TikTok,\nand stop posting by hand.",
+    "more posts means more data.\nmore data means you find\nwhat works faster."
+   ],
+   "cutout": {
+    "art": "raw/art/b5.png",
+    "grade": "film",
+    "note": "woman in a boxy blazer holding up a flip phone in each hand, triumphant shout"
+   }
+  },
+  {
+   "role": "body: kill what flops",
+   "layout": "left",
+   "heading": "kill what flops",
+   "heading_y": 14,
+   "body_gap": 7,
+   "body": [
+    "give it two weeks and you'll see it.\na few formats pull views. most don't.",
+    "stop posting the ones that stall.\nmake ten more of the ones that hit.",
+    "your next winner is usually\na remix of your last one."
+   ],
+   "cutout": {
+    "art": "raw/art/s6.png",
+    "grade": "film",
+    "note": "man in a shirt and loose tie tossing a crumpled paper over his shoulder"
+   }
+  },
+  {
+   "role": "conclusion + CTA",
+   "layout": "center",
+   "heading": "the short version",
+   "heading_y": 16.5,
+   "body_gap": 7.5,
+   "body": [
+    "build less. post more.",
+    "let ai make the posts,\nschedule two a day,\nkill what flops, double down on what hits.",
+    "no team, no ad budget.\njust a system you repeat every week.",
+    "Amplify is the link in my bio."
+   ],
+   "cutout": {
+    "art": "raw/art/b7.png",
+    "grade": "film",
+    "note": "woman in a 90s power suit spread back in an executive chair, satisfied boss smile",
+    "halftone": true
+   }
+  }
+ ]
+}

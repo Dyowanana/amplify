@@ -1,0 +1,63 @@
+{
+  "id": "7691800955355974925",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7691800955355974925",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:26:31+00:00",
+  "published": {
+    "utc": "2026-10-01T20:36:29+00:00",
+    "local": "2026-10-02T04:36:29+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Friday",
+    "hour": 4
+  },
+  "caption": "a puffy face in the morning is last nights dinner, not fat. these are the six behind it link in bio 🤍 #puffyface #depuff #morningface #waterretention #wellnesstok",
+  "hashtags": [
+    "puffyface",
+    "depuff",
+    "morningface",
+    "waterretention",
+    "wellnesstok"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 1301,
+    "likes": 57,
+    "comments": 0,
+    "shares": 2,
+    "saves": 7
+  },
+  "rates": {
+    "engagement": 0.0507,
+    "save": 0.0054,
+    "share": 0.0015,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "original sound",
+    "author": "Leonor",
+    "original": true,
+    "id": "7650916897449380630"
+  },
+  "slide_count": 5,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg"
+    ]
+  }
+}

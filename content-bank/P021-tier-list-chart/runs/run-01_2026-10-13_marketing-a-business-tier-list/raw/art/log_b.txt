@@ -1,0 +1,6 @@
+task a46038c66372d5c03d48fc72ed9cbeb4 (gpt-image-2-5-sunburst-image-to-image, ~10 credits) …
+  download attempt 1 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 2 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 3 interrupted (ConnectionError); resuming at 0 bytes
+  direct download failed; asking kie for a signed link
+done: 10 credits ($0.050) → content-bank\P021-tier-list-chart\runs\run-01_2026-10-13_marketing-a-business-tier-list\raw\art\sheet_b.png

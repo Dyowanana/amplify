@@ -1,0 +1,195 @@
+{
+  "canvas": [
+    1080,
+    1350
+  ],
+  "theme": {
+    "bg": "#f2f6fc",
+    "ink": "#0d1b4c",
+    "accent": "#0964da",
+    "grey": "#5a6880",
+    "photo_accent": "#9cc3ff"
+  },
+  "slides": [
+    {
+      "type": "grid",
+      "role": "hook",
+      "heading": [
+        [
+          "why your face looks ",
+          ""
+        ],
+        [
+          "fatter than you are",
+          "accent"
+        ]
+      ],
+      "sub": "mostly fluid from the night before, and it eases once youre up",
+      "items": [
+        {
+          "art": "raw/art/s1_curry.png",
+          "label": "late curry",
+          "reason": "rich sauces hold water"
+        },
+        {
+          "art": "raw/art/s1_peanuts.png",
+          "label": "salted peanuts",
+          "reason": "a midnight snack full of salt"
+        },
+        {
+          "art": "raw/art/s1_nightcap.png",
+          "label": "a nightcap",
+          "reason": "alcohol leaves your face puffy"
+        },
+        {
+          "art": "raw/art/s1_eyemask.png",
+          "label": "a short night",
+          "reason": "shows under your eyes"
+        },
+        {
+          "art": "raw/art/s1_tissues.png",
+          "label": "tissues",
+          "reason": "crying puffs up your eyes"
+        },
+        {
+          "art": "raw/art/s1_phone.png",
+          "label": "your front camera",
+          "reason": "wide lenses stretch faces"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "role": "body: swaps",
+      "heading": [
+        [
+          "lower salt ",
+          ""
+        ],
+        [
+          "dinner swaps",
+          "accent"
+        ]
+      ],
+      "items": [
+        {
+          "art": "raw/art/s2_lemonherbs.png",
+          "label": "lemon and herbs",
+          "reason": "flavour without the salt"
+        },
+        {
+          "art": "raw/art/s2_chicken.png",
+          "label": "roast chicken tray",
+          "reason": "home cooked, you salt it"
+        },
+        {
+          "art": "raw/art/s2_soup.png",
+          "label": "lentil soup",
+          "reason": "filling, no stock cube"
+        },
+        {
+          "art": "raw/art/s2_pistachios.png",
+          "label": "unsalted pistachios",
+          "reason": "crunch minus the salt"
+        },
+        {
+          "art": "raw/art/s2_tomatoes.png",
+          "label": "tomatoes",
+          "reason": "potassium, barely any salt"
+        },
+        {
+          "art": "raw/art/s2_sparkling.png",
+          "label": "lime and soda",
+          "reason": "fizz without the alcohol"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "role": "body: fixes",
+      "heading": [
+        [
+          "before you take ",
+          ""
+        ],
+        [
+          "the selfie",
+          "accent"
+        ]
+      ],
+      "items": [
+        {
+          "art": "raw/art/s3_spoons.png",
+          "label": "two chilled spoons",
+          "reason": "cool puffy eyes fast"
+        },
+        {
+          "art": "raw/art/s3_tripod.png",
+          "label": "your 2x lens",
+          "reason": "less stretch than the wide one"
+        },
+        {
+          "art": "raw/art/s3_jug.png",
+          "label": "a jug of water",
+          "reason": "start the day topped up"
+        },
+        {
+          "art": "raw/art/s3_flannel.png",
+          "label": "a cold flannel",
+          "reason": "calms the swelling for a bit"
+        },
+        {
+          "art": "raw/art/s3_mirror.png",
+          "label": "a mirror by the window",
+          "reason": "face the light, not the ceiling"
+        },
+        {
+          "art": "raw/art/s3_umbrella.png",
+          "label": "a walk outside",
+          "reason": "moving drains fluid"
+        }
+      ]
+    },
+    {
+      "type": "explainer",
+      "role": "explainer + product",
+      "heading_y": 38,
+      "heading": [
+        [
+          "your face keeps ",
+          ""
+        ],
+        [
+          "the night before",
+          "accent"
+        ]
+      ],
+      "paragraphs": [
+        "salt, alcohol, short sleep and tears all leave fluid sitting in your face, and lying flat lets it gather overnight.",
+        "once you are up and moving most of it drains, and a wide phone lens held close exaggerates the rest.",
+        "and if you want support with the bigger picture, Bolt Pharmacy offers a short online check, reviewed by a uk clinician, no appointment needed."
+      ],
+      "highlight": [
+        "Bolt Pharmacy"
+      ]
+    },
+    {
+      "type": "photo",
+      "role": "closer + CTA",
+      "photo": "raw/photo/closer.png",
+      "focus_y": 0.3,
+      "heading_y": 73,
+      "heading": [
+        [
+          "same face, ",
+          ""
+        ],
+        [
+          "better light",
+          "accent"
+        ]
+      ],
+      "sub": "Bolt Pharmacy, check eligibility via bio"
+    }
+  ]
+}

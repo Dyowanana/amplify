@@ -1,0 +1,63 @@
+{
+  "id": "7692882539823893774",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7692882539823893774",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:19:35+00:00",
+  "published": {
+    "utc": "2026-10-04T18:33:37+00:00",
+    "local": "2026-10-05T02:33:37+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Monday",
+    "hour": 2
+  },
+  "caption": "a jawline that disappears overnight is fluid, not fat. this is where it went link in bio 🤍 #jawline #puffyface #depuff #faceshape #wellnesstok",
+  "hashtags": [
+    "jawline",
+    "puffyface",
+    "depuff",
+    "faceshape",
+    "wellnesstok"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 63600,
+    "likes": 2567,
+    "comments": 1,
+    "shares": 113,
+    "saves": 1011
+  },
+  "rates": {
+    "engagement": 0.0581,
+    "save": 0.0159,
+    "share": 0.0018,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "original sound",
+    "author": "Trendformusic",
+    "original": true,
+    "id": "7604207566410795783"
+  },
+  "slide_count": 5,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "n": 5,
+  "role": "closer + CTA",
+  "class": "humans",
+  "confidence": "high",
+  "summary": "photo closer: same face,  better light",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "photo",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "full-bleed lifestyle photo, phone_look grain"
+      },
+      {
+        "type": "dark gradient",
+        "box": [
+          0,
+          52,
+          100,
+          48
+        ],
+        "note": "black gradient from 50% height to 70% darkness at 88%, behind the text"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        10,
+        5,
+        80,
+        80
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "same face, better light",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "lower-third",
+      "box": [
+        23.2,
+        71.3,
+        53.8,
+        4.4
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Playfair Display (Italic for the payoff)",
+      "size_pct": 4.4,
+      "case": "lowercase",
+      "fill": "#ffffff / #9cc3ff",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "Bolt Pharmacy, check eligibility via bio",
+      "origin": "designed",
+      "role": "cta",
+      "pattern": "lower-third",
+      "box": [
+        28.3,
+        77.6,
+        43.3,
+        1.8
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.9,
+      "case": "lowercase",
+      "fill": "#ffffff",
+      "stroke": "none",
+      "under": "body"
+    }
+  ]
+}

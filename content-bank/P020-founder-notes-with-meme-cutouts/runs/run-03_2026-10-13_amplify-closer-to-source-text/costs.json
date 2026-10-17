@@ -1,0 +1,51 @@
+[
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "759cfdbc7bb2f2a5b904c2c0a1bd94af",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-03_2026-10-13_amplify-closer-to-source-text\\raw\\art\\c4.png",
+  "prompt": "A black and white still frame from a 1990s or early 2000s comedy film: a young woman in a cozy oversized knit sweater curled up in a big armchair with a laptop on her knees, eating popcorn from a bowl, completely relaxed, smirking at the laptop screen. Shot on 35mm film, hard direct light with deep "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "a66ee0547ed3946bbe84bddafad6dd67",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-03_2026-10-13_amplify-closer-to-source-text\\raw\\art\\c3.png",
+  "prompt": "A black and white still frame from a 1990s or early 2000s comedy film: a man in his thirties with slicked back hair and rolled up shirt sleeves under suspenders, leaning over a desk covered in printed bar charts, jabbing one finger down at a chart, an intense excited grin. Shot on 35mm film, hard di"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "4b2c773c37d4995b38a970d35e7e62a7",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-03_2026-10-13_amplify-closer-to-source-text\\raw\\art\\c2.png",
+  "prompt": "A black and white still frame from a 1990s or early 2000s comedy film: an older man in his sixties in a tweed blazer and glasses, lowering a big open newspaper held in both hands to stare at the camera in total shock, eyebrows shot up. Shot on 35mm film, hard direct light with deep shadows, heavy fi"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "65784a0236a76c4d7a05e3cc9b3e4186",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-03_2026-10-13_amplify-closer-to-source-text\\raw\\art\\c5.png",
+  "prompt": "A black and white still frame from a 1990s or early 2000s comedy film: a man in his forties in a shiny tracksuit with a whistle around his neck like a sports coach, holding two fingers up toward the camera with one hand and a stopwatch in the other, shouting with intense motivational energy. Shot on"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "72f3ddf029823fec643af3cc8acc22c9",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-03_2026-10-13_amplify-closer-to-source-text\\raw\\art\\c6.png",
+  "prompt": "A black and white still frame from a 1990s or early 2000s comedy film: a man in a 1990s tuxedo with a loosened bow tie at a card table, pushing two tall stacks of plain poker chips forward with both hands, a confident all-in grin. Shot on 35mm film, hard direct light with deep shadows, heavy film gr"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "959e96540f440e43e8e93d0fb96c171b",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-03_2026-10-13_amplify-closer-to-source-text\\raw\\art\\c1.png",
+  "prompt": "A black and white still frame from a 1990s or early 2000s comedy film: a young man in his twenties in a wrinkled hoodie, sitting on the floor hunched over a laptop balanced on a cardboard box, an empty pizza box and crumpled cans beside him, staring blankly up at the camera with dead tired eyes. Sho"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "fa4fbe54f962709352848d79422bef2d",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-03_2026-10-13_amplify-closer-to-source-text\\raw\\art\\c7.png",
+  "prompt": "A black and white still frame from a 1990s or early 2000s comedy film: a young woman in her twenties in a denim jacket, sitting on the edge of a desk next to an old laptop, holding a coffee mug in both hands, a calm confident smile at the camera. Shot on 35mm film, hard direct light with deep shadow"
+ }
+]

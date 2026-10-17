@@ -1,0 +1,89 @@
+{
+  "post": "manual-20261014-003659",
+  "type": "slideshow",
+  "source_note": "Imported from the owner's phone screenshots (Instagram app, 2026-10-14). Only slides 1 and 2 of 5 were captured; the Instagram UI (the 1/5 pill, like and share buttons) was cropped out where possible and is not part of the post.",
+  "fingerprint": {
+    "structure": "5 slides (2 seen): cover (question hook + 'let's play' arrow + rock vs scissors) → one myth-vs-truth round per slide, the wrong belief on the losing hand and the right one on the winning hand",
+    "hook": "challenge question to the viewer's know-how ('think you know marketing?') + an invitation to play + a rock paper scissors standoff that promises a game",
+    "camera_motion": "other:hand-gesture-duel-card. Two photographed hands cut out with hard edges and pasted on a flat textured felt background, one entering from the left edge (sleeve visible), one from the right edge, meeting in the middle at the same height. Designed card, no camera",
+    "pacing": "slideshow, 2 short text blocks per round slide (about 4 words each), cover 4 words + 2",
+    "text_overlay": "bold neo-grotesque (Helvetica Neue Bold, tight tracking), ALL CAPS in the source, white, no outline, no box. Cover headline 5% cap height, line 2 in a light weight; round text 2.2% cap height, the losing statement above the left hand, the winning statement below the right hand, right-aligned",
+    "audio": "carousel, no sound captured",
+    "arc": "game setup → each round flips a common belief: the losing gesture holds the myth, the gesture that beats it holds the truth",
+    "units_note": "Rounds use real rock paper scissors logic: the right-hand gesture beats the left-hand one (paper covers rock on slide 2)"
+  },
+  "units": [
+    {
+      "n": 1, "role": "hook", "confidence": "high",
+      "class": "other:hand-gesture-duel-card",
+      "frame": {
+        "canvas": "4:5 portrait (crop 923x1149 from a phone screenshot)",
+        "layers": [
+          {"type": "background", "box": [0, 0, 100, 100], "note": "flat red felt texture #c43a42, fine fibre grain, evenly lit"},
+          {"type": "hand cut-out (left)", "box": [0, 51.5, 44, 32], "note": "fist (rock) from the left edge, knuckles facing right, beige knit sleeve at the edge, gold chain bracelet"},
+          {"type": "hand cut-out (right)", "box": [50, 51.5, 50, 22], "note": "scissors (index and middle finger in a V) from the right edge, pointing left, rings"},
+          {"type": "ui motif", "box": [3, 7, 50, 6], "note": "an iOS text-edit menu (cut, copy, paste) pointing at the headline and a pixel mouse cursor on it, drawn as if the headline is being edited"},
+          {"type": "line arrow", "box": [41, 46, 37, 1], "note": "thin white arrow pointing right after 'let's play'"}
+        ],
+        "composition": {"focal": [50, 62], "subject_box": [0, 51.5, 100, 32], "zone": "middle-center",
+                        "negative_space": [[0, 0, 100, 14], [0, 84, 100, 16]],
+                        "balance": "headline top third, hands meet on the centre line in the lower middle, mark at the bottom"},
+        "safe_zones": "the right hand runs under Instagram's like/comment buttons; text stays clear",
+        "color_light": "warm red felt, soft daylight on the hands, no cast shadow (cut-outs)",
+        "quality": "phone-photo hands, hard cut-out edges",
+        "origin_realism": "real photos of hands composited on a texture"
+      },
+      "text_blocks": [
+        {"text": "THINK YOU KNOW\nMARKETING?", "origin": "overlay", "role": "hook", "pattern": "top-headline", "box": [6, 15.5, 88, 14], "zone": "top-center", "align": "center", "font": "Helvetica Neue Bold (line 1) / Light (line 2)", "size_pct": 5.2, "case": "ALL CAPS", "fill": "#ffffff", "stroke": "none", "under": "negative-space"},
+        {"text": "Let's play", "origin": "overlay", "role": "cta", "pattern": "label + arrow", "box": [15, 43.5, 64, 5], "zone": "middle-center", "align": "left", "font": "Helvetica Neue Light", "size_pct": 3.4, "case": "Sentence case", "fill": "#ffffff", "stroke": "none", "under": "negative-space"},
+        {"text": "BRIGHTBRAINTECH", "origin": "mark", "role": "watermark", "pattern": "bottom-center mark", "box": [41, 95.3, 23.5, 2.2], "zone": "bottom-center", "align": "center", "font": "Helvetica Neue Bold", "size_pct": 1.7, "case": "ALL CAPS", "fill": "#ffffff", "stroke": "none", "under": "negative-space"}
+      ],
+      "other": {
+        "what": "a cover that sets up a game: question hook, 'let's play', two hands mid rock paper scissors",
+        "why_it_works": "the challenge question pokes the viewer's pride, and the hands promise a quick game with a winner per slide, so people swipe to see who wins",
+        "fixed": "textured flat colour background, two cut-out hands from opposite edges at the same height, white bold type, the account mark",
+        "varies": "the topic in the question, which two gestures face off",
+        "layers": "background texture → hands → text → ui motif",
+        "text_role": "headline carries the topic, the hands carry the game",
+        "people": "hands and wrists only, one sleeve; no faces",
+        "brand": "account name as a small bottom mark",
+        "motion": "none (still slides)",
+        "risk": "the gestures must read instantly; a wrong finger count breaks the joke"
+      }
+    },
+    {
+      "n": 2, "role": "round", "confidence": "high",
+      "class": "other:hand-gesture-duel-card",
+      "frame": {
+        "canvas": "4:5 portrait",
+        "layers": [
+          {"type": "background", "box": [0, 0, 100, 100], "note": "same red felt"},
+          {"type": "hand cut-out (left)", "box": [0, 41.5, 40, 31], "note": "fist (rock) from the left edge, sleeve visible"},
+          {"type": "hand cut-out (right)", "box": [47, 40, 53, 25], "note": "open flat hand (paper), palm up, fingers pointing left"}
+        ],
+        "composition": {"focal": [50, 55], "subject_box": [0, 40, 100, 33], "zone": "middle-center",
+                        "negative_space": [[0, 0, 100, 30], [0, 75, 100, 25]],
+                        "balance": "text diagonal: losing line upper-left, winning line lower-right"},
+        "safe_zones": "the winning line runs into Instagram's like button on the right (a real collision in the source)",
+        "color_light": "as slide 1", "quality": "as slide 1", "origin_realism": "as slide 1"
+      },
+      "text_blocks": [
+        {"text": "VIRALITY = MARKETING\nWORKED", "origin": "overlay", "role": "myth", "pattern": "label above the left hand", "box": [7.5, 32.5, 37.5, 6], "zone": "top-left", "align": "center", "font": "Helvetica Neue Bold, tight", "size_pct": 2.2, "case": "ALL CAPS", "fill": "#ffffff", "stroke": "none", "under": "negative-space"},
+        {"text": "VIRALITY ISN'T THE GOAL", "origin": "overlay", "role": "truth", "pattern": "label below the right hand", "box": [56.5, 66.5, 40, 3.5], "zone": "middle-right", "align": "right", "font": "Helvetica Neue Bold, tight", "size_pct": 2.2, "case": "ALL CAPS", "fill": "#ffffff", "stroke": "none", "under": "negative-space"}
+      ],
+      "other": {
+        "what": "one round: the myth on the losing gesture, the truth on the gesture that beats it",
+        "why_it_works": "the viewer checks the gestures, sees who wins, and the winner's line lands as the lesson",
+        "fixed": "same background and hand placement as the cover, two short labels",
+        "varies": "the pair of beliefs and the pair of gestures"
+      }
+    }
+  ],
+  "product": "none on the slides; the account mark on the cover",
+  "proof_device": "none",
+  "series": "single post",
+  "caption": "one playful line naming the twist ('rock, paper, scissors... but make it marketing') + emoji",
+  "hashtags": "not visible",
+  "topic": "marketing myths",
+  "language": "English, second person on the cover, statements on the rounds, playful"
+}

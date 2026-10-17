@@ -1,0 +1,81 @@
+{
+  "n": 7,
+  "role": "conclusion + CTA",
+  "class": "other:meme-cutout-text-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #e4e3df"
+      },
+      {
+        "type": "cutout",
+        "box": [
+          13.8,
+          48.9,
+          73.2,
+          51.1
+        ],
+        "note": "young woman with arms crossed, calm sure smile; halftone dot screen; white sticker outline; generated on green, keyed in code"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        13.8,
+        48.9,
+        73.2,
+        51.1
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "the short version",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        36.2,
+        17.0,
+        27.7,
+        2.1
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "Inter Bold",
+      "size_pct": 2.7,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "build less. post more.\n\nlet ai make the posts,\nschedule two a day,\nkill what flops, double down on what hits.\n\nno team, no ad budget.\njust a system you repeat every week.\n\nAmplify is the link in my bio.",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "stacked-paragraphs",
+      "box": [
+        19.9,
+        24.0,
+        60.3,
+        22.9
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "DejaVu Sans Mono (Space Mono stand-in)",
+      "size_pct": 1.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

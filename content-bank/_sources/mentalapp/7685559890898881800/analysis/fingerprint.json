@@ -1,0 +1,72 @@
+{
+  "post": "7685559890898881800",
+  "type": "slideshow",
+  "fingerprint": {
+    "structure": "1 slide: a centre 'feeling' image + a 2-line question title, ringed by 14 labelled cut-out items (4 top, 3 left, 3 right, 4 bottom). One ring item is the account's own app icon labelled with what it does + '(check bio)'",
+    "hook": "mystery-recipe question: 'why does today feel <state>?' The ring is the answer, a checklist of the habits behind the good day, and the brand's app is slipped in as one of the habits (the bottom-left slot)",
+    "camera_motion": "other:habit-ring-card. Designed card on a flat pale sage card: mixed-media cut-outs (stock photo objects, 2 meme cut-outs, flat black pictograms, one app icon) around a glowing centre figure. Static image",
+    "pacing": "single image, about 30 words: a 5-word question, a handle line and 14 labels of 1 to 3 words",
+    "text_overlay": "one thin neo-grotesk for everything (Helvetica Neue Light look), lowercase, black #111, tight negative tracking. Title 2 lines centred under the figure, about 6% of frame height per line. Labels about 3.3%, centred under each item, 1 to 2 lines. Handle in small grey under the title",
+    "audio": "original sound by another account (music bed), no voiceover",
+    "arc": "curiosity then recognition: the question makes you want the recipe, the ring gives it, and the in-joke items (a screaming creature for '0 noises', a meme guy for 'good workout') make it shareable. The brand item reads as just another habit; the caption points to the bio",
+    "measured": "see measures.json visual slide 1: card #ebf1ea, sharpness 1852, clutter 7.7 (text edges count)"
+  },
+  "units": [
+    {
+      "n": 1, "role": "hook", "confidence": "high",
+      "class": "other:habit-ring-card",
+      "frame": {
+        "canvas": "1080x1312 (about 4:5 portrait)",
+        "layers": [
+          {"type": "background", "box": [0, 0, 100, 100], "note": "flat pale sage #ebf1ea"},
+          {"type": "photo-cutout", "box": [5, 1, 18, 14], "note": "bowl of oats with berries and banana, top-down stock photo"},
+          {"type": "photo-cutout", "box": [34, 4, 11, 13], "note": "plastic water bottle with condensation"},
+          {"type": "meme-cutout", "box": [59, 3, 14, 14], "note": "a cartoon villain character screaming, stands for '0 noises'"},
+          {"type": "photo-cutout", "box": [80, 6, 16, 11], "note": "anatomy-render running figures in sequence (motion trail)"},
+          {"type": "photo-cutout", "box": [7, 27, 16, 13], "note": "the sun, glowing photo render"},
+          {"type": "photo-cutout", "box": [80, 28, 14, 12], "note": "espresso cup on saucer, top-down"},
+          {"type": "pictogram", "box": [8, 47, 13, 10], "note": "red prohibition sign over a black phone glyph"},
+          {"type": "pictogram", "box": [82, 50, 10, 9.5], "note": "periodic-table element tile, black outline"},
+          {"type": "photo-cutout", "box": [8, 66, 11, 10], "note": "green apple with water drops"},
+          {"type": "pictogram", "box": [82, 69, 11, 6], "note": "flat black bed glyph"},
+          {"type": "app-icon", "box": [8, 83, 12, 9.5], "note": "the account's own app icon (black rounded square, soft white blobs)"},
+          {"type": "meme-cutout", "box": [31, 83, 15, 11], "note": "film-still man in a slogan t-shirt with a smug grin, a well-known meme photo"},
+          {"type": "photo-cutout", "box": [57, 83, 13, 11], "note": "vinyl record with rainbow reflections"},
+          {"type": "pictogram", "box": [82, 82, 10, 10], "note": "flat black shower glyph with wavy steam lines"},
+          {"type": "centre-image", "box": [40, 24, 24, 31], "note": "glowing translucent blue human figure, floating, limp, like a spirit leaving the body"}
+        ],
+        "composition": {"focal": [50, 45], "subject_box": [4, 1, 92, 96], "zone": "middle-center",
+                        "negative_space": [[27, 70, 46, 12]], "balance": "symmetric ring, centre column holds the figure and title"},
+        "safe_zones": "the bottom row labels sit at 92 to 98%, under the TikTok caption area; the title is clear",
+        "color_light": "pale sage card, mostly natural-colour photo objects, black pictograms, one red sign; the centre glow is the only cold colour",
+        "quality": "deliberately mixed: sharp stock photos next to low-res meme crops and flat icons. Some cut-outs have rough edges",
+        "origin_realism": "collage of stock photos, meme stills and icon-font glyphs; no AI-polished look"
+      },
+      "text_blocks": [
+        {"text": "why does today\nfeel unreal?", "origin": "overlay", "role": "hook", "pattern": "center-block", "box": [27, 55, 46, 11], "zone": "middle-center",
+         "align": "center", "font": "Helvetica Neue Light", "size_pct": 6.0, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"},
+        {"text": "@mentalapp", "origin": "mark", "role": "watermark", "pattern": "center-block", "box": [44, 67, 12, 2], "zone": "middle-center",
+         "align": "center", "font": "Helvetica Neue", "size_pct": 1.6, "case": "lowercase", "fill": "#9a9a9a", "stroke": "none", "under": "negative-space"},
+        {"text": "perfect\nbreakfast · 2l+ of water · 0 noises · 10k steps · morning\nsunlight · espresso · low\nscreen time · magnesium · real food · 7h+ sleep · state tracking\n(check bio) · good workout · house music · contrast\nshower",
+         "origin": "overlay", "role": "label", "pattern": "item-label", "box": [4, 17, 92, 81], "zone": "ring",
+         "align": "center", "font": "Helvetica Neue Light", "size_pct": 3.3, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"}
+      ],
+      "other": {
+        "what": "a 'perfect day' habit checklist laid out as a ring of labelled objects around a question",
+        "carrier": "the labels plus the object pictures; the title asks, the ring answers",
+        "layers": "card, centre glow figure, 14 cut-outs, labels drawn as type",
+        "mix": "stock photo objects, meme cut-outs, icon glyphs and one app icon on purpose, so it reads as a hand-made collage",
+        "humour": "the meme items and the deadpan numbers ('0 noises', '7h+ sleep')",
+        "product": "the account's app icon as one habit, bottom-left, label ends '(check bio)'",
+        "repeatable": "swap the identity's day: the habits, the state in the question, the centre figure"
+      }
+    }
+  ],
+  "product": "the account's own app icon in the bottom-left ring slot, labelled with what it does + '(check bio)'; caption repeats 'check bio'",
+  "proof_device": "none",
+  "series": "single post",
+  "caption": "one short line that teases the answer and sends to the bio, then 5 hashtags",
+  "hashtags": "5: brand-ish, niche trend word, mood, routine, broad topic",
+  "topic": "wellbeing routine",
+  "language": "English, second-person question, deadpan, lowercase"
+}

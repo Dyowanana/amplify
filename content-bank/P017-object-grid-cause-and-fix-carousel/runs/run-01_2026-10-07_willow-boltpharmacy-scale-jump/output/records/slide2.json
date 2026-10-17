@@ -1,0 +1,302 @@
+{
+  "n": 2,
+  "role": "body: swaps",
+  "class": "other:designed-card",
+  "confidence": "high",
+  "summary": "object grid: the day after,  try these",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #f2f6fc"
+      },
+      {
+        "type": "object cut-outs",
+        "box": [
+          3.5,
+          20.0,
+          93.0,
+          59.6
+        ],
+        "note": "6 photoreal object cut-outs in a 2 x 3 grid, multiply-blended on the card"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        3.5,
+        20.0,
+        93.0,
+        59.6
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "the day after, try these",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        22.6,
+        8.8,
+        54.8,
+        4.4
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "Playfair Display (Italic for the payoff)",
+      "size_pct": 4.4,
+      "case": "lowercase",
+      "fill": "#0d1b4c / #0964da",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "banana",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        13.2,
+        47.8,
+        9.5,
+        1.6
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "a good potassium hit",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        8.2,
+        50.1,
+        19.6,
+        1.6
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "jacket potato",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        41.6,
+        47.8,
+        16.6,
+        2.1
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "even more potassium, skin on",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        35.9,
+        50.6,
+        28.1,
+        1.6
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "water",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        78.3,
+        47.8,
+        7.3,
+        1.5
+      ],
+      "zone": "middle-right",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "helps clear the extra salt",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        70.6,
+        50.0,
+        22.9,
+        1.5
+      ],
+      "zone": "middle-right",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "porridge",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        12.6,
+        84.3,
+        10.8,
+        2.1
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "filling and plain",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        11.0,
+        87.1,
+        14.1,
+        1.6
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "cucumber",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        43.5,
+        84.3,
+        13.0,
+        1.6
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "cool, crunchy, zero salt",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        39.1,
+        86.6,
+        21.8,
+        1.5
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "spinach",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        77.0,
+        84.3,
+        10.0,
+        2.1
+      ],
+      "zone": "bottom-right",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "leafy and nearly salt free",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        70.4,
+        87.1,
+        23.1,
+        1.6
+      ],
+      "zone": "bottom-right",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

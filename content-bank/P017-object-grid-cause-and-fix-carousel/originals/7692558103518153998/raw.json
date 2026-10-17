@@ -1,0 +1,403 @@
+{
+ "AIGCDescription": "",
+ "CategoryType": 120,
+ "IsAigc": false,
+ "ShowAIGC": true,
+ "author": {
+  "UserStoryStatus": 0,
+  "avatarLarger": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=26f30b7d&x-expires=1791529200&x-signature=EP8E%2Fzm28jHcz1VQA3kdtNqYtUI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "avatarMedium": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=88a1a3c7&x-expires=1791529200&x-signature=BujfSZgeEfZKfKOziJQkHIVbJ%2FQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "avatarThumb": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=4364ad5c&x-expires=1791529200&x-signature=J09Dgie1tthsy%2BlqSZyQFkdQRm8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "canExpPlaylist": false,
+  "commentSetting": 0,
+  "createTime": 1784833949,
+  "downloadSetting": 0,
+  "duetSetting": 0,
+  "ftc": false,
+  "id": "7665803080923350029",
+  "isADVirtual": false,
+  "isEmbedBanned": false,
+  "nickNameModifyTime": 0,
+  "nickname": "75evi.page",
+  "nowInvitationCardUrl": "",
+  "openFavorite": false,
+  "privateAccount": false,
+  "recommendReason": "",
+  "relation": 0,
+  "roomId": "",
+  "secUid": "MS4wLjABAAAAB5KkE31ELrpH8YoD55_wQo80fsYoHyDjmoDeib9rw-9QzqXVl5rtocoQhe_kw47x",
+  "secret": false,
+  "shortDramaCreator": {},
+  "shortId": "",
+  "signature": "let me help you become her 🤍 the 75-day glowup, built around you ↓",
+  "stitchSetting": 0,
+  "suggestAccountBind": false,
+  "ttSeller": false,
+  "uniqueId": "75evi.page",
+  "uniqueIdModifyTime": 0,
+  "verified": false
+ },
+ "authorStats": {
+  "diggCount": 207,
+  "followerCount": 3386,
+  "followingCount": 0,
+  "friendCount": 0,
+  "heart": 206800,
+  "heartCount": 206800,
+  "videoCount": 84
+ },
+ "authorStatsV2": {
+  "diggCount": "207",
+  "followerCount": "3386",
+  "followingCount": "0",
+  "friendCount": "0",
+  "heart": "206800",
+  "heartCount": "206800",
+  "videoCount": "84"
+ },
+ "backendSourceEventTracking": "",
+ "category": "tiktok",
+ "challenges": [
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "646039",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "constipation"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "1658419337527302",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "constipationrelief"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "2360567",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "fiber"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "5439",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "fruit"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "14398029",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "healthyhabits"
+  }
+ ],
+ "channelTags": [],
+ "collected": false,
+ "comments": [],
+ "contents": [
+  {
+   "desc": "these are the fruits that actually make you go. two a day is enough link in bio 🤍 #constipation #constipationrelief #fiber #fruit #healthyhabits",
+   "textExtra": [
+    {
+     "awemeId": "",
+     "end": 96,
+     "hashtagId": "646039",
+     "hashtagName": "constipation",
+     "isCommerce": false,
+     "start": 83,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 116,
+     "hashtagId": "1658419337527302",
+     "hashtagName": "constipationrelief",
+     "isCommerce": false,
+     "start": 97,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 123,
+     "hashtagId": "2360567",
+     "hashtagName": "fiber",
+     "isCommerce": false,
+     "start": 117,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 130,
+     "hashtagId": "5439",
+     "hashtagName": "fruit",
+     "isCommerce": false,
+     "start": 124,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 145,
+     "hashtagId": "14398029",
+     "hashtagName": "healthyhabits",
+     "isCommerce": false,
+     "start": 131,
+     "subType": 0,
+     "type": 1
+    }
+   ]
+  }
+ ],
+ "createTime": "1791063264",
+ "creatorAIComment": {
+  "categoryList": [],
+  "eligibleVideo": false,
+  "hasAITopic": false,
+  "notEligibleReason": 101
+ },
+ "date": "2026-10-03 21:34:24",
+ "desc": "these are the fruits that actually make you go. two a day is enough link in bio 🤍 #constipation #constipationrelief #fiber #fruit #healthyhabits",
+ "digged": false,
+ "duetDisplay": 0,
+ "effectStickers": [],
+ "forFriend": false,
+ "id": "7692558103518153998",
+ "imagePost": {
+  "cover": {
+   "imageHeight": 2100,
+   "imageURL": {
+    "urlList": [
+     "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/382ba9cfec944cfbb68f9cdcccaf563f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=ptPPhMiFB3INZMpYHsT%2FP%2FURsAs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+     "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/382ba9cfec944cfbb68f9cdcccaf563f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=u1WkAAMLkxkmzwmuDRvGn0KR4sY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+    ]
+   },
+   "imageWidth": 1680
+  },
+  "images": [
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/382ba9cfec944cfbb68f9cdcccaf563f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=ptPPhMiFB3INZMpYHsT%2FP%2FURsAs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/382ba9cfec944cfbb68f9cdcccaf563f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=u1WkAAMLkxkmzwmuDRvGn0KR4sY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/95037c324edb484ea30dd6e9ff11b6a6~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=p9nFNJFtSG4Ccrr4RLnrWk42lUw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/95037c324edb484ea30dd6e9ff11b6a6~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=TM11kNFXPEyCXBHsGxjR%2F3h5V%2Fo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/6500a7b99b8c4bfc8f2d54ad73dac560~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=pahndlhmutPImWktd%2BvCSHyTb30%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/6500a7b99b8c4bfc8f2d54ad73dac560~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=A7rGenCCfuLofQrGSc%2B9CGRZE08%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/46ae6b1108674a33920e3a1ae2411ee6~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=7pXkZ0oIcBaQgNaKyqfYsNOUPbg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/46ae6b1108674a33920e3a1ae2411ee6~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=bUpUXR2AHz%2BHP%2BjRCuSWHL%2FAuvc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0f18968489464f1fa8385771dc0e5b1f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=%2BFC%2BtXhZg0nePiBIZx1vqZRCi1E%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/0f18968489464f1fa8385771dc0e5b1f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=FmzZ74bKMqqN8PRGHB%2FIaAkF0JA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   }
+  ],
+  "shareCover": {
+   "imageHeight": 2100,
+   "imageURL": {
+    "urlList": [
+     "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/382ba9cfec944cfbb68f9cdcccaf563f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=ptPPhMiFB3INZMpYHsT%2FP%2FURsAs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+     "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/382ba9cfec944cfbb68f9cdcccaf563f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=u1WkAAMLkxkmzwmuDRvGn0KR4sY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+    ]
+   },
+   "imageWidth": 1680
+  },
+  "title": ""
+ },
+ "indexEnabled": true,
+ "isAd": false,
+ "isProhibited": false,
+ "isReviewing": false,
+ "itemCommentStatus": 0,
+ "item_control": {
+  "can_repost": true
+ },
+ "locationCreated": "US",
+ "music": {
+  "authorName": "siah ♡",
+  "collected": false,
+  "coverLarge": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/39ac9f618bb7fbdfdf184878470348b2~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=c7f6d9b0&x-expires=1791529200&x-signature=ff7g77EKnZXZ5kmtxKlNKUSK%2FT8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "coverMedium": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/39ac9f618bb7fbdfdf184878470348b2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=9cd684b9&x-expires=1791529200&x-signature=4slPdHHn7pYtnjnnb0q5D6NUBOk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "coverThumb": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/39ac9f618bb7fbdfdf184878470348b2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c2763baa&x-expires=1791529200&x-signature=ksPgGyiHn0mWjT0jrBZctngYA0o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "duration": 19,
+  "id": "7133051944632847146",
+  "isCopyrighted": false,
+  "is_commerce_music": true,
+  "is_unlimited_music": false,
+  "original": true,
+  "playUrl": "https://v45.tiktokcdn.com/cc6383447a5e8fdcde706db170846f0b/6ac745f5/video/tos/maliva/tos-maliva-v-27dcd7c799-us/a35abf13e6504e2493572754884f75f2/?a=1180&bti=ODszNWYuMDE6&&bt=125&ft=GcDrcInz7ThmIznGXq8Zmo&mime_type=audio_mp4&rc=MzZvdDw6Znl1ZTMzZzU8NEBpMzZvdDw6Znl1ZTMzZzU8NEByMDBkcjQwLnJgLS1kMS9zYSNyMDBkcjQwLnJgLS1kMS9zcw%3D%3D&vvpl=1&l=20261007152730FC568650D07735D50BB4&btag=e0007d000&sp_exp=hash_v0",
+  "preciseDuration": {
+   "preciseAuditionDuration": 19.435,
+   "preciseDuration": 19.435,
+   "preciseShootDuration": 19.435,
+   "preciseVideoDuration": 19.435
+  },
+  "private": false,
+  "scheduleSearchTime": 0,
+  "shoot_duration": 19,
+  "title": "syrup by solomon",
+  "tt2dsp": {
+   "tt_to_dsp_song_infos": []
+  }
+ },
+ "officalItem": false,
+ "originalItem": false,
+ "post_type": "image",
+ "privateItem": false,
+ "scheduleTime": 0,
+ "secret": false,
+ "shareEnabled": true,
+ "stats": {
+  "collectCount": "35",
+  "commentCount": 0,
+  "diggCount": 100,
+  "playCount": 2346,
+  "shareCount": 1
+ },
+ "statsV2": {
+  "collectCount": "35",
+  "commentCount": "0",
+  "diggCount": "100",
+  "playCount": "2346",
+  "repostCount": "0",
+  "shareCount": "1"
+ },
+ "stickersOnItem": [],
+ "stitchDisplay": 0,
+ "subcategory": "post",
+ "suggestedWords": [],
+ "takeDown": 0,
+ "textExtra": [
+  {
+   "awemeId": "",
+   "end": 96,
+   "hashtagId": "646039",
+   "hashtagName": "constipation",
+   "isCommerce": false,
+   "start": 83,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 116,
+   "hashtagId": "1658419337527302",
+   "hashtagName": "constipationrelief",
+   "isCommerce": false,
+   "start": 97,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 123,
+   "hashtagId": "2360567",
+   "hashtagName": "fiber",
+   "isCommerce": false,
+   "start": 117,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 130,
+   "hashtagId": "5439",
+   "hashtagName": "fruit",
+   "isCommerce": false,
+   "start": 124,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 145,
+   "hashtagId": "14398029",
+   "hashtagName": "healthyhabits",
+   "isCommerce": false,
+   "start": 131,
+   "subType": 0,
+   "type": 1
+  }
+ ],
+ "textLanguage": "en",
+ "textTranslatable": true,
+ "titleLanguage": "un",
+ "titleTranslatable": false,
+ "user": "75evi.page",
+ "video": {
+  "cover": "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/382ba9cfec944cfbb68f9cdcccaf563f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=ptPPhMiFB3INZMpYHsT%2FP%2FURsAs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+  "downloadAddr": "",
+  "duration": 0,
+  "dynamicCover": "",
+  "height": 0,
+  "id": "7692558103518153998",
+  "originCover": "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/382ba9cfec944cfbb68f9cdcccaf563f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=ptPPhMiFB3INZMpYHsT%2FP%2FURsAs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+  "playAddr": "",
+  "ratio": "",
+  "reflowCover": "",
+  "shareCover": [
+   ""
+  ],
+  "width": 0
+ },
+ "warnInfo": []
+}

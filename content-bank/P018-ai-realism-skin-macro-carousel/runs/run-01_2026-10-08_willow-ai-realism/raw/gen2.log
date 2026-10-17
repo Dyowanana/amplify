@@ -1,0 +1,28 @@
+task 29f9286af7b8b1039f955de98b89c9e2 (nano-banana-pro, ~18 credits) …
+  download attempt 1 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 2 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 3 interrupted (ConnectionError); resuming at 0 bytes
+  direct download failed; asking kie for a signed link
+done: 18 credits ($0.090) → content-bank\P018-ai-realism-skin-macro-carousel\runs\run-01_2026-10-08_willow-ai-realism\raw\s3_lips.png
+DONE s3_lips
+task c165d03f35ca8b1b13d027eca99ba905 (nano-banana-pro, ~18 credits) …
+  download attempt 1 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 2 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 3 interrupted (ConnectionError); resuming at 0 bytes
+  direct download failed; asking kie for a signed link
+done: 18 credits ($0.090) → content-bank\P018-ai-realism-skin-macro-carousel\runs\run-01_2026-10-08_willow-ai-realism\raw\s4_nose.png
+DONE s4_nose
+task 644dae447011bdce828062a26a95e9d4 (nano-banana-pro, ~18 credits) …
+  download attempt 1 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 2 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 3 interrupted (ConnectionError); resuming at 0 bytes
+  direct download failed; asking kie for a signed link
+done: 18 credits ($0.090) → content-bank\P018-ai-realism-skin-macro-carousel\runs\run-01_2026-10-08_willow-ai-realism\raw\s5_cheek.png
+DONE s5_cheek
+task 9175bd424a0dc4cde17166a7837b6c47 (nano-banana-pro, ~18 credits) …
+  download attempt 1 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 2 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 3 interrupted (ConnectionError); resuming at 0 bytes
+  direct download failed; asking kie for a signed link
+done: 18 credits ($0.090) → content-bank\P018-ai-realism-skin-macro-carousel\runs\run-01_2026-10-08_willow-ai-realism\raw\s6_temple.png
+DONE s6_temple

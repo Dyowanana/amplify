@@ -1,0 +1,111 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "words": 26,
+      "raw_overlap_max": 0.15,
+      "raw_overlap_post": "7665200692289752333",
+      "shared_words_with_that_post": [
+        "claude",
+        "edition",
+        "peak",
+        "purchases"
+      ],
+      "content_overlap_max": 0.17,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "peak",
+      "longest_run_source": "7665200692289752333: peak\nsolopreneur\npurchases",
+      "status": "pass"
+    },
+    {
+      "slide": 1,
+      "words": 26,
+      "raw_overlap_max": 0.15,
+      "raw_overlap_post": "7665200692289752333",
+      "shared_words_with_that_post": [
+        "claude",
+        "edition",
+        "peak",
+        "purchases"
+      ],
+      "content_overlap_max": 0.17,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "peak",
+      "longest_run_source": "7665200692289752333: peak\nsolopreneur\npurchases",
+      "status": "pass"
+    },
+    {
+      "slide": 1,
+      "words": 26,
+      "raw_overlap_max": 0.15,
+      "raw_overlap_post": "7665200692289752333",
+      "shared_words_with_that_post": [
+        "claude",
+        "edition",
+        "peak",
+        "purchases"
+      ],
+      "content_overlap_max": 0.17,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "peak",
+      "longest_run_source": "7665200692289752333: peak\nsolopreneur\npurchases",
+      "status": "pass"
+    },
+    {
+      "slide": 1,
+      "words": 26,
+      "raw_overlap_max": 0.15,
+      "raw_overlap_post": "7665200692289752333",
+      "shared_words_with_that_post": [
+        "claude",
+        "edition",
+        "peak",
+        "purchases"
+      ],
+      "content_overlap_max": 0.17,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "peak",
+      "longest_run_source": "7665200692289752333: peak\nsolopreneur\npurchases",
+      "status": "pass"
+    },
+    {
+      "slide": 1,
+      "words": 26,
+      "raw_overlap_max": 0.15,
+      "raw_overlap_post": "7665200692289752333",
+      "shared_words_with_that_post": [
+        "claude",
+        "edition",
+        "peak",
+        "purchases"
+      ],
+      "content_overlap_max": 0.17,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "peak",
+      "longest_run_source": "7665200692289752333: peak\nsolopreneur\npurchases",
+      "status": "pass"
+    }
+  ],
+  "hook": {
+    "words": [
+      "creator",
+      "peak",
+      "purchases"
+    ],
+    "overlap_by_source": {
+      "7665200692289752333": 0.67,
+      "7670706992230485261": 0.0
+    },
+    "max": 0.67,
+    "status": "FAIL"
+  },
+  "images": {
+    "min_hash_distance": 11,
+    "closest_pair": "slide1.png ~ 7665200692289752333/01.jpg",
+    "near_duplicate_threshold": 10,
+    "status": "pass",
+    "source_blue_share_in_sources_mean": 0.0,
+    "source_blue_share_in_ours_mean": 0.0
+  },
+  "verdict": "FAIL"
+}

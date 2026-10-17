@@ -1,0 +1,69 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "words": 6,
+      "raw_overlap_max": 0.5,
+      "raw_overlap_post": "7688365608508919047",
+      "shared_words_with_that_post": [
+        "list",
+        "of",
+        "tier"
+      ],
+      "content_overlap_max": 0.5,
+      "longest_shared_run_words": 3,
+      "longest_shared_run": "tier list of",
+      "longest_run_source": "7688365608508919047: tier list of",
+      "status": "FAIL"
+    },
+    {
+      "slide": 2,
+      "words": 55,
+      "raw_overlap_max": 0.25,
+      "raw_overlap_post": "7688365608508919047",
+      "shared_words_with_that_post": [
+        "a",
+        "b",
+        "c",
+        "cheap",
+        "comment",
+        "d",
+        "f",
+        "me",
+        "mostly",
+        "option",
+        "s",
+        "solid",
+        "tier",
+        "your"
+      ],
+      "content_overlap_max": 0.23,
+      "longest_shared_run_words": 2,
+      "longest_shared_run": "your option",
+      "longest_run_source": "7688365608508919047: tasty food … your option (comment)",
+      "status": "pass"
+    }
+  ],
+  "hook": {
+    "words": [
+      "list",
+      "moneymaxxing",
+      "of",
+      "tier"
+    ],
+    "overlap_by_source": {
+      "7688365608508919047": 0.75
+    },
+    "max": 0.75,
+    "status": "FAIL"
+  },
+  "images": {
+    "min_hash_distance": 14,
+    "closest_pair": "slide2.png ~ 7688365608508919047/02.jpg",
+    "near_duplicate_threshold": 10,
+    "status": "pass",
+    "source_blue_share_in_sources_mean": 0.013,
+    "source_blue_share_in_ours_mean": 0.0157
+  },
+  "verdict": "FAIL"
+}

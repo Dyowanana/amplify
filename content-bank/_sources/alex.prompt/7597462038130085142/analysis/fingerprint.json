@@ -1,0 +1,206 @@
+{
+  "post": "7597462038130085142",
+  "type": "slideshow",
+  "evidence": "6 slides taken from the public photo page in the browser pane (gallery-dl returned nothing, yt-dlp got the sound only). Visual numbers from measures.json; boxes estimated from the slides and checked with measure.py check.",
+  "fingerprint": {
+    "structure": "6 slides: hook macro with a 3-word reveal (lips) -> one normal selfie that shows the whole person -> 3 silent extreme skin macros of the same face (eye, nose in profile, cheek) -> a last macro (brow and forehead) carrying the comment-keyword CTA",
+    "hook": "reveal-by-claim: 'this is AI' over the most convincing extreme close-up, so the viewer's eye has already accepted it as a photo before reading the line (disbelief mechanic). AI is the only bold word",
+    "camera_motion": "humans. Slide 2 is a selfie (term 1, no phone in shot) of one young woman in a red hood, outdoors under a porch in flat daylight, arms folded at her chest. Slides 1, 3 to 6 are extreme macro phone-camera close-ups of the same face, filling the frame edge to edge, shallow focus with the edges falling soft, flat daylight, same red hood visible at the edges for continuity",
+    "pacing": "text on 2 of 6 slides only (3 words on slide 1, 10 words on slide 6); slides 2 to 5 have no text, the texture is the content",
+    "text_overlay": "clean white geometric sans (closest Montserrat), light/regular weight with the key word in bold, sentence case in the source, centred in the frame, no box, no outline, no visible shadow, size about 3.3% of the height on slide 1 and 2.3% on slide 6",
+    "audio": "trending instrumental beat ('Thewayyouare', BYDKA BEATS), not the creator's own sound",
+    "arc": "claim -> context (the whole person, looks like any selfie) -> escalating proof (closer and closer skin detail) -> action (comment keyword). The payoff is the viewer failing to find the AI"
+  },
+  "units": [
+    {
+      "n": 1,
+      "role": "hook",
+      "confidence": "high",
+      "class": "humans",
+      "frame": {
+        "canvas": "1440x2558 (9:16)",
+        "layers": [
+          {
+            "type": "photo",
+            "box": [
+              0,
+              0,
+              100,
+              100
+            ],
+            "note": "extreme macro of puckered lips with lip balm shine, philtrum and chin edge, red hood at the left edge"
+          },
+          {
+            "type": "text",
+            "box": [
+              27,
+              47,
+              47,
+              6
+            ],
+            "note": "hook line over the lower lip"
+          }
+        ],
+        "composition": {
+          "focal": [
+            50,
+            50
+          ],
+          "subject_box": [
+            0,
+            22,
+            100,
+            62
+          ],
+          "zone": "middle-center",
+          "negative_space": [],
+          "balance": "subject fills the frame; the text sits on the lip itself"
+        },
+        "safe_zones": "text sits mid-frame, clear of the right action rail and the caption area",
+        "color_light": "flat soft daylight, warm skin tones (#c0907f, #a1675c, #dab4a6) with a deep red accent (#8d2c34) from the hood",
+        "quality": "brightness 50.5, contrast 20.4, saturation 44.2, sharpness 104.6, noise 0.32 (measured): soft overall, sharp only on the focal plane, faint JPEG texture",
+        "origin_realism": "AI generated (the post says so); reads as a phone macro: dry lip lines, specular shine, peach fuzz above the lip"
+      },
+      "text_blocks": [
+        {
+          "text": "This is AI",
+          "origin": "overlay",
+          "role": "hook",
+          "pattern": "center-block",
+          "box": [
+            27,
+            47,
+            47,
+            6
+          ],
+          "zone": "middle-center",
+          "align": "center",
+          "font": "Montserrat (closest match), Light with 'AI' in Bold",
+          "size_pct": 3.3,
+          "case": "sentence case",
+          "fill": "#ffffff",
+          "stroke": "none",
+          "under": "subject (lower lip)",
+          "contrast": 4.08
+        }
+      ],
+      "image": {
+        "people": 1,
+        "framing": "extreme macro, lips only",
+        "selfie_term": "none (close-up photo)",
+        "pose": "lips pushed out in a soft pout",
+        "expression": "n/a",
+        "wardrobe": "red hoodie at the edge",
+        "setting": "not visible",
+        "skin": "visible lip lines, dry flakes, peach fuzz, no retouching"
+      }
+    },
+    {
+      "n": 2,
+      "role": "context",
+      "confidence": "high",
+      "class": "humans",
+      "frame": {
+        "canvas": "1432x2544",
+        "layers": [
+          {
+            "type": "photo",
+            "box": [
+              0,
+              0,
+              100,
+              100
+            ],
+            "note": "selfie, head and shoulders to mid chest"
+          }
+        ],
+        "composition": {
+          "focal": [
+            50,
+            34
+          ],
+          "subject_box": [
+            5,
+            12,
+            92,
+            88
+          ],
+          "zone": "upper-center",
+          "balance": "centred, face in the upper third"
+        },
+        "color_light": "flat outdoor shade under a porch roof, cool background, saturated red hoodie (#b1243d)",
+        "quality": "brightness 38.8, contrast 21.6, saturation 52.0, sharpness 255.1, noise 0.47 (measured)",
+        "origin_realism": "reads as an ordinary front-camera selfie: wide lens, slight distortion, background soft"
+      },
+      "text_blocks": [],
+      "image": {
+        "people": 1,
+        "framing": "head to mid chest",
+        "selfie_term": "selfie",
+        "pose": "arms folded at the chest, hood up",
+        "expression": "soft pout, direct look",
+        "wardrobe": "red hoodie, hood up",
+        "setting": "porch or covered terrace, stucco wall, plants",
+        "skin": "freckles visible even at this distance"
+      }
+    },
+    {
+      "n": 3,
+      "role": "proof",
+      "confidence": "high",
+      "class": "humans",
+      "same_as": "slide 1, except no text; extreme macro of one eye, brow and freckled cheek, hair across the right edge; sharpness 312.4, noise 0.42 (measured)"
+    },
+    {
+      "n": 4,
+      "role": "proof",
+      "confidence": "high",
+      "class": "humans",
+      "same_as": "slide 1, except no text; nose in profile from below, freckles and enlarged pores, the eye soft at the top; sharpness 92.8 (measured)"
+    },
+    {
+      "n": 5,
+      "role": "proof",
+      "confidence": "high",
+      "class": "humans",
+      "same_as": "slide 1, except no text; flat cheek skin filling the frame, pores, freckles, fine hairs catching light, red hood at the bottom edge; clutter 0.31, noise 0.51 (measured)"
+    },
+    {
+      "n": 6,
+      "role": "cta",
+      "confidence": "high",
+      "class": "humans",
+      "same_as": "slide 1, except: extreme macro between the brows (brow hairs, forehead pores, eyes soft at the bottom edge) and the text block below",
+      "text_blocks": [
+        {
+          "text": "Comment “UGC” to\ncreate your first AI\nInfluencer today",
+          "origin": "overlay",
+          "role": "cta",
+          "pattern": "center-block",
+          "box": [
+            19,
+            40,
+            63,
+            16
+          ],
+          "zone": "middle-center",
+          "align": "center",
+          "font": "Montserrat (closest match), Regular with the keyword in Bold, curly quotes",
+          "size_pct": 2.3,
+          "case": "sentence case",
+          "fill": "#ffffff",
+          "stroke": "none",
+          "under": "subject (forehead between the brows)",
+          "contrast": 3.14
+        }
+      ]
+    }
+  ],
+  "product": "the creator's own offer (AI influencer course or service), named only through the comment keyword on slide 6 and the caption CTA. Not labelled as an ad",
+  "proof_device": "the macro close-ups themselves are the proof (texture the viewer can inspect)",
+  "series": "single post as collected; the account name (alex.prompt) and CTA suggest a recurring AI-influencer niche",
+  "caption": "a long manifesto in short punchy sentences: realism claim -> what makes skin read as real (pores, texture, flaws, light) -> what it means for creators (no studios, models, locations) -> you need a system (character DNA, consistent face, intentional light, close-ups) -> FOMO line -> comment keyword CTA",
+  "hashtags": "0",
+  "topic": "ai realism, ai influencers (tag only)",
+  "language": "English, second person in the caption, confident, slightly provocative; sentence fragments"
+}

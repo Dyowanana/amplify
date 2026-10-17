@@ -1,0 +1,81 @@
+{
+  "n": 6,
+  "role": "body: double down",
+  "class": "other:meme-cutout-text-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #e4e3df"
+      },
+      {
+        "type": "cutout",
+        "box": [
+          0.0,
+          38.0,
+          100.0,
+          62.0
+        ],
+        "note": "man in a loosened tuxedo pushing two stacks of poker chips forward; grainy black and white; white sticker outline; generated on green, keyed in code"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.0,
+        38.0,
+        100.0,
+        62.0
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "double down",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        12.8,
+        13.6,
+        21.1,
+        2.0
+      ],
+      "zone": "top-left",
+      "align": "left",
+      "font": "Inter Bold",
+      "size_pct": 2.7,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "after two weeks you'll have real data.\nmost formats will flop. that's normal.\n\nkill the ones that flop.\ntake the one that hit and make ten more.\n\nthat's where growth starts compounding.",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "stacked-paragraphs",
+      "box": [
+        12.8,
+        20.0,
+        57.4,
+        16.0
+      ],
+      "zone": "top-center",
+      "align": "left",
+      "font": "DejaVu Sans Mono (Space Mono stand-in)",
+      "size_pct": 1.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

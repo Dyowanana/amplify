@@ -1,0 +1,44 @@
+{
+  "class": "humans",
+  "confidence": "high",
+  "frame": {
+    "canvas": "9:16, 1080x1920",
+    "layers": [
+      {
+        "type": "photo",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "Nano Banana Pro still, phone finish 0.5"
+      }
+    ]
+  },
+  "n": 1,
+  "role": "hook",
+  "summary": "extreme macro, right eye, freckles under it",
+  "text_blocks": [
+    {
+      "text": "every freckle here is fake",
+      "origin": "overlay",
+      "role": "hook",
+      "pattern": "center-block",
+      "box": [
+        8,
+        45.1,
+        84,
+        3.8
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter Light 300 + Bold 700 (fake)",
+      "size_pct": 3.2,
+      "case": "lowercase",
+      "fill": "#ffffff",
+      "stroke": "none, faint soft shadow",
+      "under": "subject (under-eye shadow, lower lashes)"
+    }
+  ]
+}

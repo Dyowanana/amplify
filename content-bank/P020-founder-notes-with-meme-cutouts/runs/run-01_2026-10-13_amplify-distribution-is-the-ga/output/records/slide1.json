@@ -1,0 +1,71 @@
+{
+  "n": 1,
+  "role": "hook",
+  "class": "other:meme-cutout-text-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #e4e3df"
+      },
+      {
+        "type": "cutout",
+        "box": [
+          0.0,
+          48.3,
+          81.3,
+          51.7
+        ],
+        "note": "young man in a hoodie slumped at a laptop, chin on fist, flat unimpressed stare; halftone dot screen; white sticker outline; generated on green, keyed in code"
+      },
+      {
+        "type": "arrow",
+        "box": [
+          82.0,
+          91.9,
+          11.2,
+          4.2
+        ],
+        "note": "thin black swipe arrow"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.0,
+        48.3,
+        81.3,
+        51.7
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "pov you launched and got zero signups",
+      "origin": "designed",
+      "role": "hook",
+      "pattern": "top-headline",
+      "box": [
+        12.8,
+        24.8,
+        64.0,
+        2.6
+      ],
+      "zone": "top-center",
+      "align": "left",
+      "font": "Inter Bold",
+      "size_pct": 2.7,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

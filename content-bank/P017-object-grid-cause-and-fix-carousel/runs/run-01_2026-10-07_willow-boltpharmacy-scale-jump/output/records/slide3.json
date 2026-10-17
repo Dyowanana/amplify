@@ -1,0 +1,302 @@
+{
+  "n": 3,
+  "role": "body: fixes",
+  "class": "other:designed-card",
+  "confidence": "high",
+  "summary": "object grid: how to read  the scale",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #f2f6fc"
+      },
+      {
+        "type": "object cut-outs",
+        "box": [
+          3.5,
+          20.0,
+          93.0,
+          62.0
+        ],
+        "note": "6 photoreal object cut-outs in a 2 x 3 grid, multiply-blended on the card"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        3.5,
+        20.0,
+        93.0,
+        62.0
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "how to read the scale",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        24.2,
+        8.8,
+        51.6,
+        3.6
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "Playfair Display (Italic for the payoff)",
+      "size_pct": 4.4,
+      "case": "lowercase",
+      "fill": "#0d1b4c / #0964da",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "same time daily",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        8.1,
+        47.8,
+        19.8,
+        2.1
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "after the loo, before breakfast",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        4.0,
+        50.6,
+        28.1,
+        1.5
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "the weekly average",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        37.6,
+        47.8,
+        24.8,
+        2.0
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "one day tells you nothing",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        38.2,
+        50.5,
+        23.5,
+        1.6
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "a 20 minute walk",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        71.2,
+        47.8,
+        21.6,
+        1.7
+      ],
+      "zone": "middle-right",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "gets fluid moving again",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        71.1,
+        50.2,
+        21.9,
+        1.6
+      ],
+      "zone": "middle-right",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "cooking at home",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        7.5,
+        84.3,
+        21.0,
+        2.1
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "you choose the salt",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        8.8,
+        87.1,
+        18.3,
+        1.5
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "normal meals",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        41.4,
+        84.3,
+        17.1,
+        1.6
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "no crash diet to make up for it",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        35.9,
+        86.6,
+        28.1,
+        1.6
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "water on hand",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        72.9,
+        84.3,
+        18.1,
+        1.6
+      ],
+      "zone": "bottom-right",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "sipping all day is easier",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        71.1,
+        86.6,
+        21.9,
+        1.6
+      ],
+      "zone": "bottom-right",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

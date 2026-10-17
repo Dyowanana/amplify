@@ -1,0 +1,142 @@
+[
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "025aaba3bddb752774fd94043a785150",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s1_takeaway.png",
+  "prompt": "Realistic product photograph of a white paper noodle takeaway box with the lid open, glossy noodles and a pair of wooden chopsticks resting on top, plain unprinted box. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "3c21884b684239f92bf6725b902f659c",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s1_pasta.png",
+  "prompt": "Realistic product photograph of a white ceramic bowl of spaghetti in tomato sauce with a little grated parmesan on top. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly under it, "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "94133ed9002d769d7f002ddbea0c2edf",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s1_hotwater.png",
+  "prompt": "Realistic product photograph of a hot water bottle in a knitted oatmeal-coloured cover, lying flat. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly under it, warm neutral colour "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "36b20c15513071812538f9be473d79c1",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s2_water.png",
+  "prompt": "Realistic product photograph of a clear glass tumbler of still water, about three quarters full. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly under it, warm neutral colour gra"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "64f6a446926a3134e4cca63019f26283",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s1_neckpillow.png",
+  "prompt": "Realistic product photograph of a grey travel neck pillow, U-shaped, soft jersey fabric. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly under it, warm neutral colour grade, shar"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "9165e27aa7cecf6f4745048cf64721ad",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s1_kettlebell.png",
+  "prompt": "Realistic product photograph of a black cast iron kettlebell standing upright, matte finish. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly under it, warm neutral colour grade, "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "72a6b180146d102b0a2a64b3b744db63",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s1_beer.png",
+  "prompt": "Realistic product photograph of a straight pint glass of amber beer with a small white head, plain unbranded glass. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly under it, warm"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "a7ea53b616f17554ba786e6eb404d4d1",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s2_spinach.png",
+  "prompt": "Realistic product photograph of a small loose pile of fresh baby spinach leaves. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly under it, warm neutral colour grade, sharp focus."
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "7dd683ce396300a3385f4c290ba512a2",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s2_cucumber.png",
+  "prompt": "Realistic product photograph of half a cucumber with three round slices fanned out next to it. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly under it, warm neutral colour grade"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "209485189494bc361130a1e7d27bc152",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s3_scale.png",
+  "prompt": "Realistic product photograph of a white glass digital bathroom scale seen from slightly above, its small display completely blank and dark, no digits. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural con"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "e90dcce9861c1a73fcd83b9a404efcc2",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s2_banana.png",
+  "prompt": "Realistic product photograph of a single ripe yellow banana with a few tiny brown freckles, lying on its side. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly under it, warm neut"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "933cbcb376b006b6869d66b691304501",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s2_oats.png",
+  "prompt": "Realistic product photograph of a stoneware bowl of plain cooked porridge oats with a spoon resting in it. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly under it, warm neutral "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "2d94be61c9ebbfaa8ae73399888cc0e6",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s2_potato.png",
+  "prompt": "Realistic product photograph of a baked jacket potato split open with steam-soft fluffy inside, crispy brown skin, on a small plain white plate, no toppings. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natu"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "868304496fa66dd3d6eadd5b817ba9ea",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s3_notebook.png",
+  "prompt": "Realistic product photograph of a small closed kraft-paper notebook with a black pen lying diagonally across it, blank cover. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly unde"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "df1f466b697c8a31efe820ef6a4a4f76",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s3_plate.png",
+  "prompt": "Realistic product photograph of a white dinner plate with grilled chicken breast, brown rice and green beans, a knife and fork beside it. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow d"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "76515967b6ba520da25f8c5c0787e4d0",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s3_pan.png",
+  "prompt": "Realistic product photograph of a black frying pan with sauteed peppers, onions and broccoli inside, handle pointing to the right. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow directly"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "d8b8e944a89ac9a33efc615b1a1dc20d",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s3_trainers.png",
+  "prompt": "Realistic product photograph of a pair of white running trainers, one slightly in front of the other, completely plain with no logos. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow direc"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "a31183811dc8a0b4153d8c10533bea3d",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s3_trainers.png",
+  "prompt": "Realistic product photograph of a pair of white running trainers, one slightly in front of the other, completely plain with no logos. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow direc"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "cd8e02a054d69124e75fa57e69f1422f",
+  "credits": 6.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\art\\s3_bottle.png",
+  "prompt": "Realistic product photograph of a sage-green stainless steel water bottle with a small dent near the base, standing upright, no logo. Photographed from slightly above (about 30 degrees), isolated on a plain pure white background, soft even studio light from above, a soft natural contact shadow direc"
+ },
+ {
+  "model": "nano-banana-pro",
+  "task_id": "23471208f79ec1fd64160bd457312e52",
+  "credits": 18.0,
+  "output": "content-bank\\P017-object-grid-cause-and-fix-carousel\\runs\\run-01_2026-10-07_willow-boltpharmacy-scale-jump\\raw\\photo\\closer.png",
+  "prompt": "Candid phone photo taken by a friend: the same woman as the reference photos, Willow, 31, light-olive skin, warm brown eyes, freckles across the nose bridge and upper cheeks, two small flat moles on her left cheek (right side of the picture) and one near her left jaw, oval face with a slightly squar"
+ }
+]

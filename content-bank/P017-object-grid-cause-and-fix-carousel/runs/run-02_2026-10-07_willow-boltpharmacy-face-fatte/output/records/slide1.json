@@ -1,0 +1,322 @@
+{
+  "n": 1,
+  "role": "hook",
+  "class": "other:designed-card",
+  "confidence": "high",
+  "summary": "object grid: why your face looks  fatter than you are",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #f2f6fc"
+      },
+      {
+        "type": "object cut-outs",
+        "box": [
+          3.5,
+          20.0,
+          89.2,
+          62.0
+        ],
+        "note": "6 photoreal object cut-outs in a 2 x 3 grid, multiply-blended on the card"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        3.5,
+        20.0,
+        89.2,
+        62.0
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "why your face looks fatter than you are",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        25.0,
+        4.4,
+        50.0,
+        9.5
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "Playfair Display (Italic for the payoff)",
+      "size_pct": 4.4,
+      "case": "lowercase",
+      "fill": "#0d1b4c / #0964da",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "mostly fluid from the night before, and it eases once youre up",
+      "origin": "designed",
+      "role": "subheading",
+      "pattern": "top-headline",
+      "box": [
+        18.1,
+        15.2,
+        63.7,
+        1.7
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.8,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "late curry",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        11.9,
+        47.8,
+        12.2,
+        2.0
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "rich sauces hold water",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        7.4,
+        50.5,
+        21.2,
+        1.3
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "salted peanuts",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        40.6,
+        47.8,
+        18.7,
+        2.0
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "a midnight snack full of salt",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        37.2,
+        50.5,
+        25.6,
+        1.6
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "a nightcap",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        75.3,
+        47.8,
+        13.3,
+        2.1
+      ],
+      "zone": "middle-right",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "alcohol leaves your face puffy",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        67.8,
+        50.6,
+        28.3,
+        1.6
+      ],
+      "zone": "middle-right",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "a short night",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        10.0,
+        84.3,
+        15.9,
+        2.1
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "shows under your eyes",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        7.0,
+        87.1,
+        21.9,
+        1.5
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "tissues",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        45.5,
+        84.3,
+        9.0,
+        1.7
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "crying puffs up your eyes",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        38.0,
+        86.7,
+        24.0,
+        1.6
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "your front camera",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        70.5,
+        84.3,
+        22.9,
+        2.1
+      ],
+      "zone": "bottom-right",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "wide lenses stretch faces",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        70.0,
+        87.1,
+        23.9,
+        1.3
+      ],
+      "zone": "bottom-right",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

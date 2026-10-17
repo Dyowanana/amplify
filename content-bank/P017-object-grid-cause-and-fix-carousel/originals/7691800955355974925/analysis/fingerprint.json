@@ -1,0 +1,228 @@
+{
+  "post": "7691800955355974925",
+  "type": "slideshow",
+  "fingerprint": {
+    "structure": "4 to 6 slides: hook object grid (6 causes or signs) → 1 to 3 more object grids (swaps to eat, what makes it worse, what actually fixes it) → text explainer slide (mechanism in 2 short paragraphs + first-person app plug) → full-bleed lifestyle photo with a body-outcome promise and the app named as the bio link",
+    "hook": "'why X makes you Y' / 'foods that Y your Z' problem headline in serif, the payoff phrase in pink italic, a small grey subheading that reframes it ('its water, not fat', 'eat them at night, see them at 8am'); the 6-object grid under it is the visual hook (you scan it for things you ate today)",
+    "camera_motion": "other:designed-card. Cream card (#faf8f4), 2 x 3 grid of photoreal product cut-outs with soft drop shadows, each with a bold label and a grey one-line reason; explainer slide is text only; the closer is humans (warm, film-look lifestyle or selfie photo of one or two smiling women, no face of the creator)",
+    "pacing": "slideshow; grid slides carry 13 to 14 short text items (heading, subheading, 6 labels, 6 reasons); explainer 50 to 70 words; closer 2 lines",
+    "text_overlay": "headline: Playfair Display-like serif, dark brown-black, lowercase, about 4% of frame height, centred top; the second half of the headline in pink (#d4508a range) italic of the same serif; labels: Inter-like sans semibold dark, reasons: same sans, small, grey; explainer: serif heading with pink italic, a pink '...' divider, sans body centred, app name in pink bold; closer: white serif headline with pink italic half over the lower third of the photo, white sans subline",
+    "audio": "trending or 'original sound' music track, no voiceover",
+    "arc": "recognition (you ate these) → reassurance (it's water or habit, not fat or failure) → easy swaps and habits → mechanism that makes it make sense → 'it worked for me and the app is how it stuck' → aspirational outcome photo"
+  },
+  "units": [
+    {
+      "n": 1,
+      "role": "hook",
+      "confidence": "high",
+      "class": "other:designed-card",
+      "same_as": "post 7690676197172301070 slide 1, except the headline, subheading and objects",
+      "text_blocks": [
+        {
+          "text": "why you wake up with a puffy face",
+          "origin": "overlay",
+          "role": "headline",
+          "pattern": "top-headline",
+          "box": [
+            8,
+            10.5,
+            84,
+            5
+          ],
+          "zone": "top-center",
+          "align": "center",
+          "font": "Playfair Display (serif); payoff words in Playfair Display Italic",
+          "size_pct": 4.0,
+          "case": "lowercase",
+          "fill": "#1f1a17 and #d4508a for the payoff words",
+          "stroke": "none",
+          "under": "negative-space"
+        },
+        {
+          "text": "its last nights dinner, not fat (approximate: read from a small contact sheet)",
+          "origin": "overlay",
+          "role": "subheading",
+          "pattern": "top-headline",
+          "box": [
+            24,
+            16.3,
+            52,
+            2.4
+          ],
+          "zone": "top-center",
+          "align": "center",
+          "font": "Inter (sans)",
+          "size_pct": 1.7,
+          "case": "lowercase",
+          "fill": "#8a8580",
+          "stroke": "none",
+          "under": "negative-space"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "role": "body: swaps",
+      "confidence": "high",
+      "class": "other:designed-card",
+      "same_as": "post 7690676197172301070 slide 2, except the headline (no subheading) and objects",
+      "text_blocks": [
+        {
+          "text": "eat these for dinner instead",
+          "origin": "overlay",
+          "role": "headline",
+          "pattern": "top-headline",
+          "box": [
+            8,
+            10.5,
+            84,
+            5
+          ],
+          "zone": "top-center",
+          "align": "center",
+          "font": "Playfair Display (serif); payoff words in Playfair Display Italic",
+          "size_pct": 4.0,
+          "case": "lowercase",
+          "fill": "#1f1a17 and #d4508a for the payoff words",
+          "stroke": "none",
+          "under": "negative-space"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "role": "body: fixes",
+      "confidence": "high",
+      "class": "other:designed-card",
+      "same_as": "post 7690676197172301070 slide 2, except the headline (no subheading) and objects",
+      "text_blocks": [
+        {
+          "text": "fix it this morning",
+          "origin": "overlay",
+          "role": "headline",
+          "pattern": "top-headline",
+          "box": [
+            8,
+            10.5,
+            84,
+            5
+          ],
+          "zone": "top-center",
+          "align": "center",
+          "font": "Playfair Display (serif); payoff words in Playfair Display Italic",
+          "size_pct": 4.0,
+          "case": "lowercase",
+          "fill": "#1f1a17 and #d4508a for the payoff words",
+          "stroke": "none",
+          "under": "negative-space"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "role": "explainer + product (testimonial)",
+      "confidence": "high",
+      "class": "other:designed-card",
+      "same_as": "post 7690676197172301070 slide 5, except the text",
+      "text_blocks": [
+        {
+          "text": "its last night, not your face",
+          "origin": "overlay",
+          "role": "headline",
+          "pattern": "center-block",
+          "box": [
+            17,
+            25,
+            66,
+            4.5
+          ],
+          "zone": "middle-center",
+          "align": "center",
+          "font": "Playfair Display + Italic",
+          "size_pct": 3.0,
+          "case": "lowercase",
+          "fill": "#1f1a17 / #d4508a",
+          "stroke": "none",
+          "under": "negative-space"
+        },
+        {
+          "text": "2 mechanism paragraphs, then 'my ... now, and the 75 Evi app kept me ... long enough to see it.'",
+          "origin": "overlay",
+          "role": "body",
+          "pattern": "center-block",
+          "box": [
+            10,
+            34.5,
+            80,
+            35
+          ],
+          "zone": "middle-center",
+          "align": "center",
+          "font": "Inter",
+          "size_pct": 1.9,
+          "case": "lowercase",
+          "fill": "#1f1a17, app name #d4508a bold",
+          "stroke": "none",
+          "under": "negative-space"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "role": "closer + CTA",
+      "confidence": "high",
+      "class": "humans",
+      "same_as": "post 7690676197172301070 slide 6, except the photo and text",
+      "text_blocks": [
+        {
+          "text": "your face, ready at 8am",
+          "origin": "overlay",
+          "role": "headline",
+          "pattern": "lower-third",
+          "box": [
+            9,
+            61.5,
+            82,
+            6.5
+          ],
+          "zone": "bottom-center",
+          "align": "center",
+          "font": "Playfair Display + Italic",
+          "size_pct": 4.0,
+          "case": "lowercase",
+          "fill": "#ffffff / #f2a7c3",
+          "stroke": "none",
+          "under": "face|body"
+        },
+        {
+          "text": "the link in my bio is the 75 Evi app (wording varies)",
+          "origin": "overlay",
+          "role": "cta",
+          "pattern": "lower-third",
+          "box": [
+            20,
+            69.3,
+            60,
+            3
+          ],
+          "zone": "bottom-center",
+          "align": "center",
+          "font": "Inter",
+          "size_pct": 1.7,
+          "case": "lowercase",
+          "fill": "#ffffff",
+          "stroke": "none",
+          "under": "body"
+        }
+      ]
+    }
+  ],
+  "product": "two slots, always the last two slides: the explainer's last paragraph is a first-person testimonial that names '75 Evi app' in pink bold as how the habit stuck; the closer's subline says the app is the link in bio. Product never appears in the grids",
+  "proof_device": "none (first-person testimonial only, no screenshots or numbers)",
+  "series": "single posts, but one account-wide series look (every post is this template)",
+  "caption": "one lowercase sentence restating the hook as a reassurance or reveal ('a jawline that disappears overnight is fluid, not fat. this is where it went') + 'link in bio 🤍' + 4 to 6 hashtags; no punctuation except commas and full stops, no apostrophes",
+  "hashtags": "4 to 6: symptom words (#puffyface #waterretention #constipation), community tags (#wellnesstok #wellnessgirl), outcome tags (#flatstomach)",
+  "language": "English, second person in the grids, first person in the testimonial; calm, knowing, 'big sister' tone; lowercase; apostrophes dropped (youre, its, doesnt)",
+  "topic": "water retention / puffiness",
+  "notes": "the 'what actually helps/fixes' grid usually hides 1 to 3 absurd items (e.g. 'Clap 3 times before water / Every glass', 'Light a candle before eating', 'Set your alarm for 6:57 / Never 7:00', 'Face east for breakfast / Not a joke') as comment bait among real habits"
+}

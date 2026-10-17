@@ -1,0 +1,37 @@
+[
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "a8ef0d81eb94f662d09e01c7b74c81fe",
+  "credits": 10.0,
+  "output": "content-bank\\P021-tier-list-chart\\runs\\run-02_2026-10-14_moneymaxxing-with-ecommerce-ti\\raw\\art\\hero.png",
+  "prompt": "An open cardboard shipping box overflowing with crumpled plain paper money, seen at a three-quarter angle, rendered as a vivid false-colour scientific scan like a thermal or MRI image: glowing neon cyan, electric blue, hot pink, lime green and yellow bands following its shapes, dark navy shadows ins"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "55fc6aeabcdb785b075f9be418ebcb0e",
+  "credits": 10.0,
+  "output": "content-bank\\P021-tier-list-chart\\runs\\run-02_2026-10-14_moneymaxxing-with-ecommerce-ti\\raw\\art\\sheet_b.png",
+  "prompt": "Three separate icons in a single row on a pure white background, evenly spaced, nothing touching the edges. Left: a glossy 3D emoji-style flame, bright orange and yellow, plastic shine. Middle: a glossy 3D stack of shiny gold coins, plain coins with no markings. Right: a flat solid black pictogram o"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "caa8f9f66c25a3d78db5b41385ffe92e",
+  "credits": 10.0,
+  "output": "content-bank\\P021-tier-list-chart\\runs\\run-02_2026-10-14_moneymaxxing-with-ecommerce-ti\\raw\\art\\sheet_c.png",
+  "prompt": "Four separate full-body figures in a single row on a pure white background, evenly spaced, nothing touching the edges or each other. Each looks like a cheap colour photo cut out from a classic internet meme or a 2000s movie still: hard on-camera flash, film grain, slightly soft focus, candid exagger"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-image-to-image",
+  "task_id": "a407dbe6be672bb37de6b9975c0d9fab",
+  "credits": 10.0,
+  "output": "content-bank\\P021-tier-list-chart\\runs\\run-02_2026-10-14_moneymaxxing-with-ecommerce-ti\\raw\\art\\sheet_a.png",
+  "prompt": "An icon sticker sheet of 8 separate objects in a neat grid of 2 rows by 4 on a pure white background, generous white space between them, nothing touching the edges or each other. Match the look of the reference image: each object looks like a cheap, slightly low-quality photo cut out for a meme, har"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "e53dd85167437d93d66c2460a1554c5c",
+  "credits": 10.0,
+  "output": "content-bank\\P021-tier-list-chart\\runs\\run-02_2026-10-14_moneymaxxing-with-ecommerce-ti\\raw\\art\\hero.png",
+  "prompt": "An open cardboard shipping box overflowing with a pile of plain gold coins and small plain gold bars, coins spilling over the flaps, seen at a three-quarter angle, rendered as a vivid false-colour scientific scan like a thermal or MRI image: glowing neon cyan, electric blue, hot pink, lime green and"
+ }
+]

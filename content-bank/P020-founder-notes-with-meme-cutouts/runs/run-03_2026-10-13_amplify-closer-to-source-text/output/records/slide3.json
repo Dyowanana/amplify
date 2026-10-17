@@ -1,0 +1,81 @@
+{
+  "n": 3,
+  "role": "body: distribution is the game (proof)",
+  "class": "other:meme-cutout-text-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #e4e3df"
+      },
+      {
+        "type": "cutout",
+        "box": [
+          0.0,
+          41.6,
+          100.0,
+          58.4
+        ],
+        "note": "man in suspenders jabbing a finger at printed bar charts, excited grin; grainy black and white; white sticker outline; generated on green, keyed in code"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.0,
+        41.6,
+        100.0,
+        58.4
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "distribution is the game",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        12.8,
+        12.5,
+        38.3,
+        2.6
+      ],
+      "zone": "top-left",
+      "align": "left",
+      "font": "Inter Bold",
+      "size_pct": 2.7,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "i break down tiktoks that blow up.\none was a single selfie with one question\non it. 17.4 million views.\n\nno editing. no face cam. no budget.\n\nsimple slideshows are getting millions\nof views while polished apps launch\nto nobody.",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "stacked-paragraphs",
+      "box": [
+        12.8,
+        19.0,
+        58.8,
+        20.6
+      ],
+      "zone": "top-center",
+      "align": "left",
+      "font": "DejaVu Sans Mono (Space Mono stand-in)",
+      "size_pct": 1.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

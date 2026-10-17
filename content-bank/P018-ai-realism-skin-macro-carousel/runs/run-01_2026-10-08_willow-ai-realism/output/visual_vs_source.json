@@ -1,0 +1,110 @@
+{
+  "slide 1": {
+    "ours": {
+      "brightness_pct": 51.0,
+      "contrast_pct": 23.0,
+      "saturation_pct": 44.7,
+      "sharpness": 459.5,
+      "noise_sigma": 1.34,
+      "clutter_pct": 3.42
+    },
+    "source_same_size": {
+      "brightness_pct": 50.5,
+      "contrast_pct": 20.3,
+      "saturation_pct": 44.2,
+      "sharpness": 71.2,
+      "noise_sigma": 0.25,
+      "clutter_pct": 1.57
+    }
+  },
+  "slide 2": {
+    "ours": {
+      "brightness_pct": 43.8,
+      "contrast_pct": 27.2,
+      "saturation_pct": 44.5,
+      "sharpness": 1037.5,
+      "noise_sigma": 2.33,
+      "clutter_pct": 12.09
+    },
+    "source_same_size": {
+      "brightness_pct": 38.9,
+      "contrast_pct": 21.6,
+      "saturation_pct": 51.9,
+      "sharpness": 151.4,
+      "noise_sigma": 0.32,
+      "clutter_pct": 1.92
+    }
+  },
+  "slide 3": {
+    "ours": {
+      "brightness_pct": 52.0,
+      "contrast_pct": 15.5,
+      "saturation_pct": 37.9,
+      "sharpness": 217.2,
+      "noise_sigma": 0.85,
+      "clutter_pct": 0.47
+    },
+    "source_same_size": {
+      "brightness_pct": 50.5,
+      "contrast_pct": 20.0,
+      "saturation_pct": 30.5,
+      "sharpness": 207.1,
+      "noise_sigma": 0.31,
+      "clutter_pct": 1.8
+    }
+  },
+  "slide 4": {
+    "ours": {
+      "brightness_pct": 50.1,
+      "contrast_pct": 20.6,
+      "saturation_pct": 39.8,
+      "sharpness": 233.8,
+      "noise_sigma": 0.98,
+      "clutter_pct": 1.12
+    },
+    "source_same_size": {
+      "brightness_pct": 47.9,
+      "contrast_pct": 21.2,
+      "saturation_pct": 37.9,
+      "sharpness": 63.3,
+      "noise_sigma": 0.25,
+      "clutter_pct": 0.75
+    }
+  },
+  "slide 5": {
+    "ours": {
+      "brightness_pct": 51.8,
+      "contrast_pct": 16.1,
+      "saturation_pct": 39.9,
+      "sharpness": 88.5,
+      "noise_sigma": 0.72,
+      "clutter_pct": 0.0
+    },
+    "source_same_size": {
+      "brightness_pct": 52.1,
+      "contrast_pct": 16.2,
+      "saturation_pct": 41.8,
+      "sharpness": 126.5,
+      "noise_sigma": 0.32,
+      "clutter_pct": 0.3
+    }
+  },
+  "slide 6": {
+    "ours": {
+      "brightness_pct": 46.6,
+      "contrast_pct": 19.9,
+      "saturation_pct": 35.4,
+      "sharpness": 465.8,
+      "noise_sigma": 1.32,
+      "clutter_pct": 2.78
+    },
+    "source_same_size": {
+      "brightness_pct": 54.7,
+      "contrast_pct": 19.2,
+      "saturation_pct": 35.2,
+      "sharpness": 105.5,
+      "noise_sigma": 0.21,
+      "clutter_pct": 1.57
+    }
+  }
+}

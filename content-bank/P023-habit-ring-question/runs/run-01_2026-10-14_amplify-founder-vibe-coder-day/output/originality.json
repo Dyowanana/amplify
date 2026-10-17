@@ -1,0 +1,48 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "words": 37,
+      "raw_overlap_max": 0.22,
+      "raw_overlap_post": "7685559890898881800",
+      "shared_words_with_that_post": [
+        "0",
+        "10k",
+        "bio",
+        "check",
+        "does",
+        "feel",
+        "today",
+        "why"
+      ],
+      "content_overlap_max": 0.15,
+      "longest_shared_run_words": 4,
+      "longest_shared_run": "why does today feel",
+      "longest_run_source": "7685559890898881800: why does today\nfeel unreal?",
+      "status": "FAIL"
+    }
+  ],
+  "hook": {
+    "words": [
+      "does",
+      "feel",
+      "illegal",
+      "today",
+      "why"
+    ],
+    "overlap_by_source": {
+      "7685559890898881800": 0.8
+    },
+    "max": 0.8,
+    "status": "FAIL"
+  },
+  "images": {
+    "min_hash_distance": 24,
+    "closest_pair": "slide1.png ~ 7685559890898881800/01.jpg",
+    "near_duplicate_threshold": 10,
+    "status": "pass",
+    "source_blue_share_in_sources_mean": 0.0,
+    "source_blue_share_in_ours_mean": 0.0
+  },
+  "verdict": "FAIL"
+}

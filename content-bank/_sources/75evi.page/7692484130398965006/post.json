@@ -1,0 +1,63 @@
+{
+  "id": "7692484130398965006",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7692484130398965006",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:26:52+00:00",
+  "published": {
+    "utc": "2026-10-03T16:47:29+00:00",
+    "local": "2026-10-04T00:47:29+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Sunday",
+    "hour": 0
+  },
+  "caption": "the puffy face after sushi is the soy sauce and the rice, not the fish link in bio 🤍 #puffyface #sushi #depuff #waterretention #wellnesstok",
+  "hashtags": [
+    "puffyface",
+    "sushi",
+    "depuff",
+    "waterretention",
+    "wellnesstok"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 16800,
+    "likes": 901,
+    "comments": 0,
+    "shares": 31,
+    "saves": 254
+  },
+  "rates": {
+    "engagement": 0.0706,
+    "save": 0.0151,
+    "share": 0.0018,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "original sound",
+    "author": "༒✯༒",
+    "original": true,
+    "id": "7650207551228742433"
+  },
+  "slide_count": 5,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg"
+    ]
+  }
+}

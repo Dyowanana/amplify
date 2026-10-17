@@ -1,0 +1,131 @@
+{
+ "canvas": [
+  1080,
+  1350
+ ],
+ "theme": {
+  "bg": "#feede1",
+  "ink": "#111111",
+  "line": "#111111"
+ },
+ "slides": [
+  {
+   "type": "cover",
+   "top": "tier list of",
+   "hero": "raw/art/hero.png",
+   "topic": "moneymaxxing",
+   "qualifier": "with ecommerce",
+   "corner_left": "growth",
+   "corner_right": "raw/art/cut/coins.png"
+  },
+  {
+   "type": "chart",
+   "title": "fight me on this",
+   "cta": "which tier is your store in?",
+   "tiers": [
+    {
+     "letter": "S",
+     "tagline": "prints, scales",
+     "color": "#fb0200",
+     "items": [
+      {
+       "art": "raw/art/cut/laptop_shopify_crop.png",
+       "label": "Shopify store"
+      },
+      {
+       "art": "raw/art/cut/projector.png",
+       "label": "winning product"
+      },
+      {
+       "art": "raw/art/cut/ugc_crop.png",
+       "label": "ugc ads"
+      }
+     ]
+    },
+    {
+     "letter": "A",
+     "tagline": "works, takes grind",
+     "color": "#fda13c",
+     "items": [
+      {
+       "art": "raw/art/cut/fire.png",
+       "label": "organic TikTok"
+      },
+      {
+       "art": "raw/art/cut/cart.png",
+       "label": "abandoned cart emails"
+      }
+     ]
+    },
+    {
+     "letter": "B",
+     "tagline": "solid, slow",
+     "color": "#fadc7c",
+     "items": [
+      {
+       "art": "raw/art/cut/tee.png",
+       "label": "print on demand"
+      },
+      {
+       "art": "raw/art/cut/card_fire.png",
+       "label": "paid ads"
+      }
+     ]
+    },
+    {
+     "letter": "C",
+     "tagline": "mid, risky",
+     "color": "#fffd68",
+     "items": [
+      {
+       "art": "raw/art/cut/junk.png",
+       "label": "general store"
+      },
+      {
+       "art": "raw/art/cut/box.png",
+       "label": "cheap suppliers"
+      },
+      {
+       "art": "raw/art/cut/skeleton_crop.png",
+       "label": "slow shipping"
+      }
+     ]
+    },
+    {
+     "letter": "D",
+     "tagline": "mostly cope",
+     "color": "#bdfd85",
+     "items": [
+      {
+       "art": "raw/art/cut/guru_crop.png",
+       "label": "guru courses"
+      },
+      {
+       "art": "raw/art/cut/snail.png",
+       "label": "dead trends"
+      }
+     ]
+    }
+   ],
+   "f": {
+    "letter": "F",
+    "tagline": "bans, refunds",
+    "color": "#8685ed",
+    "items": [
+     {
+      "art": "raw/art/cut/trench_crop.png",
+      "label": "knockoffs"
+     },
+     {
+      "art": "raw/art/cut/star.png",
+      "label": "fake reviews"
+     },
+     {
+      "glyph": "?",
+      "label": "your option / (comment)"
+     }
+    ]
+   }
+  }
+ ]
+}

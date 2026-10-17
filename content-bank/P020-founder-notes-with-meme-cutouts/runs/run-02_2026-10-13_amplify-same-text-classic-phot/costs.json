@@ -1,0 +1,30 @@
+[
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "8e4dae366a52dccd01aa7de55b5f400b",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-02_2026-10-13_amplify-same-text-classic-phot\\raw\\art\\b7.png",
+  "prompt": "A black and white still frame from a 1990s or early 2000s comedy film: a woman in her fifties in a 1990s power suit with big shoulder pads and pearl earrings, leaning back in a big leather executive chair with both arms spread wide on the armrests, a satisfied boss smile, a wide desk with a corded d"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "1f57c97329136097ba3a943cf0740c27",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-02_2026-10-13_amplify-same-text-classic-phot\\raw\\art\\b5.png",
+  "prompt": "A black and white still frame from a 1990s or early 2000s comedy film: a woman in her thirties in a boxy 2000s blazer with big blow-dried hair, holding an old flip phone up in each raised hand like two trophies, mouth wide open in a triumphant shout. Shot on 35mm film, hard direct light with deep sh"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "b12309fc34d5427925b92ad4b7abc7fa",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-02_2026-10-13_amplify-same-text-classic-phot\\raw\\art\\b4.png",
+  "prompt": "A black and white still frame from a 1990s or early 2000s comedy film: a man in his forties in a loud floral Hawaiian shirt and dark sunglasses, reclining in a folding beach lounge chair, a laptop resting on his belly, one hand behind his head and the other holding a tall drink with a paper umbrella"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "c31ccbc44d596b1690bf031b12054ebb",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-02_2026-10-13_amplify-same-text-classic-phot\\raw\\art\\b2.png",
+  "prompt": "A black and white still frame from a 1990s or early 2000s comedy film: a heavyset middle-aged office worker in a short-sleeve dress shirt and a wide patterned tie, leaning one elbow on a big old beige CRT computer monitor on a desk, giving a huge cheesy double thumbs up with an over-the-top cocky gr"
+ }
+]

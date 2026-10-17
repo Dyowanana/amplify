@@ -1,0 +1,195 @@
+{
+  "canvas": [
+    1080,
+    1350
+  ],
+  "theme": {
+    "bg": "#f2f6fc",
+    "ink": "#0d1b4c",
+    "accent": "#0964da",
+    "grey": "#5a6880",
+    "photo_accent": "#9cc3ff"
+  },
+  "slides": [
+    {
+      "type": "grid",
+      "role": "hook",
+      "heading": [
+        [
+          "why mondays ",
+          ""
+        ],
+        [
+          "weigh more",
+          "accent"
+        ]
+      ],
+      "sub": "water, not fat. it usually settles by wednesday",
+      "items": [
+        {
+          "art": "raw/art/s1_pasta.png",
+          "label": "big pasta night",
+          "reason": "carbs get stored with water"
+        },
+        {
+          "art": "raw/art/s1_takeaway.png",
+          "label": "salty takeaway",
+          "reason": "salt keeps water in you"
+        },
+        {
+          "art": "raw/art/s1_beer.png",
+          "label": "drinks with friends",
+          "reason": "alcohol throws off your fluids"
+        },
+        {
+          "art": "raw/art/s1_hotwater.png",
+          "label": "period week",
+          "reason": "hormones shift water too"
+        },
+        {
+          "art": "raw/art/s1_kettlebell.png",
+          "label": "leg day",
+          "reason": "sore muscles hold water"
+        },
+        {
+          "art": "raw/art/s1_neckpillow.png",
+          "label": "the flight home",
+          "reason": "hours sitting still pools fluid"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "role": "body: swaps",
+      "heading": [
+        [
+          "the day after, ",
+          ""
+        ],
+        [
+          "try these",
+          "accent"
+        ]
+      ],
+      "items": [
+        {
+          "art": "raw/art/s2_banana.png",
+          "label": "banana",
+          "reason": "a good potassium hit"
+        },
+        {
+          "art": "raw/art/s2_potato.png",
+          "label": "jacket potato",
+          "reason": "even more potassium, skin on"
+        },
+        {
+          "art": "raw/art/s2_water.png",
+          "label": "water",
+          "reason": "helps clear the extra salt"
+        },
+        {
+          "art": "raw/art/s2_oats.png",
+          "label": "porridge",
+          "reason": "filling and plain"
+        },
+        {
+          "art": "raw/art/s2_cucumber.png",
+          "label": "cucumber",
+          "reason": "cool, crunchy, zero salt"
+        },
+        {
+          "art": "raw/art/s2_spinach.png",
+          "label": "spinach",
+          "reason": "leafy and nearly salt free"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "role": "body: fixes",
+      "heading": [
+        [
+          "how to read ",
+          ""
+        ],
+        [
+          "the scale",
+          "accent"
+        ]
+      ],
+      "items": [
+        {
+          "art": "raw/art/s3_scale.png",
+          "label": "same time daily",
+          "reason": "after the loo, before breakfast"
+        },
+        {
+          "art": "raw/art/s3_notebook.png",
+          "label": "the weekly average",
+          "reason": "one day tells you nothing"
+        },
+        {
+          "art": "raw/art/s3_trainers.png",
+          "label": "a 20 minute walk",
+          "reason": "gets fluid moving again"
+        },
+        {
+          "art": "raw/art/s3_pan.png",
+          "label": "cooking at home",
+          "reason": "you choose the salt"
+        },
+        {
+          "art": "raw/art/s3_plate.png",
+          "label": "normal meals",
+          "reason": "no crash diet to make up for it"
+        },
+        {
+          "art": "raw/art/s3_bottle.png",
+          "label": "water on hand",
+          "reason": "sipping all day is easier"
+        }
+      ]
+    },
+    {
+      "type": "explainer",
+      "role": "explainer + product",
+      "heading": [
+        [
+          "the scale weighs ",
+          ""
+        ],
+        [
+          "water too",
+          "accent"
+        ]
+      ],
+      "paragraphs": [
+        "salt, carbs, drinks and sore muscles all make your body hold on to extra water, and it usually settles by midweek.",
+        "weigh first thing each morning and follow the weekly trend instead of one reading.",
+        "and if you want a clinician in your corner, Bolt Pharmacy starts with a short online check, reviewed by a uk clinician, no appointment needed."
+      ],
+      "highlight": [
+        "Bolt Pharmacy"
+      ],
+      "heading_y": 38
+    },
+    {
+      "type": "photo",
+      "role": "closer + CTA",
+      "photo": "raw/photo/closer.png",
+      "focus_y": 0.3,
+      "heading_y": 73,
+      "heading": [
+        [
+          "trust the trend, ",
+          ""
+        ],
+        [
+          "not mondays",
+          "accent"
+        ]
+      ],
+      "sub": "Bolt Pharmacy, check eligibility via bio"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "type": "video",
+  "length": 137.92,
+  "size": {
+    "width": 480,
+    "height": 854
+  },
+  "shot_detector": "content-27",
+  "shot_count": 2,
+  "cuts_per_second": 0.007,
+  "average_shot_length": 68.96,
+  "shots": [
+    {
+      "shot": 1,
+      "start": 0.0,
+      "end": 133.87,
+      "length": 133.87,
+      "key_frame": "frames/shot_01_66.9s.jpg",
+      "palette": [
+        {
+          "hex": "#a28c75",
+          "share": 0.264
+        },
+        {
+          "hex": "#4e5346",
+          "share": 0.254
+        },
+        {
+          "hex": "#1c1c18",
+          "share": 0.223
+        },
+        {
+          "hex": "#7fa8b4",
+          "share": 0.166
+        },
+        {
+          "hex": "#e4c298",
+          "share": 0.093
+        }
+      ],
+      "visual": {
+        "brightness_pct": 43.0,
+        "contrast_pct": 23.9,
+        "saturation_pct": 31.8,
+        "sharpness": 633.5,
+        "noise_sigma": 1.03,
+        "clutter_pct": 6.53,
+        "bars_pct": {
+          "top": 0.0,
+          "bottom": 0.0,
+          "left": 0.0,
+          "right": 0.0
+        },
+        "phash": "e08f4962b7601fdc",
+        "dhash": "c7b3b28e8d939f93"
+      },
+      "motion": {
+        "label": "static",
+        "speed_pct_w_per_s": 0.08,
+        "consistency": 0.75,
+        "zoom_pct_per_s": -0.02,
+        "rotation_deg_per_s": -0.02,
+        "subject_motion_pct_w_per_s": 0.99,
+        "pairs": 8,
+        "note": "rough label from optical flow; static/handheld/pan/zoom thresholds are set on test clips"
+      }
+    },
+    {
+      "shot": 2,
+      "start": 133.87,
+      "end": 137.87,
+      "length": 4.0,
+      "key_frame": "frames/shot_02_135.9s.jpg",
+      "palette": [
+        {
+          "hex": "#0d1019",
+          "share": 0.93
+        },
+        {
+          "hex": "#605d67",
+          "share": 0.031
+        },
+        {
+          "hex": "#050811",
+          "share": 0.018
+        },
+        {
+          "hex": "#cbdde0",
+          "share": 0.013
+        },
+        {
+          "hex": "#0a0d15",
+          "share": 0.007
+        }
+      ],
+      "visual": {
+        "brightness_pct": 8.4,
+        "contrast_pct": 12.7,
+        "saturation_pct": 47.1,
+        "sharpness": 166.6,
+        "noise_sigma": 0.12,
+        "clutter_pct": 1.29,
+        "bars_pct": {
+          "top": 0.0,
+          "bottom": 0.0,
+          "left": 0.0,
+          "right": 0.0
+        },
+        "phash": "9cc963b6944969b6",
+        "dhash": "100c3232ccd40a00"
+      },
+      "motion": {
+        "label": "static",
+        "speed_pct_w_per_s": 0.0,
+        "consistency": 0.65,
+        "zoom_pct_per_s": 0.0,
+        "rotation_deg_per_s": 0.0,
+        "subject_motion_pct_w_per_s": 1.22,
+        "pairs": 8,
+        "note": "rough label from optical flow; static/handheld/pan/zoom thresholds are set on test clips"
+      }
+    }
+  ],
+  "transcript": {
+    "language": "en",
+    "has_speech": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.28,
+        "text": "Cold email. Cold email is now like D tier. No one likes getting even warm emails these days.",
+        "no_speech": 0.0,
+        "avg_logprob": -0.12,
+        "compression_ratio": 1.65,
+        "suspect": []
+      },
+      {
+        "start": 8.08,
+        "end": 12.0,
+        "text": "So you're going to get blocked out and as AI continues to go on,",
+        "no_speech": 0.0,
+        "avg_logprob": -0.12,
+        "compression_ratio": 1.65,
+        "suspect": []
+      },
+      {
+        "start": 12.64,
+        "end": 17.52,
+        "text": "AI will do most of the blocking. So it doesn't have a big future. Video marketing.",
+        "no_speech": 0.0,
+        "avg_logprob": -0.12,
+        "compression_ratio": 1.65,
+        "suspect": []
+      },
+      {
+        "start": 17.52,
+        "end": 21.6,
+        "text": "Video marketing is now S tier, especially short form video. And the reason for that",
+        "no_speech": 0.0,
+        "avg_logprob": -0.12,
+        "compression_ratio": 1.65,
+        "suspect": []
+      },
+      {
+        "start": 21.6,
+        "end": 27.44,
+        "text": "is the most powerful AI algorithms on the planet are finding audiences for every single video.",
+        "no_speech": 0.0,
+        "avg_logprob": -0.12,
+        "compression_ratio": 1.65,
+        "suspect": []
+      },
+      {
+        "start": 27.44,
+        "end": 30.8,
+        "text": "It is an essential if you want to start, if you want to grow,",
+        "no_speech": 0.0,
+        "avg_logprob": -0.08,
+        "compression_ratio": 1.73,
+        "suspect": []
+      },
+      {
+        "start": 30.8,
+        "end": 38.8,
+        "text": "even if you've got money to spend and you want to scale up. S tier. SEO. SEO has been disrupted",
+        "no_speech": 0.0,
+        "avg_logprob": -0.08,
+        "compression_ratio": 1.73,
+        "suspect": []
+      },
+      {
+        "start": 38.8,
+        "end": 43.28,
+        "text": "because of AI. So you need to have the right approach that is AI friendly, but it's still",
+        "no_speech": 0.0,
+        "avg_logprob": -0.08,
+        "compression_ratio": 1.73,
+        "suspect": []
+      },
+      {
+        "start": 43.28,
+        "end": 50.24,
+        "text": "an A tier approach. Quizzes. Quizzes are S tier because you collect so much data. You engage",
+        "no_speech": 0.0,
+        "avg_logprob": -0.08,
+        "compression_ratio": 1.73,
+        "suspect": []
+      },
+      {
+        "start": 50.24,
+        "end": 56.16,
+        "text": "people's mind. You can diagnose people. You can segment a list. If you can get the right quiz,",
+        "no_speech": 0.0,
+        "avg_logprob": -0.08,
+        "compression_ratio": 1.73,
+        "suspect": []
+      },
+      {
+        "start": 56.16,
+        "end": 62.32,
+        "text": "you can generate the best quality leads ever. S tier. Becoming an author. Becoming an author is",
+        "no_speech": 0.0,
+        "avg_logprob": -0.05,
+        "compression_ratio": 1.93,
+        "suspect": []
+      },
+      {
+        "start": 62.32,
+        "end": 67.52,
+        "text": "like having a salesperson who never sleeps, never calls in sick, is always perfectly on brand and on",
+        "no_speech": 0.0,
+        "avg_logprob": -0.05,
+        "compression_ratio": 1.93,
+        "suspect": []
+      },
+      {
+        "start": 67.52,
+        "end": 71.92,
+        "text": "message. The key is that you don't want to see the book as something that you're trying to sell.",
+        "no_speech": 0.0,
+        "avg_logprob": -0.05,
+        "compression_ratio": 1.93,
+        "suspect": []
+      },
+      {
+        "start": 71.92,
+        "end": 75.36,
+        "text": "You want to see the book as something that is going out there and delivering a message.",
+        "no_speech": 0.0,
+        "avg_logprob": -0.05,
+        "compression_ratio": 1.93,
+        "suspect": []
+      },
+      {
+        "start": 75.36,
+        "end": 82.0,
+        "text": "Treat the book like it's a salesperson and it's an S tier strategy. Facebook ads. Facebook ads are",
+        "no_speech": 0.0,
+        "avg_logprob": -0.05,
+        "compression_ratio": 1.93,
+        "suspect": []
+      },
+      {
+        "start": 82.0,
+        "end": 87.92,
+        "text": "probably A or B tier now. You've got to have a lot of content, a lot of creative. If you can create",
+        "no_speech": 0.0,
+        "avg_logprob": -0.06,
+        "compression_ratio": 1.78,
+        "suspect": []
+      },
+      {
+        "start": 87.92,
+        "end": 92.8,
+        "text": "hundreds of pieces of content, if you've got it in you to have lots of fast, cheap experiments,",
+        "no_speech": 0.0,
+        "avg_logprob": -0.06,
+        "compression_ratio": 1.78,
+        "suspect": []
+      },
+      {
+        "start": 92.8,
+        "end": 98.08,
+        "text": "then it can be an A tier. But unfortunately, a lot of the results are already priced into the algorithm.",
+        "no_speech": 0.0,
+        "avg_logprob": -0.06,
+        "compression_ratio": 1.78,
+        "suspect": []
+      },
+      {
+        "start": 98.08,
+        "end": 101.92,
+        "text": "So you have to be very, very good at what you're doing. You have to dedicate yourself to it and throw",
+        "no_speech": 0.0,
+        "avg_logprob": -0.06,
+        "compression_ratio": 1.78,
+        "suspect": []
+      },
+      {
+        "start": 101.92,
+        "end": 107.28,
+        "text": "money and time and creativity at it. But then if you can get it right, you can scale with Facebook ads.",
+        "no_speech": 0.0,
+        "avg_logprob": -0.06,
+        "compression_ratio": 1.78,
+        "suspect": []
+      },
+      {
+        "start": 107.28,
+        "end": 114.32,
+        "text": "A tier. Growing your personal brand. Personal brand obviously is an S tier. You're developing an asset",
+        "no_speech": 0.0,
+        "avg_logprob": -0.1,
+        "compression_ratio": 1.88,
+        "suspect": []
+      },
+      {
+        "start": 114.32,
+        "end": 119.36,
+        "text": "and that asset is going to go out there and grow your business, bring you opportunity. It's going to",
+        "no_speech": 0.0,
+        "avg_logprob": -0.1,
+        "compression_ratio": 1.88,
+        "suspect": []
+      },
+      {
+        "start": 119.36,
+        "end": 125.36,
+        "text": "make every salesperson more effective. Businesses that have a personal brand, they're scaling faster,",
+        "no_speech": 0.0,
+        "avg_logprob": -0.1,
+        "compression_ratio": 1.88,
+        "suspect": []
+      },
+      {
+        "start": 125.36,
+        "end": 128.88,
+        "text": "they're getting through to more people. Personal brand is now bigger than business brands and",
+        "no_speech": 0.0,
+        "avg_logprob": -0.1,
+        "compression_ratio": 1.88,
+        "suspect": []
+      },
+      {
+        "start": 128.88,
+        "end": 133.68,
+        "text": "that's why you're seeing every major entrepreneur investing in developing their personal brand.",
+        "no_speech": 0.0,
+        "avg_logprob": -0.1,
+        "compression_ratio": 1.88,
+        "suspect": []
+      },
+      {
+        "start": 137.28,
+        "end": 140.98,
+        "text": "What could you say?",
+        "no_speech": 0.0,
+        "avg_logprob": -3.7,
+        "compression_ratio": 1.55,
+        "suspect": []
+      },
+      {
+        "start": 141.04,
+        "end": 141.32,
+        "text": "You have to be curious.",
+        "no_speech": 0.0,
+        "avg_logprob": -3.7,
+        "compression_ratio": 1.55,
+        "suspect": []
+      },
+      {
+        "start": 141.32,
+        "end": 143.8,
+        "text": "You might be curious.",
+        "no_speech": 0.0,
+        "avg_logprob": -3.7,
+        "compression_ratio": 1.55,
+        "suspect": []
+      },
+      {
+        "start": 146.2,
+        "end": 147.04,
+        "text": "Uh,",
+        "no_speech": 0.0,
+        "avg_logprob": -3.7,
+        "compression_ratio": 1.55,
+        "suspect": []
+      },
+      {
+        "start": 147.04,
+        "end": 148.96,
+        "text": "you know truckin that you set to.",
+        "no_speech": 0.0,
+        "avg_logprob": -3.7,
+        "compression_ratio": 1.55,
+        "suspect": []
+      },
+      {
+        "start": 157.28,
+        "end": 160.42,
+        "text": "You're washing yourself, you're washing experience.",
+        "no_speech": 0.0,
+        "avg_logprob": -3.7,
+        "compression_ratio": 1.55,
+        "suspect": []
+      },
+      {
+        "start": 160.42,
+        "end": 163.22,
+        "text": "You're washing your power from pocketgraders.",
+        "no_speech": 0.0,
+        "avg_logprob": -3.7,
+        "compression_ratio": 1.55,
+        "suspect": []
+      }
+    ],
+    "note": "A segment with a non-empty 'suspect' list is probably music or noise, not words. has_speech is true only if at least one segment passes."
+  }
+}

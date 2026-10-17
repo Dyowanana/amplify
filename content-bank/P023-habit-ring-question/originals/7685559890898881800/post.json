@@ -1,0 +1,60 @@
+{
+  "id": "7685559890898881800",
+  "url": "https://www.tiktok.com/@mentalapp/photo/7685559890898881800",
+  "creator": "mentalapp",
+  "type": "slideshow",
+  "collected_at": "2026-10-13T16:45:19+00:00",
+  "published": {
+    "utc": "2026-09-15T00:57:51+00:00",
+    "local": "2026-09-15T08:57:51+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Tuesday",
+    "hour": 8
+  },
+  "caption": "The reason is - check bio instead #mental #mentalmaxxing #luckyday #morningvibes #mentalhealth",
+  "hashtags": [
+    "mental",
+    "mentalmaxxing",
+    "luckyday",
+    "morningvibes",
+    "mentalhealth"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 394400,
+    "likes": 46300,
+    "comments": 85,
+    "shares": 1893,
+    "saves": 12479
+  },
+  "rates": {
+    "engagement": 0.154,
+    "save": 0.0316,
+    "share": 0.0048,
+    "comment": 0.0002
+  },
+  "sound": {
+    "title": "original sound",
+    "author": "݁ 忍 | alphi  ݁",
+    "original": null,
+    "id": null
+  },
+  "slide_count": 1,
+  "duration": null,
+  "size": {
+    "width": 1080,
+    "height": 1312
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": null
+  },
+  "files": {
+    "slides": [
+      "slides/01.jpg"
+    ],
+    "audio": "audio.mp3"
+  },
+  "note": "fetch.py got only the audio (yt-dlp fallback); the slide was taken from the public post page in the browser pane, 2026-10-14"
+}

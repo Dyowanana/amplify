@@ -1,0 +1,62 @@
+{
+  "id": "7692837178694438157",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7692837178694438157",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:19:57+00:00",
+  "published": {
+    "utc": "2026-10-04T15:37:36+00:00",
+    "local": "2026-10-04T23:37:36+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Sunday",
+    "hour": 23
+  },
+  "caption": "your fall drink might be why you look puffy by the afternoon. heres what to order instead link in bio 🤍 #fallvibes #waterretention #pumpkinspice #depuff #wellnessgirl",
+  "hashtags": [
+    "fallvibes",
+    "waterretention",
+    "pumpkinspice",
+    "depuff",
+    "wellnessgirl"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 3003,
+    "likes": 108,
+    "comments": 0,
+    "shares": 3,
+    "saves": 25
+  },
+  "rates": {
+    "engagement": 0.0453,
+    "save": 0.0083,
+    "share": 0.001,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "7 tearz 7 doves 7 bunds",
+    "author": "g0th_angel777",
+    "original": true,
+    "id": "7627761017027709710"
+  },
+  "slide_count": 4,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg"
+    ]
+  }
+}

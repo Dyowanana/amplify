@@ -1,0 +1,44 @@
+[
+ {
+  "model": "gpt-image-2-5-sunburst-image-to-image",
+  "task_id": "8e788e6b44c6c50e05eeb63d7e570578",
+  "credits": 0.0,
+  "output": "FAILED",
+  "prompt": "An icon sticker sheet of 9 separate objects arranged in a neat 3 by 3 grid on a pure white background. Row 1, left to right: a glossy 3D vertical smartphone standing upright whose screen is a bright pink and purple gradient with a big white play triangle in the middle; a realistic clipboard holding "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-image-to-image",
+  "task_id": "a46038c66372d5c03d48fc72ed9cbeb4",
+  "credits": 10.0,
+  "output": "content-bank\\P021-tier-list-chart\\runs\\run-01_2026-10-13_marketing-a-business-tier-list\\raw\\art\\sheet_b.png",
+  "prompt": "An icon sticker sheet of 9 separate objects arranged in a neat 3 by 3 grid on a pure white background. Row 1, left to right: a glossy 3D shiny pink heart with two small sparkles; a realistic fanned stack of blank printed paper flyers in orange, teal and yellow, no print on them; a realistic vintage "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "4b1423d15e6677b0fb6c2e6f37bd9530",
+  "credits": 6.0,
+  "output": "content-bank\\P021-tier-list-chart\\runs\\run-01_2026-10-13_marketing-a-business-tier-list\\raw\\art\\sheet_c.png",
+  "prompt": "Three separate solid black flat glyph icons in a single row, evenly spaced, on a pure white background, bold simple silhouettes like classic black pictograms, thick shapes. Left: a robot head with an antenna and two round eyes. Middle: a speech bubble with three dots inside, crossed by a red prohibi"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-image-to-image",
+  "task_id": "69a25bc347c03b6645801647cf6b37f2",
+  "credits": 10.0,
+  "output": "content-bank\\P021-tier-list-chart\\runs\\run-01_2026-10-13_marketing-a-business-tier-list\\raw\\art\\sheet_a.png",
+  "prompt": "An icon sticker sheet of 9 separate objects arranged in a neat 3 by 3 grid on a pure white background. Row 1, left to right: a glossy 3D vertical smartphone standing upright whose screen is a bright pink and purple gradient with a big white play triangle in the middle; a realistic clipboard holding "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "7cb5511d8456cc890675ee5ec6162366",
+  "credits": 10.0,
+  "output": "content-bank\\P021-tier-list-chart\\runs\\run-01_2026-10-13_marketing-a-business-tier-list\\raw\\art\\hero.png",
+  "prompt": "A vintage handheld megaphone seen from the side, pointing to the right, rendered as a vivid false-colour scientific scan, like an MRI or thermal image: glowing neon cyan, electric blue, hot pink, lime green and yellow bands following its shape, dark navy shadows inside the bell, fine glowing detail "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-image-to-image",
+  "task_id": "27aae4fce07b7f1cd31a5f5135875d58",
+  "credits": 6.0,
+  "output": "content-bank\\P021-tier-list-chart\\runs\\run-01_2026-10-13_marketing-a-business-tier-list\\raw\\art\\calendar.png",
+  "prompt": "One glossy 3D emoji-style desk calendar icon: a red top binding with two silver rings, a white page grid of plain squares where every square has a small green check mark, a small smartphone leaning against its side showing a pink heart on its screen. Isolated cut-out, centred, wide composition with "
+ }
+]

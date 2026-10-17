@@ -1,0 +1,156 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "words": 50,
+      "raw_overlap_max": 0.22,
+      "raw_overlap_post": "7691323983999945997",
+      "shared_words_with_that_post": [
+        "fat",
+        "in",
+        "it",
+        "muscles",
+        "not",
+        "settles",
+        "sore",
+        "the",
+        "water",
+        "why",
+        "you"
+      ],
+      "content_overlap_max": 0.13,
+      "longest_shared_run_words": 3,
+      "longest_shared_run": "water not fat",
+      "longest_run_source": "7691323983999945997: its water, not fat, and it leaves",
+      "status": "pass"
+    },
+    {
+      "slide": 2,
+      "words": 33,
+      "raw_overlap_max": 0.24,
+      "raw_overlap_post": "7692144626165140749",
+      "shared_words_with_that_post": [
+        "a",
+        "and",
+        "more",
+        "potassium",
+        "salt",
+        "the",
+        "these",
+        "water"
+      ],
+      "content_overlap_max": 0.11,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "the",
+      "longest_run_source": "7690612461413682445: why your face is puffy after the weekend",
+      "status": "pass"
+    },
+    {
+      "slide": 3,
+      "words": 48,
+      "raw_overlap_max": 0.23,
+      "raw_overlap_post": "7691390576863890701",
+      "shared_words_with_that_post": [
+        "a",
+        "at",
+        "before",
+        "is",
+        "it",
+        "read",
+        "same",
+        "the",
+        "time",
+        "to",
+        "you"
+      ],
+      "content_overlap_max": 0.15,
+      "longest_shared_run_words": 2,
+      "longest_shared_run": "how to",
+      "longest_run_source": "7690937378713636109: and how to make it work again",
+      "status": "pass"
+    },
+    {
+      "slide": 4,
+      "words": 55,
+      "raw_overlap_max": 0.24,
+      "raw_overlap_post": "7691740036496248077",
+      "shared_words_with_that_post": [
+        "a",
+        "and",
+        "drinks",
+        "if",
+        "in",
+        "instead",
+        "it",
+        "starts",
+        "the",
+        "to",
+        "water",
+        "with",
+        "you"
+      ],
+      "content_overlap_max": 0.11,
+      "longest_shared_run_words": 2,
+      "longest_shared_run": "in your",
+      "longest_run_source": "7690937378713636109: it worked for years and then it stopped. its not in your hea",
+      "status": "pass"
+    },
+    {
+      "slide": 5,
+      "words": 11,
+      "raw_overlap_max": 0.27,
+      "raw_overlap_post": "7690937378713636109",
+      "shared_words_with_that_post": [
+        "bio",
+        "not",
+        "the"
+      ],
+      "content_overlap_max": 0.11,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "the",
+      "longest_run_source": "7690612461413682445: why your face is puffy after the weekend",
+      "status": "pass"
+    }
+  ],
+  "hook": {
+    "words": [
+      "mondays",
+      "more",
+      "weigh",
+      "why"
+    ],
+    "overlap_by_source": {
+      "7690612461413682445": 0.25,
+      "7690676197172301070": 0.25,
+      "7690937378713636109": 0.25,
+      "7690992255070457102": 0.25,
+      "7691048195962588429": 0.25,
+      "7691323983999945997": 0.25,
+      "7691390576863890701": 0.25,
+      "7691440544387452173": 0.25,
+      "7691740036496248077": 0.25,
+      "7691800955355974925": 0.25,
+      "7692083586429635853": 0.25,
+      "7692144626165140749": 0.25,
+      "7692484130398965006": 0.25,
+      "7692558103518153998": 0.25,
+      "7692837178694438157": 0.25,
+      "7692882539823893774": 0.25,
+      "7693193314174094605": 0.25,
+      "7693275909364731150": 0.25,
+      "7693557942901132557": 0.25,
+      "7693615185168289037": 0.25
+    },
+    "max": 0.25,
+    "status": "pass"
+  },
+  "images": {
+    "min_hash_distance": 11,
+    "closest_pair": "slide3.png ~ 7691390576863890701/03.jpg",
+    "near_duplicate_threshold": 10,
+    "status": "pass",
+    "source_blue_share_in_sources_mean": 0.0,
+    "source_blue_share_in_ours_mean": 0.0007
+  },
+  "verdict": "pass"
+}

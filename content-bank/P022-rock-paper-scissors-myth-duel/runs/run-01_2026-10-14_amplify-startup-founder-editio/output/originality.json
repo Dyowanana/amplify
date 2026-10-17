@@ -1,0 +1,124 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "words": 10,
+      "raw_overlap_max": 0.4,
+      "raw_overlap_post": "manual-20261014-003659",
+      "shared_words_with_that_post": [
+        "paper",
+        "play",
+        "rock",
+        "scissors"
+      ],
+      "content_overlap_max": 0.44,
+      "longest_shared_run_words": 3,
+      "longest_shared_run": "rock paper scissors",
+      "longest_run_source": "manual-20261014-003659: Rock, paper, scissors...but make it marketing!! 🪨✂️",
+      "status": "FAIL"
+    },
+    {
+      "slide": 2,
+      "words": 9,
+      "raw_overlap_max": 0.33,
+      "raw_overlap_post": "manual-20261014-003659",
+      "shared_words_with_that_post": [
+        "marketing",
+        "the",
+        "you"
+      ],
+      "content_overlap_max": 0.14,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "marketing",
+      "longest_run_source": "manual-20261014-003659: Rock, paper, scissors...but make it marketing!! 🪨✂️",
+      "status": "review"
+    },
+    {
+      "slide": 3,
+      "words": 8,
+      "raw_overlap_max": 0.0,
+      "raw_overlap_post": "manual-20261014-003659",
+      "shared_words_with_that_post": [],
+      "content_overlap_max": 0.0,
+      "longest_shared_run_words": 0,
+      "longest_shared_run": "",
+      "longest_run_source": "",
+      "status": "pass"
+    },
+    {
+      "slide": 4,
+      "words": 4,
+      "raw_overlap_max": 0.0,
+      "raw_overlap_post": "manual-20261014-003659",
+      "shared_words_with_that_post": [],
+      "content_overlap_max": 0.0,
+      "longest_shared_run_words": 0,
+      "longest_shared_run": "",
+      "longest_run_source": "",
+      "status": "pass"
+    },
+    {
+      "slide": 5,
+      "words": 9,
+      "raw_overlap_max": 0.22,
+      "raw_overlap_post": "manual-20261014-003659",
+      "shared_words_with_that_post": [
+        "marketing",
+        "the"
+      ],
+      "content_overlap_max": 0.12,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "marketing",
+      "longest_run_source": "manual-20261014-003659: Rock, paper, scissors...but make it marketing!! 🪨✂️",
+      "status": "pass"
+    },
+    {
+      "slide": 6,
+      "words": 8,
+      "raw_overlap_max": 0.0,
+      "raw_overlap_post": "manual-20261014-003659",
+      "shared_words_with_that_post": [],
+      "content_overlap_max": 0.0,
+      "longest_shared_run_words": 0,
+      "longest_shared_run": "",
+      "longest_run_source": "",
+      "status": "pass"
+    },
+    {
+      "slide": 7,
+      "words": 7,
+      "raw_overlap_max": 0.14,
+      "raw_overlap_post": "manual-20261014-003659",
+      "shared_words_with_that_post": [
+        "the"
+      ],
+      "content_overlap_max": 0.0,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "the",
+      "longest_run_source": "manual-20261014-003659: VIRALITY ISN'T THE GOAL",
+      "status": "pass"
+    }
+  ],
+  "hook": {
+    "words": [
+      "paper",
+      "rock",
+      "scissors",
+      "shoot"
+    ],
+    "overlap_by_source": {
+      "manual-20261014-003659": 0.0
+    },
+    "max": 0.0,
+    "status": "pass"
+  },
+  "images": {
+    "min_hash_distance": 22,
+    "closest_pair": "slide2.png ~ manual-20261014-003659/01.jpg",
+    "near_duplicate_threshold": 10,
+    "status": "pass",
+    "source_blue_share_in_sources_mean": 0.0,
+    "source_blue_share_in_ours_mean": 0.0
+  },
+  "verdict": "FAIL"
+}

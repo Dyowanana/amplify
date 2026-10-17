@@ -1,0 +1,64 @@
+{
+  "id": "7691323983999945997",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7691323983999945997",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:24:56+00:00",
+  "published": {
+    "utc": "2026-09-30T13:45:30+00:00",
+    "local": "2026-09-30T21:45:30+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Wednesday",
+    "hour": 21
+  },
+  "caption": "youre not getting bigger, youre sore and holding water. it leaves in a few days link in bio 🤍 #gymbloat #waterretention #gymgirl #swelling #wellnessgirl",
+  "hashtags": [
+    "gymbloat",
+    "waterretention",
+    "gymgirl",
+    "swelling",
+    "wellnessgirl"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 27600,
+    "likes": 1261,
+    "comments": 1,
+    "shares": 30,
+    "saves": 445
+  },
+  "rates": {
+    "engagement": 0.0629,
+    "save": 0.0161,
+    "share": 0.0011,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "original sound",
+    "author": "gogrule",
+    "original": true,
+    "id": "7653508100271409942"
+  },
+  "slide_count": 6,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg",
+      "slides/06.jpg"
+    ]
+  }
+}

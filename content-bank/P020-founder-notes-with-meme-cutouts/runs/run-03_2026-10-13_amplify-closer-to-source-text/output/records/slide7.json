@@ -1,0 +1,81 @@
+{
+  "n": 7,
+  "role": "conclusion + CTA",
+  "class": "other:meme-cutout-text-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #e4e3df"
+      },
+      {
+        "type": "cutout",
+        "box": [
+          0.0,
+          45.4,
+          100.0,
+          54.6
+        ],
+        "note": "young woman in a denim jacket on the edge of a desk with a mug, calm smile; halftone dot screen; white sticker outline; generated on green, keyed in code"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.0,
+        45.4,
+        100.0,
+        54.6
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "conclusion",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        41.0,
+        13.5,
+        18.0,
+        2.1
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "Inter Bold",
+      "size_pct": 2.7,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "yes, everyone's shipping now.\n\nbut if you post every day\nand keep only what works,\nyou'll pass most of them.\n\nno team. no ad budget.\njust posts, every day.\n\nAmplify is the link in my bio.",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "stacked-paragraphs",
+      "box": [
+        28.5,
+        20.5,
+        43.1,
+        22.9
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "DejaVu Sans Mono (Space Mono stand-in)",
+      "size_pct": 1.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

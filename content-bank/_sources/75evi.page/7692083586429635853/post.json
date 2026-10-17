@@ -1,0 +1,62 @@
+{
+  "id": "7692083586429635853",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7692083586429635853",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:26:39+00:00",
+  "published": {
+    "utc": "2026-10-02T14:53:03+00:00",
+    "local": "2026-10-02T22:53:03+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Friday",
+    "hour": 22
+  },
+  "caption": "if youre not going daily its probably three of these, and you eat them every day link in bio 🤍 #constipation #constipationrelief #fiber #healthyhabits #flatstomach",
+  "hashtags": [
+    "constipation",
+    "constipationrelief",
+    "fiber",
+    "healthyhabits",
+    "flatstomach"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 2056,
+    "likes": 67,
+    "comments": 0,
+    "shares": 1,
+    "saves": 11
+  },
+  "rates": {
+    "engagement": 0.0384,
+    "save": 0.0054,
+    "share": 0.0005,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "original sound - ￴ ￴ ￴ ￴￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴￴￴",
+    "author": "￴ ￴ ￴ ￴￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴￴￴",
+    "original": true,
+    "id": "7671521489690708767"
+  },
+  "slide_count": 4,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg"
+    ]
+  }
+}

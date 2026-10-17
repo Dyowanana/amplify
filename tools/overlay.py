@@ -16,6 +16,8 @@ Usage:
   Noto Color Emoji on Windows) and composited inline at the right size — no missing-glyph boxes. See
   draw_mixed()/split_runs() below; wrap() and main() use them automatically, so any caller passing emoji through
   --text already gets this for free.
+- --style clean (P018 look): white Inter, light weight, no outline, a barely visible soft shadow, with **word** marking
+  the bold key word (e.g. --text "this is **ai**"). --weight is ignored; --light sets the regular weight (default 300).
 """
 import argparse
 import io
@@ -161,7 +163,8 @@ def main():
     ap.add_argument("--y", type=float, default=0.375)
     ap.add_argument("--size", type=float, default=0.029)
     ap.add_argument("--weight", default="500", choices=["500", "700"])
-    ap.add_argument("--style", default="classic", choices=["classic", "shadow"])
+    ap.add_argument("--style", default="classic", choices=["classic", "shadow", "clean"])
+    ap.add_argument("--light", type=int, default=300, help="clean style: weight of the regular words (100-900)")
     ap.add_argument("--phone", type=float, nargs="?", const=1.0, default=0.0,
                     help="phone-camera imperfections, strength (default 1.0 when given)")
     args = ap.parse_args()
@@ -169,7 +172,9 @@ def main():
     img = fit(Image.open(args.image))
     if args.phone:
         img = phone_look(img, args.phone)
-    if args.text:
+    if args.text and args.style == "clean":
+        img = draw_clean(img, curly(args.text), args.y, args.size, args.light)
+    elif args.text:
         font = ImageFont.truetype(str(ROOT / "assets" / "fonts" / f"TikTokSans-{args.weight}.ttf"), round(H * args.size))
         text = curly(args.text)
         lines = wrap(text, font, W * 0.76)
@@ -196,6 +201,53 @@ def main():
     Path(args.out).parent.mkdir(parents=True, exist_ok=True)
     img.save(args.out, quality=95)
     print(args.out)
+
+
+def inter(px, weight):
+    font = ImageFont.truetype(str(ROOT / "assets" / "fonts" / "Inter-VF.ttf"), px)
+    font.set_variation_by_axes([min(32, max(14, px / 3)), weight])
+    return font
+
+
+def draw_clean(img, text, y, size, light=300):
+    """White Inter, light weight with **bold** words, centred, no outline, faint soft shadow (P018 source look)."""
+    px = round(H * size)
+    reg, bold = inter(px, light), inter(px, 700)
+
+    def runs(line):  # [(is_bold, chunk)], ** toggles bold
+        return [(i % 2 == 1, c) for i, c in enumerate(line.split("**")) if c]
+
+    def width(line):
+        return sum((bold if b else reg).getlength(c) for b, c in runs(line))
+
+    plain = text.replace("**", "")
+    if "/" in text:
+        lines = [l.strip() for l in text.split("/")]
+    else:  # wrap on words, keeping ** markers with their words
+        lines, line = [], ""
+        for word in text.split():
+            trial = f"{line} {word}".strip()
+            if width(trial) <= W * 0.84 or not line:
+                line = trial
+            else:
+                lines.append(line)
+                line = word
+        lines.append(line)
+    assert plain  # nothing to draw otherwise
+    line_h = round(px * 1.28)
+    top = round(H * y - line_h * len(lines) / 2)
+    shadow = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    layer = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    sd, td = ImageDraw.Draw(shadow), ImageDraw.Draw(layer)
+    for i, line in enumerate(lines):
+        x = (W - width(line)) / 2
+        for b, chunk in runs(line):
+            f = bold if b else reg
+            sd.text((x, top + i * line_h + 2), chunk, font=f, fill=(0, 0, 0, 70))
+            td.text((x, top + i * line_h), chunk, font=f, fill=(255, 255, 255, 255))
+            x += f.getlength(chunk)
+    shadow = shadow.filter(ImageFilter.GaussianBlur(px * 0.12))
+    return Image.alpha_composite(Image.alpha_composite(img.convert("RGBA"), shadow), layer).convert("RGB")
 
 
 def fit(img):

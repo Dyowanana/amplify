@@ -1,0 +1,66 @@
+{
+  "id": "7678443671007530262",
+  "url": "https://www.tiktok.com/@founderscale/photo/7678443671007530262",
+  "creator": "founderscale",
+  "type": "slideshow",
+  "collected_at": "2026-10-13T13:17:26+00:00",
+  "published": {
+    "utc": "2026-08-26T20:43:07+00:00",
+    "local": "2026-08-27T04:43:07+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Thursday",
+    "hour": 4
+  },
+  "caption": "Read thos before you built a saas 2026 #developer #saas #appdeveloper #socialmediagrowth #fyp ",
+  "hashtags": [
+    "developer",
+    "saas",
+    "appdeveloper",
+    "socialmediagrowth",
+    "fyp"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 27200,
+    "likes": 1424,
+    "comments": 14,
+    "shares": 118,
+    "saves": 1016
+  },
+  "rates": {
+    "engagement": 0.0946,
+    "save": 0.0374,
+    "share": 0.0043,
+    "comment": 0.0005
+  },
+  "sound": {
+    "title": "original sound - stevelacyoffline",
+    "author": "stevelacyoffline (fan)",
+    "original": null,
+    "id": null
+  },
+  "slide_count": 7,
+  "duration": 19,
+  "size": {
+    "width": 1080,
+    "height": 1350
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": null
+  },
+  "files": {
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg",
+      "slides/06.jpg",
+      "slides/07.jpg"
+    ],
+    "sound": "sound.mp3"
+  },
+  "note": "slides saved from the public post page in the browser pane (fetch.py got the sound only, TikTok 403 on the photo endpoint)"
+}

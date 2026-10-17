@@ -1,0 +1,62 @@
+{
+  "id": "7693557942901132557",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7693557942901132557",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:18:37+00:00",
+  "published": {
+    "utc": "2026-10-06T14:15:05+00:00",
+    "local": "2026-10-06T22:15:05+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Tuesday",
+    "hour": 22
+  },
+  "caption": "these six puff your face more than anything else, and soy sauce is number one link in bio 🤍 #puffyface #depuff #faceshape #waterretention #wellnesstok",
+  "hashtags": [
+    "puffyface",
+    "depuff",
+    "faceshape",
+    "waterretention",
+    "wellnesstok"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 15200,
+    "likes": 651,
+    "comments": 4,
+    "shares": 21,
+    "saves": 179
+  },
+  "rates": {
+    "engagement": 0.0563,
+    "save": 0.0118,
+    "share": 0.0014,
+    "comment": 0.0003
+  },
+  "sound": {
+    "title": "serial experiment lain",
+    "author": "sulie",
+    "original": false,
+    "id": "7190583496031602690"
+  },
+  "slide_count": 4,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg"
+    ]
+  }
+}

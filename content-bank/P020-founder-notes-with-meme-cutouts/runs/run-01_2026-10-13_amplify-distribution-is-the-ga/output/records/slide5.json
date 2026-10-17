@@ -1,0 +1,81 @@
+{
+  "n": 5,
+  "role": "body: post twice a day",
+  "class": "other:meme-cutout-text-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #e4e3df"
+      },
+      {
+        "type": "cutout",
+        "box": [
+          0.7,
+          43.5,
+          99.3,
+          56.5
+        ],
+        "note": "young woman holding up a phone with a blank screen and pointing at it; grainy black and white; white sticker outline; generated on green, keyed in code"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.7,
+        43.5,
+        99.3,
+        56.5
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "post twice a day",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        12.8,
+        12.5,
+        26.5,
+        2.6
+      ],
+      "zone": "top-left",
+      "align": "left",
+      "font": "Inter Bold",
+      "size_pct": 2.7,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "one post a week is a lottery ticket.\ntwo a day is a system.\n\nmake a week of posts in one sitting,\nschedule two a day on TikTok,\nand stop posting by hand.\n\nmore posts means more data.\nmore data means you find\nwhat works faster.",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "stacked-paragraphs",
+      "box": [
+        12.8,
+        19.0,
+        51.7,
+        22.6
+      ],
+      "zone": "top-center",
+      "align": "left",
+      "font": "DejaVu Sans Mono (Space Mono stand-in)",
+      "size_pct": 1.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

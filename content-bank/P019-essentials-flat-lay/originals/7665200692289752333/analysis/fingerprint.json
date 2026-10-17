@@ -1,0 +1,67 @@
+{
+  "post": "7665200692289752333",
+  "type": "slideshow",
+  "fingerprint": {
+    "structure": "1 slide: a centre title block ringed by 8 labelled items on white (3 top, 1 left, 1 right, 3 bottom). Each item is a cut-out, an app icon or a short text stack, with a 1 to 2 line label under it",
+    "hook": "identity starter pack: 'peak <identity> purchases' as a 3-line centre title + a small grey '<tribe> edition' subline. The items are the purchases that make you that identity, from serious (laptop, desk) to joke (domain names you collect, an AI subscription)",
+    "camera_motion": "other:essentials-flatlay. Designed card: product cut-outs, app icons and one text item on white, labels drawn in a bold grotesk. Static image",
+    "pacing": "single image, about 25 words: a 3-line title, a subline and 8 short labels",
+    "text_overlay": "title: heavy grotesk (SF Pro Display Heavy look), lowercase, black, 3 stacked lines, centred, about 6% of frame height per line, tight leading. Subline: semibold grey #555, about 2.3%. Labels: semibold black Title Case, about 2.2%, centred under each item",
+    "audio": "original sound by another account (Elite Motivation), music bed, no voiceover",
+    "arc": "recognition and aspiration: the viewer checks off what they've bought; the domain names and the AI subscription are the in-jokes",
+    "measured": "see measures.json visual slide 1"
+  },
+  "units": [
+    {
+      "n": 1, "role": "hook", "confidence": "high",
+      "class": "other:essentials-flatlay",
+      "frame": {
+        "canvas": "1206x1528 (about 4:5 portrait)",
+        "layers": [
+          {"type": "background", "box": [0, 0, 100, 100], "note": "flat white"},
+          {"type": "text-item", "box": [10, 17, 15, 13], "note": "three domain endings stacked in heavy black type, as if they were a product"},
+          {"type": "product-cutout", "box": [38, 12, 23, 13], "note": "laptop, closed, top-down, logo visible"},
+          {"type": "product-cutout", "box": [76, 16, 14, 14], "note": "over-ear headphones, black"},
+          {"type": "app-icon", "box": [4, 45, 12, 11], "note": "an AI product's mascot icon"},
+          {"type": "app-icon", "box": [81, 44, 14, 11], "note": "an AI assistant's app icon"},
+          {"type": "product-cutout", "box": [12, 66, 15, 14], "note": "pair of hex dumbbells (stands for a gym subscription)"},
+          {"type": "product-cutout", "box": [42, 68, 14, 19], "note": "condenser mic on a tripod"},
+          {"type": "product-cutout", "box": [68, 69, 24, 13], "note": "standing desk, wood top, black frame"}
+        ],
+        "composition": {"focal": [50, 50], "subject_box": [4, 12, 91, 79], "zone": "middle-center",
+                        "negative_space": [[0, 0, 100, 11], [0, 92, 100, 8]], "balance": "symmetric ring around the centre title"},
+        "safe_zones": "title block in the middle, clear of the TikTok UI; the bottom label at 89 to 92% sits under the caption area",
+        "color_light": "monochrome black items on white, two colour accents from the app icons (purple, terracotta)",
+        "quality": "clean packshots, sharp", "origin_realism": "real product photos and real app icons, collaged"
+      },
+      "text_blocks": [
+        {"text": "peak\nsolopreneur\npurchases", "origin": "overlay", "role": "hook", "pattern": "center-block", "box": [29, 40, 42, 17], "zone": "middle-center",
+         "align": "center", "font": "SF Pro Display Heavy (closest: Inter Black)", "size_pct": 6.0, "case": "lowercase", "fill": "#000000", "stroke": "none", "under": "negative-space"},
+        {"text": "builder edition", "origin": "overlay", "role": "subheading", "pattern": "center-block", "box": [40, 59, 19, 3], "zone": "middle-center",
+         "align": "center", "font": "SF Pro Display Semibold", "size_pct": 2.3, "case": "lowercase", "fill": "#555555", "stroke": "none", "under": "negative-space"},
+        {"text": "Latest\nMacbook Pro", "origin": "overlay", "role": "label", "pattern": "item-label", "box": [41, 26, 17, 4.5], "zone": "top-center",
+         "align": "center", "font": "SF Pro Display Semibold", "size_pct": 2.2, "case": "Title Case", "fill": "#111111", "stroke": "none", "under": "negative-space"}
+      ],
+      "image": {"items": 8, "item_mix": "3 tech, 1 furniture, 1 fitness stand-in, 2 app icons, 1 text item", "labels": "every item labelled, 1 to 2 lines"},
+      "other": {
+        "what_it_is": "a starter-pack ring: labelled purchases around a centre title",
+        "what_carries_the_message": "the labels and the item choice; the title names the tribe",
+        "layout_rule": "3 top, 1 left, 1 right, 3 bottom around a centred title block",
+        "humour": "collecting domain names; paying for the top AI plan",
+        "why_it_spreads": "identity tagging and saves (3.0% save rate)",
+        "text_rule": "title lowercase and heavy; labels Title Case semibold",
+        "colour_rule": "monochrome items, the app icons give the colour",
+        "realism": "real packshots and real icons",
+        "variants": "swap items and the edition line for another tribe",
+        "risks": "real brands (laptop, mic maker, AI products) are props; learn the slots, not the brands"
+      }
+    }
+  ],
+  "product": "two AI products appear as app icons in the ring (one mid-left, one mid-right), named in the labels; no ad label (inferred promotion at most)",
+  "proof_device": "none",
+  "series": "single post, same account as 7670706992230485261 (P019)",
+  "caption": "hashtags only: 5 tags (identity, meme, money, tool, trend)",
+  "hashtags": "5: #solopreneur #larp #wifimoney #claude #vibecoding",
+  "topic": "solopreneur / builder purchases",
+  "language": "English, lowercase title, insider tone"
+}

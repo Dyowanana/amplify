@@ -1,0 +1,142 @@
+[
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "20f54d440179f202d6376572b8a6d5b9",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\g1_mic.png",
+  "prompt": "Realistic catalogue product photograph of a matte white desktop podcast condenser microphone on a short three legged desk tripod, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "aefe7f4ac8c451245322dc7547b3528f",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\g1_headphones.png",
+  "prompt": "Realistic catalogue product photograph of a pair of matte black over-ear noise cancelling headphones with a thick padded headband, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or materia"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "251b06301afac5c4207a479682669227",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\g1_gym.png",
+  "prompt": "Realistic catalogue product photograph of a single black cast iron kettlebell, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focus. The whole item is in frame w"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "f1fcebb9092efbdf0eb140a8668a8e83",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\g1_desk.png",
+  "prompt": "Realistic catalogue product photograph of an electric standing desk with a light oak wooden top and a white steel frame, three-quarter view from the front left. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material textur"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "045d86cb1b1308273d4c8b9c842fcc27",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\g2_mic.png",
+  "prompt": "Realistic catalogue product photograph of a matte black broadcast dynamic microphone mounted on a black articulated boom arm, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material tex"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "224e2dadcf5aba9948b7ab4689a1db08",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\g2_headphones.png",
+  "prompt": "Realistic catalogue product photograph of a pair of silver grey over-ear wireless headphones with a slim metal headband, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture,"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "36d5e3b93822ea23d4c4b2c44800d905",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\w1_mic.png",
+  "prompt": "Realistic catalogue product photograph of a pastel pink desktop podcast condenser microphone on a short desk stand, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, shar"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "8c14ec502ebf03fcc8e625aac30e0145",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\g2_gym.png",
+  "prompt": "Realistic catalogue product photograph of a pair of adjustable dumbbells with dark grey plates sitting in their black stands, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material tex"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "5d0e00350c3fca8e350d58ab4acf82a5",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\g2_desk.png",
+  "prompt": "Realistic catalogue product photograph of an electric standing desk with a matte black top and a black steel frame, three-quarter view from the front left. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sh"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "75ad67021b5461bf974a5ba94cb4ec30",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\w1_desk.png",
+  "prompt": "Realistic catalogue product photograph of an electric standing desk with a white top and a white steel frame, three-quarter view from the front left. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp fo"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "c56e68a2add61aec967ca574b6ac1083",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\w2_mic.png",
+  "prompt": "Realistic catalogue product photograph of a sage green desktop podcast condenser microphone on a short desk stand, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "65d5bbb6b931546ce13f5ec5bb824e7d",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\w1_headphones.png",
+  "prompt": "Realistic catalogue product photograph of a pair of cream white over-ear wireless headphones with soft cushions, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp f"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "f6868f2d573100013cd68cd0b116da6c",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\w1_gym.png",
+  "prompt": "Realistic catalogue product photograph of a pilates reformer machine with a light wood frame and cream upholstered carriage, three-quarter view, whole machine in frame. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or materia"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "dd2c6322ca550b5f0794e70b8c5543ce",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\w2_headphones.png",
+  "prompt": "Realistic catalogue product photograph of a pair of retro baby blue on-ear headphones with a coiled cable, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focus. "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "9fd8ae5cb8385a921870fc2b1c1678a6",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\w2_gym.png",
+  "prompt": "Realistic catalogue product photograph of a soft pastel blue pilates ring lying next to a pair of white grip socks, three-quarter view. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp focus. The whole"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "ae9e5f811c238deb8ff378a443e21c52",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\w3_mic.png",
+  "prompt": "Realistic catalogue product photograph of a lilac purple desktop podcast condenser microphone on a short desk stand, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sha"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "0395820f8d52d60b2d6a92f842782134",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\w3_headphones.png",
+  "prompt": "Realistic catalogue product photograph of a pair of matte beige over-ear headphones with a tan leather headband, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material texture, sharp f"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "44895b8d7cf5c527532a7aa718d08dbf",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\w3_desk.png",
+  "prompt": "Realistic catalogue product photograph of an electric standing desk with a dark walnut wooden top and a white steel frame, three-quarter view from the front left. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or material text"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "f0d8aa76fb25cfb3ce8df90448007a02",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\w3_gym.png",
+  "prompt": "Realistic catalogue product photograph of a rolled blush pink pilates mat next to a small soft pink pilates ball and a pair of light pink ankle weights, three-quarter view. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fabric or mat"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "804838b5f54cd95abf3eb5a48220e90f",
+  "credits": 6.0,
+  "output": "content-bank\\P019-essentials-flat-lay\\runs\\run-02_2026-10-10_creator-purchases-5-versions-a\\raw\\art\\g2_headphones.png",
+  "prompt": "Realistic catalogue product photograph of a pair of dark olive green over-ear headphones with round earcups and a padded black leather headband, three-quarter view, completely plain. Isolated on a plain pure white background, soft even studio light, no shadow, neutral true-to-life colours, crisp fab"
+ }
+]

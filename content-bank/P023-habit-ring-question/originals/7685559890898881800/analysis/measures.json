@@ -1,0 +1,51 @@
+{
+  "type": "slideshow",
+  "slide_count": 1,
+  "size": {
+    "width": 1080,
+    "height": 1312
+  },
+  "aspect": "1080:1312",
+  "palettes": {
+    "slide 1": [
+      {
+        "hex": "#ebf1ea",
+        "share": 0.682
+      },
+      {
+        "hex": "#bdc8c6",
+        "share": 0.133
+      },
+      {
+        "hex": "#b29a70",
+        "share": 0.08
+      },
+      {
+        "hex": "#f0f8f3",
+        "share": 0.057
+      },
+      {
+        "hex": "#593b32",
+        "share": 0.047
+      }
+    ]
+  },
+  "visual": {
+    "slide 1": {
+      "brightness_pct": 86.0,
+      "contrast_pct": 22.0,
+      "saturation_pct": 10.4,
+      "sharpness": 1852.1,
+      "noise_sigma": 2.71,
+      "clutter_pct": 7.68,
+      "bars_pct": {
+        "top": 0.0,
+        "bottom": 0.0,
+        "left": 0.0,
+        "right": 0.0
+      },
+      "phash": "8f932da32d8ed22c",
+      "dhash": "5555654d4d4d5557"
+    }
+  }
+}

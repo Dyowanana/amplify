@@ -1,0 +1,198 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "words": 8,
+      "raw_overlap_max": 1.0,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "2026",
+        "a",
+        "building",
+        "in",
+        "of",
+        "pov",
+        "reality",
+        "saas"
+      ],
+      "content_overlap_max": 1.0,
+      "longest_shared_run_words": 6,
+      "longest_shared_run": "pov reality of building a saas",
+      "longest_run_source": "7678443671007530262: pov: reality of building a saas 2026",
+      "status": "FAIL"
+    },
+    {
+      "slide": 2,
+      "words": 40,
+      "raw_overlap_max": 0.5,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "a",
+        "ai",
+        "anyone",
+        "building",
+        "can",
+        "changed",
+        "could",
+        "game",
+        "has",
+        "if",
+        "in",
+        "it",
+        "launch",
+        "now",
+        "same",
+        "the",
+        "thing",
+        "was",
+        "years",
+        "you"
+      ],
+      "content_overlap_max": 0.43,
+      "longest_shared_run_words": 4,
+      "longest_shared_run": "the game has changed",
+      "longest_run_source": "7678443671007530262: the game has changed",
+      "status": "FAIL"
+    },
+    {
+      "slide": 3,
+      "words": 41,
+      "raw_overlap_max": 0.37,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "a",
+        "apps",
+        "distribution",
+        "game",
+        "i",
+        "it",
+        "launch",
+        "millions",
+        "of",
+        "that",
+        "the",
+        "to",
+        "views",
+        "was",
+        "with"
+      ],
+      "content_overlap_max": 0.24,
+      "longest_shared_run_words": 3,
+      "longest_shared_run": "millions of views",
+      "longest_run_source": "7678443671007530262: most founders build for weeks,\nlaunch, realize nobody's usin",
+      "status": "review"
+    },
+    {
+      "slide": 4,
+      "words": 43,
+      "raw_overlap_max": 0.3,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "a",
+        "bio",
+        "for",
+        "i",
+        "in",
+        "it",
+        "launch",
+        "link",
+        "of",
+        "saas",
+        "that",
+        "the",
+        "to"
+      ],
+      "content_overlap_max": 0.17,
+      "longest_shared_run_words": 3,
+      "longest_shared_run": "link in bio",
+      "longest_run_source": "7678443671007530262: most founders build for weeks,\nlaunch, realize nobody's usin",
+      "status": "review"
+    },
+    {
+      "slide": 5,
+      "words": 31,
+      "raw_overlap_max": 0.16,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "a",
+        "and",
+        "find",
+        "two",
+        "you"
+      ],
+      "content_overlap_max": 0.1,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "a",
+      "longest_run_source": "7678443671007530262: Read thos before you built a saas 2026 #developer #saas #app",
+      "status": "pass"
+    },
+    {
+      "slide": 6,
+      "words": 30,
+      "raw_overlap_max": 0.2,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "and",
+        "most",
+        "that",
+        "the",
+        "two",
+        "weeks"
+      ],
+      "content_overlap_max": 0.09,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "the",
+      "longest_run_source": "7678443671007530262: the game has changed",
+      "status": "pass"
+    },
+    {
+      "slide": 7,
+      "words": 34,
+      "raw_overlap_max": 0.29,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "and",
+        "bio",
+        "if",
+        "in",
+        "link",
+        "most",
+        "now",
+        "of",
+        "the",
+        "you"
+      ],
+      "content_overlap_max": 0.15,
+      "longest_shared_run_words": 2,
+      "longest_shared_run": "if you",
+      "longest_run_source": "7678443671007530262: two years ago, the moat was a developer. / if you could do f",
+      "status": "pass"
+    }
+  ],
+  "hook": {
+    "words": [
+      "2026",
+      "a",
+      "building",
+      "in",
+      "of",
+      "pov",
+      "reality",
+      "saas"
+    ],
+    "overlap_by_source": {
+      "7678443671007530262": 0.88
+    },
+    "max": 0.88,
+    "status": "FAIL"
+  },
+  "images": {
+    "min_hash_distance": 16,
+    "closest_pair": "slide1.png ~ 7678443671007530262/01.jpg",
+    "near_duplicate_threshold": 10,
+    "status": "pass",
+    "source_blue_share_in_sources_mean": 0.0,
+    "source_blue_share_in_ours_mean": 0.0
+  },
+  "verdict": "FAIL"
+}

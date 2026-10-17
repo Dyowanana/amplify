@@ -1,0 +1,302 @@
+{
+  "n": 3,
+  "role": "body: fixes",
+  "class": "other:designed-card",
+  "confidence": "high",
+  "summary": "object grid: before you take  the selfie",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #f2f6fc"
+      },
+      {
+        "type": "object cut-outs",
+        "box": [
+          3.5,
+          20.0,
+          93.0,
+          60.8
+        ],
+        "note": "6 photoreal object cut-outs in a 2 x 3 grid, multiply-blended on the card"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        3.5,
+        20.0,
+        93.0,
+        60.8
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "before you take the selfie",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        19.4,
+        8.8,
+        61.2,
+        4.4
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "Playfair Display (Italic for the payoff)",
+      "size_pct": 4.4,
+      "case": "lowercase",
+      "fill": "#0d1b4c / #0964da",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "two chilled spoons",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        6.1,
+        47.8,
+        23.7,
+        2.1
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "cool puffy eyes fast",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        8.6,
+        50.6,
+        18.7,
+        1.6
+      ],
+      "zone": "middle-left",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "your 2x lens",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        42.2,
+        47.8,
+        15.5,
+        2.0
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "less stretch than the wide one",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        35.9,
+        50.5,
+        28.1,
+        1.3
+      ],
+      "zone": "middle-center",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "a jug of water",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        73.4,
+        47.8,
+        17.2,
+        2.1
+      ],
+      "zone": "middle-right",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "start the day topped up",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        71.1,
+        50.6,
+        21.8,
+        1.5
+      ],
+      "zone": "middle-right",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "a cold flannel",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        9.5,
+        84.3,
+        16.9,
+        1.7
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "calms the swelling for a bit",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        5.5,
+        86.7,
+        25.0,
+        1.6
+      ],
+      "zone": "bottom-left",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "a mirror by the window",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        35.4,
+        84.3,
+        29.2,
+        2.1
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "face the light, not the ceiling",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        36.8,
+        87.1,
+        26.5,
+        1.6
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "a walk outside",
+      "origin": "designed",
+      "role": "label",
+      "pattern": "grid-labels",
+      "box": [
+        72.9,
+        84.3,
+        18.1,
+        1.7
+      ],
+      "zone": "bottom-right",
+      "align": "center",
+      "font": "Inter SemiBold",
+      "size_pct": 2.1,
+      "case": "lowercase",
+      "fill": "#0d1b4c",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "moving drains fluid",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "grid-labels",
+      "box": [
+        73.0,
+        86.7,
+        17.9,
+        1.6
+      ],
+      "zone": "bottom-right",
+      "align": "center",
+      "font": "Inter",
+      "size_pct": 1.6,
+      "case": "lowercase",
+      "fill": "#5a6880",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

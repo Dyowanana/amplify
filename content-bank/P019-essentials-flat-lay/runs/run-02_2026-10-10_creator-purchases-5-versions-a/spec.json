@@ -1,0 +1,369 @@
+{
+ "canvas": [
+  1080,
+  1350
+ ],
+ "theme": {
+  "bg": "#ffffff",
+  "ink": "#111111"
+ },
+ "label_size": 2.2,
+ "items": [
+  {
+   "type": "text",
+   "lines": [
+    ".ai",
+    ".xyz",
+    ".com"
+   ],
+   "box": [
+    10,
+    14,
+    16,
+    12
+   ],
+   "label": "unused\ndomains",
+   "note": "domain endings as an item"
+  },
+  {
+   "art": "raw/art/laptop.png",
+   "box": [
+    36,
+    10,
+    28,
+    16
+   ],
+   "label": "the new\nlaptop",
+   "note": "silver laptop, no logo (from run-01)"
+  },
+  {
+   "art": "raw/brand/amplify_logo.png",
+   "box": [
+    4,
+    42,
+    16,
+    12
+   ],
+   "label": "Amplify",
+   "note": "Amplify logo, the owner's file, pasted as is"
+  },
+  {
+   "art": "raw/claude/claude_mark.png",
+   "box": [
+    82,
+    43,
+    13,
+    10.5
+   ],
+   "label": "Claude Max\nplan",
+   "note": "Claude mark, cropped unchanged from a webshot.py screenshot of claude.com/pricing (2026-10-11)"
+  }
+ ],
+ "versions": [
+  {
+   "name": "guy-1_white-mic-oak-desk-kettlebell",
+   "title": {
+    "lines": [
+     "peak",
+     "creator",
+     "purchases"
+    ],
+    "y": 46.5,
+    "size": 6.0,
+    "weight": 800,
+    "sub": "guy edition",
+    "sub_size": 2.3
+   },
+   "items": [
+    {
+     "art": "raw/art/g1_headphones.png",
+     "box": [
+      72,
+      11.5,
+      20,
+      15.5
+     ],
+     "label": "good\nheadphones",
+     "note": "headphones (varies)"
+    },
+    {
+     "art": "raw/art/g1_gym.png",
+     "box": [
+      7,
+      63,
+      25,
+      16
+     ],
+     "label": "gym\nmembership",
+     "note": "pilates or gym gear (varies)"
+    },
+    {
+     "art": "raw/art/g1_mic.png",
+     "box": [
+      40,
+      64,
+      20,
+      20
+     ],
+     "label": "a real mic",
+     "note": "mic (varies)"
+    },
+    {
+     "art": "raw/art/g1_desk.png",
+     "box": [
+      66,
+      65.5,
+      28,
+      15
+     ],
+     "label": "standing\ndesk",
+     "note": "standing desk (varies)"
+    }
+   ]
+  },
+  {
+   "name": "guy-2_boom-mic-black-desk-dumbbells",
+   "title": {
+    "lines": [
+     "peak",
+     "creator",
+     "purchases"
+    ],
+    "y": 46.5,
+    "size": 6.0,
+    "weight": 800,
+    "sub": "guy edition",
+    "sub_size": 2.3
+   },
+   "items": [
+    {
+     "art": "raw/art/g2_headphones.png",
+     "box": [
+      72,
+      11.5,
+      20,
+      15.5
+     ],
+     "label": "good\nheadphones",
+     "note": "headphones (varies)"
+    },
+    {
+     "art": "raw/art/g2_gym.png",
+     "box": [
+      7,
+      63,
+      25,
+      16
+     ],
+     "label": "gym\nmembership",
+     "note": "pilates or gym gear (varies)"
+    },
+    {
+     "art": "raw/art/g2_mic.png",
+     "box": [
+      40,
+      64,
+      20,
+      20
+     ],
+     "label": "a real mic",
+     "note": "mic (varies)"
+    },
+    {
+     "art": "raw/art/g2_desk.png",
+     "box": [
+      66,
+      65.5,
+      28,
+      15
+     ],
+     "label": "standing\ndesk",
+     "note": "standing desk (varies)"
+    }
+   ]
+  },
+  {
+   "name": "girl-1_pink-mic-white-desk-reformer",
+   "title": {
+    "lines": [
+     "peak",
+     "creator",
+     "purchases"
+    ],
+    "y": 46.5,
+    "size": 6.0,
+    "weight": 800,
+    "sub": "girl edition",
+    "sub_size": 2.3
+   },
+   "items": [
+    {
+     "art": "raw/art/w1_headphones.png",
+     "box": [
+      72,
+      11.5,
+      20,
+      15.5
+     ],
+     "label": "good\nheadphones",
+     "note": "headphones (varies)"
+    },
+    {
+     "art": "raw/art/w1_gym.png",
+     "box": [
+      7,
+      63,
+      25,
+      16
+     ],
+     "label": "pilates\nsubscription",
+     "note": "pilates or gym gear (varies)"
+    },
+    {
+     "art": "raw/art/w1_mic.png",
+     "box": [
+      40,
+      64,
+      20,
+      20
+     ],
+     "label": "a real mic",
+     "note": "mic (varies)"
+    },
+    {
+     "art": "raw/art/w1_desk.png",
+     "box": [
+      66,
+      65.5,
+      28,
+      15
+     ],
+     "label": "standing\ndesk",
+     "note": "standing desk (varies)"
+    }
+   ]
+  },
+  {
+   "name": "girl-2_sage-mic-retro-headphones-ring",
+   "title": {
+    "lines": [
+     "peak",
+     "creator",
+     "purchases"
+    ],
+    "y": 46.5,
+    "size": 6.0,
+    "weight": 800,
+    "sub": "girl edition",
+    "sub_size": 2.3
+   },
+   "items": [
+    {
+     "art": "raw/art/w2_headphones.png",
+     "box": [
+      72,
+      11.5,
+      20,
+      15.5
+     ],
+     "label": "good\nheadphones",
+     "note": "headphones (varies)"
+    },
+    {
+     "art": "raw/art/w2_gym.png",
+     "box": [
+      7,
+      63,
+      25,
+      16
+     ],
+     "label": "pilates\nsubscription",
+     "note": "pilates or gym gear (varies)"
+    },
+    {
+     "art": "raw/art/w2_mic.png",
+     "box": [
+      40,
+      64,
+      20,
+      20
+     ],
+     "label": "a real mic",
+     "note": "mic (varies)"
+    },
+    {
+     "art": "raw/art/w2_desk.png",
+     "box": [
+      66,
+      65.5,
+      28,
+      15
+     ],
+     "label": "standing\ndesk",
+     "note": "standing desk (varies)"
+    }
+   ]
+  },
+  {
+   "name": "girl-3_lilac-mic-walnut-desk-mat",
+   "title": {
+    "lines": [
+     "peak",
+     "creator",
+     "purchases"
+    ],
+    "y": 46.5,
+    "size": 6.0,
+    "weight": 800,
+    "sub": "girl edition",
+    "sub_size": 2.3
+   },
+   "items": [
+    {
+     "art": "raw/art/w3_headphones.png",
+     "box": [
+      72,
+      11.5,
+      20,
+      15.5
+     ],
+     "label": "good\nheadphones",
+     "note": "headphones (varies)"
+    },
+    {
+     "art": "raw/art/w3_gym.png",
+     "box": [
+      7,
+      63,
+      25,
+      16
+     ],
+     "label": "pilates\nsubscription",
+     "note": "pilates or gym gear (varies)"
+    },
+    {
+     "art": "raw/art/w3_mic.png",
+     "box": [
+      40,
+      64,
+      20,
+      20
+     ],
+     "label": "a real mic",
+     "note": "mic (varies)"
+    },
+    {
+     "art": "raw/art/w3_desk.png",
+     "box": [
+      66,
+      65.5,
+      28,
+      15
+     ],
+     "label": "standing\ndesk",
+     "note": "standing desk (varies)"
+    }
+   ]
+  }
+ ]
+}

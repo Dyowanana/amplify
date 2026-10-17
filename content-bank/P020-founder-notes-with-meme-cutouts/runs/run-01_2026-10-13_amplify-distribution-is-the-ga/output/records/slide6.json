@@ -1,0 +1,81 @@
+{
+  "n": 6,
+  "role": "body: kill what flops",
+  "class": "other:meme-cutout-text-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #e4e3df"
+      },
+      {
+        "type": "cutout",
+        "box": [
+          0.0,
+          41.3,
+          100.0,
+          58.7
+        ],
+        "note": "man in a shirt and loose tie tossing a crumpled paper over his shoulder; grainy black and white; white sticker outline; generated on green, keyed in code"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.0,
+        41.3,
+        100.0,
+        58.7
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "kill what flops",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        12.8,
+        14.5,
+        22.5,
+        2.6
+      ],
+      "zone": "top-left",
+      "align": "left",
+      "font": "Inter Bold",
+      "size_pct": 2.7,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "give it two weeks and you'll see it.\na few formats pull views. most don't.\n\nstop posting the ones that stall.\nmake ten more of the ones that hit.\n\nyour next winner is usually\na remix of your last one.",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "stacked-paragraphs",
+      "box": [
+        12.8,
+        21.0,
+        53.1,
+        18.3
+      ],
+      "zone": "top-center",
+      "align": "left",
+      "font": "DejaVu Sans Mono (Space Mono stand-in)",
+      "size_pct": 1.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

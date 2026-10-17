@@ -1,0 +1,6 @@
+task a8ef0d81eb94f662d09e01c7b74c81fe (gpt-image-2-5-sunburst-text-to-image, ~10 credits) …
+  download attempt 1 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 2 interrupted (ConnectionError); resuming at 0 bytes
+  download attempt 3 interrupted (ConnectionError); resuming at 0 bytes
+  direct download failed; asking kie for a signed link
+done: 10 credits ($0.050) → content-bank\P021-tier-list-chart\runs\run-02_2026-10-14_moneymaxxing-with-ecommerce-ti\raw\art\hero.png

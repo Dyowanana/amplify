@@ -1,0 +1,72 @@
+[
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "6e58fa55174e1e301f2072480b7c6ac8",
+  "credits": 10.0,
+  "output": "content-bank\\P023-habit-ring-question\\runs\\run-01_2026-10-14_amplify-founder-vibe-coder-day\\raw\\art\\guy.png",
+  "prompt": "a still frame from a 1990s office comedy film. A man in his thirties with messy brown hair, a rumpled short sleeved white shirt and a loosened striped tie, both fists raised high, shouting with joy, eyes squeezed shut, mouth wide open. Waist up, the whole of both arms in frame, nothing touching the "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "99a034fafe7a64670693de38b8268ac9",
+  "credits": 10.0,
+  "output": "content-bank\\P023-habit-ring-question\\runs\\run-01_2026-10-14_amplify-founder-vibe-coder-day\\raw\\art\\figure.png",
+  "prompt": "a translucent glowing human figure made only of soft violet and pink light, like a spirit or a hologram, floating in the air sitting cross legged with a slim laptop resting on its knees, head tilted back, arms loose, a bright white core fading to a neon violet glow at the edges, no face details, no "
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "f5ed096481a5925a0da0443eae18a1e1",
+  "credits": 6.0,
+  "output": "content-bank\\P023-habit-ring-question\\runs\\run-01_2026-10-14_amplify-founder-vibe-coder-day\\raw\\art\\macbook.png",
+  "prompt": "a slim silver laptop standing open at an angle, seen from the front three-quarter, a plain lid with no logo, a black screen. A real product photo cut from a cheap online shop listing or an old stock photo, natural slightly uneven light, a little jpeg compression, not a 3D render, not glossy, not ill"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "3789bb9680023a7de342346a72da4c43",
+  "credits": 6.0,
+  "output": "content-bank\\P023-habit-ring-question\\runs\\run-01_2026-10-14_amplify-founder-vibe-coder-day\\raw\\art\\cat.png",
+  "prompt": "a grainy low quality early 2000s digital camera flash photo of a hairless sphynx cat mid scream, mouth wide open, ears flat back, wrinkly forehead, staring straight at the camera, head and chest only. Harsh on-camera flash, slight motion blur, washed colours, the look of a classic internet meme phot"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "fe63117881eed02b350be88406e8cbf4",
+  "credits": 6.0,
+  "output": "content-bank\\P023-habit-ring-question\\runs\\run-01_2026-10-14_amplify-founder-vibe-coder-day\\raw\\art\\moon.png",
+  "prompt": "the full moon, a real amateur telescope photo of its grey cratered surface, perfectly round, slightly soft focus, cut out of the night sky and placed on a plain pure white background, nothing touching the edges, no glow, no shadow, not a 3D render, not illustrated. no text, no letters, no numbers, n"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "c9375182d28aac27c677e6f63d4f2790",
+  "credits": 6.0,
+  "output": "content-bank\\P023-habit-ring-question\\runs\\run-01_2026-10-14_amplify-founder-vibe-coder-day\\raw\\art\\headphones.png",
+  "prompt": "over-ear headphones with round olive green cups and d a brown leather headband, three-quarter view, a bit worn. A real product photo cut from a cheap online shop listing or an old stock photo, natural slightly uneven light, a little jpeg compression, not a 3D render, not glossy, not illustrated. The"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "30846e3d3ed86e477656fa871257364c",
+  "credits": 6.0,
+  "output": "content-bank\\P023-habit-ring-question\\runs\\run-01_2026-10-14_amplify-founder-vibe-coder-day\\raw\\art\\duck.png",
+  "prompt": "a classic yellow rubber duck with an orange beak, slightly scuffed from use, side view facing left. A real product photo cut from a cheap online shop listing or an old stock photo, natural slightly uneven light, a little jpeg compression, not a 3D render, not glossy, not illustrated. The object alon"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "0ec082c12543cfaf1777572f97051f31",
+  "credits": 6.0,
+  "output": "content-bank\\P023-habit-ring-question\\runs\\run-01_2026-10-14_amplify-founder-vibe-coder-day\\raw\\art\\matcha.png",
+  "prompt": "a tall clear plastic takeaway cup of iced matcha latte, ice cubes, a green layer sinking into the milk, a plain green straw, a few condensation drops. A real product photo cut from a cheap online shop listing or an old stock photo, natural slightly uneven light, a little jpeg compression, not a 3D r"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "04273249f2e3921dbdc468a927c72cd0",
+  "credits": 6.0,
+  "output": "content-bank\\P023-habit-ring-question\\runs\\run-01_2026-10-14_amplify-founder-vibe-coder-day\\raw\\art\\grass.png",
+  "prompt": "a small square patch of fresh green lawn turf with a layer of brown soil underneath, seen from a low three-quarter angle, a few uneven blades sticking out. A real photo cut from an old stock photo, natural slightly uneven light, a little jpeg compression, not a 3D render, not illustrated. The object"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "dc2c4540d6fcd625161fbe30b4b39a3a",
+  "credits": 6.0,
+  "output": "content-bank\\P023-habit-ring-question\\runs\\run-01_2026-10-14_amplify-founder-vibe-coder-day\\raw\\art\\keyboard.png",
+  "prompt": "a compact mechanical keyboard seen from above at a slight angle, off-white and light grey keycaps with one orange escape kycaps with one orange escape key, blank keycaps with nothing printed on them, a coiled grey cable. A real product photo cut from a cheap online shop listing or an old stock photo"
+ }
+]

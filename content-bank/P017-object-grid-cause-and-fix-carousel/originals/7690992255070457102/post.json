@@ -1,0 +1,64 @@
+{
+  "id": "7690992255070457102",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7690992255070457102",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:27:28+00:00",
+  "published": {
+    "utc": "2026-09-29T16:18:33+00:00",
+    "local": "2026-09-30T00:18:33+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Wednesday",
+    "hour": 0
+  },
+  "caption": "some healthy foods carry more salt than a bag of chips and nobody counts them link in bio 🤍 #hiddensalt #sodium #bloating #healthyfood #wellnessgirl",
+  "hashtags": [
+    "hiddensalt",
+    "sodium",
+    "bloating",
+    "healthyfood",
+    "wellnessgirl"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 9345,
+    "likes": 416,
+    "comments": 6,
+    "shares": 6,
+    "saves": 74
+  },
+  "rates": {
+    "engagement": 0.0537,
+    "save": 0.0079,
+    "share": 0.0006,
+    "comment": 0.0006
+  },
+  "sound": {
+    "title": "Smoke in the Glass",
+    "author": "Pinto Merriweather",
+    "original": false,
+    "id": "7685622306019313705"
+  },
+  "slide_count": 6,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg",
+      "slides/06.jpg"
+    ]
+  }
+}

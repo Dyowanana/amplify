@@ -1,0 +1,64 @@
+{
+  "id": "7691390576863890701",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7691390576863890701",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:25:47+00:00",
+  "published": {
+    "utc": "2026-09-30T18:04:13+00:00",
+    "local": "2026-10-01T02:04:13+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Thursday",
+    "hour": 2
+  },
+  "caption": "your body needs a bit more that week and your magnesium drops at the same time link in bio 🤍 #cravings #pms #periodcravings #magnesium #womenshealth",
+  "hashtags": [
+    "cravings",
+    "pms",
+    "periodcravings",
+    "magnesium",
+    "womenshealth"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 13700,
+    "likes": 516,
+    "comments": 1,
+    "shares": 25,
+    "saves": 155
+  },
+  "rates": {
+    "engagement": 0.0509,
+    "save": 0.0113,
+    "share": 0.0018,
+    "comment": 0.0001
+  },
+  "sound": {
+    "title": "original sound",
+    "author": "axjunior",
+    "original": true,
+    "id": "7591602615425321750"
+  },
+  "slide_count": 6,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg",
+      "slides/06.jpg"
+    ]
+  }
+}

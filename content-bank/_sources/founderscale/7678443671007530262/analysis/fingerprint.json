@@ -1,0 +1,84 @@
+{
+  "post": "7678443671007530262",
+  "type": "slideshow",
+  "fingerprint": {
+    "structure": "7 slides: pov hook cover with a swipe arrow → 'the game has changed' (old advantage vs now) → 'what the numbers say' (one sourced stat block) → the main lesson (start with distribution) with a soft bio-link plug → contrarian lesson (don't be original) → next step (start building) naming one free tool → 'conclusion' recap, first-person founder credibility line, bio-link CTA",
+    "hook": "'pov: reality of building a <thing> <year>' in one bold line, mid-upper card, over a cutout of a deadpan man leaning back; mechanic: reality check / insider gap aimed at a builder identity, the swipe arrow promises the lessons",
+    "camera_motion": "other:meme-cutout-text-card. Designed cards: flat warm light grey (#e4e3df), black and white cutout of a person (film-still look, waist up, cropped by the bottom edge) with a thick white sticker outline, some in a coarse halftone dot screen; text above it on the empty card",
+    "pacing": "slideshow; cover 6 words; body slides 45 to 75 words in 3 to 5 short paragraphs of 1 to 3 lines (about 40 characters per line, hard line breaks)",
+    "text_overlay": "heading: bold grotesk sans (Roboto or Inter Bold), black, lowercase, about 2.9% of frame height, left at x 13% (centred on the conclusion slide); body: monospace (Space Mono look), #111, lowercase except acronyms and brand names, about 1.95% of frame height, line pitch 2.3%, blank line between paragraphs, left aligned at x 13% (centred on the conclusion); no outline, no box",
+    "audio": "'original sound - stevelacyoffline' (a fan account's song upload), music only",
+    "arc": "identity call-out (you're building a saas) → the old advantage is gone → the numbers are scary → but here's the order that works (distribution first) → reframe a fear (copied ideas are proof) → concrete next step → reassurance plus 'i do this myself' credibility → follow the link for more"
+  },
+  "units": [
+    {
+      "n": 1, "role": "hook", "confidence": "high", "class": "other:meme-cutout-text-card",
+      "frame": {
+        "canvas": "1080x1350 (4:5), flat warm light grey #e4e3df",
+        "layers": [
+          {"type": "background", "box": [0, 0, 100, 100], "note": "flat colour, no texture"},
+          {"type": "cutout", "box": [0, 49, 78, 51], "note": "black and white film-still person, waist up, leaning back with one knee raised, deadpan stare at camera; coarse halftone dot screen; white sticker outline about 1.3% wide; bleeds off the bottom and left edges"},
+          {"type": "arrow", "box": [82, 91.5, 11.5, 5], "note": "thin black right arrow, swipe cue, bottom right"}
+        ],
+        "composition": {"focal": [24, 62], "subject_box": [0, 49, 78, 51], "zone": "bottom-left", "negative_space": [[0, 0, 100, 23], [13, 28, 87, 20]], "balance": "text upper third, person bottom left, arrow balances bottom right"},
+        "safe_zones": "text at y 24 to 27% clears the top bar; the cutout sits under the caption zone, which is fine because it's art, not text",
+        "color_light": "monochrome; saturation 2.0%, brightness 71.4%, contrast 34.9% (measures.json)",
+        "quality": "sharpness 583, noise 0.58, clutter 5.7 (halftone dots count as clutter)",
+        "origin_realism": "designed card; the person is a cut-out of a film still, not an original photo"
+      },
+      "text_blocks": [
+        {"text": "pov: reality of building a saas 2026", "origin": "overlay", "role": "hook", "pattern": "top-headline", "box": [13.4, 24.3, 57, 3.3], "zone": "top-center", "align": "left", "font": "Roboto Bold (Inter Bold look-alike)", "size_pct": 2.9, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"}
+      ],
+      "other": {
+        "what": "a plain text card where a meme-energy cutout of a person sets the mood of each lesson",
+        "carrier": "the text carries the message; the cutout is the emotional tag (smug, pointing, scheming, relaxed)",
+        "layout": "text block upper half, cutout bottom left or bottom centre, cropped by the frame edge",
+        "type": "bold sans heading + monospace body, lowercase, newsletter or terminal feel",
+        "palette": "warm light grey card, pure black and white person, white outline",
+        "repeat": "every slide repeats the card, the fonts and the cutout position; only the person and the text change",
+        "motion": "none",
+        "why": "reads like a founder's private notes; the movie-still people add meme recognition and personality to a text-heavy post",
+        "risk": "the source uses real actors from film stills; a replication must use original people",
+        "evidence": "all 7 slides"
+      }
+    },
+    {
+      "n": 2, "role": "body: the game has changed", "confidence": "high", "class": "other:meme-cutout-text-card",
+      "same_as": "slide 4, except the text and the cutout (a man in a casual t-shirt leaning back in a chair with feet up, holding a mug and pointing at the text; plain black and white, no halftone), cutout box [3, 51, 81, 49]; heading sits lower here, at y 19%",
+      "text_blocks": [
+        {"text": "the game has changed", "origin": "overlay", "role": "headline", "pattern": "top-headline", "box": [12.5, 19, 37, 3.2], "zone": "top-center", "align": "left", "font": "Roboto Bold", "size_pct": 2.9, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"},
+        {"text": "two years ago, the moat was a developer. / if you could do frontend and backend, … / that was the advantage. now anyone can build the same thing in weeks.", "origin": "overlay", "role": "body", "pattern": "stacked-paragraphs", "box": [12.5, 27.5, 66, 16], "zone": "top-center", "align": "left", "font": "Space Mono", "size_pct": 1.95, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"}
+      ]
+    },
+    {"n": 3, "role": "body: what the numbers say (sourced stat)", "confidence": "high", "class": "other:meme-cutout-text-card", "same_as": "slide 2, except the text (a stat block crediting RevenueCat in brackets) and the cutout (man in a suit and tie, hands steepled, calculating stare), cutout box [0, 56, 52, 44]"},
+    {
+      "n": 4, "role": "body: main lesson + soft bio plug", "confidence": "high", "class": "other:meme-cutout-text-card",
+      "frame": {
+        "canvas": "1080x1350, #e4e3df",
+        "layers": [
+          {"type": "background", "box": [0, 0, 100, 100], "note": "flat"},
+          {"type": "cutout", "box": [11.5, 58, 50, 42], "note": "black and white man in a pinstripe suit on a corded phone, pointing at the viewer; white sticker outline; plain photo, no halftone; bleeds off the bottom edge"}
+        ],
+        "composition": {"focal": [38, 72], "subject_box": [11.5, 58, 50, 42], "zone": "bottom-center", "negative_space": [[62, 55, 38, 45]], "balance": "text block top left, person bottom left of centre"},
+        "safe_zones": "body text sits in the upper 55%, clear of the caption zone",
+        "color_light": "saturation 3.0%, brightness 80.2%, contrast 24.7%",
+        "quality": "sharpness 1324, noise 1.1",
+        "origin_realism": "designed card with a film-still cutout"
+      },
+      "text_blocks": [
+        {"text": "start with distribution", "origin": "overlay", "role": "headline", "pattern": "top-headline", "box": [12.8, 11.4, 35, 3.2], "zone": "top-left", "align": "left", "font": "Roboto Bold", "size_pct": 2.9, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"},
+        {"text": "most founders build for weeks,\nlaunch, realize nobody's using it,\nlose interest, and start a new idea.\n\ndo it the other way.\n\ncontent first. …\n\ndon't overthink it. i see apps doing millions\nof views with the simplest AI carousels you've\never seen.\n\n(link in bio to find creators already winning)", "origin": "overlay", "role": "body", "pattern": "stacked-paragraphs", "box": [12.8, 18.8, 67.5, 34.5], "zone": "top-center", "align": "left", "font": "Space Mono", "size_pct": 1.95, "case": "lowercase (AI in capitals)", "fill": "#111111", "stroke": "none", "under": "negative-space"}
+      ]
+    },
+    {"n": 5, "role": "body: contrarian reframe", "confidence": "high", "class": "other:meme-cutout-text-card", "same_as": "slide 2, except the text and the cutout (man in sunglasses and a suit lounging on a sofa, hand on head), cutout box [0, 70, 58, 30]"},
+    {"n": 6, "role": "body: next step + named free tool", "confidence": "high", "class": "other:meme-cutout-text-card", "same_as": "slide 2, except the text (names one free design-reference tool and a teaser for the next post) and the cutout (a man in sunglasses and a suit dancing behind a desk), cutout box [32, 74, 36, 26]"},
+    {"n": 7, "role": "conclusion + CTA", "confidence": "high", "class": "other:meme-cutout-text-card", "same_as": "slide 4, except heading and body are centred on the frame (heading box [41, 16.5, 18, 3], body box [17, 24.5, 66, 25]), and the cutout (young man with headphones at a laptop, halftone) is at [0, 58, 57, 42]"}
+  ],
+  "product": "soft, in the text only: slide 4 '(link in bio to …)', slide 6 names a free tool, slide 7 'newsletter in bio'",
+  "proof_device": "one sourced statistic slide with the source in brackets, plus a first-person founder line on the closer",
+  "series": "single post, teases a follow-up ('in my next post i'll go deeper')",
+  "caption": "one lowercase-ish line restating the hook as advice ('read this before you build a saas 2026', with a typo), then hashtags",
+  "hashtags": "5: niche role (developer, appdeveloper), topic (saas), growth (socialmediagrowth), fyp",
+  "topic": "saas founders, distribution",
+  "language": "English, first and second person, calm insider voice, short declaratives, no hype words"
+}

@@ -1,0 +1,193 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "words": 7,
+      "raw_overlap_max": 0.43,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "and",
+        "pov",
+        "you"
+      ],
+      "content_overlap_max": 0.2,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "you",
+      "longest_run_source": "7678443671007530262: Read thos before you built a saas 2026 #developer #saas #app",
+      "status": "review"
+    },
+    {
+      "slide": 2,
+      "words": 32,
+      "raw_overlap_max": 0.34,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "a",
+        "ai",
+        "for",
+        "in",
+        "it",
+        "other",
+        "same",
+        "seen",
+        "the",
+        "to",
+        "you"
+      ],
+      "content_overlap_max": 0.2,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "the",
+      "longest_run_source": "7678443671007530262: the game has changed",
+      "status": "review"
+    },
+    {
+      "slide": 3,
+      "words": 47,
+      "raw_overlap_max": 0.32,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "a",
+        "apps",
+        "built",
+        "distribution",
+        "game",
+        "i",
+        "it",
+        "now",
+        "that",
+        "the",
+        "views",
+        "was",
+        "winning",
+        "with",
+        "you"
+      ],
+      "content_overlap_max": 0.22,
+      "longest_shared_run_words": 2,
+      "longest_shared_run": "the game",
+      "longest_run_source": "7678443671007530262: the game has changed",
+      "status": "review"
+    },
+    {
+      "slide": 4,
+      "words": 47,
+      "raw_overlap_max": 0.34,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "ai",
+        "already",
+        "and",
+        "bio",
+        "content",
+        "for",
+        "founders",
+        "i",
+        "in",
+        "it",
+        "link",
+        "saas",
+        "that",
+        "the",
+        "views",
+        "with"
+      ],
+      "content_overlap_max": 0.29,
+      "longest_shared_run_words": 2,
+      "longest_shared_run": "link in",
+      "longest_run_source": "7678443671007530262: most founders build for weeks,\nlaunch, realize nobody's usin",
+      "status": "review"
+    },
+    {
+      "slide": 5,
+      "words": 32,
+      "raw_overlap_max": 0.22,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "a",
+        "and",
+        "find",
+        "in",
+        "of",
+        "two",
+        "you"
+      ],
+      "content_overlap_max": 0.09,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "a",
+      "longest_run_source": "7678443671007530262: Read thos before you built a saas 2026 #developer #saas #app",
+      "status": "pass"
+    },
+    {
+      "slide": 6,
+      "words": 36,
+      "raw_overlap_max": 0.33,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "a",
+        "and",
+        "don't",
+        "it",
+        "most",
+        "of",
+        "see",
+        "that",
+        "the",
+        "two",
+        "views",
+        "weeks"
+      ],
+      "content_overlap_max": 0.17,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "a",
+      "longest_run_source": "7678443671007530262: Read thos before you built a saas 2026 #developer #saas #app",
+      "status": "review"
+    },
+    {
+      "slide": 7,
+      "words": 38,
+      "raw_overlap_max": 0.24,
+      "raw_overlap_post": "7678443671007530262",
+      "shared_words_with_that_post": [
+        "a",
+        "ai",
+        "bio",
+        "build",
+        "in",
+        "link",
+        "the",
+        "two",
+        "you"
+      ],
+      "content_overlap_max": 0.19,
+      "longest_shared_run_words": 2,
+      "longest_shared_run": "link in",
+      "longest_run_source": "7678443671007530262: most founders build for weeks,\nlaunch, realize nobody's usin",
+      "status": "pass"
+    }
+  ],
+  "hook": {
+    "words": [
+      "and",
+      "got",
+      "launched",
+      "pov",
+      "signups",
+      "you",
+      "zero"
+    ],
+    "overlap_by_source": {
+      "7678443671007530262": 0.14
+    },
+    "max": 0.14,
+    "status": "pass"
+  },
+  "images": {
+    "min_hash_distance": 19,
+    "closest_pair": "slide2.png ~ 7678443671007530262/03.jpg",
+    "near_duplicate_threshold": 10,
+    "status": "pass",
+    "source_blue_share_in_sources_mean": 0.0,
+    "source_blue_share_in_ours_mean": 0.0
+  },
+  "verdict": "review"
+}

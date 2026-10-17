@@ -1,0 +1,81 @@
+{
+  "n": 2,
+  "role": "body: building is the easy part",
+  "class": "other:meme-cutout-text-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #e4e3df"
+      },
+      {
+        "type": "cutout",
+        "box": [
+          0.0,
+          42.3,
+          100.0,
+          57.7
+        ],
+        "note": "woman in a blazer shrugging, palms up, knowing half smile; grainy black and white; white sticker outline; generated on green, keyed in code"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.0,
+        42.3,
+        100.0,
+        57.7
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "shipping is the easy part",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        12.8,
+        15.5,
+        39.8,
+        2.6
+      ],
+      "zone": "top-left",
+      "align": "left",
+      "font": "Inter Bold",
+      "size_pct": 2.7,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "shipping an app used to be\nthe hard part.\n\ntoday ai gets you there in a weekend.\nsame for every other founder.\n\nso your app isn't the edge anymore.\ngetting it seen is.",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "stacked-paragraphs",
+      "box": [
+        12.8,
+        22.0,
+        53.1,
+        18.3
+      ],
+      "zone": "top-center",
+      "align": "left",
+      "font": "DejaVu Sans Mono (Space Mono stand-in)",
+      "size_pct": 1.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

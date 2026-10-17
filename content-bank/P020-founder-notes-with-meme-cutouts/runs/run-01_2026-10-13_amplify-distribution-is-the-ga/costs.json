@@ -1,0 +1,51 @@
+[
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "dcc1f02e4e516afce68203baf4c1f1ce",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-01_2026-10-13_amplify-distribution-is-the-ga\\raw\\art\\s7.png",
+  "prompt": "Black and white grainy film still of a young woman in her twenties with her hair tied up, wearing a plain t-shirt, standing with her arms crossed, looking straight at the camera with a calm, small, sure smile. Shot from the waist up, the body cut off by the bottom edge of the frame. Early 2010s movi"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "806c87eec15a3463cc1af288795cd99e",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-01_2026-10-13_amplify-distribution-is-the-ga\\raw\\art\\s3.png",
+  "prompt": "Black and white grainy film still of a man in his forties with slicked back hair in a dark suit and open collar shirt, leaning toward the camera, tapping his temple with one finger, a sly knowing smirk. Shot from the waist up, the body cut off by the bottom edge of the frame. Early 2010s movie still"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "fcbbc210a6e243a0fe98d55a18832c86",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-01_2026-10-13_amplify-distribution-is-the-ga\\raw\\art\\s1.png",
+  "prompt": "Black and white grainy film still of a young man in his twenties in a plain dark hoodie, slumped low in an office chair, chin resting on his fist, staring blankly at the camera with a flat, unimpressed face, the back edge of an open laptop on the desk in front of him at the bottom of the frame. Shot"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "16c7fe5cf84903b9ef1ea1f69af2198b",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-01_2026-10-13_amplify-distribution-is-the-ga\\raw\\art\\s6.png",
+  "prompt": "Black and white grainy film still of a man in his thirties in a white shirt with rolled sleeves and a loose tie, tossing a crumpled ball of paper back over his shoulder without looking, an unbothered, confident expression. Shot from the waist up, the body cut off by the bottom edge of the frame. Ear"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "7054ea6b39c31d85a2d4897795540567",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-01_2026-10-13_amplify-distribution-is-the-ga\\raw\\art\\s5.png",
+  "prompt": "Black and white grainy film still of a young woman with her hair in a claw clip, wearing a plain sweatshirt, holding a smartphone up toward the camera with the blank black screen facing the viewer and pointing at it with the index finger of her other hand, confident raised eyebrows. Shot from the wa"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "360005c7bb67bf6844a91d33cf6e64a0",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-01_2026-10-13_amplify-distribution-is-the-ga\\raw\\art\\s2.png",
+  "prompt": "Black and white grainy film still of a woman in her thirties with shoulder length hair in a dark blazer over a plain top, shrugging with both palms turned up, eyebrows raised, a knowing half smile. Shot from the waist up, the body cut off by the bottom edge of the frame. Early 2010s movie still look"
+ },
+ {
+  "model": "gpt-image-2-5-sunburst-text-to-image",
+  "task_id": "eda843e4eabcf7cc63098f22c8515d00",
+  "credits": 10.0,
+  "output": "content-bank\\P020-founder-notes-with-meme-cutouts\\runs\\run-01_2026-10-13_amplify-distribution-is-the-ga\\raw\\art\\s4.png",
+  "prompt": "Black and white grainy film still of a man in his late twenties in a knit cardigan over a t-shirt, leaning far back in a desk chair with both hands behind his head, eyes closed, a completely relaxed grin, an open laptop on the desk in front of him at the bottom of the frame. Shot from the waist up, "
+ }
+]

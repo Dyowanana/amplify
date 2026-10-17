@@ -1,0 +1,63 @@
+{
+  "id": "7692144626165140749",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7692144626165140749",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:26:46+00:00",
+  "published": {
+    "utc": "2026-10-02T18:50:13+00:00",
+    "local": "2026-10-03T02:50:13+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Saturday",
+    "hour": 2
+  },
+  "caption": "if you feel puffy and havent gained anything, eat these. they help you flush the water out link in bio 🤍 #waterretention #depuff #flatstomach #puffyface #wellnessgirl",
+  "hashtags": [
+    "waterretention",
+    "depuff",
+    "flatstomach",
+    "puffyface",
+    "wellnessgirl"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 5309,
+    "likes": 208,
+    "comments": 0,
+    "shares": 1,
+    "saves": 59
+  },
+  "rates": {
+    "engagement": 0.0505,
+    "save": 0.0111,
+    "share": 0.0002,
+    "comment": 0.0
+  },
+  "sound": {
+    "title": "original sound",
+    "author": "par.olive",
+    "original": true,
+    "id": "7688911486363552530"
+  },
+  "slide_count": 5,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg"
+    ]
+  }
+}

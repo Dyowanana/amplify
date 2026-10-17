@@ -1,0 +1,54 @@
+{
+  "id": "manual-20261014-003659",
+  "platform": "instagram",
+  "url": "https://www.instagram.com/p/manual-20261014-003659/",
+  "creator": "brightbraintech",
+  "type": "slideshow",
+  "collected_at": "2026-10-13T16:36:59+00:00",
+  "published": {
+    "utc": null,
+    "local": null,
+    "timezone": "Asia/Manila",
+    "weekday": null,
+    "hour": null
+  },
+  "caption": "Rock, paper, scissors...but make it marketing!! 🪨✂️",
+  "hashtags": [],
+  "mentions": [],
+  "stats": {
+    "views": null,
+    "likes": null,
+    "comments": null,
+    "shares": null,
+    "saves": null
+  },
+  "rates": {
+    "engagement": null,
+    "save": null,
+    "share": null,
+    "comment": null
+  },
+  "sound": {
+    "title": null,
+    "author": null,
+    "original": null,
+    "id": null
+  },
+  "slide_count": 2,
+  "duration": null,
+  "size": {
+    "width": 923,
+    "height": 1149
+  },
+  "labels": {
+    "ad": null,
+    "ai_generated": null,
+    "location": null
+  },
+  "files": {
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg"
+    ]
+  }
+}

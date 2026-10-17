@@ -1,0 +1,403 @@
+{
+ "AIGCDescription": "",
+ "CategoryType": 120,
+ "IsAigc": false,
+ "ShowAIGC": true,
+ "author": {
+  "UserStoryStatus": 0,
+  "avatarLarger": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=26f30b7d&x-expires=1791529200&x-signature=EP8E%2Fzm28jHcz1VQA3kdtNqYtUI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "avatarMedium": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=88a1a3c7&x-expires=1791529200&x-signature=BujfSZgeEfZKfKOziJQkHIVbJ%2FQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "avatarThumb": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/e62b90a9fece9792be76d9647c9a6437~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=4364ad5c&x-expires=1791529200&x-signature=J09Dgie1tthsy%2BlqSZyQFkdQRm8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "canExpPlaylist": false,
+  "commentSetting": 0,
+  "createTime": 1784833949,
+  "downloadSetting": 0,
+  "duetSetting": 0,
+  "ftc": false,
+  "id": "7665803080923350029",
+  "isADVirtual": false,
+  "isEmbedBanned": false,
+  "nickNameModifyTime": 0,
+  "nickname": "75evi.page",
+  "nowInvitationCardUrl": "",
+  "openFavorite": false,
+  "privateAccount": false,
+  "recommendReason": "",
+  "relation": 0,
+  "roomId": "",
+  "secUid": "MS4wLjABAAAAB5KkE31ELrpH8YoD55_wQo80fsYoHyDjmoDeib9rw-9QzqXVl5rtocoQhe_kw47x",
+  "secret": false,
+  "shortDramaCreator": {},
+  "shortId": "",
+  "signature": "let me help you become her 🤍 the 75-day glowup, built around you ↓",
+  "stitchSetting": 0,
+  "suggestAccountBind": false,
+  "ttSeller": false,
+  "uniqueId": "75evi.page",
+  "uniqueIdModifyTime": 0,
+  "verified": false
+ },
+ "authorStats": {
+  "diggCount": 207,
+  "followerCount": 3386,
+  "followingCount": 0,
+  "friendCount": 0,
+  "heart": 206800,
+  "heartCount": 206800,
+  "videoCount": 84
+ },
+ "authorStatsV2": {
+  "diggCount": "207",
+  "followerCount": "3386",
+  "followingCount": "0",
+  "friendCount": "0",
+  "heart": "206800",
+  "heartCount": "206800",
+  "videoCount": "84"
+ },
+ "backendSourceEventTracking": "",
+ "category": "tiktok",
+ "challenges": [
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "1647449706120193",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "waterretention"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "1652151875875846",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "depuff"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "24847",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "flatstomach"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "1162792",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "puffyface"
+  },
+  {
+   "coverLarger": "",
+   "coverMedium": "",
+   "coverThumb": "",
+   "desc": "",
+   "id": "1656089619466245",
+   "profileLarger": "",
+   "profileMedium": "",
+   "profileThumb": "",
+   "title": "wellnessgirl"
+  }
+ ],
+ "channelTags": [],
+ "collected": false,
+ "comments": [],
+ "contents": [
+  {
+   "desc": "if you feel puffy and havent gained anything, eat these. they help you flush the water out link in bio 🤍 #waterretention #depuff #flatstomach #puffyface #wellnessgirl",
+   "textExtra": [
+    {
+     "awemeId": "",
+     "end": 121,
+     "hashtagId": "1647449706120193",
+     "hashtagName": "waterretention",
+     "isCommerce": false,
+     "start": 106,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 129,
+     "hashtagId": "1652151875875846",
+     "hashtagName": "depuff",
+     "isCommerce": false,
+     "start": 122,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 142,
+     "hashtagId": "24847",
+     "hashtagName": "flatstomach",
+     "isCommerce": false,
+     "start": 130,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 153,
+     "hashtagId": "1162792",
+     "hashtagName": "puffyface",
+     "isCommerce": false,
+     "start": 143,
+     "subType": 0,
+     "type": 1
+    },
+    {
+     "awemeId": "",
+     "end": 167,
+     "hashtagId": "1656089619466245",
+     "hashtagName": "wellnessgirl",
+     "isCommerce": false,
+     "start": 154,
+     "subType": 0,
+     "type": 1
+    }
+   ]
+  }
+ ],
+ "createTime": "1790967013",
+ "creatorAIComment": {
+  "categoryList": [],
+  "eligibleVideo": false,
+  "hasAITopic": false,
+  "notEligibleReason": 101
+ },
+ "date": "2026-10-02 18:50:13",
+ "desc": "if you feel puffy and havent gained anything, eat these. they help you flush the water out link in bio 🤍 #waterretention #depuff #flatstomach #puffyface #wellnessgirl",
+ "digged": false,
+ "duetDisplay": 0,
+ "effectStickers": [],
+ "forFriend": false,
+ "id": "7692144626165140749",
+ "imagePost": {
+  "cover": {
+   "imageHeight": 2100,
+   "imageURL": {
+    "urlList": [
+     "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/58c1628564864e639a525c170b960d32~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=dMcbeXhz5l35Mu3I%2BfPWEuhtlHs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+     "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/58c1628564864e639a525c170b960d32~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=LRImxatT%2F96bZJwztngiU0kW0wg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+    ]
+   },
+   "imageWidth": 1680
+  },
+  "images": [
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/58c1628564864e639a525c170b960d32~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=dMcbeXhz5l35Mu3I%2BfPWEuhtlHs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/58c1628564864e639a525c170b960d32~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=LRImxatT%2F96bZJwztngiU0kW0wg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/493a29a3c2224c2c87b6bd0b81ab589c~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=JcroGSDA6j%2F1%2BD4TviFPg46G0y4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/493a29a3c2224c2c87b6bd0b81ab589c~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=O3cXsMWCS%2B1MVyL8rmf66ocjDp8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/b31ed7654f8743c7a58179df1465c2f4~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=UxWaiixx4BMsTvYP9qCmcd8n1lk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/b31ed7654f8743c7a58179df1465c2f4~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=N1%2FciXyiqxcvl%2BqQCKTfW2nkkW4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/6f5e06b854c64e019c2088d867503b21~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=x5PYc7A58i3fFoUctj%2FHAoAat2s%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/6f5e06b854c64e019c2088d867503b21~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=PzhMptaaPFMLU8w7GC5U%2FsTsunM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   },
+   {
+    "imageHeight": 2100,
+    "imageURL": {
+     "urlList": [
+      "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/a881d31b8dde4626b006ac2ae83ff69f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=0OfbNP9R0jqTP%2FyGItFnJdrlauo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+      "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/a881d31b8dde4626b006ac2ae83ff69f~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=m2cb7zzB5HAfvekC2D93eujll1Y%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+     ]
+    },
+    "imageWidth": 1680
+   }
+  ],
+  "shareCover": {
+   "imageHeight": 2100,
+   "imageURL": {
+    "urlList": [
+     "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/58c1628564864e639a525c170b960d32~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=dMcbeXhz5l35Mu3I%2BfPWEuhtlHs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+     "https://p19-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/58c1628564864e639a525c170b960d32~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=LRImxatT%2F96bZJwztngiU0kW0wg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1"
+    ]
+   },
+   "imageWidth": 1680
+  },
+  "title": ""
+ },
+ "indexEnabled": true,
+ "isAd": false,
+ "isProhibited": false,
+ "isReviewing": false,
+ "itemCommentStatus": 0,
+ "item_control": {
+  "can_repost": true
+ },
+ "locationCreated": "US",
+ "music": {
+  "authorName": "par.olive",
+  "collected": false,
+  "coverLarge": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/dc96000fd5f25bcd7d2fd9c402e6d134~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=790ce984&x-expires=1791529200&x-signature=BfCM2WEm%2FkYqF81ld0YrY%2BTkOiA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "coverMedium": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/dc96000fd5f25bcd7d2fd9c402e6d134~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=a4fe462e&x-expires=1791529200&x-signature=YxxqMMmWXTVY%2F%2FZQUxbE%2Ba2o%2Fw8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "coverThumb": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/dc96000fd5f25bcd7d2fd9c402e6d134~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=05cc05c5&x-expires=1791529200&x-signature=1qHHMt%2FKs9Dzt4%2B61iejwrsY%2FLs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=sg1",
+  "duration": 20,
+  "id": "7688911486363552530",
+  "isCopyrighted": false,
+  "is_commerce_music": true,
+  "is_unlimited_music": false,
+  "original": true,
+  "playUrl": "https://v16m.tiktokcdn.com/6c0fded47d65224a1b10c6cd3898948a/6ac745c5/video/tos/alisg/tos-alisg-v-27dcd7/o0CAEoiBA5fA74WAg1k0KCrEEAim0EBWNiAUNw/?a=1180&bti=ODszNWYuMDE6&&bt=125&ft=GcDrcInz7Th3kznGXq8Zmo&mime_type=audio_mpeg&rc=ajVxd3I5cms7ZDMzODU8NEBpajVxd3I5cms7ZDMzODU8NEBpai5wMmRjLW5hLS1kMS1zYSNpai5wMmRjLW5hLS1kMS1zcw%3D%3D&vvpl=1&l=2026100715264136507A874501BE4527A1&btag=e00078000&sp_exp=hash_v0",
+  "preciseDuration": {
+   "preciseAuditionDuration": 20.11425,
+   "preciseDuration": 20.11425,
+   "preciseShootDuration": 20.11425,
+   "preciseVideoDuration": 20.11425
+  },
+  "private": false,
+  "scheduleSearchTime": 0,
+  "shoot_duration": 20,
+  "title": "original sound",
+  "tt2dsp": {
+   "tt_to_dsp_song_infos": []
+  }
+ },
+ "officalItem": false,
+ "originalItem": false,
+ "post_type": "image",
+ "privateItem": false,
+ "scheduleTime": 0,
+ "secret": false,
+ "shareEnabled": true,
+ "stats": {
+  "collectCount": "59",
+  "commentCount": 0,
+  "diggCount": 208,
+  "playCount": 5309,
+  "shareCount": 1
+ },
+ "statsV2": {
+  "collectCount": "59",
+  "commentCount": "0",
+  "diggCount": "208",
+  "playCount": "5309",
+  "repostCount": "0",
+  "shareCount": "1"
+ },
+ "stickersOnItem": [],
+ "stitchDisplay": 0,
+ "subcategory": "post",
+ "suggestedWords": [],
+ "takeDown": 0,
+ "textExtra": [
+  {
+   "awemeId": "",
+   "end": 121,
+   "hashtagId": "1647449706120193",
+   "hashtagName": "waterretention",
+   "isCommerce": false,
+   "start": 106,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 129,
+   "hashtagId": "1652151875875846",
+   "hashtagName": "depuff",
+   "isCommerce": false,
+   "start": 122,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 142,
+   "hashtagId": "24847",
+   "hashtagName": "flatstomach",
+   "isCommerce": false,
+   "start": 130,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 153,
+   "hashtagId": "1162792",
+   "hashtagName": "puffyface",
+   "isCommerce": false,
+   "start": 143,
+   "subType": 0,
+   "type": 1
+  },
+  {
+   "awemeId": "",
+   "end": 167,
+   "hashtagId": "1656089619466245",
+   "hashtagName": "wellnessgirl",
+   "isCommerce": false,
+   "start": 154,
+   "subType": 0,
+   "type": 1
+  }
+ ],
+ "textLanguage": "en",
+ "textTranslatable": true,
+ "titleLanguage": "un",
+ "titleTranslatable": false,
+ "user": "75evi.page",
+ "video": {
+  "cover": "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/58c1628564864e639a525c170b960d32~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=dMcbeXhz5l35Mu3I%2BfPWEuhtlHs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+  "downloadAddr": "",
+  "duration": 0,
+  "dynamicCover": "",
+  "height": 0,
+  "id": "7692144626165140749",
+  "originCover": "https://p16-common-sign.tiktokcdn.com/tos-maliva-i-photomode-us/58c1628564864e639a525c170b960d32~tplv-photomode-image.jpeg?dr=14555&x-expires=1791529200&x-signature=dMcbeXhz5l35Mu3I%2BfPWEuhtlHs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=my3&ftpl=1",
+  "playAddr": "",
+  "ratio": "",
+  "reflowCover": "",
+  "shareCover": [
+   ""
+  ],
+  "width": 0
+ },
+ "warnInfo": []
+}

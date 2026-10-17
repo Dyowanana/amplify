@@ -1,0 +1,23 @@
+{
+  "class": "humans",
+  "confidence": "high",
+  "frame": {
+    "canvas": "9:16, 1080x1920",
+    "layers": [
+      {
+        "type": "photo",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "Nano Banana Pro still, phone finish 0.5"
+      }
+    ]
+  },
+  "n": 5,
+  "role": "proof",
+  "summary": "extreme macro, left cheek with the two moles",
+  "text_blocks": []
+}

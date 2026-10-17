@@ -1,0 +1,63 @@
+{
+  "id": "7693193314174094605",
+  "url": "https://www.tiktok.com/@75evi.page/photo/7693193314174094605",
+  "creator": "75evi.page",
+  "type": "slideshow",
+  "collected_at": "2026-10-07T07:19:25+00:00",
+  "published": {
+    "utc": "2026-10-05T14:39:55+00:00",
+    "local": "2026-10-05T22:39:55+08:00",
+    "timezone": "Asia/Manila",
+    "weekday": "Monday",
+    "hour": 22
+  },
+  "caption": "going every 3 days isnt normal, and its usually these six things link in bio 🤍 #constipation #constipationrelief #healthyhabits #fiber #flatstomach",
+  "hashtags": [
+    "constipation",
+    "constipationrelief",
+    "healthyhabits",
+    "fiber",
+    "flatstomach"
+  ],
+  "mentions": [],
+  "stats": {
+    "views": 45800,
+    "likes": 1518,
+    "comments": 8,
+    "shares": 52,
+    "saves": 357
+  },
+  "rates": {
+    "engagement": 0.0422,
+    "save": 0.0078,
+    "share": 0.0011,
+    "comment": 0.0002
+  },
+  "sound": {
+    "title": "original sound",
+    "author": "𐔌 . ⋮ em .ᐟ ֹ ₊ ꒱",
+    "original": true,
+    "id": "7690277995151444750"
+  },
+  "slide_count": 5,
+  "duration": null,
+  "size": {
+    "width": 1680,
+    "height": 2100
+  },
+  "labels": {
+    "ad": false,
+    "ai_generated": false,
+    "location": "US"
+  },
+  "files": {
+    "sound": "sound.mp3",
+    "slides": [
+      "slides/01.jpg",
+      "slides/02.jpg",
+      "slides/03.jpg",
+      "slides/04.jpg",
+      "slides/05.jpg"
+    ]
+  }
+}

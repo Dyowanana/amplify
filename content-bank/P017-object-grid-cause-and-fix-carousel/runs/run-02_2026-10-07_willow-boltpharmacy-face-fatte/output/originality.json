@@ -1,0 +1,157 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "words": 51,
+      "raw_overlap_max": 0.25,
+      "raw_overlap_post": "7690612461413682445",
+      "shared_words_with_that_post": [
+        "a",
+        "and",
+        "face",
+        "from",
+        "it",
+        "night",
+        "puffy",
+        "shows",
+        "the",
+        "up",
+        "why",
+        "you",
+        "your"
+      ],
+      "content_overlap_max": 0.1,
+      "longest_shared_run_words": 3,
+      "longest_shared_run": "why your face",
+      "longest_run_source": "7690612461413682445: why your face is puffy after the weekend",
+      "status": "pass"
+    },
+    {
+      "slide": 2,
+      "words": 35,
+      "raw_overlap_max": 0.2,
+      "raw_overlap_post": "7692144626165140749",
+      "shared_words_with_that_post": [
+        "and",
+        "it",
+        "no",
+        "potassium",
+        "salt",
+        "the",
+        "you"
+      ],
+      "content_overlap_max": 0.07,
+      "longest_shared_run_words": 2,
+      "longest_shared_run": "the salt",
+      "longest_run_source": "7690992255070457102: where the salt hides",
+      "status": "pass"
+    },
+    {
+      "slide": 3,
+      "words": 46,
+      "raw_overlap_max": 0.2,
+      "raw_overlap_post": "7691800955355974925",
+      "shared_words_with_that_post": [
+        "a",
+        "face",
+        "for",
+        "not",
+        "puffy",
+        "the",
+        "up",
+        "you",
+        "your"
+      ],
+      "content_overlap_max": 0.14,
+      "longest_shared_run_words": 2,
+      "longest_shared_run": "a bit",
+      "longest_run_source": "7691390576863890701: your body needs a bit more that week and your magnesium drop",
+      "status": "pass"
+    },
+    {
+      "slide": 4,
+      "words": 57,
+      "raw_overlap_max": 0.21,
+      "raw_overlap_post": "7690676197172301070",
+      "shared_words_with_that_post": [
+        "a",
+        "and",
+        "face",
+        "in",
+        "it",
+        "night",
+        "overnight",
+        "salt",
+        "the",
+        "up",
+        "you",
+        "your"
+      ],
+      "content_overlap_max": 0.1,
+      "longest_shared_run_words": 2,
+      "longest_shared_run": "your face",
+      "longest_run_source": "7690612461413682445: what you did on saturday shows up on your face on monday. he",
+      "status": "pass"
+    },
+    {
+      "slide": 5,
+      "words": 10,
+      "raw_overlap_max": 0.2,
+      "raw_overlap_post": "7690612461413682445",
+      "shared_words_with_that_post": [
+        "bio",
+        "face"
+      ],
+      "content_overlap_max": 0.2,
+      "longest_shared_run_words": 1,
+      "longest_shared_run": "face",
+      "longest_run_source": "7690612461413682445: what you did on saturday shows up on your face on monday. he",
+      "status": "pass"
+    }
+  ],
+  "hook": {
+    "words": [
+      "are",
+      "face",
+      "fatter",
+      "looks",
+      "than",
+      "why",
+      "you",
+      "your"
+    ],
+    "overlap_by_source": {
+      "7690612461413682445": 0.5,
+      "7690676197172301070": 0.5,
+      "7690937378713636109": 0.38,
+      "7690992255070457102": 0.38,
+      "7691048195962588429": 0.38,
+      "7691323983999945997": 0.38,
+      "7691390576863890701": 0.38,
+      "7691440544387452173": 0.38,
+      "7691740036496248077": 0.38,
+      "7691800955355974925": 0.5,
+      "7692083586429635853": 0.38,
+      "7692144626165140749": 0.38,
+      "7692484130398965006": 0.5,
+      "7692558103518153998": 0.38,
+      "7692837178694438157": 0.38,
+      "7692882539823893774": 0.38,
+      "7693193314174094605": 0.38,
+      "7693275909364731150": 0.38,
+      "7693557942901132557": 0.5,
+      "7693615185168289037": 0.38
+    },
+    "max": 0.5,
+    "status": "FAIL"
+  },
+  "images": {
+    "min_hash_distance": 11,
+    "closest_pair": "slide1.png ~ 7690612461413682445/03.jpg",
+    "near_duplicate_threshold": 10,
+    "status": "pass",
+    "source_blue_share_in_sources_mean": 0.0,
+    "source_blue_share_in_ours_mean": 0.0011
+  },
+  "verdict": "FAIL"
+}

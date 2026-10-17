@@ -1,0 +1,69 @@
+{
+  "post": "7688365608508919047",
+  "type": "slideshow",
+  "fingerprint": {
+    "structure": "2 slides: cover (\"tier list of\" + a vivid hero image + the big topic word) → filled tier chart (S+ A B C D, a gap with a plus, then F) with a challenge title and a bio CTA",
+    "hook": "topic tier list cover ('tier list of [topic]') with an eye-catching false-colour hero image; slide 2 adds a challenge title ('prove me wrong') that invites disagreement in the comments",
+    "camera_motion": "other:tier-chart-card. Designed cards on a flat pale grey-green background (#EDF2EB), no people filmed; the cells carry mixed cut-out icons (photoreal object cut-outs, glossy 3D emoji-style icons and a few flat black glyphs), multiply-flat on the card, no drop shadows",
+    "pacing": "slideshow, 2 slides. Cover: 3 text lines. Chart: 22 cells, each a cut-out icon with a 1 to 3 word label, plus a tiny tagline under each tier letter",
+    "text_overlay": "one thin grotesque (closest Helvetica Neue Light / Inter Light), black #111, mostly lowercase (the topic word on the cover is capitalised). Cover: 'tier list of' about 10% of the height, topic word about 9%, sub word about 6%. Chart: title about 6% top-left, cell labels about 2.2% centred under each icon, tier letters about 5.5%, tier taglines about 1.3%",
+    "audio": "trending song, 'Retake (Slowed)' by gabriawll (not the creator's)",
+    "arc": "topic reveal → opinionated ranking → the viewer disagrees and comments (an F-tier cell 'your option (comment)' asks for it), then the bio plug",
+    "slides_geometry": "chart table x 7.6% to 85.4% of the width, letter column 7.6% to 22%; 5 rows from 17.5% to 73.2% of the height (about 11.1% each), a plus sign in the gap, F row 78.9% to 90%; 1.5 px black border lines; 4 cells per row"
+  },
+  "units": [
+    {
+      "n": 1, "role": "hook", "confidence": "high", "class": "other:tier-chart-card",
+      "frame": {
+        "canvas": "4:5 portrait, 1080x1358",
+        "layers": [
+          {"type": "background", "box": [0, 0, 100, 100], "note": "flat #EDF2EB"},
+          {"type": "hero cut-out", "box": [20, 25, 60, 35], "note": "false-colour scan of the topic's core object (a brain), neon blue pink green yellow, white outline"},
+          {"type": "line glyph", "box": [10, 82, 33, 12], "note": "black line drawing (molecule) with round nodes, bottom-left"},
+          {"type": "3D icon", "box": [71, 82, 14, 12], "note": "glossy 3D object (flask), bottom-right"}
+        ],
+        "composition": {"focal": [50, 42], "subject_box": [20, 25, 60, 35], "zone": "middle-center", "balance": "centred stack, two small corner objects balance the bottom"}
+      },
+      "text_blocks": [
+        {"text": "tier list of", "origin": "overlay", "role": "hook", "pattern": "top-headline", "box": [22, 12, 56, 10], "zone": "top-center", "align": "center", "font": "Helvetica Neue Light (closest Inter Light)", "size_pct": 10, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"},
+        {"text": "Dopamine", "origin": "overlay", "role": "headline", "pattern": "center-block", "box": [21, 61, 56, 9], "zone": "middle-center", "align": "center", "font": "Helvetica Neue Light", "size_pct": 9, "case": "Sentence case", "fill": "#111111", "stroke": "none", "under": "negative-space"},
+        {"text": "sources", "origin": "overlay", "role": "subheading", "pattern": "center-block", "box": [36, 71, 28, 6], "zone": "bottom-center", "align": "center", "font": "Helvetica Neue Light", "size_pct": 6, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"},
+        {"text": "@mentalapp / pt2", "origin": "mark", "role": "watermark", "pattern": "small marks", "box": [42, 60, 16, 2], "zone": "middle-center", "align": "center", "font": "Helvetica Neue Light", "size_pct": 2, "case": "lowercase", "fill": "#8a8a8a", "stroke": "none", "under": "negative-space"}
+      ],
+      "other": {
+        "what": "a cover card naming the tier list topic",
+        "why_it_works": "the false-colour hero is loud against the quiet grey card, so it stops the scroll; 'tier list of' promises an opinion to argue with",
+        "fixed": "flat pale card, thin black grotesque, one vivid hero cut-out, two small corner objects"
+      }
+    },
+    {
+      "n": 2, "role": "body", "confidence": "high", "class": "other:tier-chart-card",
+      "frame": {
+        "canvas": "4:5 portrait, 1080x1350",
+        "layers": [
+          {"type": "background", "box": [0, 0, 100, 100], "note": "flat #EDF2EB"},
+          {"type": "tier table", "box": [7.6, 17.5, 77.8, 55.7], "note": "5 rows, letter cells filled red #FB0200, orange #FDA13C, light orange #FADC7C, yellow #FFFD68, light green #BDFD85; black hairline grid"},
+          {"type": "plus glyph", "box": [12, 74.5, 5, 4], "note": "a black plus between the main table and the F row"},
+          {"type": "F row", "box": [7.6, 78.9, 77.8, 11.1], "note": "periwinkle #8685ED letter cell"},
+          {"type": "icons", "box": [23, 18, 62, 72], "note": "22 cut-outs: photoreal objects (food, cash, trophy, passport, frying pan, glass of water), glossy 3D icons (weather cloud, 3D app tile), black glyphs (game controller, dice, prohibition sign, silhouettes, a big question mark)"}
+        ],
+        "composition": {"subject_box": [7.6, 17.5, 77.8, 72.5], "zone": "middle-center", "balance": "table hugs the left with an empty right margin (about 15%)"}
+      },
+      "text_blocks": [
+        {"text": "prove me wrong", "origin": "overlay", "role": "hook", "pattern": "top-headline", "box": [10, 7, 53, 6], "zone": "top-left", "align": "left", "font": "Helvetica Neue Light (closest Inter Light)", "size_pct": 6.3, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"},
+        {"text": "S+ / A / B / C / D / F", "origin": "overlay", "role": "label", "pattern": "tier letters", "box": [11, 21, 8, 66], "zone": "middle-left", "align": "center", "font": "Helvetica Neue Light", "size_pct": 5.5, "case": "caps", "fill": "#111111", "stroke": "none", "under": "colour cell"},
+        {"text": "real, earned, lasts / strong, still earned / solid, mild / neutral, fine / cheap, mostly harmless / absolutely useless / bad practice", "origin": "overlay", "role": "body", "pattern": "tier taglines", "box": [8, 27, 14, 62], "zone": "middle-left", "align": "center", "font": "Helvetica Neue Light", "size_pct": 1.3, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "colour cell"},
+        {"text": "tasty food … your option (comment)", "origin": "overlay", "role": "label", "pattern": "grid-labels", "box": [23, 25, 62, 65], "zone": "middle-center", "align": "center", "font": "Helvetica Neue Light", "size_pct": 2.2, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"},
+        {"text": "check bio instead", "origin": "overlay", "role": "cta", "pattern": "bottom-left", "box": [11, 93.5, 31, 4], "zone": "bottom-left", "align": "left", "font": "Helvetica Neue Light", "size_pct": 3.8, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"},
+        {"text": "@mentalapp", "origin": "mark", "role": "watermark", "pattern": "corner-mark", "box": [72.5, 94.5, 13, 2.5], "zone": "bottom-right", "align": "right", "font": "Helvetica Neue Light", "size_pct": 2, "case": "lowercase", "fill": "#111111", "stroke": "none", "under": "negative-space"}
+      ]
+    }
+  ],
+  "product": "the creator's own app, plugged three ways: an A-tier cell 'seeing progress (check bio)', the closing line 'check bio instead', and the caption",
+  "proof_device": "none",
+  "series": "part 2 ('pt2' on the cover, 'little bit of changes from part 1' in the caption)",
+  "caption": "one casual line about what changed since part 1, the topic name, 'check bio instead', then hashtags",
+  "hashtags": "5: topic tags plus a niche tag (#mentalmaxxing)",
+  "topic": "self-improvement / dopamine habits",
+  "language": "English, lowercase, opinionated, second person only in the CTA"
+}

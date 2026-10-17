@@ -1,0 +1,81 @@
+{
+  "n": 2,
+  "role": "body: the game has changed",
+  "class": "other:meme-cutout-text-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #ee7f3b"
+      },
+      {
+        "type": "cutout",
+        "box": [
+          0.0,
+          40.3,
+          100.0,
+          59.7
+        ],
+        "note": "older man in a tweed blazer lowering a newspaper in shock; grainy black and white; white sticker outline; generated on green, keyed in code"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        0.0,
+        40.3,
+        100.0,
+        59.7
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "the game has changed",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "top-headline",
+      "box": [
+        12.8,
+        13.6,
+        36.8,
+        2.5
+      ],
+      "zone": "top-left",
+      "align": "left",
+      "font": "Inter Bold",
+      "size_pct": 2.7,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "a few years back, building was the hard part.\nif you could ship an app, you were ahead.\n\nnow ai writes the code.\nanyone can launch the same thing in a weekend.\n\nthe edge moved. it's not the app anymore.\nit's who actually sees it.",
+      "origin": "designed",
+      "role": "body",
+      "pattern": "stacked-paragraphs",
+      "box": [
+        12.8,
+        20.0,
+        66.0,
+        18.3
+      ],
+      "zone": "top-center",
+      "align": "left",
+      "font": "DejaVu Sans Mono (Space Mono stand-in)",
+      "size_pct": 1.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "n": 1,
+  "role": "hook",
+  "class": "other:tier-chart-card",
+  "confidence": "high",
+  "summary": "cover: tier list of moneymaxxing with ecommerce",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card colour #feede1"
+      },
+      {
+        "type": "hero cut-out",
+        "box": [
+          17.0,
+          26.0,
+          66.0,
+          34.0
+        ],
+        "note": "false-colour scan of the topic's core object, thin white outline"
+      },
+      {
+        "type": "line glyph",
+        "box": [
+          9.4,
+          82.8,
+          34.1,
+          13.0
+        ],
+        "note": "black rising chart line with round end nodes, bottom-left"
+      },
+      {
+        "type": "3D icon",
+        "box": [
+          70.6,
+          82.5,
+          13.7,
+          13.0
+        ],
+        "note": "glossy 3D object, bottom-right"
+      }
+    ],
+    "composition": {
+      "subject_box": [
+        17.0,
+        26.0,
+        66.0,
+        34.0
+      ]
+    }
+  },
+  "text_blocks": [
+    {
+      "text": "tier list of",
+      "origin": "designed",
+      "role": "hook",
+      "pattern": "top-headline",
+      "box": [
+        24.4,
+        12.5,
+        51.2,
+        9.3
+      ],
+      "zone": "top-center",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 12.6,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "moneymaxxing",
+      "origin": "designed",
+      "role": "headline",
+      "pattern": "center-block",
+      "box": [
+        8.6,
+        61.9,
+        82.8,
+        10.0
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 10.8,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "with ecommerce",
+      "origin": "designed",
+      "role": "subheading",
+      "pattern": "center-block",
+      "box": [
+        21.7,
+        70.8,
+        56.6,
+        5.1
+      ],
+      "zone": "bottom-center",
+      "align": "center",
+      "font": "Inter Light (Helvetica Neue Light stand-in)",
+      "size_pct": 6.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}

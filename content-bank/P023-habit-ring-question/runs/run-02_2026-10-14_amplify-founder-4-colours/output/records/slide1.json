@@ -1,0 +1,458 @@
+{
+  "n": 1,
+  "role": "hook",
+  "class": "other:habit-ring-card",
+  "confidence": "high",
+  "frame": {
+    "canvas": "4:5 portrait, 1080x1350",
+    "layers": [
+      {
+        "type": "background",
+        "box": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "note": "flat card #ebf1ea"
+      },
+      {
+        "type": "centre-image",
+        "box": [
+          24.0,
+          40.7,
+          52.0,
+          45.7
+        ],
+        "note": "translucent violet glowing figure floating cross-legged with a laptop on its knees"
+      },
+      {
+        "type": "photo-cutout",
+        "box": [
+          5.0,
+          3.0,
+          17.0,
+          10.0
+        ],
+        "note": "macbook"
+      },
+      {
+        "type": "photo-cutout",
+        "box": [
+          34.5,
+          1.5,
+          6.9,
+          12.0
+        ],
+        "note": "matcha"
+      },
+      {
+        "type": "meme-cutout",
+        "box": [
+          56.0,
+          1.6,
+          15.0,
+          11.9
+        ],
+        "note": "screaming hairless cat, old flash photo meme look"
+      },
+      {
+        "type": "photo-cutout",
+        "box": [
+          80.6,
+          2.5,
+          12.8,
+          10.5
+        ],
+        "note": "moon"
+      },
+      {
+        "type": "pictogram",
+        "box": [
+          9.8,
+          20.0,
+          9.4,
+          7.5
+        ],
+        "note": "drawn in code: black bell under a red prohibition sign"
+      },
+      {
+        "type": "photo-cutout",
+        "box": [
+          7.5,
+          36.5,
+          14.1,
+          6.0
+        ],
+        "note": "keyboard"
+      },
+      {
+        "type": "meme-cutout",
+        "box": [
+          8.9,
+          50.5,
+          10.1,
+          10.5
+        ],
+        "note": "fictional man in a 90s office film still, fists up, shouting with joy"
+      },
+      {
+        "type": "app-icon",
+        "box": [
+          9.8,
+          67.5,
+          9.4,
+          7.5
+        ],
+        "note": "the brand's real app icon, rounded tile"
+      },
+      {
+        "type": "photo-cutout",
+        "box": [
+          7.5,
+          86.5,
+          13.0,
+          6.5
+        ],
+        "note": "grass"
+      },
+      {
+        "type": "pictogram",
+        "box": [
+          81.0,
+          22.3,
+          13.0,
+          5.4
+        ],
+        "note": "drawn in code: flat black battery with a white bolt"
+      },
+      {
+        "type": "pictogram",
+        "box": [
+          82.5,
+          36.0,
+          10.0,
+          8.0
+        ],
+        "note": "drawn in code: outlined tile with a >_ prompt, element-tile style"
+      },
+      {
+        "type": "pictogram",
+        "box": [
+          83.0,
+          53.1,
+          9.0,
+          7.2
+        ],
+        "note": "drawn in code: black circle with a white tick"
+      },
+      {
+        "type": "photo-cutout",
+        "box": [
+          83.1,
+          69.0,
+          8.8,
+          9.0
+        ],
+        "note": "headphones"
+      },
+      {
+        "type": "pictogram",
+        "box": [
+          81.5,
+          87.0,
+          11.9,
+          6.0
+        ],
+        "note": "drawn in code: flat black bed, side view"
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "macbook",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        6.1,
+        15.0,
+        14.8,
+        2.2
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "iced matcha",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        28.3,
+        15.0,
+        19.3,
+        2.2
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "0 meetings",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        54.7,
+        15.0,
+        17.5,
+        2.2
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "dark mode",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        78.5,
+        15.0,
+        17.0,
+        2.2
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "notifications off",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        5.1,
+        28.9,
+        18.9,
+        5.0
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "clicky keyboard",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        7.0,
+        43.9,
+        15.0,
+        5.0
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "new user",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        6.6,
+        62.4,
+        14.8,
+        2.2
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "automated content (check bio)",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        5.7,
+        76.4,
+        17.6,
+        7.9
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "touched grass",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        2.7,
+        94.4,
+        22.6,
+        2.2
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "credit reset",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        83.1,
+        29.1,
+        8.9,
+        5.0
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "10k lines shipped",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        80.8,
+        45.4,
+        13.4,
+        5.0
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "first try deploy",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        82.1,
+        61.7,
+        10.8,
+        5.0
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "lofi on loop",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        82.6,
+        79.4,
+        9.7,
+        5.0
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "8h+ sleep",
+      "origin": "overlay",
+      "role": "label",
+      "pattern": "item-label",
+      "box": [
+        79.6,
+        94.4,
+        15.8,
+        2.2
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 2.9,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    },
+    {
+      "text": "why does today\nfeel illegal?",
+      "origin": "overlay",
+      "role": "hook",
+      "pattern": "center-block",
+      "box": [
+        26.9,
+        21.0,
+        46.1,
+        9.4
+      ],
+      "align": "center",
+      "font": "Helvetica Neue Light look (Inter 300, tight tracking) Light",
+      "size_pct": 5.4,
+      "case": "lowercase",
+      "fill": "#111111",
+      "stroke": "none",
+      "under": "negative-space"
+    }
+  ]
+}
